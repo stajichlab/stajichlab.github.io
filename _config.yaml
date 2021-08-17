@@ -10,12 +10,12 @@ baseurl: /lab-website-template
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: jason.stajich@ucr.edu
+  google-scholar: Jason Stajich
+  github: stajichlab
+  twitter: stajichlab
+  instagram: stajichlab
+  youtube: stajichlab
 
 # automatic citations
 auto-cite:
