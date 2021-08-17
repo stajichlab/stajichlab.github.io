@@ -22,7 +22,7 @@ nav:
 {:.center}
 
 ## <i class="fas fa-video"></i>Videos
-Jesús Peña introduces his research on sexual reproduction in the zygomycete fungi in the lab through a new video as part of the UCR Microbiology Graduate Ambassador. Have a watch and learn more about the research Jesús is working on.
+Jesus Pena introduces his research on sexual reproduction in the zygomycete fungi in the lab through a new video as part of the UCR Microbiology Graduate Ambassador. Have a watch and learn more about the research Jesús is working on.
 {:.center}
 {% capture html %}
 <!-- YouTube embed. Go to a video, click share, then embed. -->
