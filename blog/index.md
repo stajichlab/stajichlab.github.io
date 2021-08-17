@@ -29,8 +29,6 @@ Jesus Pena introduces his research on sexual reproduction in the zygomycete fung
 <iframe width="560" height="315" src="https://www.youtube.com/embed/okdpZFn-C5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endcapture %}
 
-{% include centerer.html html=html %}
-
 ## <i class="fas fa-newspaper"></i>Blog
 
 {% include blog-list.html %}
@@ -38,6 +36,5 @@ Jesus Pena introduces his research on sexual reproduction in the zygomycete fung
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
 <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/stajichlab?lang=en">Tweets by StajichLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 # <i class="fas fa-feather-alt"></i>Blog
