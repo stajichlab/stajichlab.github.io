@@ -7,37 +7,18 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Stajich Lab asks questions about how microbes interact with a focus on Fungi. We use genomics, bioinformatics, and experimental mycology approaches to test evolutionary, molecular, and ecological questions.
 
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
-%}
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include link.html
@@ -50,6 +31,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
+## Alumni
+
+These are past lab members who have moved on in their careers.
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
+
 ## Funding
 
 Our work is made possible by funding from several organizations.
@@ -59,27 +50,31 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/nsf.png"
+  link1="https://nsf.gov/"
+  tooltip1="National Science Foundation"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/moore.png"
+  link2="https://moore.org/"
+  tooltip2="Gordon and Betty Moore Foundation"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/sloan.png"
+  link3="https://sloan.org/"
+  tooltip3="Alfred P Sloan Foundation"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
+  image4="images/NIH.svg"
+  link4="https://nih.gov/"
+  tooltip4="National Institutes of Health"
 
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
+  image5="images/cifar.png"
+  link5="https://cifar.ca/"
+  tooltip5="CIFAR"
 
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  image6="images/cdfa.gif"
+  link6="https://cdfa.ca.gov/"
+  tooltip6="California Department of Food & Agriculture"
+
+  image7="images/USDA.png"
+  link7="https://nifa.usda.gov/"
+  tooltip7="National Institute of Food and Agriculture; US Department of Agriculture"
 %}
