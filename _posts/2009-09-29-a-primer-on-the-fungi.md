@@ -1,0 +1,10 @@
+---
+layout: post
+title: A primer on the Fungi
+wordpress_id: 222
+wordpress_url: http://stajichlab.fungalgenomes.org/home/?p=222
+categories: []
+tags: []
+---
+Our [primer on the Fungi ](http://dx.doi.org/10.1016/j.cub.2009.07.004)is available (currently free) on the [Current Biology website](http://www.cell.com/current-biology/retrieve/pii/S0960982209013827).  A version with extra refs inserted is available in [pre-print format here](http://stajichlab.fungalgenomes.org/data/Stajich_CurrentBiol_2009/FungalPrimer_CurrBiol_090821_LongRef.pdf). In this primer we provide a broad overview of the major evolutionary defined groups within Fungal kingdom. Our intention is make the kingdom a little less mysterious for non-mycologists and introduce some open areas of research that require integrating evolutionary, morphological, and molecular research. This was joint work with [Mary Berbee](http://www.botany.ubc.ca/berbee/), [Meredith Blackwell](http://www.biology.lsu.edu/faculty_listings/fac_pages/mblackwell.html), [David Hibbett](http://www.clarku.edu/faculty/dhibbett/), [Tim James](http://www.umich.edu/~mycology/), [Joey Spatafora](http://spatafora.science.oregonstate.edu/node/view/35), &amp; [John Taylor](http://pmb.berkeley.edu/~taylor/).Also thanks to several people for access to images: [Jeffrey Rollins](http://plantpath.ifas.ufl.edu/People/Faculty/Rollins/Rollins.htm), [Sabine Huhndorf](http://fm1.fieldmuseum.org/aa/staff_page.cgi?staff=huhndorf), [David McLaughlin](http://biosci.umn.edu/plantbio/faculty/McLaughlinDavid/) &amp; lab,[ George L Barron](http://www.envbio.uoguelph.ca/f_barron.shtml), [Greg Jedd](http://www.tll.org.sg/gregory.asp) and [Michelle Momany](http://www.plantbio.uga.edu/~momany/momany.html).
+ 

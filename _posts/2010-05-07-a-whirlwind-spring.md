@@ -1,0 +1,9 @@
+---
+layout: post
+title: A whirlwind spring
+wordpress_id: 382
+wordpress_url: http://lab.stajich.org/home/?p=382
+categories: []
+tags: []
+---
+Spring is flying along. We've been presenting some of our work at conferences and getting ready for a full summer of meetings and Divya preparing for her qualifying exam.A few papers have come out or are now accepted. One I'll highlight here is the publication of the _[Sordaria macrospora](http://dx.doi.org/10.1371/journal.pgen.1000891)_[ genome](http://dx.doi.org/10.1371/journal.pgen.1000891).  This was a fun collaboration with groups in Germany, France, Oregon State, and Edinburgh where we sequenced Sordaria with 454 and Illumina sequence and assembled the genome using de novo assembler and comparative scaffolding to the available _Neurospora_ genomes.  _Sordaria_ is an important model system for sexual development and provides a great evolutionary not-too-distant outgroup to the _Neurospora_ clade for evolutionary genomic analyses we are trying to finish off.Also have had a chance to interact with colleagues at the [JGI User meeting](http://www.jgi.doe.gov/meetings/usermeeting/), the [Neurospora conference](http://www.fgsc.net/asil2010/neurospora_2010.htm), and a special treat of speaking at the [PBoFF symposium](http://pboff.tamu.edu/Site/Welcome.html) at Texas A&amp;M.Everyone is getting their projects underway in the lab and we've had two visitors come to work on _Neurospora_ and _Chytrid_ genome project analyses so a busy but exciting time for us.Several more weeks left in the quarter where I'm teaching introductory biology and  then the [Gordon Conference](http://www.grc.org/programs.aspx?year=2010&program=fungal), [MSA](http://www.ca.uky.edu/msaisefg/), and [IMC9](http://www.imc9.info/) will be conferences to finish preparing for.  The lab will also be represented at [Evolution meetings](http://www.evolutionsociety.org/SSE2010/) in Portland as John attending.
