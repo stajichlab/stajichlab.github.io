@@ -1,14 +1,11 @@
-- id: doi:10.1038/ng796
-  date: 2002-1-1
+- id: pubmed:11743579
   tags:
     - human genetics
 
-- id: doi:10.1101/gr.403602
-  date: 2002-10-1
+- id: pubmed:12368253
   tags:
     - tools
 
-- id: doi:10.1101/gr.361602
-  date: 2002-10-1
+- id: pubmed:12368254
   tags:
     - tools
