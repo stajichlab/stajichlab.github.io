@@ -1,43 +1,73 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1038/ng796
+- id: pubmed:11743579
   title: Ganglioside-induced differentiation-associated protein-1 is mutant in Charcot-Marie-Tooth
-    disease type 4A/8q21
+    disease type 4A/8q21.
   authors:
-  - Rachel V. Baxter
+  - Rachel V Baxter
   - Kamel Ben Othmane
-  - Julie M. Rochelle
-  - Jason E. Stajich
+  - Julie M Rochelle
+  - Jason E Stajich
   - Christine Hulette
   - Susan Dew-Knight
   - Faycal Hentati
   - Mongi Ben Hamida
-  - S. Bel
-  - Judy E. Stenger
-  - John R. Gilbert
-  - Margaret A. Pericak-Vance
-  - Jeffery M. Vance
-  publisher: Nature Genetics
-  date: '2002-01-01'
-  link: https://doi.org/cf2nb3
+  - S Bel
+  - Judy E Stenger
+  - John R Gilbert
+  - Margaret A Pericak-Vance
+  - Jeffery M Vance
+  publisher: Nature genetics
+  date: '2001-12-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11743579
   tags:
   - human genetics
-- id: doi:10.1101/gr.403602
-  title: 'The Generic Genome Browser: A Building Block for a Model Organism System
-    Database'
+- id: pubmed:12368253
+  title: 'The generic genome browser: a building block for a model organism system
+    database.'
   authors:
-  - L. D. Stein
-  publisher: Genome Research
+  - Lincoln D Stein
+  - Christopher Mungall
+  - ShengQiang Shu
+  - Michael Caudy
+  - Marco Mangone
+  - Allen Day
+  - Elizabeth Nickerson
+  - Jason E Stajich
+  - Todd W Harris
+  - Adrian Arva
+  - Suzanna Lewis
+  publisher: Genome research
   date: '2002-10-01'
-  link: https://doi.org/d63qrb
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12368253
   tags:
   - tools
-- id: doi:10.1101/gr.361602
-  title: 'The Bioperl Toolkit: Perl Modules for the Life Sciences'
+- id: pubmed:12368254
+  title: 'The Bioperl toolkit: Perl modules for the life sciences.'
   authors:
-  - J. E. Stajich
-  publisher: Genome Research
+  - Jason E Stajich
+  - David Block
+  - Kris Boulez
+  - Steven E Brenner
+  - Stephen A Chervitz
+  - Chris Dagdigian
+  - Georg Fuellen
+  - James G R Gilbert
+  - Ian Korf
+  - Hilmar Lapp
+  - "Heikki Lehv\xE4slaiho"
+  - Chad Matsalla
+  - Chris J Mungall
+  - Brian I Osborne
+  - Matthew R Pocock
+  - Peter Schattner
+  - Martin Senger
+  - Lincoln D Stein
+  - Elia Stupka
+  - Mark D Wilkinson
+  - Ewan Birney
+  publisher: Genome research
   date: '2002-10-01'
-  link: https://doi.org/f7q
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12368254
   tags:
   - tools
