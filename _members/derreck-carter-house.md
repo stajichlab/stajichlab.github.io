@@ -5,7 +5,7 @@ search:
   - D Carter-House
 role: phd
 group: alum
-image: images/Derreck.jpg
+image: images/members/Derreck.jpg
 #website: 
 #email: 
 #google: 
