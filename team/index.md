@@ -11,11 +11,11 @@ The Stajich Lab asks questions about how microbes interact with a focus on Fungi
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi, current: " %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, current: " %}
-{% include list.html data="members" component="portrait" filters="role: phd, current: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, current: " %}
-
+{% include list.html data="members" component="portrait" filters="role: pi, group: current " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: staff, group: current: " %}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
@@ -54,7 +54,7 @@ Our work is made possible by funding from several organizations.
   link1="https://nsf.gov/"
   tooltip1="National Science Foundation"
 
-  image2="images/moore.png"
+  image2="images/320px-Moore_Foundation_Logo.jpg"
   link2="https://moore.org/"
   tooltip2="Gordon and Betty Moore Foundation"
 
@@ -66,7 +66,7 @@ Our work is made possible by funding from several organizations.
   link4="https://nih.gov/"
   tooltip4="National Institutes of Health"
 
-  image5="images/cifar.png"
+  image5="images/CIFAR-logo-2020-RGB.svg"
   link5="https://cifar.ca/"
   tooltip5="CIFAR"
 
@@ -74,7 +74,7 @@ Our work is made possible by funding from several organizations.
   link6="https://cdfa.ca.gov/"
   tooltip6="California Department of Food & Agriculture"
 
-  image7="images/USDA.png"
+  image7="images/USDA.svg"
   link7="https://nifa.usda.gov/"
   tooltip7="National Institute of Food and Agriculture; US Department of Agriculture"
 %}
