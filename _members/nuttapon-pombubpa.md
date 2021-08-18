@@ -6,7 +6,7 @@ search:
   - N Pombubpa
   - Pombubpa
 role: phd
-group: alumni
+group: alum
 image: images/members/Pombubpa.jpg
 website: https://natpombubpa.github.io/
 email: npomb001@ucr.edu

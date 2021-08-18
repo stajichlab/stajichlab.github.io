@@ -6,7 +6,7 @@ search:
   - O Valencia
   - Valencia
 role: staff
-group: current
+group: alum
 image: images/members/omar-valencia.jpeg
 website: https://github.com/omarval626
 email: omarval626@gmail.com

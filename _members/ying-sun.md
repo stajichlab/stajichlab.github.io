@@ -4,7 +4,7 @@ search:
   - Y. Sun
   - Y Sun
 role: postdoc
-group: alumni
+group: alum
 image: images/members/ying-sun.jpg
 #website: 
 #email: 

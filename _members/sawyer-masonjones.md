@@ -4,7 +4,7 @@ search:
   - S. Masonjones
   - S Masonjones
 role: phd
-group: alumni
+group: alum
 image: images/members/Sawyer.jpg
 #website: 
 #email: 
