@@ -1746,7 +1746,10 @@
   date: '2018-06-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30008702
   tags:
-  - unclassified
+  - Antarctica
+  - ITS
+  - fungi
+  - endoliths
 - id: pmid:29865244
   title: Sun Exposure Shapes Functional Grouping of Fungi in Cryptoendolithic Antarctic
     Communities.
@@ -1761,7 +1764,9 @@
   date: '2018-06-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29865244
   tags:
-  - unclassified
+  - Antarctica
+  - fungi
+  - ITS
 - id: pmid:29764946
   title: Comparative Genomics Reveals the Core Gene Toolbox for the Fungus-Insect
     Symbiosis.
@@ -1776,7 +1781,9 @@
   date: '2018-05-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29764946
   tags:
-  - unclassified
+  - comparative genomics
+  - insect fungal interactions
+  - symbiosis
 - id: pmid:29764372
   title: Genomic evidence for intraspecific hybridization in a clonal and extremely
     halotolerant yeast.
@@ -1790,7 +1797,11 @@
   date: '2018-05-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29764372
   tags:
-  - unclassified
+  - population genomics
+  - black yeast
+  - extremophile
+  - halotolerance
+  - Hortaea
 - id: pmid:29739910
   title: 'Comparative Population Genomics Analysis of the Mammalian Fungal Pathogen '
   authors:
@@ -1814,7 +1825,8 @@
   date: '2018-05-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29739910
   tags:
-  - unclassified
+  - Pneumocystis
+  - comparative genomics
 - id: pmid:29675967
   title: Shrub range expansion alters diversity and distribution of soil fungal communities
     across an alpine elevation gradient.
@@ -1828,7 +1840,9 @@
   date: '2018-05-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29675967
   tags:
-  - unclassified
+  - ITS
+  - molecular ecology
+  - soil microbiome
 - id: pmid:29674435
   title: 'Phylogenetic and Phylogenomic Definition of '
   authors:
@@ -1856,7 +1870,9 @@
   date: '2018-05-31'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29674435
   tags:
-  - unclassified
+  - Rhizopus
+  - systematics
+  - phylogenomics
 - id: pmid:29371508
   title: Analysis of Transposable Elements in Coccidioides Species.
   authors:
@@ -1867,7 +1883,8 @@
   date: '2018-01-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29371508
   tags:
-  - unclassified
+  - Coccidioides
+  - transposon
 - id: pmid:29321239
   title: 'Comparative genomic analysis of the ''pseudofungus'' '
   authors:
@@ -1892,7 +1909,8 @@
   date: '2018-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29321239
   tags:
-  - unclassified
+  - Thraustochytrid
+  - comparative genomics
 - id: pmid:29211832
   title: Ultra-low input transcriptomics reveal the spore functional content and phylogenetic
     affiliations of poorly studied arbuscular mycorrhizal fungi.
@@ -1912,7 +1930,10 @@
   date: '2018-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29211832
   tags:
-  - unclassified
+  - AMF
+  - transcriptome
+  - phylogenomics
+  - scRNA-seq
 - id: pmid:29158416
   title: Tracking the genome-wide outcomes of a transposable element burst over decades
     of amplification.
@@ -1928,7 +1949,9 @@
   date: '2017-11-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29158416
   tags:
-  - unclassified
+  - transposon
+  - Rice
+  - mPing
 - id: pmid:29023459
   title: 'Chlorophyte aspartyl aminopeptidases: Ancient origins, expanded families,
     new locations, and secondary functions.'
@@ -1942,7 +1965,9 @@
   date: '2017-10-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29023459
   tags:
-  - unclassified
+  - M18 aspartyl aminopeptidases
+  - DAP
+  - molecular evolution
 - id: pmid:28917057
   title: 'The Fungal Tree of Life: from Molecular Systematics to Genome-Scale Phylogenies.'
   authors:
@@ -1956,7 +1981,9 @@
   date: '2017-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28917057
   tags:
-  - unclassified
+  - review
+  - systematics
+  - fungi
 - id: pmid:28916147
   title: Microbial associates of the southern mole cricket (Scapteriscus borellii)
     are highly pathogenic.
@@ -1969,7 +1996,10 @@
   date: '2017-09-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28916147
   tags:
-  - unclassified
+  - symbiosis
+  - insect bacteria interactions
+  - insect fungal interactions
+  - mole cricket
 - id: pmid:28876195
   title: Bifiguratus adelaidae, gen. et sp. nov., a new member of Mucoromycotina in
     endophytic and soil-dwelling habitats.
@@ -1990,7 +2020,9 @@
   date: '2017-08-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28876195
   tags:
-  - unclassified
+  - Bifiguratus
+  - Mucoromycotina
+  - comparative genomics
 - id: pmid:28820125
   title: Fungal Genomes and Insights into the Evolution of the Kingdom.
   authors:
@@ -1999,7 +2031,9 @@
   date: '2017-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28820125
   tags:
-  - unclassified
+  - review
+  - genomics
+  - fungi
 - id: pmid:28684563
   title: 'Draft Genome Sequences of the Antarctic Endolithic Fungi '
   authors:
@@ -2014,7 +2048,9 @@
   date: '2017-07-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28684563
   tags:
-  - unclassified
+  - Rachicladosporium
+  - genome
+  - Antarctica
 - id: pmid:28500048
   title: 'Insight into the Recent Genome Duplication of the Halophilic Yeast '
   authors:
@@ -2032,7 +2068,11 @@
   date: '2017-07-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28500048
   tags:
-  - unclassified
+  - Hortaea
+  - black yeast
+  - genome
+  - extremophile
+  - halotolerance
 - id: pmid:28481340
   title: Widespread adenine N6-methylation of active genes in fungi.
   authors:
@@ -2070,7 +2110,9 @@
   date: '2017-05-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28481340
   tags:
-  - unclassified
+  - N6-methylation
+  - 6mA
+  - fungi
 - id: pmid:28462022
   title: 'Exploring the binding properties and structural stability of an opsin in
     the chytrid '
@@ -2083,7 +2125,9 @@
   date: '2017-04-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28462022
   tags:
-  - unclassified
+  - Spizellomyces
+  - opsin
+  - molecular modeling
 - id: pmid:28176784
   title: Innovation and constraint leading to complex multicellularity in the Ascomycota.
   authors:
@@ -2099,7 +2143,10 @@
   date: '2017-02-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28176784
   tags:
-  - unclassified
+  - multicellularity
+  - ascomycota
+  - Neolecta
+  - comparative genomics
 - id: pmid:28149701
   title: 'RelocaTE2: a high resolution transposable element insertion site mapping
     tool for population resequencing.'
@@ -2112,7 +2159,8 @@
   date: '2017-01-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28149701
   tags:
-  - unclassified
+  - tool
+  - transposon
 - id: pmid:30682305
   title: PCR Multiplexes Discriminate Fusarium Symbionts of Invasive Euwallacea Ambrosia
     Beetles that Inflict Damage on Numerous Tree Species Throughout the United States.
@@ -2135,7 +2183,9 @@
   date: '2016-11-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30682305
   tags:
-  - unclassified
+  - Fusarium
+  - Ambrosia Beetle
+  - PCR
 - id: pmid:27738200
   title: A phylum-level phylogenetic classification of zygomycete fungi based on genome-scale
     data.
@@ -2162,7 +2212,11 @@
   date: '2016-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27738200
   tags:
-  - unclassified
+  - zygomycete
+  - phylogenomics
+  - systematics
+  - phylogenetics
+  - genome
 - id: pmid:27554660
   title: 'Fungal Evolution: Mucor and Phycomyces See Double.'
   authors:
@@ -2171,7 +2225,9 @@
   date: '2016-08-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27554660
   tags:
-  - unclassified
+  - review
+  - Mucor
+  - Phycomyces
 - id: pmid:27294409
   title: 'Transposable Elements versus the Fungal Genome: Impact on Whole-Genome Architecture
     and Transcriptional Profiles.'
@@ -2192,7 +2248,8 @@
   date: '2016-06-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27294409
   tags:
-  - unclassified
+  - transposon
+  - Pleurotus
 - id: pmid:27048799
   title: Deacetylation of Fungal Exopolysaccharide Mediates Adhesion and Biofilm Formation.
   authors:
@@ -2218,7 +2275,9 @@
   date: '2016-04-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27048799
   tags:
-  - unclassified
+  - Aspergillus
+  - GAG
+  - biofilm
 - id: pmid:27034999
   title: 'Meeting Report: Fungal Genomics Meets Social  Media: Highlights of the 28th
     Fungal Genetics  Conference at Asilomar.'
@@ -2238,7 +2297,9 @@
   date: '2015-12-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27034999
   tags:
-  - unclassified
+  - social media
+  - meeting report
+  - review
 - id: pmid:26976598
   title: Small genome of the fungus Escovopsis weberi, a specialized disease agent
     of ant agriculture.
@@ -2262,7 +2323,10 @@
   date: '2016-03-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26976598
   tags:
-  - unclassified
+  - Escovopsis
+  - genome
+  - symbiosis
+  - mycoparasite
 - id: pmid:26903035
   title: Contributions of North American endophytes to the phylogeny, ecology, and
     taxonomy of Xylariaceae (Sordariomycetes, Ascomycota).
@@ -2277,7 +2341,8 @@
   date: '2016-02-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26903035
   tags:
-  - unclassified
+  - Xylariaceae
+  - endophyte
 - id: pmid:26305593
   title: Cellular Subcompartments through Cytoplasmic Streaming.
   authors:
@@ -2292,7 +2357,8 @@
   date: '2015-08-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26305593
   tags:
-  - unclassified
+  - Neurospora
+  - cytoplasmic streaming
 - id: pmid:26109355
   title: Endogenous Small RNA Mediates Meiotic Silencing of a Novel DNA Transposon.
   authors:
@@ -2305,7 +2371,10 @@
   date: '2015-06-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26109355
   tags:
-  - unclassified
+  - small RNA
+  - transposon
+  - Neurospora
+  - MSUD
 - id: pmid:25819009
   title: Characterization of the Carbohydrate Binding Module 18 gene family in the
     amphibian pathogen Batrachochytrium dendrobatidis.
@@ -2316,7 +2385,8 @@
   date: '2015-03-25'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25819009
   tags:
-  - unclassified
+  - CBM18
+  - Batrachochytrium
 - id: pmid:25805857
   title: 'The low information content of Neurospora splicing signals: implications
     for RNA splicing and intron origin.'
@@ -2330,7 +2400,9 @@
   date: '2015-03-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25805857
   tags:
-  - unclassified
+  - Neurospora
+  - intron
+  - splicing
 - id: pmid:25750214
   title: Analysis of the Candida albicans Phosphoproteome.
   authors:
@@ -2346,7 +2418,8 @@
   date: '2015-03-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25750214
   tags:
-  - unclassified
+  - Candida albicans
+  - phosphoproteome
 - id: pmid:25427217
   title: 'Twenty-first century mycology: a diverse, collaborative, and highly relevant
     science.'
@@ -2357,7 +2430,7 @@
   date: '2015-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25427217
   tags:
-  - unclassified
+  - meeting report
 - id: pmid:25351875
   title: 'Comparative genomics of the major fungal agents of human and animal Sporotrichosis:
     Sporothrix schenckii and Sporothrix brasiliensis.'
@@ -2407,7 +2480,8 @@
   date: '2014-10-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25351875
   tags:
-  - unclassified
+  - Sporothrix
+  - genome
 - id: pmid:25330340
   title: MicroRNAs suppress NB domain genes in tomato that confer resistance to Fusarium
     oxysporum.
@@ -2423,7 +2497,9 @@
   date: '2014-10-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25330340
   tags:
-  - unclassified
+  - microRNA
+  - Fusarium
+  - tomato
 - id: pmid:25143134
   title: Deciphering the uniqueness of Mucoromycotina cell walls by combining biochemical
     and phylogenomic approaches.
@@ -2436,7 +2512,9 @@
   date: '2014-09-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25143134
   tags:
-  - unclassified
+  - cell wall
+  - Mucoromycotina
+  - phylogenomics
 - id: pmid:24912000
   title: Evolutionary histories of soil fungi are reflected in their large-scale biogeography.
   authors:
@@ -2450,7 +2528,8 @@
   date: '2014-06-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24912000
   tags:
-  - unclassified
+  - soil fungi
+  - phylogeny
 - id: pmid:24813190
   title: Literature-based gene curation and proposed genetic nomenclature for cryptococcus.
   authors:
@@ -2464,7 +2543,9 @@
   date: '2014-05-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24813190
   tags:
-  - unclassified
+  - Cryptococcus
+  - annotation
+  - curation
 - id: pmid:24743168
   title: Analysis of the genome and transcriptome of Cryptococcus neoformans var.
     grubii reveals complex RNA expression and microevolution leading to virulence
@@ -2526,7 +2607,10 @@
   date: '2014-04-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24743168
   tags:
-  - unclassified
+  - Cryptococcus
+  - genome
+  - RNA-seq
+  - microevolution
 - id: pmid:24299411
   title: 'Neurospora and the dead-end hypothesis: genomic consequences of selfing
     in the model genus.'
@@ -2538,7 +2622,8 @@
   date: '2013-08-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24299411
   tags:
-  - unclassified
+  - Neurospora
+  - selfing
 - id: pmid:24285193
   title: Evolutionary origins and diversification of proteobacterial mutualists.
   authors:
@@ -2550,7 +2635,10 @@
   date: '2013-11-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24285193
   tags:
-  - unclassified
+  - symbiosis
+  - proteobacteria
+  - mutalism
+  - evolution
 - id: pmid:24152717
   title: 'MIxS-BE: a MIxS extension defining a minimum information standard for sequence
     data from the built environment.'
@@ -2574,7 +2662,9 @@
   date: '2013-10-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24152717
   tags:
-  - unclassified
+  - genomic standards
+  - built environment
+  - MIxS-BE
 - id: pmid:24068976
   title: 'The genome and development-dependent transcriptomes of Pyronema confluens:
     a window into fungal evolution.'
@@ -2593,7 +2683,8 @@
   date: '2013-09-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24068976
   tags:
-  - unclassified
+  - Pyronema
+  - genome
 - id: pmid:23961317
   title: 'Meeting report: fungal its workshop (october 2012).'
   authors:
@@ -2624,7 +2715,7 @@
   date: '2013-04-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23961317
   tags:
-  - unclassified
+  - meeting report
 - id: pmid:23951101
   title: Sequential utilization of hosts from different fly families by genetically
     distinct, sympatric populations within the Entomophthora muscae species complex.
@@ -2639,7 +2730,9 @@
   date: '2013-08-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23951101
   tags:
-  - unclassified
+  - Entomophthora muscae
+  - insect fungal interactions
+  - fly
 - id: pmid:23932404
   title: Shared signatures of parasitism and phylogenomics unite Cryptomycota and
     microsporidia.
@@ -2655,7 +2748,10 @@
   date: '2013-08-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23932404
   tags:
-  - unclassified
+  - Cryptomycota
+  - genome
+  - Rozella
+  - phylogenomics
 - id: pmid:23928422
   title: Toward genome-enabled mycology.
   authors:
@@ -2666,7 +2762,8 @@
   date: '2013-08-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23928422
   tags:
-  - unclassified
+  - review
+  - mycology
 - id: pmid:23650365
   title: Complex history of the amphibian-killing chytrid fungus revealed with genome
     resequencing data.
@@ -2696,7 +2793,8 @@
   date: '2013-05-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23650365
   tags:
-  - unclassified
+  - Batrachochytrium
+  - population genomics
 - id: pmid:23576519
   title: The use of RelocaTE and unassembled short reads to produce high-resolution
     snapshots of transposable element generated diversity in rice.
@@ -2712,7 +2810,8 @@
   date: '2013-06-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23576519
   tags:
-  - unclassified
+  - transposon
+  - tool
 - id: pmid:23530226
   title: Regional control of histone H3 lysine 27 methylation in Neurospora.
   authors:
@@ -2726,7 +2825,9 @@
   date: '2013-03-25'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23530226
   tags:
-  - unclassified
+  - histone
+  - Neurospora
+  - H3K27me
 - id: pmid:23514374
   title: 5'-Serial Analysis of Gene Expression studies reveal a transcriptomic switch
     during fruiting body development in Coprinopsis cinerea.
@@ -2742,7 +2843,10 @@
   date: '2013-03-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23514374
   tags:
-  - unclassified
+  - Coprinus
+  - Coprinopsis
+  - 5-SAGE
+  - transcriptome
 - id: pmid:23341551
   title: Genomic insights into the atopic eczema-associated skin commensal yeast Malassezia
     sympodialis.
@@ -2780,7 +2884,8 @@
   date: '2013-01-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23341551
   tags:
-  - unclassified
+  - Malassezia
+  - genome
 - id: pmid:23186325
   title: Analyses of expressed sequence tags in Neurospora reveal rapid evolution
     of genes associated with the early stages of sexual reproduction in fungi.
@@ -2796,7 +2901,9 @@
   date: '2012-11-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23186325
   tags:
-  - unclassified
+  - Neurospora
+  - sexual reproduction
+  - EST
 - id: pmid:22718849
   title: Species-specific chitin-binding module 18 expansion in the amphibian pathogen
     Batrachochytrium dendrobatidis.
@@ -2807,7 +2914,8 @@
   date: '2012-06-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22718849
   tags:
-  - unclassified
+  - CBM18
+  - Batrachochytrium
 - id: pmid:22593224
   title: Unidirectional evolutionary transitions in fungal mating systems and the
     role of transposable elements.
@@ -2821,7 +2929,9 @@
   date: '2012-05-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22593224
   tags:
-  - unclassified
+  - Neurospora
+  - mating
+  - transposon
 - id: pmid:22072962
   title: Genomic transition to pathogenicity in chytrid fungi.
   authors:
@@ -2833,7 +2943,10 @@
   date: '2011-11-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22072962
   tags:
-  - unclassified
+  - chytrid
+  - genome
+  - Batrachochytrium
+  - Homolaphlyctis
 - id: pmid:22064857
   title: 'FungiDB: an integrated functional genomics database for fungi.'
   authors:
@@ -2853,7 +2966,9 @@
   date: '2011-11-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22064857
   tags:
-  - unclassified
+  - FungiDB
+  - tool
+  - database
 - id: pmid:21750257
   title: Massive changes in genome architecture accompany the transition to self-fertility
     in the filamentous fungus Neurospora tetrasperma.
@@ -2873,7 +2988,10 @@
   date: '2011-07-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/21750257
   tags:
-  - unclassified
+  - Neurospora
+  - selfing
+  - genome
+  - sex chromosome
 - id: pmid:21304167
   title: Genome variation in Cryptococcus gattii, an emerging pathogen of immunocompetent
     hosts.
@@ -2923,7 +3041,8 @@
   date: '2011-02-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/21304167
   tags:
-  - unclassified
+  - Cryptococcus
+  - genome
 - id: pmid:21268975
   title: 'A molecular perspective: biology of the emerging pathogen Batrachochytrium
     dendrobatidis.'
@@ -2939,7 +3058,8 @@
   date: '2010-11-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/21268975
   tags:
-  - unclassified
+  - Batrachochytrium
+  - review
 - id: pmid:20885784
   title: Analysis of the Basidiomycete Coprinopsis cinerea reveals conservation of
     the core meiotic expression program over half a billion years of evolution.
@@ -2960,7 +3080,10 @@
   date: '2010-09-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20885784
   tags:
-  - unclassified
+  - meiosis
+  - transcriptome
+  - Coprinus
+  - Coprinopsis
 - id: pmid:20836076
   title: Using the Generic Synteny Browser (GBrowse_syn).
   authors:
@@ -2971,7 +3094,8 @@
   date: '2010-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20836076
   tags:
-  - unclassified
+  - GBrowse
+  - tool
 - id: pmid:20675579
   title: Transcription factors in light and circadian clock signaling networks revealed
     by genomewide mapping of direct targets for neurospora white collar complex.
@@ -2996,7 +3120,10 @@
   date: '2010-07-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20675579
   tags:
-  - unclassified
+  - Neurospora
+  - ChIP-seq
+  - White collar complex
+  - circadian clock
 - id: pmid:20626842
   title: Genome sequence of the necrotrophic plant pathogen Pythium ultimum reveals
     original pathogenicity mechanisms and effector repertoire.
@@ -3053,7 +3180,8 @@
   date: '2010-07-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20626842
   tags:
-  - unclassified
+  - Pythium
+  - genome
 - id: pmid:20622885
   title: Genome sequence of the model mushroom Schizophyllum commune.
   authors:
@@ -3093,7 +3221,8 @@
   date: '2010-07-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20622885
   tags:
-  - unclassified
+  - Schizophyllum
+  - genome
 - id: pmid:20601044
   title: Conflict between reproductive gene trees and species phylogeny among heterothallic
     and pseudohomothallic members of the filamentous ascomycete genus Neurospora.
@@ -3109,7 +3238,9 @@
   date: '2010-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20601044
   tags:
-  - unclassified
+  - Neurospora
+  - heterothallic
+  - homothallic
 - id: pmid:20547848
   title: Insights into evolution of multicellular fungi from the assembled chromosomes
     of the mushroom Coprinopsis cinerea (Coprinus cinereus).
@@ -3168,7 +3299,10 @@
   date: '2010-06-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20547848
   tags:
-  - unclassified
+  - Coprinopsis
+  - Coprinus
+  - genome
+  - multicellularity
 - id: pmid:20516208
   title: Population genomic sequencing of Coccidioides fungi reveals recent hybridization
     and transposon control.
@@ -3206,7 +3340,10 @@
   date: '2010-06-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20516208
   tags:
-  - unclassified
+  - Coccidioides
+  - genome
+  - population genomics
+  - transposon
 - id: pmid:20386741
   title: 'De novo assembly of a 40 Mb eukaryotic genome from short sequence reads:
     Sordaria macrospora, a model organism for fungal morphogenesis.'
@@ -3233,7 +3370,8 @@
   date: '2010-04-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20386741
   tags:
-  - unclassified
+  - Sordaria
+  - genome
 - id: pmid:20126439
   title: 'The deadly chytrid fungus: a story of an emerging pathogen.'
   authors:
@@ -3245,7 +3383,8 @@
   date: '2010-01-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20126439
   tags:
-  - unclassified
+  - Batrachochytrium
+  - review
 - id: pmid:19788875
   title: The fungi.
   authors:
@@ -3260,7 +3399,8 @@
   date: '2009-09-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/19788875
   tags:
-  - unclassified
+  - review
+  - mycology
 - id: pmid:19717792
   title: Comparative genomic analyses of the human fungal pathogens Coccidioides and
     their relatives.
@@ -3293,7 +3433,8 @@
   date: '2009-08-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/19717792
   tags:
-  - unclassified
+  - Coccidioides
+  - genome
 - id: pmid:19161465
   title: Proteomic and phenotypic profiling of the amphibian pathogen Batrachochytrium
     dendrobatidis shows that genotype is linked to virulence.
@@ -3313,7 +3454,9 @@
   date: '2009-02-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/19161465
   tags:
-  - unclassified
+  - Batrachochytrium
+  - proteomics
+  - virulence
 - id: pmid:19085333
   title: 'Resolving arthropod phylogeny: exploring phylogenetic signal within 41 kb
     of protein-coding nuclear gene sequence.'
@@ -3333,7 +3476,8 @@
   date: '2008-12-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/19085333
   tags:
-  - unclassified
+  - arthropod
+  - phylogeny
 - id: pmid:18852473
   title: Global gene expression profiles for life stages of the deadly amphibian pathogen
     Batrachochytrium dendrobatidis.
@@ -3347,7 +3491,8 @@
   date: '2008-10-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18852473
   tags:
-  - unclassified
+  - Batrachochytrium
+  - gene expression
 - id: pmid:18322534
   title: The genome of Laccaria bicolor provides insights into mycorrhizal symbiosis.
   authors:
@@ -3423,7 +3568,8 @@
   date: '2008-03-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18322534
   tags:
-  - unclassified
+  - Laccaria
+  - genome
 - id: pmid:18313909
   title: An expanded family of fungalysin extracellular metallopeptidases of Coprinopsis
     cinerea.
@@ -3438,7 +3584,9 @@
   date: '2007-12-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18313909
   tags:
-  - unclassified
+  - Coprinus
+  - Coprinopsis
+  - metallopeptidases
 - id: pmid:18294377
   title: Comparative hybridization reveals extensive genome variation in the AIDS-associated
     pathogen Cryptococcus neoformans.
@@ -3453,7 +3601,7 @@
   date: '2008-02-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18294377
   tags:
-  - unclassified
+  - Cryptococcus
 - id: pmid:18287711
   title: An Introduction to BioPerl.
   authors:
@@ -3462,7 +3610,8 @@
   date: '2007-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18287711
   tags:
-  - unclassified
+  - BioPerl
+  - tool
 - id: pmid:17949488
   title: Comparative genomic analysis of fungal genomes reveals intron-rich ancestors.
   authors:
@@ -3473,7 +3622,8 @@
   date: '2007-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17949488
   tags:
-  - unclassified
+  - intron
+  - fungi
 - id: pmid:17337636
   title: 'Evolution of the mating type locus: insights gained from the dimorphic primary
     fungal pathogens Histoplasma capsulatum, Coccidioides immitis, and Coccidioides
@@ -3490,7 +3640,9 @@
   date: '2007-03-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17337636
   tags:
-  - unclassified
+  - mating type locus
+  - Histoplasma
+  - Coccidioides
 - id: pmid:17320905
   title: Evolution of budding yeast prion-determinant sequences across diverse fungi.
   authors:
@@ -3503,7 +3655,9 @@
   date: '2007-02-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17320905
   tags:
-  - unclassified
+  - prion
+  - fungi
+  - comparative genomics
 - id: pmid:17183716
   title: The evolution of mammalian gene families.
   authors:
@@ -3516,7 +3670,7 @@
   date: '2006-12-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17183716
   tags:
-  - unclassified
+  - gene family evolution
 - id: pmid:17148473
   title: 'BASC: an integrated bioinformatics system for Brassica research.'
   authors:
@@ -3537,7 +3691,8 @@
   date: '2006-12-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17148473
   tags:
-  - unclassified
+  - tool
+  - database
 - id: pmid:17121679
   title: A fungal phylogeny based on 42 complete genomes derived from supertree and
     combined gene analysis.
@@ -3550,7 +3705,9 @@
   date: '2006-11-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17121679
   tags:
-  - unclassified
+  - fungi
+  - phylogeny
+  - phylogenomics
 - id: pmid:17080091
   title: Insights from the genome of the biotrophic fungal plant pathogen Ustilago
     maydis.
@@ -3639,7 +3796,8 @@
   date: '2006-11-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17080091
   tags:
-  - unclassified
+  - Ustilago
+  - genome
 - id: pmid:17051209
   title: Reconstructing the early evolution of Fungi using a six-gene phylogeny.
   authors:
@@ -3717,7 +3875,9 @@
   date: '2006-10-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17051209
   tags:
-  - unclassified
+  - phylogeny
+  - mycology
+  - fungi
 - id: pmid:16988423
   title: Comparative genomics in C. elegans, C. briggsae, and other Caenorhabditis
     species.
@@ -3729,7 +3889,8 @@
   date: '2006-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16988423
   tags:
-  - unclassified
+  - comparative genomics
+  - Caenorhabditis
 - id: pmid:16963629
   title: The Cryptococcus neoformans catalase gene family and its role in antioxidant
     defense.
@@ -3745,7 +3906,8 @@
   date: '2006-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16963629
   tags:
-  - unclassified
+  - Cryptococcus
+  - catalase
 - id: pmid:16962256
   title: Phylogenomic analysis of non-ribosomal peptide synthetases in the genus Aspergillus.
   authors:
@@ -3759,7 +3921,8 @@
   date: '2006-07-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16962256
   tags:
-  - unclassified
+  - Aspergillus fumigatus
+  - NRPS
 - id: pmid:16899494
   title: 'Open source tools and toolkits for bioinformatics: significance, and where
     are we?'
@@ -3770,7 +3933,8 @@
   date: '2006-08-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16899494
   tags:
-  - unclassified
+  - tool
+  - review
 - id: pmid:16682456
   title: Evidence of mRNA-mediated intron loss in the human-pathogenic fungus Cryptococcus
     neoformans.
@@ -3781,7 +3945,8 @@
   date: '2006-05-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16682456
   tags:
-  - unclassified
+  - intron
+  - Cryptococcus
 - id: pmid:16606443
   title: Comparative analysis of Saccharomyces cerevisiae WW domains and their interacting
     proteins.
@@ -3796,7 +3961,8 @@
   date: '2006-04-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16606443
   tags:
-  - unclassified
+  - Saccharomyces
+  - WW domain
 - id: pmid:16222245
   title: Same-sex mating and the origin of the Vancouver Island Cryptococcus gattii
     outbreak.
@@ -3816,7 +3982,7 @@
   date: '2005-10-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16222245
   tags:
-  - unclassified
+  - Cryptococcus
 - id: pmid:16143628
   title: 'Likelihoods from summary statistics: recent divergence between species.'
   authors:
@@ -3829,7 +3995,7 @@
   date: '2005-09-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16143628
   tags:
-  - unclassified
+  - population genetics
 - id: pmid:16077014
   title: Estimating the tempo and mode of gene family evolution from comparative genomic
     data.
@@ -3843,7 +4009,8 @@
   date: '2005-08-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16077014
   tags:
-  - unclassified
+  - gene family evolution
+  - tool
 - id: pmid:15854223
   title: Investigating hookworm genomes by comparative analysis of two Ancylostoma
     species.
@@ -3865,7 +4032,8 @@
   date: '2005-04-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15854223
   tags:
-  - unclassified
+  - hookworm
+  - comparative genomics
 - id: pmid:15470254
   title: Identification of Cryptococcus neoformans temperature-regulated genes with
     a genomic-DNA microarray.
@@ -3883,7 +4051,8 @@
   date: '2004-10-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15470254
   tags:
-  - unclassified
+  - Cryptococcus
+  - gene expression
 - id: pmid:15356276
   title: Disentangling the effects of demography and selection in human history.
   authors:
@@ -3893,7 +4062,10 @@
   date: '2004-09-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15356276
   tags:
-  - unclassified
+  - population genetics
+  - tool
+  - ABO
+  - human genetics
 - id: pmid:14624247
   title: 'The genome sequence of Caenorhabditis briggsae: a platform for comparative
     genomics.'
@@ -3938,7 +4110,8 @@
   date: '2003-11-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/14624247
   tags:
-  - unclassified
+  - Caenorhabditis
+  - genome
 - id: pmid:12716998
   title: The effects of selection against spurious transcription factor binding sites.
   authors:
@@ -3949,7 +4122,8 @@
   date: '2003-04-25'
   link: https://www.ncbi.nlm.nih.gov/pubmed/12716998
   tags:
-  - unclassified
+  - tool
+  - comparative genomics
 - id: pmid:12368254
   title: 'The Bioperl toolkit: Perl modules for the life sciences.'
   authors:
@@ -3978,7 +4152,8 @@
   date: '2002-10-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/12368254
   tags:
-  - unclassified
+  - BioPerl
+  - tool
 - id: pmid:12368253
   title: 'The generic genome browser: a building block for a model organism system
     database.'
@@ -3998,7 +4173,8 @@
   date: '2002-10-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/12368253
   tags:
-  - unclassified
+  - tool
+  - GBrowse
 - id: pmid:11743579
   title: Ganglioside-induced differentiation-associated protein-1 is mutant in Charcot-Marie-Tooth
     disease type 4A/8q21.
@@ -4020,4 +4196,5 @@
   date: '2001-12-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/11743579
   tags:
-  - unclassified
+  - human genetics
+  - CMT
