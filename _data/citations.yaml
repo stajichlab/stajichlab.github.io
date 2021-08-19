@@ -66,6 +66,7 @@
   - cyanobacteria
   - metagenomics
   - aridlands
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8354539/bin/mra.00258-21-f001.jpg
 - id: pmid:34067070
   title: 'Transcriptional Analysis of '
   authors:
@@ -83,6 +84,7 @@
   - coccidioides
   - onygenales
   - RNA-seq
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8150946/bin/jof-07-00366-g001.jpg
 - id: pmid:34042486
   title: High-Quality Reference Genome Sequence for the Oomycete Vegetable Pathogen
     Phytophthora capsici Strain LT1534.
@@ -104,6 +106,7 @@
   tags:
   - genome
   - Phytophthora
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8201633/bin/mra.00295-21-f0001.jpg
 - id: pmid:33871031
   title: The mitochondrial genomes of the human pathogens Coccidioides immitis and
     C. posadasii.
@@ -2163,6 +2166,7 @@
   tags:
   - tool
   - transposon
+  repo: https://github.com/stajichlab/RelocaTE2
 - id: pmid:30682305
   title: PCR Multiplexes Discriminate Fusarium Symbionts of Invasive Euwallacea Ambrosia
     Beetles that Inflict Damage on Numerous Tree Species Throughout the United States.
