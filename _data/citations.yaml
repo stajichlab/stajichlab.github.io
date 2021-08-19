@@ -1,48 +1,3956 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: pubmed:11743579
-  title: Ganglioside-induced differentiation-associated protein-1 is mutant in Charcot-Marie-Tooth
-    disease type 4A/8q21.
+- id: pmid:34247231
+  title: Diploidy within a Haploid Genus of Entomopathogenic Fungi.
   authors:
-  - Rachel V Baxter
-  - Kamel Ben Othmane
-  - Julie M Rochelle
+  - Knud Nor Nielsen
+  - "Jo\xE3o Felipe Moreira Salgado"
+  - Myrsini Eirini Natsopoulou
+  - Thea Kristensen
   - Jason E Stajich
-  - Christine Hulette
-  - Susan Dew-Knight
-  - Faycal Hentati
-  - Mongi Ben Hamida
-  - S Bel
-  - Judy E Stenger
-  - John R Gilbert
-  - Margaret A Pericak-Vance
-  - Jeffery M Vance
-  publisher: Nature genetics
-  date: '2001-12-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/11743579
+  - Henrik H De Fine Licht
+  publisher: Genome biology and evolution
+  date: '2021-07-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34247231
   tags:
-  - human genetics
-- id: pubmed:12368253
-  title: 'The generic genome browser: a building block for a model organism system
-    database.'
+  - insect fungal interactions
+  - ascomycota
+  - genome
+- id: pmid:34165331
+  title: Amplicon Sequencing of Rock-Inhabiting Microbial Communities from Joshua
+    Tree National Park, USA.
   authors:
-  - Lincoln D Stein
-  - Christopher Mungall
-  - ShengQiang Shu
-  - Michael Caudy
-  - Marco Mangone
-  - Allen Day
-  - Elizabeth Nickerson
+  - Claudia Coleine
+  - Laura Selbmann
+  - Nuttapon Pombubpa
+  - Jason E Stajich
+  publisher: Microbiology resource announcements
+  date: '2021-06-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34165331
+  tags:
+  - amplicon
+  - ITS
+  - endoliths
+  - fungi
+  - Joshua Tree
+  - aridlands
+- id: pmid:34080906
+  title: Metagenome Sequencing to Explore Phylogenomics of Terrestrial Cyanobacteria.
+  authors:
+  - Ryan D Ward
+  - Jason E Stajich
+  - Jeffrey R Johansen
+  - Marcel Huntemann
+  - Alicia Clum
+  - Brian Foster
+  - Bryce Foster
+  - Simon Roux
+  - Krishnaveni Palaniappan
+  - Neha Varghese
+  - Supratim Mukherjee
+  - T B K Reddy
+  - Chris Daum
+  - Alex Copeland
+  - I-M A Chen
+  - Natalia N Ivanova
+  - Nikos C Kyrpides
+  - Nicole Shapiro
+  - Emiley A Eloe-Fadrosh
+  - Nicole Pietrasiak
+  publisher: Microbiology resource announcements
+  date: '2021-06-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34080906
+  tags:
+  - cyanobacteria
+  - metagenomics
+  - aridlands
+- id: pmid:34067070
+  title: 'Transcriptional Analysis of '
+  authors:
+  - Aaron F Carlin
+  - Sinem Beyhan
+  - "Jes\xFAs F Pe\xF1a"
+  - Jason E Stajich
+  - Suganya Viriyakosol
+  - Joshua Fierer
+  - Theo N Kirkland
+  publisher: Journal of fungi (Basel, Switzerland)
+  date: '2021-05-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34067070
+  tags:
+  - coccidioides
+  - onygenales
+  - RNA-seq
+- id: pmid:34042486
+  title: High-Quality Reference Genome Sequence for the Oomycete Vegetable Pathogen
+    Phytophthora capsici Strain LT1534.
+  authors:
+  - Jason E Stajich
+  - Andrea L Vu
+  - Howard S Judelson
+  - Gregory M Vogel
+  - Michael A Gore
+  - Maryn O Carlson
+  - Nicholas Devitt
+  - Jennifer Jacobi
+  - Joann Mudge
+  - Kurt H Lamour
+  - Christine D Smart
+  publisher: Microbiology resource announcements
+  date: '2021-05-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34042486
+  tags:
+  - genome
+  - Phytophthora
+- id: pmid:33871031
+  title: The mitochondrial genomes of the human pathogens Coccidioides immitis and
+    C. posadasii.
+  authors:
+  - Marcus de Melo Teixeira
+  - B Franz Lang
+  - Daniel R Matute
+  - Jason E Stajich
+  - Bridget Barker
+  publisher: G3 (Bethesda, Md.)
+  date: '2021-04-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33871031
+  tags:
+  - coccidioides
+  - onygenales
+  - genomics
+- id: pmid:33815472
+  title: 'Effects of Simulated Microgravity on the Proteome and Secretome of the Polyextremotolerant
+    Black Fungus '
+  authors:
+  - Donatella Tesei
+  - Abby J Chiang
+  - Markus Kalkum
+  - Jason E Stajich
+  - Ganesh Babu Malli Mohan
+  - Katja Sterflinger
+  - Kasthuri Venkateswaran
+  publisher: Frontiers in genetics
+  date: '2021-03-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33815472
+  tags:
+  - black yeast
+  - knufia
+- id: pmid:33809619
+  title: Culture-Dependent and Amplicon Sequencing Approaches Reveal Diversity and
+    Distribution of Black Fungi in Antarctic Cryptoendolithic Communities.
+  authors:
+  - Laura Selbmann
+  - Gerardo A Stoppiello
+  - Silvano Onofri
+  - Jason E Stajich
+  - Claudia Coleine
+  publisher: Journal of fungi (Basel, Switzerland)
+  date: '2021-03-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33809619
+  tags:
+  - Antarctica
+  - endoliths
+  - amplicon
+  - fungi
+- id: pmid:33785623
+  title: 'Balancing Positive and Negative Selection: '
+  authors:
+  - Elora G Demers
+  - Jason E Stajich
+  - Alix Ashare
+  - Patricia Occhipinti
+  - Deborah A Hogan
+  publisher: mBio
+  date: '2021-03-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33785623
+  tags:
+  - Candida
+  - Clavispora lusitaniae
+  - drug resistance
+- id: pmid:33752605
+  title: Datura genome reveals duplications of psychoactive alkaloid biosynthetic
+    genes and high mutation rate following tissue culture.
+  authors:
+  - Alex Rajewski
+  - Derreck Carter-House
+  - Jason Stajich
+  - Amy Litt
+  publisher: BMC genomics
+  date: '2021-03-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33752605
+  tags:
+  - Datura
+  - plant genomics
+  - genome
+- id: pmid:33741058
+  title: Pre-Cambrian roots of novel Antarctic cryptoendolithic bacterial lineages.
+  authors:
+  - Davide Albanese
+  - Claudia Coleine
+  - Omar Rota-Stabelli
+  - Silvano Onofri
+  - Susannah G Tringe
+  - Jason E Stajich
+  - Laura Selbmann
+  - Claudio Donati
+  publisher: Microbiome
+  date: '2021-03-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33741058
+  tags:
+  - metagenomics
+  - Antarctica
+  - endoliths
+  - genome
+  - MAG
+- id: pmid:33686174
+  title: Genomic insights into the host specific adaptation of the Pneumocystis genus.
+  authors:
+  - "Ousmane H Ciss\xE9"
+  - Liang Ma
+  - John P Dekker
+  - Pavel P Khil
+  - Jung-Ho Youn
+  - Jason M Brenchley
+  - Robert Blair
+  - Bapi Pahar
+  - "Magali Chab\xE9"
+  - Koen K A Van Rompay
+  - Rebekah Keesler
+  - Antti Sukura
+  - Vanessa Hirsch
+  - Geetha Kutty
+  - Yueqin Liu
+  - Li Peng
+  - Jie Chen
+  - Jun Song
+  - Christiane Weissenbacher-Lang
+  - Jie Xu
+  - Nathan S Upham
+  - Jason E Stajich
+  - Christina A Cuomo
+  - Melanie T Cushion
+  - Joseph A Kovacs
+  publisher: Communications biology
+  date: '2021-03-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33686174
+  tags:
+  - Pneumocystis
+  - comparative genomics
+- id: pmid:33656416
+  title: Identification and phylogenetic analysis of RNA binding domain abundant in
+    apicomplexans or RAP proteins.
+  authors:
+  - Thomas Hollin
+  - Lukasz Jaroszewski
+  - Jason E Stajich
+  - Adam Godzik
+  - Karine G Le Roch
+  publisher: Microbial genomics
+  date: '2021-03-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33656416
+  tags:
+  - Apicomplexian
+  - RNA binding
+  - Evolution
+- id: pmid:33607033
+  title: A genome-scale phylogeny of the kingdom Fungi.
+  authors:
+  - Yuanning Li
+  - Jacob L Steenwyk
+  - Ying Chang
+  - Yan Wang
+  - Timothy Y James
+  - Jason E Stajich
+  - Joseph W Spatafora
+  - Marizeth Groenewald
+  - Casey W Dunn
+  - Chris Todd Hittinger
+  - Xing-Xing Shen
+  - Antonis Rokas
+  publisher: 'Current biology : CB'
+  date: '2021-02-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33607033
+  tags:
+  - fungi
+  - phylogenomics
+  - systematics
+  - evolution
+- id: pmid:33597172
+  title: Aspergillus fumigatus Strain-Specific Conidia Lung Persistence Causes an
+    Allergic Broncho-Pulmonary Aspergillosis-Like Disease Phenotype.
+  authors:
+  - Jane T Jones
+  - Ko-Wei Liu
+  - Xi Wang
+  - Caitlin H Kowalski
+  - Brandon S Ross
+  - Kathleen A M Mills
+  - Joshua D Kerkaert
+  - Tobias M Hohl
+  - Lotus A Lofgren
+  - Jason E Stajich
+  - Joshua J Obar
+  - Robert A Cramer
+  publisher: mSphere
+  date: '2021-02-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33597172
+  tags:
+  - Aspergillus fumigatus
+  - Cystic Fibrosis
+- id: pmid:33593969
+  title: 'A Heterogeneously Expressed Gene Family Modulates the Biofilm Architecture
+    and Hypoxic Growth of '
+  authors:
+  - Caitlin H Kowalski
+  - Kaesi A Morelli
+  - Jason E Stajich
+  - Carey D Nadell
+  - Robert A Cramer
+  publisher: mBio
+  date: '2021-02-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33593969
+  tags:
+  - Aspergillus fumigatus
+  - biofilm
+  - RNA-seq
+- id: pmid:33592192
+  title: The genome of Geosiphon pyriformis reveals ancestral traits linked to the
+    emergence of the arbuscular mycorrhizal symbiosis.
+  authors:
+  - Mathu Malar C
+  - "Manuela Kr\xFCger"
+  - "Claudia Kr\xFCger"
+  - Yan Wang
+  - Jason E Stajich
+  - Jean Keller
+  - Eric C H Chen
+  - Gokalp Yildirir
+  - Matthew Villeneuve-Laroche
+  - Christophe Roux
+  - Pierre-Marc Delaux
+  - Nicolas Corradi
+  publisher: 'Current biology : CB'
+  date: '2021-02-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33592192
+  tags:
+  - Geosiphon
+  - AMF
+  - zygomycete
+  - genome
+  - comparative genomics
+- id: pmid:33585864
+  title: Genome sequence of the oyster mushroom Pleurotus ostreatus strain PC9.
+  authors:
+  - Yi-Yun Lee
+  - Guillermo Vidal-Diez de Ulzurrun
+  - Erich M Schwarz
+  - Jason E Stajich
+  - Yen-Ping Hsueh
+  publisher: G3 (Bethesda, Md.)
+  date: '2021-02-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33585864
+  tags:
+  - genome
+  - Pleurotus
+- id: pmid:33585863
+  title: Genomic analyses of two Italian oyster mushroom Pleurotus pulmonarius strains.
+  authors:
+  - Guillermo Vidal-Diez de Ulzurrun
+  - Yi-Yun Lee
+  - Jason E Stajich
+  - Erich M Schwarz
+  - Yen-Ping Hsueh
+  publisher: G3 (Bethesda, Md.)
+  date: '2021-02-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33585863
+  tags:
+  - genome
+  - Pleurotus
+- id: pmid:33547391
+  title: Genome-scale phylogenetic analyses confirm Olpidium as the closest living
+    zoosporic fungus to the non-flagellated, terrestrial fungi.
+  authors:
+  - Ying Chang
+  - D'Ann Rochon
+  - Satoshi Sekimoto
+  - Yan Wang
+  - Mansi Chovatia
+  - Laura Sandor
+  - Asaf Salamov
+  - Igor V Grigoriev
+  - Jason E Stajich
+  - Joseph W Spatafora
+  publisher: Scientific reports
+  date: '2021-02-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33547391
+  tags:
+  - fungi
+  - phylogenomics
+  - zygomycete
+  - chytrid
+  - evolution
+  - metagenomics
+  - genome
+- id: pmid:33364917
+  title: Resolving the Mortierellaceae phylogeny through synthesis of multi-gene phylogenetics
+    and phylogenomics.
+  authors:
+  - Natalie Vandepol
+  - Julian Liber
+  - "Alessandro Desir\xF2"
+  - Hyunsoo Na
+  - Megan Kennedy
+  - Kerrie Barry
+  - Igor V Grigoriev
+  - Andrew N Miller
+  - Kerry O'Donnell
+  - Jason E Stajich
+  - Gregory Bonito
+  publisher: Fungal diversity
+  date: '2020-09-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33364917
+  tags:
+  - genome
+  - zygomycete
+  - Mortierellaceae
+  - phylogenomics
+- id: pmid:33355923
+  title: Comparative genomics reveals dynamic genome evolution in host specialist
+    ectomycorrhizal fungi.
+  authors:
+  - Lotus A Lofgren
+  - Nhu H Nguyen
+  - Rytas Vilgalys
+  - Joske Ruytinx
+  - Hui-Ling Liao
+  - Sara Branco
+  - Alan Kuo
+  - Kurt LaButti
+  - Anna Lipzen
+  - William Andreopoulos
+  - Jasmyn Pangilinan
+  - Robert Riley
+  - Hope Hundley
+  - Hyunsoo Na
+  - Kerrie Barry
+  - Igor V Grigoriev
+  - Jason E Stajich
+  - Peter G Kennedy
+  publisher: The New phytologist
+  date: '2021-02-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33355923
+  tags:
+  - Suillus
+  - basidomycota
+  - comparative genomics
+  - phylogenomics
+- id: pmid:33352712
+  title: Shed Light in the DaRk LineagES of the Fungal Tree of Life-STRES.
+  authors:
+  - Laura Selbmann
+  - "Zsigmond Benk\u0151"
+  - Claudia Coleine
+  - Sybren de Hoog
+  - Claudio Donati
+  - Irina Druzhinina
+  - "Tam\xE1s Emri"
+  - Cassie L Ettinger
+  - Amy S Gladfelter
+  - Anna A Gorbushina
+  - Igor V Grigoriev
+  - Martin Grube
+  - Nina Gunde-Cimerman
+  - "Zsolt \xC1kos Kar\xE1nyi"
+  - Beatrix Kocsis
+  - Tania Kubressoian
+  - "Ida Mikl\xF3s"
+  - "M\xE1rton Miskei"
+  - Lucia Muggia
+  - Trent Northen
+  - "Monika Novak-Babi\u010D"
+  - Christa Pennacchio
+  - Walter P Pfliegler
+  - "Istv\xE0n P\xF2csi"
+  - Valeria Prigione
+  - Meritxell Riquelme
+  - Nicola Segata
+  - Julia Schumacher
+  - Ekaterina Shelest
+  - Katja Sterflinger
+  - Donatella Tesei
+  - Jana M U'Ren
+  - Giovanna C Varese
+  - "Xabier V\xE1zquez-Campos"
+  - Vania A Vicente
+  - Emanuel M Souza
+  - Polona Zalar
+  - Allison K Walker
+  - Jason E Stajich
+  publisher: Life (Basel, Switzerland)
+  date: '2020-12-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33352712
+  tags:
+  - black yeast
+  - review
+- id: pmid:33232202
+  title: 'Beyond the extremes: Rocks as ultimate refuge for fungi in drylands.'
+  authors:
+  - Claudia Coleine
+  - Jason E Stajich
+  - "Asunci\xF3n de Los R\xEDos"
+  - Laura Selbmann
+  publisher: Mycologia
+  date: '2020-11-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33232202
+  tags:
+  - endoliths
+  - review
+  - fungi
+  - rock
+- id: pmid:33200960
+  title: Phylogenomic analysis of a 55.1 kb 19-gene dataset resolves a monophyletic
+    Fusarium that includes the Fusarium solani Species Complex.
+  authors:
+  - David M Geiser
+  - Abdullah Al-Hatmi
+  - Takayuki Aoki
+  - Tsutomu Arie
+  - Virgilio Balmas
+  - Irene Barnes
+  - Gary C Bergstrom
+  - M K K Bhattacharyya
+  - Cheryl L Blomquist
+  - Robert Bowden
+  - "Bal\xE1zs Brankovics"
+  - Daren W Brown
+  - Lester William Burgess
+  - Kathryn Bushley
+  - Mark Busman
+  - "Jos\xE9 F Cano-Lira"
+  - Joseph D Carrillo
+  - Hao-Xun Chang
+  - Chi-Yu Chen
+  - Wanquan Chen
+  - Martin I Chilvers
+  - Sofia Noemi Chulze
+  - Jeffrey J Coleman
+  - Christina A Cuomo
+  - Z Wilhelm de Beer
+  - G Sybren de Hoog
+  - "Johanna Del Castillo-M\xFAnera"
+  - Emerson Del Ponte
+  - "Javier Di\xE9guez-Uribeondo"
+  - Antonio Di Pietro
+  - "V\xE9rnonique Edel-Hermann"
+  - Wade H Elmer
+  - Lynn Epstein
+  - Akif Eskalen
+  - Maria Carmela Esposto
+  - Kathryne L Everts
+  - "Sylvia P Fern\xE1ndez-Pav\xEDa"
+  - Gilvan Ferreira da Silva
+  - Nora A Foroud
+  - Gerda Fourie
+  - Rasmus J N Frandsen
+  - Stanley Freeman
+  - Michael Freitag
+  - Omer Frenkel
+  - Kevin K Fuller
+  - Tatiana Gagkaeva
+  - Donald Max Gardiner
+  - Anthony E Glenn
+  - Scott Gold
+  - Tom Gordon
+  - Nancy F Gregory
+  - Marieka Gryzenhout
+  - Josep Guarro
+  - Beth Gugino
+  - "Santiago Guti\xE9rrez"
+  - Kim Hammond-Kosack
+  - Linda J Harris
+  - "M\xF3nika Homa"
+  - Cheng-Fang Hong
+  - "L\xE1szl\xF3 Hornok"
+  - Jenn-Wen Huang
+  - Macit Ilkit
+  - Adriaana Jacobs
+  - Karin Jacobs
+  - Cong Jiang
+  - Maria Del Mar Jimenez-Gasco
+  - Seogchan Kang
+  - Matthew T Kasson
+  - Kemal Kazan
+  - John Carlyle Kennell
+  - HyeSeon Kim
+  - Harold Corby Kistler
+  - Gretchen A Kuldau
+  - Tomasz Kulik
+  - Oliver Kurzai
+  - Imane Laraba
+  - Matthew H Laurence
+  - Theresa Yun Lee
+  - Yin-Won Lee
+  - Yong-Hwan Lee
+  - John F Leslie
+  - Edward C Y Liew
+  - Lily W Lofton
+  - Antonio Logrieco
+  - "Manuel S\xE1nchez L\xF3pez-Berges"
+  - Alicia Graciela Luque
+  - "Erik Lys\xF8e"
+  - Li-Jun Ma
+  - Robert E Marra
+  - Frank N Martin
+  - Sara Ruth May
+  - Susan McCormick
+  - Chyanna T McGee
+  - Jacques F Meis
+  - Quirico Migheli
+  - Nik Mohd Izham Mohamed Nor
+  - Michel Monod
+  - Antonio Moretti
+  - Diane Mostert
+  - "Giuseppina Mul\xE9"
+  - "Fran\xE7oise Munaut"
+  - Gary P Munkvold
+  - Paul Nicholson
+  - Marcio Nucci
+  - Kerry O'Donnell
+  - Matias Pasquali
+  - Ludwig H Pfenning
+  - Anna Prigitano
+  - Robert Proctor
+  - "St\xE9phane Ranque"
+  - Stephen Rehner
+  - Martijn Rep
+  - "Gerardo Rodr\xEDguez-Alvarado"
+  - Lindy J Rose
+  - Mitchell George Roth
+  - "Carmen Ruiz-Rold\xE1n"
+  - Amgad A Saleh
+  - Baharuddin Salleh
+  - Hyunkyu Sang
+  - Mercedes Scandiani
+  - Jonathan Scauflaire
+  - David Schmale
+  - Dylan Pg Short
+  - "Adnan \u0160i\u0161i\u0107"
+  - Jason Smith
+  - Christopher W Smyth
+  - Hokyoung Son
+  - Ellie Spahr
+  - Jason E Stajich
+  - Emma Steenkamp
+  - Christian Steinberg
+  - Rajagopal Subramaniam
+  - Haruhisa Suga
+  - Brett Anthony Summerell
+  - Antonella Susca
+  - Cassandra Lynn Swett
+  - Christopher Toomajian
+  - Terry Jarianna Torres-Cruz
+  - Anna Maria Tortorano
+  - Martin Urban
+  - Lisa J Vaillancourt
+  - Gary E Vallad
+  - Theo van der Lee
+  - Dan Vanderpool
+  - Anne D van Diepeningen
+  - Martha Vaughan
+  - Eduard Venter
+  - Marcele Vermeulen
+  - Paul E Verweij
+  - Altus Viljoen
+  - Cees Waalwijk
+  - Emma C Wallace
+  - Grit Walther
+  - Jie Wang
+  - Todd Ward
+  - Brian Wickes
+  - Nathan P Wiederhold
+  - Michael J Wingfield
+  - Ana K M Wood
+  - Jin-Rong Xu
+  - X B Yang
+  - Tapani Yli-Matilla
+  - Sung-Hwan Yun
+  - Latiffah Zakaria
+  - Hao Zhang
+  - Ning Zhang
+  - Sean Zhang
+  - Xue Zhang
+  publisher: Phytopathology
+  date: '2020-11-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33200960
+  tags:
+  - phylogenomics
+  - Fusarium
+- id: pmid:33155518
+  title: 'A novel '
+  authors:
+  - "Jo\xE3o Eudes Filho"
+  - Isabele Barbieri Dos Santos
+  - "Carm\xE9lia Matos Santiago Reis"
+  - "Jos\xE9 Salvatore Leister Patan\xE9"
+  - Verenice Paredes
+  - "Jo\xE3o Paulo Romualdo Alarc\xE3o Bernardes"
+  - Sabrina Dos Santos Costa Poggiani
+  - "Talita de C\xE1ssia Borges Castro"
+  - Oscar Mauricio Gomez
+  - Sandro Antonio Pereira
+  - Edvar Yuri Pacheco Schubach
+  - Kamila Peres Gomes
+  - Heidi Mavengere
+  - Lucas Gomes de Brito Alves
+  - Joaquim Lucas
+  - Hugo Costa Paes
+  - "Patr\xEDcia Albuquerque"
+  - "Laur\xEDcio Monteiro Cruz"
+  - Juan G McEwen
+  - Jason E Stajich
+  - Rodrigo Almeida-Paes
+  - "Rosely Maria Zancop\xE9-Oliveira"
+  - Daniel R Matute
+  - Bridget M Barker
+  - Maria Sueli Soares Felipe
+  - Marcus de Melo Teixeira
+  - "Andr\xE9 Moraes Nicola"
+  publisher: Emerging microbes & infections
+  date: '2020-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33155518
+  tags:
+  - Sporothrix
+  - genome
+  - comparative genomics
+- id: pmid:33138786
+  title: Clustering analysis of large-scale phenotypic data in the model filamentous
+    fungus Neurospora crassa.
+  authors:
+  - Alexander J Carrillo
+  - Ilva E Cabrera
+  - Marko J Spasojevic
+  - Patrick Schacht
+  - Jason E Stajich
+  - Katherine A Borkovich
+  publisher: BMC genomics
+  date: '2020-11-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33138786
+  tags:
+  - Neurospora
+  - phenotype
+- id: pmid:33020276
+  title: Genomic diversity generated by a transposable element burst in a rice recombinant
+    inbred population.
+  authors:
+  - Jinfeng Chen
+  - Lu Lu
+  - Sofia M C Robb
+  - Matthew Collin
+  - Yutaka Okumoto
+  - Jason E Stajich
+  - Susan R Wessler
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2020-10-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33020276
+  tags:
+  - Rice
+  - transposon
+  - mPing
+- id: pmid:32938701
+  title: 'No to '
+  authors:
+  - Kerry O'Donnell
+  - Abdullah M S Al-Hatmi
+  - Takayuki Aoki
+  - "Bal\xE1zs Brankovics"
+  - "Jos\xE9 F Cano-Lira"
+  - Jeffrey J Coleman
+  - G Sybren de Hoog
+  - Antonio Di Pietro
+  - Rasmus J N Frandsen
+  - David M Geiser
+  - Connie F C Gibas
+  - Josep Guarro
+  - Hye-Seon Kim
+  - H Corby Kistler
+  - Imane Laraba
+  - John F Leslie
+  - "Manuel S L\xF3pez-Berges"
+  - "Erik Lys\xF8e"
+  - Jacques F Meis
+  - Michel Monod
+  - Robert H Proctor
+  - Martijn Rep
+  - "Carmen Ruiz-Rold\xE1n"
+  - "Adnan \u0160i\u0161i\u0107"
+  - Jason E Stajich
+  - Emma T Steenkamp
+  - Brett A Summerell
+  - Theo A J van der Lee
+  - Anne D van Diepeningen
+  - Paul E Verweij
+  - Cees Waalwijk
+  - Todd J Ward
+  - Brian L Wickes
+  - Nathan P Wiederhold
+  - Michael J Wingfield
+  - Ning Zhang
+  - Sean X Zhang
+  publisher: mSphere
+  date: '2020-09-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32938701
+  tags:
+  - Fusarium
+  - phylogeny
+  - taxonomy
+  - systematics
+- id: pmid:32902066
+  title: Belowground impacts of alpine woody encroachment are determined by plant
+    traits, local climate, and soil conditions.
+  authors:
+  - Courtney G Collins
+  - Marko J Spasojevic
+  - "Concepci\xF3n L Alados"
+  - Emma L Aronson
+  - Juan C Benavides
+  - Nicoletta Cannone
+  - Chatrina Caviezel
+  - Oriol Grau
+  - Hui Guo
+  - Gaku Kudo
+  - Nikolas J Kuhn
+  - "Jana M\xFCllerov\xE1"
+  - Michala L Phillips
+  - Nuttapon Pombubpa
+  - "Fr\xE9d\xE9rique Reverchon"
+  - Hannah B Shulman
+  - Jason E Stajich
+  - Alexia Stokes
+  - "S\xF6ren E Weber"
+  - Jeffrey M Diez
+  publisher: Global change biology
+  date: '2020-10-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32902066
+  tags:
+  - soil microbiome
+  - ITS
+  - 16S
+  - amplicon
+  - environmental microbiology
+- id: pmid:32900807
+  title: Survey of Early-Diverging Lineages of Fungi Reveals Abundant and Diverse
+    Mycoviruses.
+  authors:
+  - J M Myers
+  - A E Bonds
+  - R A Clemons
+  - N A Thapa
+  - D R Simmons
+  - D Carter-House
+  - J Ortanez
+  - P Liu
+  - "A Miralles-Dur\xE1n"
+  - "A Desir\xF2"
+  - J E Longcore
+  - G Bonito
+  - J E Stajich
+  - J W Spatafora
+  - Y Chang
+  - L M Corrochano
+  - A Gryganskyi
+  - I V Grigoriev
+  - T Y James
+  publisher: mBio
+  date: '2020-09-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32900807
+  tags:
+  - mycovirus
+  - chytrid
+  - zygomycete
+  - virus
+- id: pmid:32883786
+  title: 'Best Practices for Successfully Writing and Publishing a Genome Announcement
+    in '
+  authors:
+  - Julie C Dunning Hotopp
+  - David A Baltrus
+  - Vincent M Bruno
+  - John J Dennehy
+  - Steven R Gill
+  - Julia A Maresca
+  - Jelle Matthijnssens
+  - Irene L G Newton
+  - Catherine Putonti
+  - David A Rasko
+  - Antonis Rokas
+  - Simon Roux
+  - Jason E Stajich
+  - Kenneth M Stedman
+  - Frank J Stewart
+  - J Cameron Thrash
+  publisher: Microbiology resource announcements
+  date: '2020-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32883786
+  tags:
+  - review
+  - MRA
+- id: pmid:32727924
+  title: 'Phylogenomic Analyses of Non-Dikarya Fungi Supports Horizontal Gene Transfer
+    Driving Diversification of Secondary Metabolism in the Amphibian Gastrointestinal
+    Symbiont, '
+  authors:
+  - Javier F Tabima
+  - Ian A Trautman
+  - Ying Chang
+  - Yan Wang
+  - Stephen Mondo
+  - Alan Kuo
+  - Asaf Salamov
+  - Igor V Grigoriev
+  - Jason E Stajich
+  - Joseph W Spatafora
+  publisher: G3 (Bethesda, Md.)
+  date: '2020-09-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32727924
+  tags:
+  - phylogenomics
+  - Basidiobolus
+  - HGT
+  - fungi
+  - zygomycete
+- id: pmid:32660385
+  title: Toward a Fully Resolved Fungal Tree of Life.
+  authors:
+  - Timothy Y James
+  - Jason E Stajich
+  - Chris Todd Hittinger
+  - Antonis Rokas
+  publisher: Annual review of microbiology
+  date: '2020-07-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32660385
+  tags:
+  - review
+  - fungi
+  - phylogeny
+  - phylogenomics
+- id: pmid:32585947
+  title: Uncovered Microbial Diversity in Antarctic Cryptoendolithic Communities Sampling
+    three Representative Locations of the Victoria Land.
+  authors:
+  - Claudia Coleine
+  - Nuttapon Pombubpa
+  - Laura Zucconi
+  - Silvano Onofri
+  - Benedetta Turchetti
+  - Pietro Buzzini
+  - Jason E Stajich
+  - Laura Selbmann
+  publisher: Microorganisms
+  date: '2020-06-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32585947
+  tags:
+  - amplicon
+  - culture
+  - Antarctica
+  - endoliths
+- id: pmid:32573682
+  title: 'Insights into dryland biocrust microbiome: geography, soil depth and crust
+    type affect biocrust microbial communities and networks in Mojave Desert, USA.'
+  authors:
+  - Nuttapon Pombubpa
+  - Nicole Pietrasiak
+  - Paul De Ley
+  - Jason E Stajich
+  publisher: FEMS microbiology ecology
+  date: '2020-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32573682
+  tags:
+  - amplicon
+  - ITS
+  - 16S
+  - fungi
+  - aridlands
+  - biological crust
+- id: pmid:32555716
+  title: 'Behavioral betrayal: How select fungal parasites enlist living insects to
+    do their bidding.'
+  authors:
+  - Brian Lovett
+  - Angie Macias
+  - Jason E Stajich
+  - John Cooley
+  - "J\xF8rgen Eilenberg"
+  - Henrik H de Fine Licht
+  - Matt T Kasson
+  publisher: PLoS pathogens
+  date: '2020-06-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32555716
+  tags:
+  - insect fungal interactions
+  - review
+  - zygomycete
+  - Entomophthomycotina
+- id: pmid:32412847
+  title: 'Evolutionary relationships among '
+  authors:
+  - Angie M Macias
+  - David M Geiser
+  - Jason E Stajich
+  - "Piotr \u0141ukasik"
+  - Claudio Veloso
+  - DeAnna C Bublitz
+  - Matthew C Berger
+  - Greg R Boyce
+  - Kathie Hodge
+  - Matt T Kasson
+  publisher: Mycologia
+  date: '2020-05-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32412847
+  tags:
+  - Massospora
+  - zygomycete
+  - systematics
+  - Entomophthomycotina
+- id: pmid:32389308
+  title: Peculiar genomic traits in the stress-adapted cryptoendolithic Antarctic
+    fungus Friedmanniomyces endolithicus.
+  authors:
+  - Claudia Coleine
+  - Sawyer Masonjones
+  - Katja Sterflinger
+  - Silvano Onofri
+  - Laura Selbmann
+  - Jason E Stajich
+  publisher: Fungal biology
+  date: '2020-01-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32389308
+  tags:
+  - Friemannomyces
+  - black yeast
+  - Antarctica
+  - genome
+- id: pmid:32371596
+  title: Threats Posed by the Fungal Kingdom to Humans, Wildlife, and Agriculture.
+  authors:
+  - Matthew C Fisher
+  - Sarah J Gurr
+  - Christina A Cuomo
+  - David S Blehert
+  - Hailing Jin
+  - Eva H Stukenbrock
+  - Jason E Stajich
+  - Regine Kahmann
+  - Charles Boone
+  - David W Denning
+  - Neil A R Gow
+  - Bruce S Klein
+  - James W Kronstad
+  - Donald C Sheppard
+  - John W Taylor
+  - Gerard D Wright
+  - Joseph Heitman
+  - Arturo Casadevall
+  - Leah E Cowen
+  publisher: mBio
+  date: '2020-05-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32371596
+  tags:
+  - review
+  - fungi
+  - disease
+  - wildlife disease
+- id: pmid:32241854
+  title: 'Draft Genome Sequence of the Yeast '
+  authors:
+  - Claudia Coleine
+  - Sawyer Masonjones
+  - Silvano Onofri
+  - Laura Selbmann
+  - Jason E Stajich
+  publisher: Microbiology resource announcements
+  date: '2020-04-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32241854
+  tags:
+  - genome
+  - Rhodotorula
+  - Antarctica
+- id: pmid:32161129
+  title: Natural diversity in the predatory behavior facilitates the establishment
+    of a robust model strain for nematode-trapping fungi.
+  authors:
+  - Ching-Ting Yang
+  - Guillermo Vidal-Diez de Ulzurrun
+  - "A Pedro Gon\xE7alves"
+  - Hung-Che Lin
+  - Ching-Wen Chang
+  - Tsung-Yu Huang
+  - Sheng-An Chen
+  - Cheng-Kuo Lai
+  - Isheng J Tsai
+  - Frank C Schroeder
+  - Jason E Stajich
+  - Yen-Ping Hsueh
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2020-03-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32161129
+  tags:
+  - nematode trapping fungi
+  - genome
+  - population genomics
+- id: pmid:32139564
+  title: Metagenomes in the Borderline Ecosystems of the Antarctic Cryptoendolithic
+    Communities.
+  authors:
+  - Claudia Coleine
+  - Davide Albanese
+  - Silvano Onofri
+  - Susannah G Tringe
+  - Christa Pennacchio
+  - Claudio Donati
+  - Jason E Stajich
+  - Laura Selbmann
+  publisher: Microbiology resource announcements
+  date: '2020-03-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32139564
+  tags:
+  - metagenomics
+  - endoliths
+  - Antarctica
+- id: pmid:32041249
+  title: Endolithic Fungal Species Markers for Harshest Conditions in the McMurdo
+    Dry Valleys, Antarctica.
+  authors:
+  - Claudia Coleine
+  - Nuttapon Pombubpa
+  - Laura Zucconi
+  - Silvano Onofri
+  - Jason E Stajich
+  - Laura Selbmann
+  publisher: Life (Basel, Switzerland)
+  date: '2020-02-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32041249
+  tags:
+  - Antarctica
+  - endoliths
+  - fungi
+  - amplicon
+- id: pmid:31900675
+  title: Airborne fungi spores distribution in various locations in Lagos, Nigeria.
+  authors:
+  - Adeyinka Odebode
+  - Adedotun Adekunle
+  - Jason Stajich
+  - Peter Adeonipekun
+  publisher: Environmental monitoring and assessment
+  date: '2020-01-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31900675
+  tags:
+  - Africa
+  - spore
+  - fungi
+- id: pmid:31871487
+  title: 'Diversity and function of fungi associated with the fungivorous millipede, '
+  authors:
+  - Angie M Macias
+  - Paul E Marek
+  - Ember M Morrissey
+  - Michael S Brewer
+  - Dylan P G Short
+  - Cameron M Stauder
+  - Kristen L Wickert
+  - Matthew C Berger
+  - Amy M Metheny
+  - Jason E Stajich
+  - Greg Boyce
+  - Rita V M Rio
+  - Daniel G Panaccione
+  - Victoria Wong
+  - Tappey H Jones
+  - Matt T Kasson
+  publisher: Fungal ecology
+  date: '2019-07-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31871487
+  tags:
+  - millipede
+  - culture-based
+  - zygomycete
+- id: pmid:31768192
+  title: Psychoactive plant- and mushroom-associated alkaloids from two behavior modifying
+    cicada pathogens.
+  authors:
+  - Greg R Boyce
+  - Emile Gluck-Thaler
+  - Jason C Slot
+  - Jason E Stajich
+  - William J Davis
+  - Tim Y James
+  - John R Cooley
+  - Daniel G Panaccione
+  - "J\xF8rgen Eilenberg"
+  - Henrik H De Fine Licht
+  - Angie M Macias
+  - Matthew C Berger
+  - Kristen L Wickert
+  - Cameron M Stauder
+  - Ellie J Spahr
+  - Matthew D Maust
+  - Amy M Metheny
+  - Chris Simon
+  - Gene Kritsky
+  - Kathie T Hodge
+  - Richard A Humber
+  - Terry Gullion
+  - Dylan P G Short
+  - Teiya Kijimoto
+  - Dan Mozgai
+  - Nidia Arguedas
+  - Matt T Kasson
+  publisher: Fungal ecology
+  date: '2019-06-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31768192
+  tags:
+  - Massospora
+  - zygomycete
+  - genome
+  - insect fungal interactions
+- id: pmid:31647694
+  title: 'Probe-Based Multiplex Real-Time PCR as a Diagnostic Tool to Distinguish
+    Distinct Fungal Symbionts Associated With '
+  authors:
+  - Joseph D Carrillo
+  - Joey S Mayorquin
+  - Jason E Stajich
+  - Akif Eskalen
+  publisher: Plant disease
+  date: '2019-10-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31647694
+  tags:
+  - Fusarium
+  - plant pathology
+  - tool
+- id: pmid:31632357
+  title: 'Microfluidics and Metabolomics Reveal Symbiotic Bacterial-Fungal Interactions
+    Between '
+  authors:
+  - Jessie K Uehling
+  - Matthew R Entler
+  - Hannah R Meredith
+  - Larry J Millet
+  - Collin M Timm
+  - Jayde A Aufrecht
+  - Gregory M Bonito
+  - Nancy L Engle
+  - "Jessy L Labb\xE9"
+  - Mitchel J Doktycz
+  - Scott T Retterer
+  - Joseph W Spatafora
+  - Jason E Stajich
+  - Timothy J Tschaplinski
+  - Rytas J Vilgalys
+  publisher: Frontiers in microbiology
+  date: '2019-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31632357
+  tags:
+  - zygomycete
+  - tool
+  - bacteria fungi interactions
+- id: pmid:31548684
+  title: Fungal biofilm morphology impacts hypoxia fitness and disease progression.
+  authors:
+  - Caitlin H Kowalski
+  - Joshua D Kerkaert
+  - Ko-Wei Liu
+  - Matthew C Bond
+  - Raimo Hartmann
+  - Carey D Nadell
+  - Jason E Stajich
+  - Robert A Cramer
+  publisher: Nature microbiology
+  date: '2019-09-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31548684
+  tags:
+  - Aspergillus fumigatus
+  - biofilm
+  - disease
+  - hypoxia
+- id: pmid:31518652
+  title: Members of the Euwallacea fornicatus species complex exhibit promiscuous
+    mutualism with ambrosia fungi in Taiwan.
+  authors:
+  - Joseph D Carrillo
+  - Paul F Rugman-Jones
+  - Deena Husein
+  - Jason E Stajich
+  - Matt T Kasson
+  - Daniel Carrillo
+  - Richard Stouthamer
+  - Akif Eskalen
+  publisher: 'Fungal genetics and biology : FG & B'
+  date: '2019-09-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31518652
+  tags:
+  - Fusarium
+  - avocado
+  - plant pathology
+- id: pmid:31488541
+  title: 'Future-Proofing Your '
+  authors:
+  - David A Baltrus
+  - Christina A Cuomo
+  - John J Dennehy
+  - Julie C Dunning Hotopp
+  - Julia A Maresca
+  - Irene L G Newton
+  - David A Rasko
+  - Antonis Rokas
+  - Simon Roux
+  - Jason E Stajich
+  publisher: Microbiology resource announcements
+  date: '2019-09-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31488541
+  tags:
+  - review
+  - MRA
+- id: pmid:31455637
+  title: Molecular Dating of the Emergence of Anaerobic Rumen Fungi and the Impact
+    of Laterally Acquired Genes.
+  authors:
+  - Yan Wang
+  - Noha H Youssef
+  - Matthew Brian Couger
+  - Radwa A Hanafy
+  - Mostafa S Elshahed
+  - Jason E Stajich
+  publisher: mSystems
+  date: '2019-08-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31455637
+  tags:
+  - HGT
+  - systematics
+  - AGF
+  - Neocallimastigomycota
+  - transcriptome
+- id: pmid:31416856
+  title: 'Improved Reference Genome Sequence of '
+  authors:
+  - Marcus de Melo Teixeira
+  - Bridget Marie Barker
+  - Jason E Stajich
+  publisher: Microbiology resource announcements
+  date: '2019-08-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31416856
+  tags:
+  - genome
+  - coccidioides
+- id: pmid:31393667
+  title: Altitude and fungal diversity influence the structure of Antarctic cryptoendolithic
+    Bacteria communities.
+  authors:
+  - Claudia Coleine
+  - Jason E Stajich
+  - Nuttapon Pombubpa
+  - Laura Zucconi
+  - Silvano Onofri
+  - Fabiana Canini
+  - Laura Selbmann
+  publisher: Environmental microbiology reports
+  date: '2019-08-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31393667
+  tags:
+  - Antarctica
+  - amplicon
+  - ITS
+  - 16S
+- id: pmid:31156574
+  title: Proteomic and Metabolomic Characteristics of Extremophilic Fungi Under Simulated
+    Mars Conditions.
+  authors:
+  - Adriana Blachowicz
+  - Abby J Chiang
+  - Andreas Elsaesser
+  - Markus Kalkum
+  - Pascale Ehrenfreund
+  - Jason E Stajich
+  - Tamas Torok
+  - Clay C C Wang
+  - Kasthuri Venkateswaran
+  publisher: Frontiers in microbiology
+  date: '2019-05-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31156574
+  tags:
+  - proteomics
+  - black yeast
+  - extremophile
+- id: pmid:31126947
+  title: Horizontal Gene Transfer as an Indispensable Driver for Evolution of Neocallimastigomycota
+    into a Distinct Gut-Dwelling Fungal Lineage.
+  authors:
+  - Chelsea L Murphy
+  - Noha H Youssef
+  - Radwa A Hanafy
+  - M B Couger
+  - Jason E Stajich
+  - Yan Wang
+  - Kristina Baker
+  - Sumit S Dagar
+  - Gareth W Griffith
+  - Ibrahim F Farag
+  - T M Callaghan
+  - Mostafa S Elshahed
+  publisher: Applied and environmental microbiology
+  date: '2019-07-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31126947
+  tags:
+  - HGT
+  - Neocallimastigomycota
+  - AGF
+- id: pmid:31072892
+  title: 'Draft Genome Sequence of an Antarctic Isolate of the Black Yeast Fungus '
+  authors:
+  - Claudia Coleine
+  - Laura Selbmann
+  - Sawyer Masonjones
+  - Silvano Onofri
+  - Laura Zucconi
+  - Jason E Stajich
+  publisher: Microbiology resource announcements
+  date: '2019-05-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31072892
+  tags:
+  - Exophiala
+  - extremophile
+  - Antarctica
+- id: pmid:30987585
+  title: 'FGMP: assessing fungal genome completeness.'
+  authors:
+  - "Ousmane H Ciss\xE9"
+  - Jason E Stajich
+  publisher: BMC bioinformatics
+  date: '2019-04-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30987585
+  tags:
+  - tool
+  - genomics
+- id: pmid:30837337
+  title: 'Fungi in the Marine Environment: Open Questions and Unsolved Problems.'
+  authors:
+  - Anthony Amend
+  - Gaetan Burgaud
+  - Michael Cunliffe
+  - Virginia P Edgcomb
+  - Cassandra L Ettinger
+  - "M H Guti\xE9rrez"
+  - Joseph Heitman
+  - Erik F Y Hom
+  - Giuseppe Ianiri
+  - Adam C Jones
+  - Maiko Kagami
+  - Kathryn T Picard
+  - C Alisha Quandt
+  - Seshagiri Raghukumar
+  - Mertixell Riquelme
+  - Jason Stajich
+  - "Jos\xE9 Vargas-Mu\xF1iz"
+  - Allison K Walker
+  - Oded Yarden
+  - Amy S Gladfelter
+  publisher: mBio
+  date: '2019-03-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30837337
+  tags:
+  - review
+  - marine fungi
+- id: pmid:30778188
+  title: Diversity of cytosine methylation across the fungal tree of life.
+  authors:
+  - Adam J Bewick
+  - Brigitte T Hofmeister
+  - Rob A Powers
+  - Stephen J Mondo
+  - Igor V Grigoriev
+  - Timothy Y James
+  - Jason E Stajich
+  - Robert J Schmitz
+  publisher: Nature ecology & evolution
+  date: '2019-02-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30778188
+  tags:
+  - epigenetics
+  - fungi
+  - 5mC
+  - methylation
+- id: pmid:30733435
+  title: Tracking the origin of two genetic components associated with transposable
+    element bursts in domesticated rice.
+  authors:
+  - Jinfeng Chen
+  - Lu Lu
+  - Jazmine Benjamin
+  - Stephanie Diaz
+  - C Nathan Hancock
+  - Jason E Stajich
+  - Susan R Wessler
+  publisher: Nature communications
+  date: '2019-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30733435
+  tags:
+  - transposon
+  - Rice
+  - mPing
+- id: pmid:30701257
+  title: Genome Sequence of a Lethal Vascular Wilt Fungus, Verticillium nonalfalfae,
+    a Biological Control Used Against the Invasive Ailanthus altissima.
+  authors:
+  - Matt T Kasson
+  - Lindsay R Kasson
+  - Kristen L Wickert
+  - Donald D Davis
+  - Jason E Stajich
+  publisher: Microbiology resource announcements
+  date: '2019-01-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30701257
+  tags:
+  - Verticllium
+  - genome
+- id: pmid:30697917
+  title: "Pyricularia graminis-tritici is not the correct species name for the wheat\
+    \ blast fungus: response to Ceresini et\_al. (MPP 20:2)."
+  authors:
+  - Barbara Valent
+  - Mark Farman
+  - Yukio Tosa
+  - Dominik Begerow
+  - Elisabeth Fournier
+  - Pierre Gladieux
+  - M Tofazzal Islam
+  - Sophien Kamoun
+  - Martin Kemler
+  - Linda M Kohn
+  - Marc-Henri Lebrun
+  - Jason E Stajich
+  - Nicholas J Talbot
+  - Ryohei Terauchi
+  - Didier Tharreau
+  - Ning Zhang
+  publisher: Molecular plant pathology
+  date: '2019-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30697917
+  tags:
+  - systematics
+- id: pmid:30673440
+  title: Two Novel Fungal Symbionts Fusarium kuroshium sp. nov. and Graphium kuroshium
+    sp. nov. of Kuroshio Shot Hole Borer (Euwallacea sp. nr. fornicatus) Cause Fusarium
+    Dieback on Woody Host Species in California.
+  authors:
+  - Francis Na
+  - Joseph D Carrillo
+  - Joey S Mayorquin
+  - Cedric Ndinga-Muniania
+  - Jason E Stajich
+  - Richard Stouthamer
+  - Yin-Tse Huang
+  - Yu-Ting Lin
+  - Chi-Yu Chen
+  - Akif Eskalen
+  publisher: Plant disease
+  date: '2018-04-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30673440
+  tags:
+  - Fusarium kuroshium
+  - avocado
+  - AFC
+- id: pmid:30639767
+  title: Genome-scale phylogenetics reveals a monophyletic Zoopagales (Zoopagomycota,
+    Fungi).
+  authors:
+  - William J Davis
+  - Kevin R Amses
+  - Gerald L Benny
+  - Derreck Carter-House
+  - Ying Chang
+  - Igor Grigoriev
+  - Matthew E Smith
+  - Joseph W Spatafora
+  - Jason E Stajich
+  - Timothy Y James
+  publisher: Molecular phylogenetics and evolution
+  date: '2019-01-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30639767
+  tags:
+  - Zoopagales
+  - Zoopagomycota
+  - zygomycete
+  - phylogenomics
+  - systematics
+- id: pmid:30539259
+  title: International Space Station conditions alter genomics, proteomics, and metabolomics
+    in Aspergillus nidulans.
+  authors:
+  - Jillian Romsdahl
+  - Adriana Blachowicz
+  - Abby J Chiang
+  - Yi-Ming Chiang
+  - Sawyer Masonjones
+  - Junko Yaegashi
+  - Stefanie Countryman
+  - Fathi Karouia
+  - Markus Kalkum
+  - Jason E Stajich
+  - Kasthuri Venkateswaran
+  - Clay C C Wang
+  publisher: Applied microbiology and biotechnology
+  date: '2018-12-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30539259
+  tags:
+  - Aspergillus nidulans
+  - proteomics
+  - space fungi
+  - ISS
+- id: pmid:30485448
+  title: Phylogenomics of Endogonaceae and evolution of mycorrhizas within Mucoromycota.
+  authors:
+  - Ying Chang
+  - "Alessandro Desir\xF2"
+  - Hyunsoo Na
+  - Laura Sandor
+  - Anna Lipzen
+  - Alicia Clum
+  - Kerrie Barry
+  - Igor V Grigoriev
+  - Francis M Martin
+  - Jason E Stajich
+  - Matthew E Smith
+  - Gregory Bonito
+  - Joseph W Spatafora
+  publisher: The New phytologist
+  date: '2019-01-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30485448
+  tags:
+  - phylogenomics
+  - systematics
+  - zygomycete
+  - Endogone
+- id: pmid:30389707
+  title: 'Evolution of drug resistance in an antifungal-naive chronic '
+  authors:
+  - Elora G Demers
+  - Amy R Biermann
+  - Sawyer Masonjones
+  - Alex W Crocker
+  - Alix Ashare
+  - Jason E Stajich
+  - Deborah A Hogan
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2018-11-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30389707
+  tags:
+  - Candida
+  - Clavispora lustianiae
+  - drug resistance
+- id: pmid:30293061
+  title: Parasitoid Jewel Wasp Mounts Multipronged Neurochemical Attack to Hijack
+    a Host Brain.
+  authors:
+  - Ryan Arvidson
+  - Maayan Kaiser
+  - Sang Soo Lee
+  - Jean-Paul Urenda
+  - Christopher Dail
+  - Haroun Mohammed
+  - Cebrina Nolan
+  - Songqin Pan
+  - Jason E Stajich
+  - Frederic Libersat
+  - Michael E Adams
+  publisher: 'Molecular & cellular proteomics : MCP'
+  date: '2018-10-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30293061
+  tags:
+  - insect
+  - RNA-seq
+  - venom
+- id: pmid:30246146
+  title: Characterization of Aspergillus niger Isolated from the International Space
+    Station.
+  authors:
+  - Jillian Romsdahl
+  - Adriana Blachowicz
+  - Abby J Chiang
+  - Nitin Singh
+  - Jason E Stajich
+  - Markus Kalkum
+  - Kasthuri Venkateswaran
+  - Clay C C Wang
+  publisher: mSystems
+  date: '2018-09-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30246146
+  tags:
+  - Aspergillus niger
+  - population genomics
+  - ISS
+  - space fungi
+- id: pmid:30111619
+  title: Early Diverging Insect-Pathogenic Fungi of the Order Entomophthorales Possess
+    Diverse and Unique Subtilisin-Like Serine Proteases.
+  authors:
+  - Jonathan A Arnesen
+  - "Joanna Ma\u0142agocka"
+  - Andrii Gryganskyi
+  - Igor V Grigoriev
+  - Kerstin Voigt
+  - Jason E Stajich
+  - Henrik H De Fine Licht
+  publisher: G3 (Bethesda, Md.)
+  date: '2018-10-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30111619
+  tags:
+  - Entomophthomycotina
+  - protease
+  - Entomopthora muscae
+- id: pmid:30016947
+  title: 'Comparative analysis reveals unexpected genome features of newly isolated
+    Thraustochytrids strains: on ecological function and PUFAs biosynthesis.'
+  authors:
+  - Zhiquan Song
+  - Jason E Stajich
+  - Yunxuan Xie
+  - Xianhua Liu
+  - Yaodong He
+  - Jinfeng Chen
+  - Glenn R Hicks
+  - Guangyi Wang
+  publisher: BMC genomics
+  date: '2018-07-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30016947
+  tags:
+  - genome
+  - Thraustochytrid
+  - comparative genomics
+- id: pmid:30008702
+  title: Antarctic Cryptoendolithic Fungal Communities Are Highly Adapted and Dominated
+    by Lecanoromycetes and Dothideomycetes.
+  authors:
+  - Claudia Coleine
+  - Jason E Stajich
+  - Laura Zucconi
+  - Silvano Onofri
+  - Nuttapon Pombubpa
+  - Eleonora Egidi
+  - Ashley Franks
+  - Pietro Buzzini
+  - Laura Selbmann
+  publisher: Frontiers in microbiology
+  date: '2018-06-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30008702
+  tags:
+  - unclassified
+- id: pmid:29865244
+  title: Sun Exposure Shapes Functional Grouping of Fungi in Cryptoendolithic Antarctic
+    Communities.
+  authors:
+  - Claudia Coleine
+  - Laura Zucconi
+  - Silvano Onofri
+  - Nuttapon Pombubpa
+  - Jason E Stajich
+  - Laura Selbmann
+  publisher: Life (Basel, Switzerland)
+  date: '2018-06-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29865244
+  tags:
+  - unclassified
+- id: pmid:29764946
+  title: Comparative Genomics Reveals the Core Gene Toolbox for the Fungus-Insect
+    Symbiosis.
+  authors:
+  - Yan Wang
+  - Matt Stata
+  - Wei Wang
+  - Jason E Stajich
+  - Merlin M White
+  - Jean-Marc Moncalvo
+  publisher: mBio
+  date: '2018-05-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29764946
+  tags:
+  - unclassified
+- id: pmid:29764372
+  title: Genomic evidence for intraspecific hybridization in a clonal and extremely
+    halotolerant yeast.
+  authors:
+  - "Cene Gostin\u010Dar"
+  - Jason E Stajich
+  - "Jerneja Zupan\u010Di\u010D"
+  - Polona Zalar
+  - Nina Gunde-Cimerman
+  publisher: BMC genomics
+  date: '2018-05-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29764372
+  tags:
+  - unclassified
+- id: pmid:29739910
+  title: 'Comparative Population Genomics Analysis of the Mammalian Fungal Pathogen '
+  authors:
+  - "Ousmane H Ciss\xE9"
+  - Liang Ma
+  - Da Wei Huang
+  - Pavel P Khil
+  - John P Dekker
+  - Geetha Kutty
+  - Lisa Bishop
+  - Yueqin Liu
+  - Xilong Deng
+  - Philippe M Hauser
+  - Marco Pagni
+  - Vanessa Hirsch
+  - Richard A Lempicki
+  - Jason E Stajich
+  - Christina A Cuomo
+  - Joseph A Kovacs
+  publisher: mBio
+  date: '2018-05-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29739910
+  tags:
+  - unclassified
+- id: pmid:29675967
+  title: Shrub range expansion alters diversity and distribution of soil fungal communities
+    across an alpine elevation gradient.
+  authors:
+  - Courtney G Collins
+  - Jason E Stajich
+  - "S\xF6ren E Weber"
+  - Nuttapon Pombubpa
+  - Jeffrey M Diez
+  publisher: Molecular ecology
+  date: '2018-05-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29675967
+  tags:
+  - unclassified
+- id: pmid:29674435
+  title: 'Phylogenetic and Phylogenomic Definition of '
+  authors:
+  - Andrii P Gryganskyi
+  - Jacob Golan
+  - Somayeh Dolatabadi
+  - Stephen Mondo
+  - Sofia Robb
+  - Alexander Idnurm
+  - Anna Muszewska
+  - Kamil Steczkiewicz
+  - Sawyer Masonjones
+  - Hui-Ling Liao
+  - Michael T Gajdeczka
+  - Felicia Anike
+  - Antonina Vuek
+  - Iryna M Anishchenko
+  - Kerstin Voigt
+  - G Sybren de Hoog
+  - Matthew E Smith
+  - Joseph Heitman
+  - Rytas Vilgalys
+  - Jason E Stajich
+  publisher: G3 (Bethesda, Md.)
+  date: '2018-05-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29674435
+  tags:
+  - unclassified
+- id: pmid:29371508
+  title: Analysis of Transposable Elements in Coccidioides Species.
+  authors:
+  - Theo N Kirkland
+  - Anna Muszewska
+  - Jason E Stajich
+  publisher: Journal of fungi (Basel, Switzerland)
+  date: '2018-01-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29371508
+  tags:
+  - unclassified
+- id: pmid:29321239
+  title: 'Comparative genomic analysis of the ''pseudofungus'' '
+  authors:
+  - Guy Leonard
+  - "Aur\xE9lie Labarre"
+  - David S Milner
+  - Adam Monier
+  - Darren Soanes
+  - Jeremy G Wideman
+  - Finlay Maguire
+  - Sam Stevens
+  - Divya Sain
+  - "Xavier Grau-Bov\xE9"
+  - "Arnau Seb\xE9-Pedr\xF3s"
+  - Jason E Stajich
+  - Konrad Paszkiewicz
+  - Matthew W Brown
+  - Neil Hall
+  - Bill Wickstead
+  - Thomas A Richards
+  publisher: Open biology
+  date: '2018-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29321239
+  tags:
+  - unclassified
+- id: pmid:29211832
+  title: Ultra-low input transcriptomics reveal the spore functional content and phylogenetic
+    affiliations of poorly studied arbuscular mycorrhizal fungi.
+  authors:
+  - Denis Beaudet
+  - Eric C H Chen
+  - Stephanie Mathieu
+  - Gokalp Yildirir
+  - Steve Ndikumana
+  - "Yolande Dalp\xE9"
+  - "Sylvie S\xE9guin"
+  - Laurent Farinelli
+  - Jason E Stajich
+  - Nicolas Corradi
+  publisher: 'DNA research : an international journal for rapid publication of reports
+    on genes and genomes'
+  date: '2018-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29211832
+  tags:
+  - unclassified
+- id: pmid:29158416
+  title: Tracking the genome-wide outcomes of a transposable element burst over decades
+    of amplification.
+  authors:
+  - Lu Lu
+  - Jinfeng Chen
+  - Sofia M C Robb
+  - Yutaka Okumoto
+  - Jason E Stajich
+  - Susan R Wessler
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2017-11-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29158416
+  tags:
+  - unclassified
+- id: pmid:29023459
+  title: 'Chlorophyte aspartyl aminopeptidases: Ancient origins, expanded families,
+    new locations, and secondary functions.'
+  authors:
+  - Sang-Youl Park
+  - Melissa A Scranton
+  - Jason E Stajich
+  - Ashley Yee
+  - Linda L Walling
+  publisher: PloS one
+  date: '2017-10-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29023459
+  tags:
+  - unclassified
+- id: pmid:28917057
+  title: 'The Fungal Tree of Life: from Molecular Systematics to Genome-Scale Phylogenies.'
+  authors:
+  - Joseph W Spatafora
+  - M Catherine Aime
+  - Igor V Grigoriev
+  - Francis Martin
+  - Jason E Stajich
+  - Meredith Blackwell
+  publisher: Microbiology spectrum
+  date: '2017-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28917057
+  tags:
+  - unclassified
+- id: pmid:28916147
+  title: Microbial associates of the southern mole cricket (Scapteriscus borellii)
+    are highly pathogenic.
+  authors:
+  - Sudarshan K Aryal
+  - Derreck Carter-House
+  - Jason E Stajich
+  - Adler R Dillman
+  publisher: Journal of invertebrate pathology
+  date: '2017-09-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28916147
+  tags:
+  - unclassified
+- id: pmid:28876195
+  title: Bifiguratus adelaidae, gen. et sp. nov., a new member of Mucoromycotina in
+    endophytic and soil-dwelling habitats.
+  authors:
+  - Terry J Torres-Cruz
+  - Terri L Billingsley Tobias
+  - Maryam Almatruk
+  - Cedar N Hesse
+  - Cheryl R Kuske
+  - "Alessandro Desir\xF2"
+  - "Gian Maria Niccol\xF2 Benucci"
+  - Gregory Bonito
+  - Jason E Stajich
+  - Christopher Dunlap
+  - A Elizabeth Arnold
+  - Andrea Porras-Alfaro
+  publisher: Mycologia
+  date: '2017-08-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28876195
+  tags:
+  - unclassified
+- id: pmid:28820125
+  title: Fungal Genomes and Insights into the Evolution of the Kingdom.
+  authors:
+  - Jason E Stajich
+  publisher: Microbiology spectrum
+  date: '2017-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28820125
+  tags:
+  - unclassified
+- id: pmid:28684563
+  title: 'Draft Genome Sequences of the Antarctic Endolithic Fungi '
+  authors:
+  - Claudia Coleine
+  - Sawyer Masonjones
+  - Laura Selbmann
+  - Laura Zucconi
+  - Silvano Onofri
+  - Claudia Pacelli
+  - Jason E Stajich
+  publisher: Genome announcements
+  date: '2017-07-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28684563
+  tags:
+  - unclassified
+- id: pmid:28500048
+  title: 'Insight into the Recent Genome Duplication of the Halophilic Yeast '
+  authors:
+  - Sunita Sinha
+  - Stephane Flibotte
+  - Mauricio Neira
+  - Sean Formby
+  - "Ana Plemenita\u0161"
+  - Nina Gunde Cimerman
+  - Metka Lenassi
+  - "Cene Gostin\u010Dar"
+  - Jason E Stajich
+  - Corey Nislow
+  publisher: G3 (Bethesda, Md.)
+  date: '2017-07-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28500048
+  tags:
+  - unclassified
+- id: pmid:28481340
+  title: Widespread adenine N6-methylation of active genes in fungi.
+  authors:
+  - Stephen J Mondo
+  - Richard O Dannebaum
+  - Rita C Kuo
+  - Katherine B Louie
+  - Adam J Bewick
+  - Kurt LaButti
+  - Sajeet Haridas
+  - Alan Kuo
+  - Asaf Salamov
+  - Steven R Ahrendt
+  - Rebecca Lau
+  - Benjamin P Bowen
+  - Anna Lipzen
+  - William Sullivan
+  - Bill B Andreopoulos
+  - Alicia Clum
+  - Erika Lindquist
+  - Christopher Daum
+  - Trent R Northen
+  - Govindarajan Kunde-Ramamoorthy
+  - Robert J Schmitz
+  - Andrii Gryganskyi
+  - David Culley
+  - Jon Magnuson
+  - Timothy Y James
+  - Michelle A O'Malley
+  - Jason E Stajich
+  - Joseph W Spatafora
+  - Axel Visel
+  - Igor V Grigoriev
+  publisher: Nature genetics
+  date: '2017-05-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28481340
+  tags:
+  - unclassified
+- id: pmid:28462022
+  title: 'Exploring the binding properties and structural stability of an opsin in
+    the chytrid '
+  authors:
+  - Steven R Ahrendt
+  - Edgar Mauricio Medina
+  - Chia-En A Chang
+  - Jason E Stajich
+  publisher: PeerJ
+  date: '2017-04-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28462022
+  tags:
+  - unclassified
+- id: pmid:28176784
+  title: Innovation and constraint leading to complex multicellularity in the Ascomycota.
+  authors:
+  - Tu Anh Nguyen
+  - "Ousmane H Ciss\xE9"
+  - Jie Yun Wong
+  - Peng Zheng
+  - David Hewitt
+  - Minou Nowrousian
+  - Jason E Stajich
+  - Gregory Jedd
+  publisher: Nature communications
+  date: '2017-02-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28176784
+  tags:
+  - unclassified
+- id: pmid:28149701
+  title: 'RelocaTE2: a high resolution transposable element insertion site mapping
+    tool for population resequencing.'
+  authors:
+  - Jinfeng Chen
+  - Travis R Wrightsman
+  - Susan R Wessler
+  - Jason E Stajich
+  publisher: PeerJ
+  date: '2017-01-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28149701
+  tags:
+  - unclassified
+- id: pmid:30682305
+  title: PCR Multiplexes Discriminate Fusarium Symbionts of Invasive Euwallacea Ambrosia
+    Beetles that Inflict Damage on Numerous Tree Species Throughout the United States.
+  authors:
+  - Dylan P G Short
+  - Kerry O'Donnell
+  - Jason E Stajich
+  - Jiri Hulcr
+  - Teiya Kijimoto
+  - Matthew C Berger
+  - Angie M Macias
+  - Ellie J Spahr
+  - Craig C Bateman
+  - Akif Eskalen
+  - Shannon C Lynch
+  - Anthony I Cognato
+  - Miriam F Cooperband
+  - Matthew T Kasson
+  publisher: Plant disease
+  date: '2016-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30682305
+  tags:
+  - unclassified
+- id: pmid:27738200
+  title: A phylum-level phylogenetic classification of zygomycete fungi based on genome-scale
+    data.
+  authors:
+  - Joseph W Spatafora
+  - Ying Chang
+  - Gerald L Benny
+  - Katy Lazarus
+  - Matthew E Smith
+  - Mary L Berbee
+  - Gregory Bonito
+  - Nicolas Corradi
+  - Igor Grigoriev
+  - Andrii Gryganskyi
+  - Timothy Y James
+  - Kerry O'Donnell
+  - Robert W Roberson
+  - Thomas N Taylor
+  - Jessie Uehling
+  - Rytas Vilgalys
+  - Merlin M White
+  - Jason E Stajich
+  publisher: Mycologia
+  date: '2016-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27738200
+  tags:
+  - unclassified
+- id: pmid:27554660
+  title: 'Fungal Evolution: Mucor and Phycomyces See Double.'
+  authors:
+  - Jason E Stajich
+  publisher: 'Current biology : CB'
+  date: '2016-08-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27554660
+  tags:
+  - unclassified
+- id: pmid:27294409
+  title: 'Transposable Elements versus the Fungal Genome: Impact on Whole-Genome Architecture
+    and Transcriptional Profiles.'
+  authors:
+  - "Ra\xFAl Castanera"
+  - "Leticia L\xF3pez-Varas"
+  - Alessandra Borgognone
+  - Kurt LaButti
+  - Alla Lapidus
+  - Jeremy Schmutz
+  - Jane Grimwood
+  - "G\xFAmer P\xE9rez"
+  - Antonio G Pisabarro
+  - Igor V Grigoriev
+  - Jason E Stajich
+  - "Luc\xEDa Ram\xEDrez"
+  publisher: PLoS genetics
+  date: '2016-06-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27294409
+  tags:
+  - unclassified
+- id: pmid:27048799
+  title: Deacetylation of Fungal Exopolysaccharide Mediates Adhesion and Biofilm Formation.
+  authors:
+  - Mark J Lee
+  - Alexander M Geller
+  - Natalie C Bamford
+  - Hong Liu
+  - Fabrice N Gravelat
+  - Brendan D Snarr
+  - "Fran\xE7ois Le Mauff"
+  - "Jose\xE9 Chabot"
+  - Benjamin Ralph
+  - Hanna Ostapska
+  - "M\xE9lanie Lehoux"
+  - Robert P Cerone
+  - Stephanie D Baptista
+  - Evgeny Vinogradov
+  - Jason E Stajich
+  - Scott G Filler
+  - P Lynne Howell
+  - Donald C Sheppard
+  publisher: mBio
+  date: '2016-04-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27048799
+  tags:
+  - unclassified
+- id: pmid:27034999
+  title: 'Meeting Report: Fungal Genomics Meets Social  Media: Highlights of the 28th
+    Fungal Genetics  Conference at Asilomar.'
+  authors:
+  - Michelle Momany
+  - Antonio Di Pietro
+  - William G Alexander
+  - Bridget M Barker
+  - Omar S Harb
+  - Sophien Kamoun
+  - Francis Martin
+  - J Chris Pires
+  - Jason E Stajich
+  - Bart P H J Thomma
+  - Sarah Unruh
+  publisher: G3 (Bethesda, Md.)
+  date: '2015-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27034999
+  tags:
+  - unclassified
+- id: pmid:26976598
+  title: Small genome of the fungus Escovopsis weberi, a specialized disease agent
+    of ant agriculture.
+  authors:
+  - Tom J B de Man
+  - Jason E Stajich
+  - Christian P Kubicek
+  - Clotilde Teiling
+  - Komal Chenthamara
+  - Lea Atanasova
+  - Irina S Druzhinina
+  - Natasha Levenkova
+  - Stephanie S L Birnbaum
+  - Seth M Barribeau
+  - Brooke A Bozick
+  - Garret Suen
+  - Cameron R Currie
+  - Nicole M Gerardo
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2016-03-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26976598
+  tags:
+  - unclassified
+- id: pmid:26903035
+  title: Contributions of North American endophytes to the phylogeny, ecology, and
+    taxonomy of Xylariaceae (Sordariomycetes, Ascomycota).
+  authors:
+  - Jana M U'Ren
+  - Jolanta Miadlikowska
+  - Naupaka B Zimmerman
+  - "Fran\xE7ois Lutzoni"
+  - Jason E Stajich
+  - A Elizabeth Arnold
+  publisher: Molecular phylogenetics and evolution
+  date: '2016-02-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26903035
+  tags:
+  - unclassified
+- id: pmid:26305593
+  title: Cellular Subcompartments through Cytoplasmic Streaming.
+  authors:
+  - Laurent Pieuchot
+  - Julian Lai
+  - Rachel Ann Loh
+  - Fong Yew Leong
+  - Keng-Hwee Chiam
+  - Jason Stajich
+  - Gregory Jedd
+  publisher: Developmental cell
+  date: '2015-08-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26305593
+  tags:
+  - unclassified
+- id: pmid:26109355
+  title: Endogenous Small RNA Mediates Meiotic Silencing of a Novel DNA Transposon.
+  authors:
+  - Yizhou Wang
+  - Kristina M Smith
+  - John W Taylor
+  - Michael Freitag
+  - Jason E Stajich
+  publisher: G3 (Bethesda, Md.)
+  date: '2015-06-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26109355
+  tags:
+  - unclassified
+- id: pmid:25819009
+  title: Characterization of the Carbohydrate Binding Module 18 gene family in the
+    amphibian pathogen Batrachochytrium dendrobatidis.
+  authors:
+  - Peng Liu
+  - Jason E Stajich
+  publisher: 'Fungal genetics and biology : FG & B'
+  date: '2015-03-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25819009
+  tags:
+  - unclassified
+- id: pmid:25805857
+  title: 'The low information content of Neurospora splicing signals: implications
+    for RNA splicing and intron origin.'
+  authors:
+  - Richard A Collins
+  - Jason E Stajich
+  - Deborah J Field
+  - Joan E Olive
+  - Diane M DeAbreu
+  publisher: RNA (New York, N.Y.)
+  date: '2015-03-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25805857
+  tags:
+  - unclassified
+- id: pmid:25750214
+  title: Analysis of the Candida albicans Phosphoproteome.
+  authors:
+  - S D Willger
+  - Z Liu
+  - R A Olarte
+  - M E Adamo
+  - J E Stajich
+  - L C Myers
+  - A N Kettenbach
+  - D A Hogan
+  publisher: Eukaryotic cell
+  date: '2015-03-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25750214
+  tags:
+  - unclassified
+- id: pmid:25427217
+  title: 'Twenty-first century mycology: a diverse, collaborative, and highly relevant
+    science.'
+  authors:
+  - Peter Kennedy
+  - Jason Stajich
+  publisher: The New phytologist
+  date: '2015-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25427217
+  tags:
+  - unclassified
+- id: pmid:25351875
+  title: 'Comparative genomics of the major fungal agents of human and animal Sporotrichosis:
+    Sporothrix schenckii and Sporothrix brasiliensis.'
+  authors:
+  - Marcus M Teixeira
+  - Luiz G P de Almeida
+  - Paula Kubitschek-Barreira
+  - Fernanda L Alves
+  - Erika S Kioshima
+  - Ana K R Abadio
+  - Larissa Fernandes
+  - Lorena S Derengowski
+  - Karen S Ferreira
+  - Rangel C Souza
+  - Jeronimo C Ruiz
+  - Nathalia C de Andrade
+  - Hugo C Paes
+  - "Andr\xE9 M Nicola"
+  - "Patr\xEDcia Albuquerque"
+  - Alexandra L Gerber
+  - Vicente P Martins
+  - Luisa D F Peconick
+  - Alan Viggiano Neto
+  - Claudia B Chaucanez
+  - "Patr\xEDcia A Silva"
+  - Oberdan L Cunha
+  - Fabiana F M de Oliveira
+  - "Tayn\xE1 C dos Santos"
+  - Amanda L N Barros
+  - Marco A Soares
+  - Luciana M de Oliveira
+  - Marjorie M Marini
+  - "H\xE9ctor Villalobos-Duno"
+  - Marcel M L Cunha
+  - Sybren de Hoog
+  - "Jos\xE9 F da Silveira"
+  - Bernard Henrissat
+  - "Gustavo A Ni\xF1o-Vega"
+  - "Patr\xEDcia S Cisalpino"
+  - "H\xE9ctor M Mora-Montes"
+  - Sandro R Almeida
+  - Jason E Stajich
+  - Leila M Lopes-Bezerra
+  - Ana T R Vasconcelos
+  - Maria S S Felipe
+  publisher: BMC genomics
+  date: '2014-10-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25351875
+  tags:
+  - unclassified
+- id: pmid:25330340
+  title: MicroRNAs suppress NB domain genes in tomato that confer resistance to Fusarium
+    oxysporum.
+  authors:
+  - Shouqiang Ouyang
+  - Gyungsoon Park
+  - Hagop S Atamian
+  - Cliff S Han
+  - Jason E Stajich
+  - Isgouhi Kaloshian
+  - Katherine A Borkovich
+  publisher: PLoS pathogens
+  date: '2014-10-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25330340
+  tags:
+  - unclassified
+- id: pmid:25143134
+  title: Deciphering the uniqueness of Mucoromycotina cell walls by combining biochemical
+    and phylogenomic approaches.
+  authors:
+  - "Hugo M\xE9lida"
+  - Divya Sain
+  - Jason E Stajich
+  - Vincent Bulone
+  publisher: Environmental microbiology
+  date: '2014-09-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25143134
+  tags:
+  - unclassified
+- id: pmid:24912000
+  title: Evolutionary histories of soil fungi are reflected in their large-scale biogeography.
+  authors:
+  - Kathleen K Treseder
+  - Mia R Maltz
+  - Bradford A Hawkins
+  - Noah Fierer
+  - Jason E Stajich
+  - Krista L McGuire
+  publisher: Ecology letters
+  date: '2014-06-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24912000
+  tags:
+  - unclassified
+- id: pmid:24813190
+  title: Literature-based gene curation and proposed genetic nomenclature for cryptococcus.
+  authors:
+  - Diane O Inglis
+  - Marek S Skrzypek
+  - Edward Liaw
+  - Venkatesh Moktali
+  - Gavin Sherlock
+  - Jason E Stajich
+  publisher: Eukaryotic cell
+  date: '2014-05-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24813190
+  tags:
+  - unclassified
+- id: pmid:24743168
+  title: Analysis of the genome and transcriptome of Cryptococcus neoformans var.
+    grubii reveals complex RNA expression and microevolution leading to virulence
+    attenuation.
+  authors:
+  - Guilhem Janbon
+  - Kate L Ormerod
+  - Damien Paulet
+  - Edmond J Byrnes
+  - Vikas Yadav
+  - Gautam Chatterjee
+  - Nandita Mullapudi
+  - Chung-Chau Hon
+  - R Blake Billmyre
+  - "Fran\xE7ois Brunel"
+  - Yong-Sun Bahn
+  - Weidong Chen
+  - Yuan Chen
+  - Eve W L Chow
+  - "Jean-Yves Copp\xE9e"
+  - Anna Floyd-Averette
+  - Claude Gaillardin
+  - Kimberly J Gerik
+  - Jonathan Goldberg
+  - Sara Gonzalez-Hilarion
+  - Sharvari Gujja
+  - Joyce L Hamlin
+  - Yen-Ping Hsueh
+  - Giuseppe Ianiri
+  - Steven Jones
+  - Chinnappa D Kodira
+  - Lukasz Kozubowski
+  - Woei Lam
+  - Marco Marra
+  - Larry D Mesner
+  - Piotr A Mieczkowski
+  - "Fr\xE9d\xE9rique Moyrand"
+  - Kirsten Nielsen
+  - Caroline Proux
+  - Tristan Rossignol
+  - Jacqueline E Schein
+  - Sheng Sun
+  - Carolin Wollschlaeger
+  - Ian A Wood
+  - Qiandong Zeng
+  - "C\xE9cile Neuv\xE9glise"
+  - Carol S Newlon
+  - John R Perfect
+  - Jennifer K Lodge
+  - Alexander Idnurm
+  - Jason E Stajich
+  - James W Kronstad
+  - Kaustuv Sanyal
+  - Joseph Heitman
+  - James A Fraser
+  - Christina A Cuomo
+  - Fred S Dietrich
+  publisher: PLoS genetics
+  date: '2014-04-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24743168
+  tags:
+  - unclassified
+- id: pmid:24299411
+  title: 'Neurospora and the dead-end hypothesis: genomic consequences of selfing
+    in the model genus.'
+  authors:
+  - Anastasia Gioti
+  - Jason E Stajich
+  - Hanna Johannesson
+  publisher: Evolution; international journal of organic evolution
+  date: '2013-08-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24299411
+  tags:
+  - unclassified
+- id: pmid:24285193
+  title: Evolutionary origins and diversification of proteobacterial mutualists.
+  authors:
+  - Joel L Sachs
+  - Ryan G Skophammer
+  - Nidhanjali Bansal
+  - Jason E Stajich
+  publisher: Proceedings. Biological sciences
+  date: '2013-11-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24285193
+  tags:
+  - unclassified
+- id: pmid:24152717
+  title: 'MIxS-BE: a MIxS extension defining a minimum information standard for sequence
+    data from the built environment.'
+  authors:
+  - Elizabeth M Glass
+  - Yekaterina Dribinsky
+  - Pelin Yilmaz
+  - Hal Levin
+  - Robert Van Pelt
+  - Doug Wendel
+  - Andreas Wilke
+  - Jonathan A Eisen
+  - Sue Huse
+  - Anna Shipanova
+  - Mitch Sogin
+  - Jason Stajich
+  - Rob Knight
+  - Folker Meyer
+  - Lynn M Schriml
+  publisher: The ISME journal
+  date: '2013-10-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24152717
+  tags:
+  - unclassified
+- id: pmid:24068976
+  title: 'The genome and development-dependent transcriptomes of Pyronema confluens:
+    a window into fungal evolution.'
+  authors:
+  - Stefanie Traeger
+  - Florian Altegoer
+  - Michael Freitag
+  - Toni Gabaldon
+  - Frank Kempken
+  - Abhishek Kumar
+  - Marina Marcet-Houben
+  - "Stefanie P\xF6ggeler"
+  - Jason E Stajich
+  - Minou Nowrousian
+  publisher: PLoS genetics
+  date: '2013-09-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24068976
+  tags:
+  - unclassified
+- id: pmid:23961317
+  title: 'Meeting report: fungal its workshop (october 2012).'
+  authors:
+  - Scott T Bates
+  - Steven Ahrendt
+  - Holly M Bik
+  - Thomas D Bruns
+  - J Gregory Caporaso
+  - James Cole
+  - Michael Dwan
+  - Noah Fierer
+  - Dai Gu
+  - Shawn Houston
+  - Rob Knight
+  - Jon Leff
+  - Christopher Lewis
+  - Juan P Maestre
+  - Daniel McDonald
+  - R Henrik Nilsson
+  - Andrea Porras-Alfaro
+  - Vincent Robert
+  - Conrad Schoch
+  - James Scott
+  - D Lee Taylor
+  - Laura Wegener Parfrey
+  - Jason E Stajich
+  publisher: Standards in genomic sciences
+  date: '2013-04-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23961317
+  tags:
+  - unclassified
+- id: pmid:23951101
+  title: Sequential utilization of hosts from different fly families by genetically
+    distinct, sympatric populations within the Entomophthora muscae species complex.
+  authors:
+  - Andrii P Gryganskyi
+  - Richard A Humber
+  - Jason E Stajich
+  - Bradley Mullens
+  - Iryna M Anishchenko
+  - Rytas Vilgalys
+  publisher: PloS one
+  date: '2013-08-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23951101
+  tags:
+  - unclassified
+- id: pmid:23932404
+  title: Shared signatures of parasitism and phylogenomics unite Cryptomycota and
+    microsporidia.
+  authors:
+  - Timothy Y James
+  - Adrian Pelin
+  - Linda Bonen
+  - Steven Ahrendt
+  - Divya Sain
+  - Nicolas Corradi
+  - Jason E Stajich
+  publisher: 'Current biology : CB'
+  date: '2013-08-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23932404
+  tags:
+  - unclassified
+- id: pmid:23928422
+  title: Toward genome-enabled mycology.
+  authors:
+  - David S Hibbett
+  - Jason E Stajich
+  - Joseph W Spatafora
+  publisher: Mycologia
+  date: '2013-08-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23928422
+  tags:
+  - unclassified
+- id: pmid:23650365
+  title: Complex history of the amphibian-killing chytrid fungus revealed with genome
+    resequencing data.
+  authors:
+  - Erica Bree Rosenblum
+  - Timothy Y James
+  - Kelly R Zamudio
+  - Thomas J Poorten
+  - Dan Ilut
+  - David Rodriguez
+  - Jonathan M Eastman
+  - Katy Richards-Hrdlicka
+  - Suzanne Joneson
+  - Thomas S Jenkinson
+  - Joyce E Longcore
+  - Gabriela Parra Olea
+  - "Lu\xEDs Felipe Toledo"
+  - Maria Luz Arellano
+  - Edgar M Medina
+  - Silvia Restrepo
+  - Sandra Victoria Flechas
+  - Lee Berger
+  - Cheryl J Briggs
+  - Jason E Stajich
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2013-05-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23650365
+  tags:
+  - unclassified
+- id: pmid:23576519
+  title: The use of RelocaTE and unassembled short reads to produce high-resolution
+    snapshots of transposable element generated diversity in rice.
+  authors:
+  - Sofia M C Robb
+  - Lu Lu
+  - Elizabeth Valencia
+  - James M Burnette
+  - Yutaka Okumoto
+  - Susan R Wessler
+  - Jason E Stajich
+  publisher: G3 (Bethesda, Md.)
+  date: '2013-06-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23576519
+  tags:
+  - unclassified
+- id: pmid:23530226
+  title: Regional control of histone H3 lysine 27 methylation in Neurospora.
+  authors:
+  - Kirsty Jamieson
+  - Michael R Rountree
+  - Zachary A Lewis
+  - Jason E Stajich
+  - Eric U Selker
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2013-03-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23530226
+  tags:
+  - unclassified
+- id: pmid:23514374
+  title: 5'-Serial Analysis of Gene Expression studies reveal a transcriptomic switch
+    during fruiting body development in Coprinopsis cinerea.
+  authors:
+  - Chi Keung Cheng
+  - Chun Hang Au
+  - Sarah K Wilke
+  - Jason E Stajich
+  - Miriam E Zolan
+  - Patricia J Pukkila
+  - Hoi Shan Kwan
+  publisher: BMC genomics
+  date: '2013-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23514374
+  tags:
+  - unclassified
+- id: pmid:23341551
+  title: Genomic insights into the atopic eczema-associated skin commensal yeast Malassezia
+    sympodialis.
+  authors:
+  - Anastasia Gioti
+  - "Bj\xF6rn Nystedt"
+  - Wenjun Li
+  - Jun Xu
+  - Anna Andersson
+  - Anna F Averette
+  - "Karin M\xFCnch"
+  - Xuying Wang
+  - Catharine Kappauf
+  - Joanne M Kingsbury
+  - Bart Kraak
+  - Louise A Walker
+  - Henrik J Johansson
+  - Tina Holm
+  - "Janne Lehti\xF6"
+  - Jason E Stajich
+  - Piotr Mieczkowski
+  - Regine Kahmann
+  - John C Kennell
+  - Maria E Cardenas
+  - Joakim Lundeberg
+  - Charles W Saunders
+  - Teun Boekhout
+  - Thomas L Dawson
+  - Carol A Munro
+  - Piet W J de Groot
+  - Geraldine Butler
+  - Joseph Heitman
+  - Annika Scheynius
+  publisher: mBio
+  date: '2013-01-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23341551
+  tags:
+  - unclassified
+- id: pmid:23186325
+  title: Analyses of expressed sequence tags in Neurospora reveal rapid evolution
+    of genes associated with the early stages of sexual reproduction in fungi.
+  authors:
+  - Kristiina Nygren
+  - Andreas Wallberg
+  - Nicklas Samils
+  - Jason E Stajich
+  - Jeffrey P Townsend
+  - Magnus Karlsson
+  - Hanna Johannesson
+  publisher: BMC evolutionary biology
+  date: '2012-11-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23186325
+  tags:
+  - unclassified
+- id: pmid:22718849
+  title: Species-specific chitin-binding module 18 expansion in the amphibian pathogen
+    Batrachochytrium dendrobatidis.
+  authors:
+  - John Abramyan
+  - Jason E Stajich
+  publisher: mBio
+  date: '2012-06-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22718849
+  tags:
+  - unclassified
+- id: pmid:22593224
+  title: Unidirectional evolutionary transitions in fungal mating systems and the
+    role of transposable elements.
+  authors:
+  - Anastasia Gioti
+  - Alexandra A Mushegian
+  - Rebecka Strandberg
+  - Jason E Stajich
+  - Hanna Johannesson
+  publisher: Molecular biology and evolution
+  date: '2012-05-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22593224
+  tags:
+  - unclassified
+- id: pmid:22072962
+  title: Genomic transition to pathogenicity in chytrid fungi.
+  authors:
+  - Suzanne Joneson
+  - Jason E Stajich
+  - Shin-Han Shiu
+  - Erica Bree Rosenblum
+  publisher: PLoS pathogens
+  date: '2011-11-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22072962
+  tags:
+  - unclassified
+- id: pmid:22064857
+  title: 'FungiDB: an integrated functional genomics database for fungi.'
+  authors:
+  - Jason E Stajich
+  - Todd Harris
+  - Brian P Brunk
+  - John Brestelli
+  - Steve Fischer
+  - Omar S Harb
+  - Jessica C Kissinger
+  - Wei Li
+  - Vishal Nayak
+  - Deborah F Pinney
+  - Chris J Stoeckert
+  - David S Roos
+  publisher: Nucleic acids research
+  date: '2011-11-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22064857
+  tags:
+  - unclassified
+- id: pmid:21750257
+  title: Massive changes in genome architecture accompany the transition to self-fertility
+    in the filamentous fungus Neurospora tetrasperma.
+  authors:
+  - Christopher E Ellison
+  - Jason E Stajich
+  - David J Jacobson
+  - Donald O Natvig
+  - Alla Lapidus
+  - Brian Foster
+  - Andrea Aerts
+  - Robert Riley
+  - Erika A Lindquist
+  - Igor V Grigoriev
+  - John W Taylor
+  publisher: Genetics
+  date: '2011-07-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21750257
+  tags:
+  - unclassified
+- id: pmid:21304167
+  title: Genome variation in Cryptococcus gattii, an emerging pathogen of immunocompetent
+    hosts.
+  authors:
+  - C A D'Souza
+  - J W Kronstad
+  - G Taylor
+  - R Warren
+  - M Yuen
+  - G Hu
+  - W H Jung
+  - A Sham
+  - S E Kidd
+  - K Tangen
+  - N Lee
+  - T Zeilmaker
+  - J Sawkins
+  - G McVicker
+  - S Shah
+  - S Gnerre
+  - A Griggs
+  - Q Zeng
+  - K Bartlett
+  - W Li
+  - X Wang
+  - J Heitman
+  - J E Stajich
+  - J A Fraser
+  - W Meyer
+  - D Carter
+  - J Schein
+  - M Krzywinski
+  - K J Kwon-Chung
+  - A Varma
+  - J Wang
+  - R Brunham
+  - M Fyfe
+  - B F F Ouellette
+  - A Siddiqui
+  - M Marra
+  - S Jones
+  - R Holt
+  - B W Birren
+  - J E Galagan
+  - C A Cuomo
+  publisher: mBio
+  date: '2011-02-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21304167
+  tags:
+  - unclassified
+- id: pmid:21268975
+  title: 'A molecular perspective: biology of the emerging pathogen Batrachochytrium
+    dendrobatidis.'
+  authors:
+  - Erica Bree Rosenblum
+  - Matthew C Fisher
+  - Timothy Y James
+  - Jason E Stajich
+  - Joyce E Longcore
+  - Lydia R Gentry
+  - Thomas J Poorten
+  publisher: Diseases of aquatic organisms
+  date: '2010-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21268975
+  tags:
+  - unclassified
+- id: pmid:20885784
+  title: Analysis of the Basidiomycete Coprinopsis cinerea reveals conservation of
+    the core meiotic expression program over half a billion years of evolution.
+  authors:
+  - Claire Burns
+  - Jason E Stajich
+  - Andreas Rechtsteiner
+  - Lorna Casselton
+  - Sean E Hanlon
+  - Sarah K Wilke
+  - Oleksandr P Savytskyy
+  - Allen C Gathman
+  - Walt W Lilly
+  - Jason D Lieb
+  - Miriam E Zolan
+  - Patricia J Pukkila
+  publisher: PLoS genetics
+  date: '2010-09-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20885784
+  tags:
+  - unclassified
+- id: pmid:20836076
+  title: Using the Generic Synteny Browser (GBrowse_syn).
+  authors:
+  - Sheldon J McKay
+  - Ismael A Vergara
+  - Jason E Stajich
+  publisher: Current protocols in bioinformatics
+  date: '2010-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20836076
+  tags:
+  - unclassified
+- id: pmid:20675579
+  title: Transcription factors in light and circadian clock signaling networks revealed
+    by genomewide mapping of direct targets for neurospora white collar complex.
+  authors:
+  - Kristina M Smith
+  - Gencer Sancar
+  - Rigzin Dekhang
+  - Christopher M Sullivan
+  - Shaojie Li
+  - Andrew G Tag
+  - Cigdem Sancar
+  - Erin L Bredeweg
+  - Henry D Priest
+  - Ryan F McCormick
+  - Terry L Thomas
+  - James C Carrington
+  - Jason E Stajich
+  - Deborah Bell-Pedersen
+  - Michael Brunner
+  - Michael Freitag
+  publisher: Eukaryotic cell
+  date: '2010-07-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20675579
+  tags:
+  - unclassified
+- id: pmid:20626842
+  title: Genome sequence of the necrotrophic plant pathogen Pythium ultimum reveals
+    original pathogenicity mechanisms and effector repertoire.
+  authors:
+  - "C Andr\xE9 L\xE9vesque"
+  - Henk Brouwer
+  - Liliana Cano
+  - John P Hamilton
+  - Carson Holt
+  - Edgar Huitema
+  - Sylvain Raffaele
+  - Gregg P Robideau
+  - Marco Thines
+  - Joe Win
+  - Marcelo M Zerillo
+  - Gordon W Beakes
+  - Jeffrey L Boore
+  - Dana Busam
+  - Bernard Dumas
+  - Steve Ferriera
+  - Susan I Fuerstenberg
+  - Claire M M Gachon
+  - Elodie Gaulin
+  - Francine Govers
+  - Laura Grenville-Briggs
+  - Neil Horner
+  - Jessica Hostetler
+  - Rays H Y Jiang
+  - Justin Johnson
+  - Theerapong Krajaejun
+  - Haining Lin
+  - Harold J G Meijer
+  - Barry Moore
+  - Paul Morris
+  - Vipaporn Phuntmart
+  - Daniela Puiu
+  - Jyoti Shetty
+  - Jason E Stajich
+  - Sucheta Tripathy
+  - Stephan Wawra
+  - Pieter van West
+  - Brett R Whitty
+  - Pedro M Coutinho
+  - Bernard Henrissat
+  - Frank Martin
+  - Paul D Thomas
+  - Brett M Tyler
+  - Ronald P De Vries
+  - Sophien Kamoun
+  - Mark Yandell
+  - Ned Tisserat
+  - C Robin Buell
+  publisher: Genome biology
+  date: '2010-07-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20626842
+  tags:
+  - unclassified
+- id: pmid:20622885
+  title: Genome sequence of the model mushroom Schizophyllum commune.
+  authors:
+  - Robin A Ohm
+  - Jan F de Jong
+  - Luis G Lugones
+  - Andrea Aerts
+  - Erika Kothe
+  - Jason E Stajich
+  - Ronald P de Vries
+  - Eric Record
+  - Anthony Levasseur
+  - Scott E Baker
+  - Kirk A Bartholomew
+  - Pedro M Coutinho
+  - Susann Erdmann
+  - Thomas J Fowler
+  - Allen C Gathman
+  - Vincent Lombard
+  - Bernard Henrissat
+  - Nicole Knabe
+  - "Ursula K\xFCes"
+  - Walt W Lilly
+  - Erika Lindquist
+  - Susan Lucas
+  - Jon K Magnuson
+  - "Fran\xE7ois Piumi"
+  - Marjatta Raudaskoski
+  - Asaf Salamov
+  - Jeremy Schmutz
+  - Francis W M R Schwarze
+  - Patricia A vanKuyk
+  - J Stephen Horton
+  - Igor V Grigoriev
+  - "Han A B W\xF6sten"
+  publisher: Nature biotechnology
+  date: '2010-07-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20622885
+  tags:
+  - unclassified
+- id: pmid:20601044
+  title: Conflict between reproductive gene trees and species phylogeny among heterothallic
+    and pseudohomothallic members of the filamentous ascomycete genus Neurospora.
+  authors:
+  - Rebecka Strandberg
+  - Kristiina Nygren
+  - Audrius Menkis
+  - Timothy Y James
+  - Lotta Wik
+  - Jason E Stajich
+  - Hanna Johannesson
+  publisher: 'Fungal genetics and biology : FG & B'
+  date: '2010-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20601044
+  tags:
+  - unclassified
+- id: pmid:20547848
+  title: Insights into evolution of multicellular fungi from the assembled chromosomes
+    of the mushroom Coprinopsis cinerea (Coprinus cinereus).
+  authors:
+  - Jason E Stajich
+  - Sarah K Wilke
+  - "Dag Ahr\xE9n"
+  - Chun Hang Au
+  - Bruce W Birren
+  - Mark Borodovsky
+  - Claire Burns
+  - "Bj\xF6rn Canb\xE4ck"
+  - Lorna A Casselton
+  - C K Cheng
+  - Jixin Deng
+  - Fred S Dietrich
+  - David C Fargo
+  - Mark L Farman
+  - Allen C Gathman
+  - Jonathan Goldberg
+  - "Roderic Guig\xF3"
+  - Patrick J Hoegger
+  - James B Hooker
+  - Ashleigh Huggins
+  - Timothy Y James
+  - Takashi Kamada
+  - Sreedhar Kilaru
+  - Chinnapa Kodira
+  - "Ursula K\xFCes"
+  - Doris Kupfer
+  - H S Kwan
+  - Alexandre Lomsadze
+  - Weixi Li
+  - Walt W Lilly
+  - Li-Jun Ma
+  - Aaron J Mackey
+  - Gerard Manning
+  - Francis Martin
+  - Hajime Muraguchi
+  - Donald O Natvig
+  - Heather Palmerini
+  - Marilee A Ramesh
+  - Cathy J Rehmeyer
+  - Bruce A Roe
+  - Narmada Shenoy
+  - Mario Stanke
+  - Vardges Ter-Hovhannisyan
+  - Anders Tunlid
+  - Rajesh Velagapudi
+  - Todd J Vision
+  - Qiandong Zeng
+  - Miriam E Zolan
+  - Patricia J Pukkila
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2010-06-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20547848
+  tags:
+  - unclassified
+- id: pmid:20516208
+  title: Population genomic sequencing of Coccidioides fungi reveals recent hybridization
+    and transposon control.
+  authors:
+  - Daniel E Neafsey
+  - Bridget M Barker
+  - Thomas J Sharpton
+  - Jason E Stajich
+  - Daniel J Park
+  - Emily Whiston
+  - Chiung-Yu Hung
+  - Cody McMahan
+  - Jared White
+  - Sean Sykes
+  - David Heiman
+  - Sarah Young
+  - Qiandong Zeng
+  - Amr Abouelleil
+  - Lynne Aftuck
+  - Daniel Bessette
+  - Adam Brown
+  - Michael FitzGerald
+  - Annie Lui
+  - J Pendexter Macdonald
+  - Margaret Priest
+  - Marc J Orbach
+  - John N Galgiani
+  - Theo N Kirkland
+  - Garry T Cole
+  - Bruce W Birren
+  - Matthew R Henn
+  - John W Taylor
+  - Steven D Rounsley
+  publisher: Genome research
+  date: '2010-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20516208
+  tags:
+  - unclassified
+- id: pmid:20386741
+  title: 'De novo assembly of a 40 Mb eukaryotic genome from short sequence reads:
+    Sordaria macrospora, a model organism for fungal morphogenesis.'
+  authors:
+  - Minou Nowrousian
+  - Jason E Stajich
+  - Meiling Chu
+  - Ines Engh
+  - Eric Espagne
+  - Karen Halliday
+  - Jens Kamerewerd
+  - Frank Kempken
+  - Birgit Knab
+  - Hsiao-Che Kuo
+  - Heinz D Osiewacz
+  - "Stefanie P\xF6ggeler"
+  - Nick D Read
+  - Stephan Seiler
+  - Kristina M Smith
+  - Denise Zickler
+  - "Ulrich K\xFCck"
+  - Michael Freitag
+  publisher: PLoS genetics
+  date: '2010-04-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20386741
+  tags:
+  - unclassified
+- id: pmid:20126439
+  title: 'The deadly chytrid fungus: a story of an emerging pathogen.'
+  authors:
+  - Erica Bree Rosenblum
+  - Jamie Voyles
+  - Thomas J Poorten
+  - Jason E Stajich
+  publisher: PLoS pathogens
+  date: '2010-01-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20126439
+  tags:
+  - unclassified
+- id: pmid:19788875
+  title: The fungi.
+  authors:
+  - Jason E Stajich
+  - Mary L Berbee
+  - Meredith Blackwell
+  - David S Hibbett
+  - Timothy Y James
+  - Joseph W Spatafora
+  - John W Taylor
+  publisher: 'Current biology : CB'
+  date: '2009-09-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19788875
+  tags:
+  - unclassified
+- id: pmid:19717792
+  title: Comparative genomic analyses of the human fungal pathogens Coccidioides and
+    their relatives.
+  authors:
+  - Thomas J Sharpton
+  - Jason E Stajich
+  - Steven D Rounsley
+  - Malcolm J Gardner
+  - Jennifer R Wortman
+  - Vinita S Jordar
+  - Rama Maiti
+  - Chinnappa D Kodira
+  - Daniel E Neafsey
+  - Qiandong Zeng
+  - Chiung-Yu Hung
+  - Cody McMahan
+  - Anna Muszewska
+  - Marcin Grynberg
+  - M Alejandra Mandel
+  - Ellen M Kellner
+  - Bridget M Barker
+  - John N Galgiani
+  - Marc J Orbach
+  - Theo N Kirkland
+  - Garry T Cole
+  - Matthew R Henn
+  - Bruce W Birren
+  - John W Taylor
+  publisher: Genome research
+  date: '2009-08-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19717792
+  tags:
+  - unclassified
+- id: pmid:19161465
+  title: Proteomic and phenotypic profiling of the amphibian pathogen Batrachochytrium
+    dendrobatidis shows that genotype is linked to virulence.
+  authors:
+  - Matthew C Fisher
+  - Jaime Bosch
+  - Zhikang Yin
+  - David A Stead
+  - Janet Walker
+  - Laura Selway
+  - Alistair J P Brown
+  - Louise A Walker
+  - Neil A R Gow
+  - Jason E Stajich
+  - Trenton W J Garner
+  publisher: Molecular ecology
+  date: '2009-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19161465
+  tags:
+  - unclassified
+- id: pmid:19085333
+  title: 'Resolving arthropod phylogeny: exploring phylogenetic signal within 41 kb
+    of protein-coding nuclear gene sequence.'
+  authors:
+  - Jerome C Regier
+  - Jeffrey W Shultz
+  - Austen R D Ganley
+  - April Hussey
+  - Diane Shi
+  - Bernard Ball
+  - Andreas Zwick
+  - Jason E Stajich
+  - Michael P Cummings
+  - Joel W Martin
+  - Clifford W Cunningham
+  publisher: Systematic biology
+  date: '2008-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19085333
+  tags:
+  - unclassified
+- id: pmid:18852473
+  title: Global gene expression profiles for life stages of the deadly amphibian pathogen
+    Batrachochytrium dendrobatidis.
+  authors:
+  - Erica Bree Rosenblum
+  - Jason E Stajich
+  - Nicole Maddox
+  - Michael B Eisen
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2008-10-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18852473
+  tags:
+  - unclassified
+- id: pmid:18322534
+  title: The genome of Laccaria bicolor provides insights into mycorrhizal symbiosis.
+  authors:
+  - F Martin
+  - A Aerts
+  - "D Ahr\xE9n"
+  - A Brun
+  - E G J Danchin
+  - F Duchaussoy
+  - J Gibon
+  - A Kohler
+  - E Lindquist
+  - V Pereda
+  - A Salamov
+  - H J Shapiro
+  - J Wuyts
+  - D Blaudez
+  - "M Bu\xE9e"
+  - P Brokstein
+  - "B Canb\xE4ck"
+  - D Cohen
+  - P E Courty
+  - P M Coutinho
+  - C Delaruelle
+  - J C Detter
+  - A Deveau
+  - S DiFazio
+  - S Duplessis
+  - L Fraissinet-Tachet
+  - E Lucic
+  - P Frey-Klett
+  - C Fourrey
+  - I Feussner
+  - G Gay
+  - J Grimwood
+  - P J Hoegger
+  - P Jain
+  - S Kilaru
+  - "J Labb\xE9"
+  - Y C Lin
+  - "V Legu\xE9"
+  - F Le Tacon
+  - R Marmeisse
+  - D Melayah
+  - B Montanini
+  - M Muratet
+  - U Nehls
+  - H Niculita-Hirzel
+  - M P Oudot-Le Secq
+  - M Peter
+  - H Quesneville
+  - B Rajashekar
+  - M Reich
+  - N Rouhier
+  - J Schmutz
+  - T Yin
+  - M Chalot
+  - B Henrissat
+  - "U K\xFCes"
+  - S Lucas
+  - Y Van de Peer
+  - G K Podila
+  - A Polle
+  - P J Pukkila
+  - P M Richardson
+  - "P Rouz\xE9"
+  - I R Sanders
+  - J E Stajich
+  - A Tunlid
+  - G Tuskan
+  - I V Grigoriev
+  publisher: Nature
+  date: '2008-03-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18322534
+  tags:
+  - unclassified
+- id: pmid:18313909
+  title: An expanded family of fungalysin extracellular metallopeptidases of Coprinopsis
+    cinerea.
+  authors:
+  - Walt W Lilly
+  - Jason E Stajich
+  - Patricia J Pukkila
+  - Sarah K Wilke
+  - Noriko Inoguchi
+  - Allen C Gathman
+  publisher: Mycological research
+  date: '2007-12-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18313909
+  tags:
+  - unclassified
+- id: pmid:18294377
+  title: Comparative hybridization reveals extensive genome variation in the AIDS-associated
+    pathogen Cryptococcus neoformans.
+  authors:
+  - Guanggan Hu
+  - Iris Liu
+  - Anita Sham
+  - Jason E Stajich
+  - Fred S Dietrich
+  - James W Kronstad
+  publisher: Genome biology
+  date: '2008-02-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18294377
+  tags:
+  - unclassified
+- id: pmid:18287711
+  title: An Introduction to BioPerl.
+  authors:
+  - Jason E Stajich
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2007-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18287711
+  tags:
+  - unclassified
+- id: pmid:17949488
+  title: Comparative genomic analysis of fungal genomes reveals intron-rich ancestors.
+  authors:
+  - Jason E Stajich
+  - Fred S Dietrich
+  - Scott W Roy
+  publisher: Genome biology
+  date: '2007-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17949488
+  tags:
+  - unclassified
+- id: pmid:17337636
+  title: 'Evolution of the mating type locus: insights gained from the dimorphic primary
+    fungal pathogens Histoplasma capsulatum, Coccidioides immitis, and Coccidioides
+    posadasii.'
+  authors:
+  - James A Fraser
+  - Jason E Stajich
+  - Eric J Tarcha
+  - Garry T Cole
+  - Diane O Inglis
+  - Anita Sil
+  - Joseph Heitman
+  publisher: Eukaryotic cell
+  date: '2007-03-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17337636
+  tags:
+  - unclassified
+- id: pmid:17320905
+  title: Evolution of budding yeast prion-determinant sequences across diverse fungi.
+  authors:
+  - Luke B Harrison
+  - Zhan Yu
+  - Jason E Stajich
+  - Fred S Dietrich
+  - Paul M Harrison
+  publisher: Journal of molecular biology
+  date: '2007-02-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17320905
+  tags:
+  - unclassified
+- id: pmid:17183716
+  title: The evolution of mammalian gene families.
+  authors:
+  - Jeffery P Demuth
+  - Tijl De Bie
+  - Jason E Stajich
+  - Nello Cristianini
+  - Matthew W Hahn
+  publisher: PloS one
+  date: '2006-12-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17183716
+  tags:
+  - unclassified
+- id: pmid:17148473
+  title: 'BASC: an integrated bioinformatics system for Brassica research.'
+  authors:
+  - Timothy A Erwin
+  - Erica G Jewell
+  - Christopher G Love
+  - Geraldine A C Lim
+  - Xi Li
+  - Ross Chapman
+  - Jacqueline Batley
+  - Jason E Stajich
+  - Emmanuel Mongin
+  - Elia Stupka
+  - Bruce Ross
+  - German Spangenberg
+  - David Edwards
+  publisher: Nucleic acids research
+  date: '2006-12-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17148473
+  tags:
+  - unclassified
+- id: pmid:17121679
+  title: A fungal phylogeny based on 42 complete genomes derived from supertree and
+    combined gene analysis.
+  authors:
+  - David A Fitzpatrick
+  - Mary E Logue
+  - Jason E Stajich
+  - Geraldine Butler
+  publisher: BMC evolutionary biology
+  date: '2006-11-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17121679
+  tags:
+  - unclassified
+- id: pmid:17080091
+  title: Insights from the genome of the biotrophic fungal plant pathogen Ustilago
+    maydis.
+  authors:
+  - "J\xF6rg K\xE4mper"
+  - Regine Kahmann
+  - "Michael B\xF6lker"
+  - Li-Jun Ma
+  - Thomas Brefort
+  - Barry J Saville
+  - Flora Banuett
+  - James W Kronstad
+  - Scott E Gold
+  - "Olaf M\xFCller"
+  - Michael H Perlin
+  - "Han A B W\xF6sten"
+  - Ronald de Vries
+  - "Jos\xE9 Ruiz-Herrera"
+  - "Cristina G Reynaga-Pe\xF1a"
+  - Karen Snetselaar
+  - Michael McCann
+  - "Jos\xE9 P\xE9rez-Mart\xEDn"
+  - "Michael Feldbr\xFCgge"
+  - Christoph W Basse
+  - Gero Steinberg
+  - Jose I Ibeas
+  - William Holloman
+  - Plinio Guzman
+  - Mark Farman
+  - Jason E Stajich
+  - Rafael Sentandreu
+  - "Juan M Gonz\xE1lez-Prieto"
+  - John C Kennell
+  - Lazaro Molina
+  - Jan Schirawski
+  - Artemio Mendoza-Mendoza
+  - Doris Greilinger
+  - "Karin M\xFCnch"
+  - "Nicole R\xF6ssel"
+  - Mario Scherer
+  - Miroslav Vranes
+  - Oliver Ladendorf
+  - Volker Vincon
+  - Uta Fuchs
+  - "Bj\xF6rn Sandrock"
+  - Shaowu Meng
+  - Eric C H Ho
+  - Matt J Cahill
+  - Kylie J Boyce
+  - Jana Klose
+  - Steven J Klosterman
+  - Heine J Deelstra
+  - Lucila Ortiz-Castellanos
+  - Weixi Li
+  - Patricia Sanchez-Alonso
+  - Peter H Schreier
+  - "Isolde H\xE4user-Hahn"
+  - Martin Vaupel
+  - Edda Koopmann
+  - Gabi Friedrich
+  - Hartmut Voss
+  - "Thomas Schl\xFCter"
+  - Jonathan Margolis
+  - Darren Platt
+  - Candace Swimmer
+  - Andreas Gnirke
+  - Feng Chen
+  - Valentina Vysotskaia
+  - Gertrud Mannhaupt
+  - "Ulrich G\xFCldener"
+  - "Martin M\xFCnsterk\xF6tter"
+  - Dirk Haase
+  - Matthias Oesterheld
+  - Hans-Werner Mewes
+  - Evan W Mauceli
+  - David DeCaprio
+  - Claire M Wade
+  - Jonathan Butler
+  - Sarah Young
+  - David B Jaffe
+  - Sarah Calvo
+  - Chad Nusbaum
+  - James Galagan
+  - Bruce W Birren
+  publisher: Nature
+  date: '2006-11-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17080091
+  tags:
+  - unclassified
+- id: pmid:17051209
+  title: Reconstructing the early evolution of Fungi using a six-gene phylogeny.
+  authors:
+  - Timothy Y James
+  - Frank Kauff
+  - Conrad L Schoch
+  - P Brandon Matheny
+  - "Val\xE9rie Hofstetter"
+  - Cymon J Cox
+  - Gail Celio
+  - "C\xE9cile Gueidan"
+  - Emily Fraker
+  - Jolanta Miadlikowska
+  - H Thorsten Lumbsch
+  - Alexandra Rauhut
+  - "Val\xE9rie Reeb"
+  - A Elizabeth Arnold
+  - Anja Amtoft
+  - Jason E Stajich
+  - Kentaro Hosaka
+  - Gi-Ho Sung
+  - Desiree Johnson
+  - Ben O'Rourke
+  - Michael Crockett
+  - Manfred Binder
+  - Judd M Curtis
+  - Jason C Slot
+  - Zheng Wang
+  - Andrew W Wilson
+  - "Arthur Sch\xFCssler"
+  - Joyce E Longcore
+  - Kerry O'Donnell
+  - Sharon Mozley-Standridge
+  - David Porter
+  - Peter M Letcher
+  - Martha J Powell
+  - John W Taylor
+  - Merlin M White
+  - Gareth W Griffith
+  - David R Davies
+  - Richard A Humber
+  - Joseph B Morton
+  - Junta Sugiyama
+  - Amy Y Rossman
+  - Jack D Rogers
+  - Don H Pfister
+  - David Hewitt
+  - Karen Hansen
+  - Sarah Hambleton
+  - Robert A Shoemaker
+  - Jan Kohlmeyer
+  - Brigitte Volkmann-Kohlmeyer
+  - Robert A Spotts
+  - Maryna Serdani
+  - Pedro W Crous
+  - Karen W Hughes
+  - Kenji Matsuura
+  - Ewald Langer
+  - Gitta Langer
+  - Wendy A Untereiner
+  - "Robert L\xFCcking"
+  - "Burkhard B\xFCdel"
+  - David M Geiser
+  - "Andr\xE9 Aptroot"
+  - Paul Diederich
+  - Imke Schmitt
+  - Matthias Schultz
+  - Rebecca Yahr
+  - David S Hibbett
+  - "Fran\xE7ois Lutzoni"
+  - David J McLaughlin
+  - Joseph W Spatafora
+  - Rytas Vilgalys
+  publisher: Nature
+  date: '2006-10-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17051209
+  tags:
+  - unclassified
+- id: pmid:16988423
+  title: Comparative genomics in C. elegans, C. briggsae, and other Caenorhabditis
+    species.
+  authors:
+  - Avril Coghlan
   - Jason E Stajich
   - Todd W Harris
-  - Adrian Arva
-  - Suzanna Lewis
-  publisher: Genome research
-  date: '2002-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/12368253
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2006-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16988423
   tags:
-  - tools
-- id: pubmed:12368254
+  - unclassified
+- id: pmid:16963629
+  title: The Cryptococcus neoformans catalase gene family and its role in antioxidant
+    defense.
+  authors:
+  - Steven S Giles
+  - Jason E Stajich
+  - Connie Nichols
+  - Quincy D Gerrald
+  - J Andrew Alspaugh
+  - Fred Dietrich
+  - John R Perfect
+  publisher: Eukaryotic cell
+  date: '2006-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16963629
+  tags:
+  - unclassified
+- id: pmid:16962256
+  title: Phylogenomic analysis of non-ribosomal peptide synthetases in the genus Aspergillus.
+  authors:
+  - Robert A Cramer
+  - Jason E Stajich
+  - Yvonne Yamanaka
+  - Fred S Dietrich
+  - William J Steinbach
+  - John R Perfect
+  publisher: Gene
+  date: '2006-07-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16962256
+  tags:
+  - unclassified
+- id: pmid:16899494
+  title: 'Open source tools and toolkits for bioinformatics: significance, and where
+    are we?'
+  authors:
+  - Jason E Stajich
+  - Hilmar Lapp
+  publisher: Briefings in bioinformatics
+  date: '2006-08-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16899494
+  tags:
+  - unclassified
+- id: pmid:16682456
+  title: Evidence of mRNA-mediated intron loss in the human-pathogenic fungus Cryptococcus
+    neoformans.
+  authors:
+  - Jason E Stajich
+  - Fred S Dietrich
+  publisher: Eukaryotic cell
+  date: '2006-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16682456
+  tags:
+  - unclassified
+- id: pmid:16606443
+  title: Comparative analysis of Saccharomyces cerevisiae WW domains and their interacting
+    proteins.
+  authors:
+  - Jay R Hesselberth
+  - John P Miller
+  - Anna Golob
+  - Jason E Stajich
+  - Gregory A Michaud
+  - Stanley Fields
+  publisher: Genome biology
+  date: '2006-04-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16606443
+  tags:
+  - unclassified
+- id: pmid:16222245
+  title: Same-sex mating and the origin of the Vancouver Island Cryptococcus gattii
+    outbreak.
+  authors:
+  - James A Fraser
+  - Steven S Giles
+  - Emily C Wenink
+  - Scarlett G Geunes-Boyer
+  - Jo Rae Wright
+  - Stephanie Diezmann
+  - Andria Allen
+  - Jason E Stajich
+  - Fred S Dietrich
+  - John R Perfect
+  - Joseph Heitman
+  publisher: Nature
+  date: '2005-10-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16222245
+  tags:
+  - unclassified
+- id: pmid:16143628
+  title: 'Likelihoods from summary statistics: recent divergence between species.'
+  authors:
+  - Scotland C Leman
+  - Yuguo Chen
+  - Jason E Stajich
+  - Mohamed A F Noor
+  - Marcy K Uyenoyama
+  publisher: Genetics
+  date: '2005-09-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16143628
+  tags:
+  - unclassified
+- id: pmid:16077014
+  title: Estimating the tempo and mode of gene family evolution from comparative genomic
+    data.
+  authors:
+  - Matthew W Hahn
+  - Tijl De Bie
+  - Jason E Stajich
+  - Chi Nguyen
+  - Nello Cristianini
+  publisher: Genome research
+  date: '2005-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16077014
+  tags:
+  - unclassified
+- id: pmid:15854223
+  title: Investigating hookworm genomes by comparative analysis of two Ancylostoma
+    species.
+  authors:
+  - Makedonka Mitreva
+  - James P McCarter
+  - Prema Arasu
+  - John Hawdon
+  - John Martin
+  - Mike Dante
+  - Todd Wylie
+  - Jian Xu
+  - Jason E Stajich
+  - Wadim Kapulkin
+  - Sandra W Clifton
+  - Robert H Waterston
+  - Richard K Wilson
+  publisher: BMC genomics
+  date: '2005-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15854223
+  tags:
+  - unclassified
+- id: pmid:15470254
+  title: Identification of Cryptococcus neoformans temperature-regulated genes with
+    a genomic-DNA microarray.
+  authors:
+  - Peter R Kraus
+  - "Marie-Jos\xE9e Boily"
+  - Steven S Giles
+  - Jason E Stajich
+  - Andria Allen
+  - Gary M Cox
+  - Fred S Dietrich
+  - John R Perfect
+  - Joseph Heitman
+  publisher: Eukaryotic cell
+  date: '2004-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15470254
+  tags:
+  - unclassified
+- id: pmid:15356276
+  title: Disentangling the effects of demography and selection in human history.
+  authors:
+  - Jason E Stajich
+  - Matthew W Hahn
+  publisher: Molecular biology and evolution
+  date: '2004-09-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15356276
+  tags:
+  - unclassified
+- id: pmid:14624247
+  title: 'The genome sequence of Caenorhabditis briggsae: a platform for comparative
+    genomics.'
+  authors:
+  - Lincoln D Stein
+  - Zhirong Bao
+  - Darin Blasiar
+  - Thomas Blumenthal
+  - Michael R Brent
+  - Nansheng Chen
+  - Asif Chinwalla
+  - Laura Clarke
+  - Chris Clee
+  - Avril Coghlan
+  - Alan Coulson
+  - Peter D'Eustachio
+  - David H A Fitch
+  - Lucinda A Fulton
+  - Robert E Fulton
+  - Sam Griffiths-Jones
+  - Todd W Harris
+  - LaDeana W Hillier
+  - Ravi Kamath
+  - Patricia E Kuwabara
+  - Elaine R Mardis
+  - Marco A Marra
+  - Tracie L Miner
+  - Patrick Minx
+  - James C Mullikin
+  - Robert W Plumb
+  - Jane Rogers
+  - Jacqueline E Schein
+  - Marc Sohrmann
+  - John Spieth
+  - Jason E Stajich
+  - C Wei
+  - David Willey
+  - Richard K Wilson
+  - Richard Durbin
+  - Robert H Waterston
+  publisher: PLoS biology
+  date: '2003-11-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14624247
+  tags:
+  - unclassified
+- id: pmid:12716998
+  title: The effects of selection against spurious transcription factor binding sites.
+  authors:
+  - Matthew W Hahn
+  - Jason E Stajich
+  - Gregory A Wray
+  publisher: Molecular biology and evolution
+  date: '2003-04-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12716998
+  tags:
+  - unclassified
+- id: pmid:12368254
   title: 'The Bioperl toolkit: Perl modules for the life sciences.'
   authors:
   - Jason E Stajich
@@ -70,4 +3978,46 @@
   date: '2002-10-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/12368254
   tags:
-  - tools
+  - unclassified
+- id: pmid:12368253
+  title: 'The generic genome browser: a building block for a model organism system
+    database.'
+  authors:
+  - Lincoln D Stein
+  - Christopher Mungall
+  - ShengQiang Shu
+  - Michael Caudy
+  - Marco Mangone
+  - Allen Day
+  - Elizabeth Nickerson
+  - Jason E Stajich
+  - Todd W Harris
+  - Adrian Arva
+  - Suzanna Lewis
+  publisher: Genome research
+  date: '2002-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12368253
+  tags:
+  - unclassified
+- id: pmid:11743579
+  title: Ganglioside-induced differentiation-associated protein-1 is mutant in Charcot-Marie-Tooth
+    disease type 4A/8q21.
+  authors:
+  - Rachel V Baxter
+  - Kamel Ben Othmane
+  - Julie M Rochelle
+  - Jason E Stajich
+  - Christine Hulette
+  - Susan Dew-Knight
+  - Faycal Hentati
+  - Mongi Ben Hamida
+  - S Bel
+  - Judy E Stenger
+  - John R Gilbert
+  - Margaret A Pericak-Vance
+  - Jeffery M Vance
+  publisher: Nature genetics
+  date: '2001-12-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11743579
+  tags:
+  - unclassified
