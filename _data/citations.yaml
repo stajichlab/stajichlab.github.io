@@ -16,6 +16,7 @@
   - insect fungal interactions
   - ascomycota
   - genome
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8325562/bin/evab158f5.jpg
 - id: pmid:34165331
   title: Amplicon Sequencing of Rock-Inhabiting Microbial Communities from Joshua
     Tree National Park, USA.
@@ -34,6 +35,7 @@
   - fungi
   - Joshua Tree
   - aridlands
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Joshua_Tree_01.jpg/174px-Joshua_Tree_01.jpg
 - id: pmid:34080906
   title: Metagenome Sequencing to Explore Phylogenomics of Terrestrial Cyanobacteria.
   authors:
