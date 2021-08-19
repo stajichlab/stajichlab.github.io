@@ -29,6 +29,4 @@ My interests are also in the evolution of multicellular forms and regulation of 
 
 To address this work we also need tools to sift and mine the gigantic datasets that genomics can produce. I have focused on building tools for comparative and computational analyses of genomes including work on the [BioPerl](http://bioperl.org/) and [Gbrowse](http://www.gmod.org/wiki/Gbrowse) projects and the development of open source software for bioinformatics and life sciences research through the [Open Bioinformatics Foundation](http://www.open-bio.org/).
 
-The lab is also focused on the development of databases for [fungal genome data](http://fungalgenomes.org/) to make the genome and functional information more available. I also blog about interesting findings in fungal, microbial, and genome research and share protocols and coordinate projects through a [wiki site](http://fungalgenomes.org/wiki)."
-
 {% include list.html data="citations" component="citation" filter="page: jason-member" %}
