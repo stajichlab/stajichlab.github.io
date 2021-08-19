@@ -14,16 +14,19 @@
     - Joshua Tree
     - aridlands
 - id: pmid:34080906
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8354539/bin/mra.00258-21-f001.jpg
   tags:
     - cyanobacteria
     - metagenomics
     - aridlands
 - id: pmid:34067070
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8150946/bin/jof-07-00366-g001.jpg
   tags:
     - coccidioides
     - onygenales
     - RNA-seq
 - id: pmid:34042486
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8201633/bin/mra.00295-21-f0001.jpg
   tags:
     - genome
     - Phytophthora
@@ -502,6 +505,7 @@
     - Neolecta
     - comparative genomics
 - id: pmid:28149701
+  repo: https://github.com/stajichlab/RelocaTE2
   tags:
     - tool
     - transposon
