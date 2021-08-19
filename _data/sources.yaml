@@ -391,322 +391,499 @@
     - comparative genomics
 - id: pmid:30008702
   tags:
-    - unclassified
+    - Antarctica
+    - ITS
+    - fungi
+    - endoliths
 - id: pmid:29865244
   tags:
-    - unclassified
+    - Antarctica
+    - fungi
+    - ITS
 - id: pmid:29764946
   tags:
-    - unclassified
+    - comparative genomics
+    - insect fungal interactions
+    - symbiosis
 - id: pmid:29764372
   tags:
-    - unclassified
+    - population genomics
+    - black yeast
+    - extremophile
+    - halotolerance
+    - Hortaea
 - id: pmid:29739910
   tags:
-    - unclassified
+    - Pneumocystis
+    - comparative genomics
 - id: pmid:29675967
   tags:
-    - unclassified
+    - ITS
+    - molecular ecology
+    - soil microbiome
 - id: pmid:29674435
   tags:
-    - unclassified
+    - Rhizopus
+    - systematics
+    - phylogenomics
 - id: pmid:29371508
   tags:
-    - unclassified
+    - Coccidioides
+    - transposon
 - id: pmid:29321239
   tags:
-    - unclassified
+    - Thraustochytrid
+    - comparative genomics
 - id: pmid:29211832
   tags:
-    - unclassified
+    - AMF
+    - transcriptome
+    - phylogenomics
+    - scRNA-seq
 - id: pmid:29158416
   tags:
-    - unclassified
+    - transposon
+    - Rice
+    - mPing
 - id: pmid:29023459
   tags:
-    - unclassified
+    - M18 aspartyl aminopeptidases
+    - DAP
+    - molecular evolution
 - id: pmid:28917057
   tags:
-    - unclassified
+    - review
+    - systematics
+    - fungi
 - id: pmid:28916147
   tags:
-    - unclassified
+    - symbiosis
+    - insect bacteria interactions
+    - insect fungal interactions
+    - mole cricket
 - id: pmid:28876195
   tags:
-    - unclassified
+    - Bifiguratus
+    - Mucoromycotina
+    - comparative genomics
 - id: pmid:28820125
   tags:
-    - unclassified
+    - review
+    - genomics
+    - fungi
 - id: pmid:28684563
   tags:
-    - unclassified
+    - Rachicladosporium
+    - genome
+    - Antarctica
 - id: pmid:28500048
   tags:
-    - unclassified
+    - Hortaea
+    - black yeast
+    - genome
+    - extremophile
+    - halotolerance
 - id: pmid:28481340
   tags:
-    - unclassified
+    - N6-methylation
+    - 6mA
+    - fungi
 - id: pmid:28462022
   tags:
-    - unclassified
+    - Spizellomyces
+    - opsin
+    - molecular modeling
 - id: pmid:28176784
   tags:
-    - unclassified
+    - multicellularity
+    - ascomycota
+    - Neolecta
+    - comparative genomics
 - id: pmid:28149701
   tags:
-    - unclassified
+    - tool
+    - transposon
 - id: pmid:30682305
   tags:
-    - unclassified
+    - Fusarium
+    - Ambrosia Beetle
+    - PCR
 - id: pmid:27738200
   tags:
-    - unclassified
+    - zygomycete
+    - phylogenomics
+    - systematics
+    - phylogenetics
+    - genome
 - id: pmid:27554660
   tags:
-    - unclassified
+    - review
+    - Mucor
+    - Phycomyces
 - id: pmid:27294409
   tags:
-    - unclassified
+    - transposon
+    - Pleurotus
 - id: pmid:27048799
   tags:
-    - unclassified
+    - Aspergillus
+    - GAG
+    - biofilm
 - id: pmid:27034999
   tags:
-    - unclassified
+    - social media
+    - meeting report
+    - review
 - id: pmid:26976598
   tags:
-    - unclassified
+    - Escovopsis
+    - genome
+    - symbiosis
+    - mycoparasite
 - id: pmid:26903035
   tags:
-    - unclassified
+    - Xylariaceae
+    - endophyte
 - id: pmid:26305593
   tags:
-    - unclassified
+    - Neurospora
+    - cytoplasmic streaming
 - id: pmid:26109355
   tags:
-    - unclassified
+    - small RNA
+    - transposon
+    - Neurospora
+    - MSUD
 - id: pmid:25819009
   tags:
-    - unclassified
+    - CBM18
+    - Batrachochytrium
 - id: pmid:25805857
   tags:
-    - unclassified
+    - Neurospora
+    - intron
+    - splicing
 - id: pmid:25750214
   tags:
-    - unclassified
+    - Candida albicans
+    - phosphoproteome
 - id: pmid:25427217
   tags:
-    - unclassified
+    - meeting report
 - id: pmid:25351875
   tags:
-    - unclassified
+    - Sporothrix
+    - genome
 - id: pmid:25330340
   tags:
-    - unclassified
+    - microRNA
+    - Fusarium
+    - tomato
 - id: pmid:25143134
   tags:
-    - unclassified
+    - cell wall
+    - Mucoromycotina
+    - phylogenomics
 - id: pmid:24912000
   tags:
-    - unclassified
+    - soil fungi
+    - phylogeny
 - id: pmid:24813190
   tags:
-    - unclassified
+    - Cryptococcus
+    - annotation
+    - curation
 - id: pmid:24743168
   tags:
-    - unclassified
+    - Cryptococcus
+    - genome
+    - RNA-seq
+    - microevolution
 - id: pmid:24299411
   tags:
-    - unclassified
+    - Neurospora
+    - selfing
 - id: pmid:24285193
   tags:
-    - unclassified
+    - symbiosis
+    - proteobacteria
+    - mutalism
+    - evolution
 - id: pmid:24152717
   tags:
-    - unclassified
+    - genomic standards
+    - built environment
+    - MIxS-BE
 - id: pmid:24068976
   tags:
-    - unclassified
+    - Pyronema
+    - genome
 - id: pmid:23961317
   tags:
-    - unclassified
+    - meeting report
 - id: pmid:23951101
   tags:
-    - unclassified
+    - Entomophthora muscae
+    - insect fungal interactions
+    - fly
 - id: pmid:23932404
   tags:
-    - unclassified
+    - Cryptomycota
+    - genome
+    - Rozella
+    - phylogenomics
 - id: pmid:23928422
   tags:
-    - unclassified
+    - review
+    - mycology
 - id: pmid:23650365
   tags:
-    - unclassified
+    - Batrachochytrium
+    - population genomics
 - id: pmid:23576519
   tags:
-    - unclassified
+    - transposon
+    - tool
 - id: pmid:23530226
   tags:
-    - unclassified
+    - histone
+    - Neurospora
+    - H3K27me
 - id: pmid:23514374
   tags:
-    - unclassified
+    - Coprinus
+    - Coprinopsis
+    - 5-SAGE
+    - transcriptome
 - id: pmid:23341551
   tags:
-    - unclassified
+    - Malassezia
+    - genome
 - id: pmid:23186325
   tags:
-    - unclassified
+    - Neurospora
+    - sexual reproduction
+    - EST
 - id: pmid:22718849
   tags:
-    - unclassified
+    - CBM18
+    - Batrachochytrium
 - id: pmid:22593224
   tags:
-    - unclassified
+    - Neurospora
+    - mating
+    - transposon
 - id: pmid:22072962
   tags:
-    - unclassified
+    - chytrid
+    - genome
+    - Batrachochytrium
+    - Homolaphlyctis
 - id: pmid:22064857
   tags:
-    - unclassified
+    - FungiDB
+    - tool
+    - database
 - id: pmid:21750257
   tags:
-    - unclassified
+    - Neurospora
+    - selfing
+    - genome
+    - sex chromosome
 - id: pmid:21304167
   tags:
-    - unclassified
+    - Cryptococcus
+    - genome
 - id: pmid:21268975
   tags:
-    - unclassified
+    - Batrachochytrium
+    - review
 - id: pmid:20885784
   tags:
-    - unclassified
+    - meiosis
+    - transcriptome
+    - Coprinus
+    - Coprinopsis
 - id: pmid:20836076
   tags:
-    - unclassified
+    - GBrowse
+    - tool
 - id: pmid:20675579
   tags:
-    - unclassified
+    - Neurospora
+    - ChIP-seq
+    - White collar complex
+    - circadian clock
 - id: pmid:20626842
   tags:
-    - unclassified
+    - Pythium
+    - genome
 - id: pmid:20622885
   tags:
-    - unclassified
+    - Schizophyllum
+    - genome
 - id: pmid:20601044
   tags:
-    - unclassified
+    - Neurospora
+    - heterothallic
+    - homothallic
 - id: pmid:20547848
   tags:
-    - unclassified
+    - Coprinopsis
+    - Coprinus
+    - genome
+    - multicellularity
 - id: pmid:20516208
   tags:
-    - unclassified
+    - Coccidioides
+    - genome
+    - population genomics
+    - transposon
 - id: pmid:20386741
   tags:
-    - unclassified
+    - Sordaria
+    - genome
 - id: pmid:20126439
   tags:
-    - unclassified
+    - Batrachochytrium
+    - review
 - id: pmid:19788875
   tags:
-    - unclassified
+    - review
+    - mycology
 - id: pmid:19717792
   tags:
-    - unclassified
+    - Coccidioides
+    - genome
 - id: pmid:19161465
   tags:
-    - unclassified
+    - Batrachochytrium
+    - proteomics
+    - virulence
 - id: pmid:19085333
   tags:
-    - unclassified
+    - arthropod
+    - phylogeny
 - id: pmid:18852473
   tags:
-    - unclassified
+    - Batrachochytrium
+    - gene expression
 - id: pmid:18322534
   tags:
-    - unclassified
+    - Laccaria
+    - genome
 - id: pmid:18313909
   tags:
-    - unclassified
+    - Coprinus
+    - Coprinopsis
+    - metallopeptidases
 - id: pmid:18294377
   tags:
-    - unclassified
+    - Cryptococcus
 - id: pmid:18287711
   tags:
-    - unclassified
+    - BioPerl
+    - tool
 - id: pmid:17949488
   tags:
-    - unclassified
+    - intron
+    - fungi
 - id: pmid:17337636
   tags:
-    - unclassified
+    - mating type locus
+    - Histoplasma
+    - Coccidioides
 - id: pmid:17320905
   tags:
-    - unclassified
+    - prion
+    - fungi
+    - comparative genomics
 - id: pmid:17183716
   tags:
-    - unclassified
+    - gene family evolution
 - id: pmid:17148473
   tags:
-    - unclassified
+    - tool
+    - database
 - id: pmid:17121679
   tags:
-    - unclassified
+    - fungi
+    - phylogeny
+    - phylogenomics
 - id: pmid:17080091
   tags:
-    - unclassified
+    - Ustilago
+    - genome
 - id: pmid:17051209
   tags:
-    - unclassified
+    - phylogeny
+    - mycology
+    - fungi
 - id: pmid:16988423
   tags:
-    - unclassified
+    - comparative genomics
+    - Caenorhabditis
 - id: pmid:16963629
   tags:
-    - unclassified
+    - Cryptococcus
+    - catalase
 - id: pmid:16962256
   tags:
-    - unclassified
+    - Aspergillus fumigatus
+    - NRPS
 - id: pmid:16899494
   tags:
-    - unclassified
+    - tool
+    - review
 - id: pmid:16682456
   tags:
-    - unclassified
+    - intron
+    - Cryptococcus
 - id: pmid:16606443
   tags:
-    - unclassified
+    - Saccharomyces
+    - WW domain
 - id: pmid:16222245
   tags:
-    - unclassified
+    - Cryptococcus
 - id: pmid:16143628
   tags:
-    - unclassified
+    - population genetics
 - id: pmid:16077014
   tags:
-    - unclassified
+    - gene family evolution
+    - tool
 - id: pmid:15854223
   tags:
-    - unclassified
+    - hookworm
+    - comparative genomics
 - id: pmid:15470254
   tags:
-    - unclassified
+    - Cryptococcus
+    - gene expression
 - id: pmid:15356276
   tags:
-    - unclassified
+    - population genetics
+    - tool
+    - ABO
+    - human genetics
 - id: pmid:14624247
   tags:
-    - unclassified
+    - Caenorhabditis
+    - genome
 - id: pmid:12716998
   tags:
-    - unclassified
+    - tool
+    - comparative genomics
 - id: pmid:12368254
   tags:
-    - unclassified
+    - BioPerl
+    - tool
 - id: pmid:12368253
   tags:
-    - unclassified
+    - tool
+    - GBrowse
 - id: pmid:11743579
   tags:
-    - unclassified
+    - human genetics
+    - CMT
