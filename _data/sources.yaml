@@ -1,9 +1,9 @@
-- id: pubmed: 34247231
+- id: pmid:34247231
   tags:
     - insect fungal interactions
     - ascomycota
     - genome
-- id: pubmed: 34165331
+- id: pmid:34165331
   tags:
     - amplicon
     - ITS
@@ -11,92 +11,92 @@
     - fungi
     - Joshua Tree
     - aridlands
-- id: pubmed: 34080906
+- id: pmid:34080906
   tags:
     - cyanobacteria
     - metagenomics
     - aridlands
-- id: pubmed: 34067070
+- id: pmid:34067070
   tags:
     - coccidioides
     - onygenales
     - RNA-seq
-- id: pubmed: 34042486
+- id: pmid:34042486
   tags:
     - genome
     - Phytophthora
-- id: pubmed: 33871031
+- id: pmid:33871031
   tags:
     - coccidioides
     - onygenales
     - genomics
-- id: pubmed: 33815472
+- id: pmid:33815472
   tags:
     - black yeast
     - knufia
-- id: pubmed: 33809619
+- id: pmid:33809619
   tags:
     - Antarctica
     - endoliths
     - amplicon
     - fungi
-- id: pubmed: 33785623
+- id: pmid:33785623
   tags:
     - Candida
     - Clavispora lusitaniae
     - drug resistance
-- id: pubmed: 33752605
+- id: pmid:33752605
   tags:
     - Datura
     - plant genomics
     - genome
-- id: pubmed: 33741058
+- id: pmid:33741058
   tags:
     - metagenomics
     - Antarctica
     - endoliths
     - genome
     - MAG
-- id: pubmed: 33686174
+- id: pmid:33686174
   tags:
     - Pneumocystis
     - comparative genomics
-- id: pubmed: 33656416
+- id: pmid:33656416
   tags:
     - Apicomplexian
     - RNA binding
     - Evolution
-- id: pubmed: 33607033
+- id: pmid:33607033
   tags:
     - fungi
     - phylogenomics
     - systematics
     - evolution
-- id: pubmed: 33597172
+- id: pmid:33597172
   tags:
     - Aspergillus fumigatus
     - Cystic Fibrosis
-- id: pubmed: 33593969
+- id: pmid:33593969
   tags:
     - Aspergillus fumigatus
     - biofilm
     - RNA-seq
-- id: pubmed: 33592192
+- id: pmid:33592192
   tags:
     - Geosiphon
     - AMF
     - zygomycete
     - genome
     - comparative genomics
-- id: pubmed: 33585864
+- id: pmid:33585864
   tags:
     - genome
     - Pleurotus
-- id: pubmed: 33585863
+- id: pmid:33585863
   tags:
     - genome
     - Pleurotus
-- id: pubmed: 33547391
+- id: pmid:33547391
   tags:
     - fungi
     - phylogenomics
@@ -105,89 +105,89 @@
     - evolution
     - metagenomics
     - genome
-- id: pubmed: 33364917
+- id: pmid:33364917
   tags:
     - genome
     - zygomycete
     - Mortierellaceae
     - phylogenomics
-- id: pubmed: 33355923
+- id: pmid:33355923
   tags:
     - Suillus
     - basidomycota
     - comparative genomics
     - phylogenomics
-- id: pubmed: 33352712
+- id: pmid:33352712
   tags:
     - black yeast
     - review
-- id: pubmed: 33232202
+- id: pmid:33232202
   tags:
     - endoliths
     - review
     - fungi
     - rock
-- id: pubmed: 33200960
+- id: pmid:33200960
   tags:
     - phylogenomics
     - Fusarium
-- id: pubmed: 33155518
+- id: pmid:33155518
   tags:
     - Sporothrix
     - genome
     - comparative genomics
-- id: pubmed: 33138786
+- id: pmid:33138786
   tags:
     - Neurospora
     - phenotype
-- id: pubmed: 33020276
+- id: pmid:33020276
   tags:
     - Rice
     - transposon
     - mPing
-- id: pubmed: 32938701
+- id: pmid:32938701
   tags:
     - Fusarium
     - phylogeny
     - taxonomy
     - systematics
-- id: pubmed: 32902066
+- id: pmid:32902066
   tags:
     - soil microbiome
     - ITS
     - 16S
     - amplicon
     - environmental microbiology
-- id: pubmed: 32900807
+- id: pmid:32900807
   tags:
     - mycovirus
     - chytrid
     - zygomycete
     - virus
-- id: pubmed: 32883786
+- id: pmid:32883786
   tags:
     - review
     - MRA
-- id: pubmed: 32727924
+- id: pmid:32727924
   tags:
     - phylogenomics
     - Basidiobolus
     - HGT
     - fungi
     - zygomycete
-- id: pubmed: 32660385
+- id: pmid:32660385
   tags:
     - review
     - fungi
     - phylogeny
     - phylogenomics
-- id: pubmed: 32585947
+- id: pmid:32585947
   tags:
     - amplicon
     - culture
     - Antarctica
     - endoliths
-- id: pubmed: 32573682
+- id: pmid:32573682
   tags:
     - amplicon
     - ITS
@@ -195,518 +195,518 @@
     - fungi
     - aridlands
     - biological crust
-- id: pubmed: 32555716
+- id: pmid:32555716
   tags:
     - insect fungal interactions
     - review
     - zygomycete
     - Entomophthomycotina
-- id: pubmed: 32412847
+- id: pmid:32412847
   tags:
     - Massospora
     - zygomycete
     - systematics
     - Entomophthomycotina
-- id: pubmed: 32389308
+- id: pmid:32389308
   tags:
     - Friemannomyces
     - black yeast
     - Antarctica
     - genome
-- id: pubmed: 32371596
+- id: pmid:32371596
   tags:
     - review
     - fungi
     - disease
     - wildlife disease
-- id: pubmed: 32241854
+- id: pmid:32241854
   tags:
     - genome
     - Rhodotorula
     - Antarctica
-- id: pubmed: 32161129
+- id: pmid:32161129
   tags:
     - nematode trapping fungi
     - genome
     - population genomics
-- id: pubmed: 32139564
+- id: pmid:32139564
   tags:
     - metagenomics
     - endoliths
     - Antarctica
-- id: pubmed: 32041249
+- id: pmid:32041249
   tags:
     - Antarctica
     - endoliths
     - fungi
     - amplicon
-- id: pubmed: 31900675
+- id: pmid:31900675
   tags:
     - Africa
     - spore
     - fungi
-- id: pubmed: 31871487
+- id: pmid:31871487
   tags:
     - millipede
     - culture-based
     - zygomycete
-- id: pubmed: 31768192
+- id: pmid:31768192
   tags:
     - Massospora
     - zygomycete
     - genome
     - insect fungal interactions
-- id: pubmed: 31647694
+- id: pmid:31647694
   tags:
     - Fusarium
     - plant pathology
     - tool
-- id: pubmed: 31632357
+- id: pmid:31632357
   tags:
     - zygomycete
     - tool
     - bacteria fungi interactions
-- id: pubmed: 31548684
+- id: pmid:31548684
   tags:
     - Aspergillus fumigatus
     - biofilm
     - disease
     - hypoxia
-- id: pubmed: 31518652
+- id: pmid:31518652
   tags:
     - Fusarium
     - avocado
     - plant pathology
-- id: pubmed: 31488541
+- id: pmid:31488541
   tags:
     - review
     - MRA
-- id: pubmed: 31455637
+- id: pmid:31455637
   tags:
     - HGT
     - systematics
     - AGF
     - Neocallimastigomycota
     - transcriptome
-- id: pubmed: 31416856
+- id: pmid:31416856
   tags:
     - genome
     - coccidioides
-- id: pubmed: 31393667
+- id: pmid:31393667
   tags:
     - Antarctica
     - amplicon
     - ITS
     - 16S
-- id: pubmed: 31156574
+- id: pmid:31156574
   tags:
     - proteomics
     - black yeast
     - extremophile
-- id: pubmed: 31126947
+- id: pmid:31126947
   tags:
     - HGT
     - Neocallimastigomycota
     - AGF
-- id: pubmed: 31072892
+- id: pmid:31072892
   tags:
     - Exophiala
     - extremophile
     - Antarctica
-- id: pubmed: 30987585
+- id: pmid:30987585
   tags:
     - tool
     - genomics
-- id: pubmed: 30837337
+- id: pmid:30837337
   tags:
     - review
     - marine fungi
-- id: pubmed: 30778188
+- id: pmid:30778188
   tags:
     - epigenetics
     - fungi
     - 5mC
     - methylation
-- id: pubmed: 30733435
+- id: pmid:30733435
   tags:
     - transposon
     - Rice
     - mPing
-- id: pubmed: 30701257
+- id: pmid:30701257
   tags:
     - Verticllium
     - genome
-- id: pubmed: 30697917
+- id: pmid:30697917
   tags:
     - systematics
-- id: pubmed: 30673440
+- id: pmid:30673440
   tags:
     - Fusarium kuroshium
     - avocado
     - AFC
-- id: pubmed: 30639767
+- id: pmid:30639767
   tags:
     - Zoopagales
     - Zoopagomycota
     - zygomycete
     - phylogenomics
     - systematics
-- id: pubmed: 30539259
+- id: pmid:30539259
   tags:
     - Aspergillus nidulans
     - proteomics
     - space fungi
     - ISS
-- id: pubmed: 30485448
+- id: pmid:30485448
   tags:
     - phylogenomics
     - systematics
     - zygomycete
     - Endogone
-- id: pubmed: 30389707
+- id: pmid:30389707
   tags:
     - Candida
     - Clavispora lustianiae
     - drug resistance
-- id: pubmed: 30293061
+- id: pmid:30293061
   tags:
     - insect
     - RNA-seq
     - venom
-- id: pubmed: 30246146
+- id: pmid:30246146
   tags:
     - Aspergillus niger
     - population genomics
     - ISS
     - space fungi
-- id: pubmed: 30111619
+- id: pmid:30111619
   tags:
     - Entomophthomycotina
     - protease
     - Entomopthora muscae
-- id: pubmed: 30016947
+- id: pmid:30016947
   tags:
     - genome
     - Thraustochytrid
     - comparative genomics
-- id: pubmed: 30008702
+- id: pmid:30008702
   tags:
     - unclassified
-- id: pubmed: 29865244
+- id: pmid:29865244
   tags:
     - unclassified
-- id: pubmed: 29764946
+- id: pmid:29764946
   tags:
     - unclassified
-- id: pubmed: 29764372
+- id: pmid:29764372
   tags:
     - unclassified
-- id: pubmed: 29739910
+- id: pmid:29739910
   tags:
     - unclassified
-- id: pubmed: 29675967
+- id: pmid:29675967
   tags:
     - unclassified
-- id: pubmed: 29674435
+- id: pmid:29674435
   tags:
     - unclassified
-- id: pubmed: 29371508
+- id: pmid:29371508
   tags:
     - unclassified
-- id: pubmed: 29321239
+- id: pmid:29321239
   tags:
     - unclassified
-- id: pubmed: 29211832
+- id: pmid:29211832
   tags:
     - unclassified
-- id: pubmed: 29158416
+- id: pmid:29158416
   tags:
     - unclassified
-- id: pubmed: 29023459
+- id: pmid:29023459
   tags:
     - unclassified
-- id: pubmed: 28917057
+- id: pmid:28917057
   tags:
     - unclassified
-- id: pubmed: 28916147
+- id: pmid:28916147
   tags:
     - unclassified
-- id: pubmed: 28876195
+- id: pmid:28876195
   tags:
     - unclassified
-- id: pubmed: 28820125
+- id: pmid:28820125
   tags:
     - unclassified
-- id: pubmed: 28684563
+- id: pmid:28684563
   tags:
     - unclassified
-- id: pubmed: 28500048
+- id: pmid:28500048
   tags:
     - unclassified
-- id: pubmed: 28481340
+- id: pmid:28481340
   tags:
     - unclassified
-- id: pubmed: 28462022
+- id: pmid:28462022
   tags:
     - unclassified
-- id: pubmed: 28176784
+- id: pmid:28176784
   tags:
     - unclassified
-- id: pubmed: 28149701
+- id: pmid:28149701
   tags:
     - unclassified
-- id: pubmed: 30682305
+- id: pmid:30682305
   tags:
     - unclassified
-- id: pubmed: 27738200
+- id: pmid:27738200
   tags:
     - unclassified
-- id: pubmed: 27554660
+- id: pmid:27554660
   tags:
     - unclassified
-- id: pubmed: 27294409
+- id: pmid:27294409
   tags:
     - unclassified
-- id: pubmed: 27048799
+- id: pmid:27048799
   tags:
     - unclassified
-- id: pubmed: 27034999
+- id: pmid:27034999
   tags:
     - unclassified
-- id: pubmed: 26976598
+- id: pmid:26976598
   tags:
     - unclassified
-- id: pubmed: 26903035
+- id: pmid:26903035
   tags:
     - unclassified
-- id: pubmed: 26305593
+- id: pmid:26305593
   tags:
     - unclassified
-- id: pubmed: 26109355
+- id: pmid:26109355
   tags:
     - unclassified
-- id: pubmed: 25819009
+- id: pmid:25819009
   tags:
     - unclassified
-- id: pubmed: 25805857
+- id: pmid:25805857
   tags:
     - unclassified
-- id: pubmed: 25750214
+- id: pmid:25750214
   tags:
     - unclassified
-- id: pubmed: 25427217
+- id: pmid:25427217
   tags:
     - unclassified
-- id: pubmed: 25351875
+- id: pmid:25351875
   tags:
     - unclassified
-- id: pubmed: 25330340
+- id: pmid:25330340
   tags:
     - unclassified
-- id: pubmed: 25143134
+- id: pmid:25143134
   tags:
     - unclassified
-- id: pubmed: 24912000
+- id: pmid:24912000
   tags:
     - unclassified
-- id: pubmed: 24813190
+- id: pmid:24813190
   tags:
     - unclassified
-- id: pubmed: 24743168
+- id: pmid:24743168
   tags:
     - unclassified
-- id: pubmed: 24299411
+- id: pmid:24299411
   tags:
     - unclassified
-- id: pubmed: 24285193
+- id: pmid:24285193
   tags:
     - unclassified
-- id: pubmed: 24152717
+- id: pmid:24152717
   tags:
     - unclassified
-- id: pubmed: 24068976
+- id: pmid:24068976
   tags:
     - unclassified
-- id: pubmed: 23961317
+- id: pmid:23961317
   tags:
     - unclassified
-- id: pubmed: 23951101
+- id: pmid:23951101
   tags:
     - unclassified
-- id: pubmed: 23932404
+- id: pmid:23932404
   tags:
     - unclassified
-- id: pubmed: 23928422
+- id: pmid:23928422
   tags:
     - unclassified
-- id: pubmed: 23650365
+- id: pmid:23650365
   tags:
     - unclassified
-- id: pubmed: 23576519
+- id: pmid:23576519
   tags:
     - unclassified
-- id: pubmed: 23530226
+- id: pmid:23530226
   tags:
     - unclassified
-- id: pubmed: 23514374
+- id: pmid:23514374
   tags:
     - unclassified
-- id: pubmed: 23341551
+- id: pmid:23341551
   tags:
     - unclassified
-- id: pubmed: 23186325
+- id: pmid:23186325
   tags:
     - unclassified
-- id: pubmed: 22718849
+- id: pmid:22718849
   tags:
     - unclassified
-- id: pubmed: 22593224
+- id: pmid:22593224
   tags:
     - unclassified
-- id: pubmed: 22072962
+- id: pmid:22072962
   tags:
     - unclassified
-- id: pubmed: 22064857
+- id: pmid:22064857
   tags:
     - unclassified
-- id: pubmed: 21750257
+- id: pmid:21750257
   tags:
     - unclassified
-- id: pubmed: 21304167
+- id: pmid:21304167
   tags:
     - unclassified
-- id: pubmed: 21268975
+- id: pmid:21268975
   tags:
     - unclassified
-- id: pubmed: 20885784
+- id: pmid:20885784
   tags:
     - unclassified
-- id: pubmed: 20836076
+- id: pmid:20836076
   tags:
     - unclassified
-- id: pubmed: 20675579
+- id: pmid:20675579
   tags:
     - unclassified
-- id: pubmed: 20626842
+- id: pmid:20626842
   tags:
     - unclassified
-- id: pubmed: 20622885
+- id: pmid:20622885
   tags:
     - unclassified
-- id: pubmed: 20601044
+- id: pmid:20601044
   tags:
     - unclassified
-- id: pubmed: 20547848
+- id: pmid:20547848
   tags:
     - unclassified
-- id: pubmed: 20516208
+- id: pmid:20516208
   tags:
     - unclassified
-- id: pubmed: 20386741
+- id: pmid:20386741
   tags:
     - unclassified
-- id: pubmed: 20126439
+- id: pmid:20126439
   tags:
     - unclassified
-- id: pubmed: 19788875
+- id: pmid:19788875
   tags:
     - unclassified
-- id: pubmed: 19717792
+- id: pmid:19717792
   tags:
     - unclassified
-- id: pubmed: 19161465
+- id: pmid:19161465
   tags:
     - unclassified
-- id: pubmed: 19085333
+- id: pmid:19085333
   tags:
     - unclassified
-- id: pubmed: 18852473
+- id: pmid:18852473
   tags:
     - unclassified
-- id: pubmed: 18322534
+- id: pmid:18322534
   tags:
     - unclassified
-- id: pubmed: 18313909
+- id: pmid:18313909
   tags:
     - unclassified
-- id: pubmed: 18294377
+- id: pmid:18294377
   tags:
     - unclassified
-- id: pubmed: 18287711
+- id: pmid:18287711
   tags:
     - unclassified
-- id: pubmed: 17949488
+- id: pmid:17949488
   tags:
     - unclassified
-- id: pubmed: 17337636
+- id: pmid:17337636
   tags:
     - unclassified
-- id: pubmed: 17320905
+- id: pmid:17320905
   tags:
     - unclassified
-- id: pubmed: 17183716
+- id: pmid:17183716
   tags:
     - unclassified
-- id: pubmed: 17148473
+- id: pmid:17148473
   tags:
     - unclassified
-- id: pubmed: 17121679
+- id: pmid:17121679
   tags:
     - unclassified
-- id: pubmed: 17080091
+- id: pmid:17080091
   tags:
     - unclassified
-- id: pubmed: 17051209
+- id: pmid:17051209
   tags:
     - unclassified
-- id: pubmed: 16988423
+- id: pmid:16988423
   tags:
     - unclassified
-- id: pubmed: 16963629
+- id: pmid:16963629
   tags:
     - unclassified
-- id: pubmed: 16962256
+- id: pmid:16962256
   tags:
     - unclassified
-- id: pubmed: 16899494
+- id: pmid:16899494
   tags:
     - unclassified
-- id: pubmed: 16682456
+- id: pmid:16682456
   tags:
     - unclassified
-- id: pubmed: 16606443
+- id: pmid:16606443
   tags:
     - unclassified
-- id: pubmed: 16222245
+- id: pmid:16222245
   tags:
     - unclassified
-- id: pubmed: 16143628
+- id: pmid:16143628
   tags:
     - unclassified
-- id: pubmed: 16077014
+- id: pmid:16077014
   tags:
     - unclassified
-- id: pubmed: 15854223
+- id: pmid:15854223
   tags:
     - unclassified
-- id: pubmed: 15470254
+- id: pmid:15470254
   tags:
     - unclassified
-- id: pubmed: 15356276
+- id: pmid:15356276
   tags:
     - unclassified
-- id: pubmed: 14624247
+- id: pmid:14624247
   tags:
     - unclassified
-- id: pubmed: 12716998
+- id: pmid:12716998
   tags:
     - unclassified
-- id: pubmed: 12368254
+- id: pmid:12368254
   tags:
     - unclassified
-- id: pubmed: 12368253
+- id: pmid:12368253
   tags:
     - unclassified
-- id: pubmed: 11743579
+- id: pmid:11743579
   tags:
     - unclassified
