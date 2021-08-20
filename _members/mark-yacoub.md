@@ -5,7 +5,7 @@ search:
   - M Yacoub
 role: phd
 group: current
-image: images/members/markyacoub.png
+image: images/members/markyacoub.jpg
 #website: 
 email: 
 #google: 

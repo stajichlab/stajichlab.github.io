@@ -6,7 +6,7 @@ search:
   - CHTsai
 role: phd
 group: current
-image: images/members/chenghung-tsai.png
+image: images/members/chenghung-tsai.jpg
 #website: 
 email: ctsai085@ucr.edu 
 #google: 
