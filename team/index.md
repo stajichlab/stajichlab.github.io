@@ -54,7 +54,7 @@ Our work is made possible by funding from several organizations.
   link1="https://nsf.gov/"
   tooltip1="National Science Foundation"
 
-  image2="images/320px-Moore_Foundation_Logo.jpg"
+  image2="images/Moore_Foundation_Logo.jpg"
   link2="http://moore.org/"
   tooltip2="Gordon and Betty Moore Foundation"
 
