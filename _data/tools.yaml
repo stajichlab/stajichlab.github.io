@@ -1,34 +1,83 @@
-- name: Cool Dataset
+- name: BioPerl
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/bioperl
+  description: BioPerl project code
+  repo: bioperl/bioperl-live
 
-- name: Cool Package
+- name: Funannotate
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://funannotate.readthedocs.io/
+  description: Automated genome annotation pipeline that includes self-training, RNAseq incorporation in training and prediction, functional annotation, and comparative genomics. Developed by Jon Palmer with input from Jason Stajich
+  repo: nextgenusfs/funannotate/
 
-- name: Cool Tutorial
+- name: Lab SOPs
   group: more
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://lab.stajich.org/SOP_data/
+  description: ( in progress) Standard Operating Procedures for Data analyses
+  repo: stajichlab/SOP_data
 
-- name: Cool Web App
+- name: AAFTF
+  group: featured
+  image: 
+  link: https://github.com/stajichlab/AAFTF
+  description: Automated Assembly For The Fungi - automated genome assembly for simple haploid genome projects
+  repo: stajichlab/AAFTF
+
+- name: zygolife LCG assembly
+  group: more
+  image:
+  link: https://github.com/zygolife/LCG_Assembly
+  description: Zygomycetes Genealogy of Life: Low Coverage Genome assembly and annotation
+  repo: zygolife/LCG_Assembly
+
+- name: Zygolife
+  group: more
+  link: http://zygolife.org
+  description: Zygomycetes Genealoogy of Life
+
+- name: 1000 Fungal Genomes
+  group: more
+  link: http://1000.fungalgenomes.org
+  description: 1kFG project
+
+- name: 1kfg - NCBI fungi
+  group: more
+  link: https://github.com/1KFG/NCBI_fungi
+  description: calculating summary statistics for public fungal genomes in NCBI and downloading genomes and annotations
+  repo: 1kfg/NCBI_fungi
+
+- name: 1kfg - 2019 Freeze
+  group: more
+  link: https://github.com/1KFG/2019_dataset
+  description: downloads and processing for 1kfg project datasets from JGI and other
+  repo: 1kfg/2019_dataset
+
+- name: 1kfg - PHYling Fungi HMMs
+  group: more
+  link: https://github.com/1KFG/PHYling_HMMs_fungi
+  description: HMMs for several public phylogenomic marker sets for Fungal Phylogenomics
+  repo: 1kfg/PHYlings_HMMs_fungi
+
+- name: PHYling
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/stajichlab/PHYling_Unified
+  description: Phylogenomic package
+  repo: stajichlab/PHYling_Unified
+
+- name: FGMP
+  group: more
+  image: 
+  link: https://github.com/stajichlab/FGMP
+  description: Fungal Genome Mapping Pipeline - an alternate tool for genome completeness that incorporates coding and non-coding elements
+  repo: stajichlab/FGMP
+
+- name: ReLocaTE2
   group: more
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
-- name: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/stajichlab/RelocaTE2
+  description: Transposable element insertion site mapping tool using short-reads for population resequencing
+  repo: stajichlab/RelocaTE2
