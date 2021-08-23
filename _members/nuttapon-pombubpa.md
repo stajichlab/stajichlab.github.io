@@ -1,5 +1,5 @@
 ---
-title: Nuttapon (Nat) Pombubpa
+title: Nuttapon Pombubpa
 search:
   - N. Pombubpa
   - Nat Pombubpa
