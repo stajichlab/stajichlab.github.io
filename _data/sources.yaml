@@ -33,6 +33,7 @@
     - aridlands
 - id: pmid:34067070
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8150946/bin/jof-07-00366-g001.jpg
+  title: Transcriptional Analysis of Coccidioides immitis Mycelia and Spherules by RNA Sequencing
   tags:
     - coccidioides
     - onygenales
