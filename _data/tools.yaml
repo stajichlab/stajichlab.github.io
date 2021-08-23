@@ -30,7 +30,7 @@
   group: more
   image: images/Gilbertella_persicaria_2.jpg
   link: https://github.com/zygolife/LCG_Assembly
-  description: Zygomycetes Genealogy of Life: Low Coverage Genome assembly and annotation
+  description: Zygomycetes Genealogy of Life - Low Coverage Genome assembly and annotation
   repo: zygolife/LCG_Assembly
 
 - name: Zygolife
