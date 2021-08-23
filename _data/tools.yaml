@@ -1,5 +1,5 @@
 - name: BioPerl
-  group: featured
+  group: more
   image: images/photo.jpg
   link: https://github.com/bioperl
   description: BioPerl project code
@@ -26,11 +26,11 @@
   description: Automated Assembly For The Fungi - automated genome assembly for simple haploid genome projects
   repo: stajichlab/AAFTF
 
-- name: zygolife LCG assembly
+- name: Zygolife LCG assembly
   group: more
   image: images/Gilbertella_persicaria_2.jpg
   link: https://github.com/zygolife/LCG_Assembly
-  description: Zygomycetes Genealogy of Life - Low Coverage Genome assembly and annotation
+  description: ZyGoLife - Low Coverage Genome assembly and annotation
   repo: zygolife/LCG_Assembly
 
 - name: Zygolife
@@ -71,7 +71,7 @@
 
 - name: FGMP
   group: more
-  image: 
+  image: images/photo.jpg
   link: https://github.com/stajichlab/FGMP
   description: Fungal Genome Mapping Pipeline - an alternate tool for genome completeness that incorporates coding and non-coding elements
   repo: stajichlab/FGMP
