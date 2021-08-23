@@ -6,7 +6,7 @@ search:
   - João Felipe Moreira Salgado
 role: visitor
 group: alum
-image: images/members/omar-valencia.jpeg
+image: images/members/felipe-salgado.jpg
 website: https://junqueiralab.com/
 email: omarval626@gmail.com
 github: 
