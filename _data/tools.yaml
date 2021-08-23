@@ -21,7 +21,7 @@
 
 - name: AAFTF
   group: featured
-  image: 
+  image: images/AAFTF.png
   link: https://github.com/stajichlab/AAFTF
   description: Automated Assembly For The Fungi - automated genome assembly for simple haploid genome projects
   repo: stajichlab/AAFTF
@@ -34,6 +34,7 @@
   repo: zygolife/LCG_Assembly
 
 - name: Zygolife
+  image: images/Gilbertella_persicaria_2.jpg
   group: more
   link: http://zygolife.org
   description: Zygomycetes Genealoogy of Life
