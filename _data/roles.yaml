@@ -18,6 +18,10 @@ programmer:
   icon: fas fa-code
   text: Programmer
 
+visitor:
+  icon: fas fa-user-graduate
+  text: Visiting Scholar
+
 mascot:
   icon: fas fa-dog
   text: Mascot
