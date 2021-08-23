@@ -16,6 +16,7 @@ The Stajich Lab asks questions about how microbes interact with a focus on Fungi
 {% include list.html data="members" component="portrait" filters="role: phd, group: current: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: current: " %}
 {% include list.html data="members" component="portrait" filters="role: staff, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: visitor, group: current: " %}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
@@ -40,7 +41,7 @@ These are past lab members who have moved on in their careers.
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: staff, group: alum" style="small" %}
-
+{% include list.html data="members" component="portrait" filters="role: visitor, group: alum" style="small" %}
 ## Funding
 
 Our work is made possible by funding from several organizations.
