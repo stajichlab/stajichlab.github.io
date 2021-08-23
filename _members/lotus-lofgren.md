@@ -1,8 +1,10 @@
 ---
-title: Lotus Lofgren
+title: Lotus A Lofgren
 search:
   - L. Lofgren
   - L Lofgren
+  - LA Lofgren
+  - L.A. Lofgren
 role: postdoc
 group: current
 image: images/members/Lotus.jpg
