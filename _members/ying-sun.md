@@ -9,7 +9,7 @@ image: images/members/ying-sun.jpg
 #website: 
 #email: 
 #google: 
-linkedin: https://www.linkedin.com/in/sunyings/
+linkedin: sunyings
 github: sunying12
 twitter: sunying12
 ---
