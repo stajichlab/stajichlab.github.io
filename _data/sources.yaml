@@ -1,3 +1,15 @@
+- id: doi:10.22541/au.161839272.27561225/v1
+  image: images/Reynolds_2021_Fig6.png
+  tags:
+    - systematics
+    - early diverging fungi
+    - Zoopagomycota
+- id: doi:10.1093/g3journal/jkab255
+  tags:
+    - insect
+    - genome
+    - nanopore
+
 - id: pmid:34247231
   tags:
     - insect fungal interactions
