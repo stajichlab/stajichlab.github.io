@@ -1,5 +1,40 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.22541/au.161839272.27561225/v1
+  title: 'Understudied, underrepresented, and unknown: methodological biases that
+    limit detection of early diverging fungi from environmental samples'
+  authors:
+  - Nicole Reynolds
+  - Michelle Jusino
+  - Jason Stajich
+  - Matthew Smith
+  publisher: Authorea, Inc.
+  date: '2021-04-14'
+  link: https://doi.org/gmj9wk
+  image: images/Reynolds_2021_Fig6.png
+  tags:
+  - systematics
+  - early diverging fungi
+  - Zoopagomycota
+- id: doi:10.1093/g3journal/jkab255
+  title: "Improved draft reference genome for the Glassy-winged Sharpshooter ( <i>Homalodisca\
+    \ vitripennis</i> ), a vector for Pierce\u2019s disease"
+  authors:
+  - Cassandra L Ettinger
+  - Frank J Byrne
+  - Matthew A Collin
+  - Derreck Carter-House
+  - Linda L Walling
+  - Peter W Atkinson
+  - Rick A Redak
+  - Jason E Stajich
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2021-07-20'
+  link: https://doi.org/gmj9wn
+  tags:
+  - insect
+  - genome
+  - nanopore
 - id: pmid:34247231
   title: Diploidy within a Haploid Genus of Entomopathogenic Fungi.
   authors:
