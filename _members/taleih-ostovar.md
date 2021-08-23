@@ -4,7 +4,7 @@ search:
   - T. Ostovar
 role: phd
 group: current
-image: image/members/Ostovar_Talieh-r100w.jpg
+image: images/members/Ostovar_Talieh-r100w.jpg
 website: 
 email: talieh.ostovar68@gmail.com
 google: 
