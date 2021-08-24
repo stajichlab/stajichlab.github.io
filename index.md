@@ -29,7 +29,7 @@ title: Stajich lab
 
 {% include section.html %}
 
-We also develop bioinformatic approaches to visualizing and studying genome evolution. Our SOPs, protocols, codes, and resources are [publically available](https://github.com/stajichlab).
+We also develop bioinformatic approaches to visualizing and studying genome evolution. Our [SOPs](/SOP_data/), protocols, codes, and resources are [publically available](https://github.com/stajichlab).
 {% capture text %}
 
 Stajich lab welcomes people from diverse backgrounds regardless of race, ethinicity, color, religion, gender, gender identity, gender expression, sexual orientation, political affiliation, family commitments, national origin, genetics, disability or eligible age  <br>
@@ -37,7 +37,7 @@ Stajich lab welcomes people from diverse backgrounds regardless of race, ethinic
 {% endcapture %}
 {%
   include feature.html
-  image="images/members/Saisuki_groupphoto.jpg"
+  image="images/LabGroup_2021_Retreat1.jpg"
   link="team"
   heading="Our team members"
   text=text
