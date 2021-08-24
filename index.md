@@ -2,6 +2,8 @@
 title: Stajich lab
 ---
 
+(note this site is being transitioned from another system and will take a few more weeks to finish updating content for new form -- August '21)
+
 # About Us
 
 [**Stajich lab**](https://lab.stajich.org) is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu).
