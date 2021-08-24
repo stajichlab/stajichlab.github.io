@@ -7,7 +7,7 @@ member-page: jason-stajich
 
 {%
   include figure.html
-  image="images/2021-retreat/stajichlab_1.jpg"
+  image="images/2021-retreat/ground_shot_lab.jpg"
   height="100%"
 %}
 

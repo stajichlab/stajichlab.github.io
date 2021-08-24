@@ -2,7 +2,7 @@
 title: Lichen collecting in Joshua Tree
 tags: CCGP Lichen JTNP
 author: Jason E. Stajich
-member-page: jason-stajic
+member-page: jason-stajich
 ---
 
 {%
