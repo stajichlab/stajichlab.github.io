@@ -182,7 +182,8 @@
   - amplicon
   - fungi
 - id: pmid:33785623
-  title: 'Balancing Positive and Negative Selection: '
+  title: Balancing Positive and Negative Selection - <i>In Vivo</i> Evolution of <i>Candida
+    lusitaniae</i> MRR1
   authors:
   - Elora G Demers
   - Jason E Stajich
@@ -1677,7 +1678,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/30389707
   tags:
   - Candida
-  - Clavispora lustianiae
+  - Clavispora lusitaniae
   - drug resistance
 - id: pmid:30293061
   title: Parasitoid Jewel Wasp Mounts Multipronged Neurochemical Attack to Hijack
