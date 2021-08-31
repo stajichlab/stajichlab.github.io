@@ -1,3 +1,10 @@
+- id: 10.1128/mBio.02153-21
+  images: https://journals.asm.org/cms/10.1128/mBio.02153-21/asset/610ab608-7d19-49a5-9a2d-cc63d1e6674d/assets/images/medium/mbio.02153-21-f001.gif
+  tags:
+    - aspergillus fumigatus
+    - population genomics
+    - aspergillus
+    - cystic fibrosis
 - id: doi:10.22541/au.161839272.27561225/v1
   image: images/Reynolds_2021_Fig6.png
   tags:
