@@ -7,13 +7,14 @@ search:
 role: pi
 group: current
 image: images/members/Stajich_2019_2.jpg
-website: http://lab.stajich.org/
-email: jason.stajich@ucr.edu
-github: stajichlab
-google: t_YIP5UAAAAJ
-twitter: hyphaltip
-orcid: 0000-0002-7591-0020
-linkedin: jasonstajich
+links:
+  website: http://lab.stajich.org/
+  email: jason.stajich@ucr.edu
+  github: stajichlab
+  google: t_YIP5UAAAAJ
+  twitter: hyphaltip
+  orcid: 0000-0002-7591-0020
+  linkedin: jasonstajich
 ---
 I am interested in the process and mechanisms of evolution. I study this primarily in fungi using comparative, computational, and experimental tools.  We utilize genome and RNA sequencing, sequence analysis, molecular evolution, and phylogenetics, and molecular biology tools to explore the functions of genes or genomic regions identified by analyses to be involved in processes we study.
 
