@@ -19,4 +19,4 @@ Nuttapon (Nat) Pombubpa (started in the lab in Fall 2015) graduated in 2021 and 
 
 Nat passed his qualifying exam in May 2017 and his thesis project is focused on using amplicon and metagenome approaches to study the microbial diversity of crusts in Joshua Tree National Park. He has received a Joshua Tree Robert Lee Research Fellowship to perform some of this work. He is a teacher in several workshops on biological crusts.
 
-He is currently a lecturer in the Department of Microbiology, Faculty of Science, Chulalongkorn University in Bangkok, Thailand.
+He is currently a lecturer in the Department of Microbiology, Faculty of Science, [Chulalongkorn University](https://www.chula.ac.th/en/) in Bangkok, Thailand.

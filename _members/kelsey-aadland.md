@@ -5,12 +5,10 @@ search:
 role: postdoc
 group: current
 image: images/members/kelsey-aadland.jpg
-#website: 
-email: kelsey.aadland@ucr.edu 
-#google: 
-github: kaadland
-twitter: KSAadland
+links:
+  email: kelsey.aadland@ucr.edu
+  github: kaadland
+  twitter: KSAadland
 ---
 
-Kelsey is a Postdoc working on projects on Comparative genomics in Coccidioides, Onygenales, and Fungal evolution.
-
+Kelsey is a Postdoc working on projects on Comparative genomics in Coccidioides, Onygenales, and Fungal evolution. She completed her PhD at the University of Florida.

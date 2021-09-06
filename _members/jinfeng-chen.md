@@ -2,12 +2,10 @@
 title: Jinfeng Chen
 role: postdoc
 group: alum
-image: images/members/
-#website: 
-#email: 
-#google: 
-linkedin: 
-github: 
-twitter: 
+image: images/members/jinfeng-chen.jpg
+links:
+  github: JinfengChen
+  google: y1zV-f0AAAAJ
 ---
 
+Jinfeng was a postdoc and research scientist in the group co-advised with Sue Wessler. He focused on software development and applications to study transposon bursts in Rice.

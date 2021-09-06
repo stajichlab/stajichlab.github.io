@@ -1,16 +1,7 @@
 ---
 title: Dionne Martin
-search:
-  - 
 role: undergraduate
 group: alum
-image: images/members/
-website:
-email: 
-google: 
-github: 
-twitter: 
-linkedin: 
 ---
 
-
+Dionne was an undergraduate who worked remotely during the pandemic from 2020-21 on cyanobacteria genomics. She is currently a graduate student at University of Georgia.

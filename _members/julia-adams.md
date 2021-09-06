@@ -6,11 +6,8 @@ search:
 role: phd
 group: current
 image: images/members/julia-adams.jpg
-#website: 
-email: jadam013@ucr.edu 
-#google: 
-#github: 
-#twitter: 
+links:
+  email: jadam013@ucr.edu
 ---
 
 Julia Adams is a PhD student in the Plant Biology program. She joined the laboratory in 2017 and is focused on lichen diversity in desert ecosystems focusing on Joshua Tree National Park and Mojave desert region. She is applying genomic approaches characterize the diversity.

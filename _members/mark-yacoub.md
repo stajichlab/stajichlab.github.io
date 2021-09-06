@@ -6,11 +6,11 @@ search:
 role: phd
 group: current
 image: images/members/markyacoub.jpg
-#website: 
-email: 
-#google: 
+#website:
+email:
+#google:
 github: myacoub005
-#twitter: 
+#twitter:
 ---
 
-Mark joined the lab in 2021 as a PhD student in the [Microbiology](http://microbiology.ucr.edu) Program after completing his BS at UC Davis. He is currently working on the amphibian pathogen Batrachochytrium dendrobatidis and related chytrid fungi. 
+Mark joined the lab in 2021 as a PhD student in the [Microbiology](http://microbiology.ucr.edu) Program after completing his BS at UC Davis. He is currently working on the amphibian pathogen _Batrachochytrium dendrobatidis_ and related chytrid fungi. 

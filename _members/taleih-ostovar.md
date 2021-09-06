@@ -5,11 +5,9 @@ search:
 role: phd
 group: current
 image: images/members/Ostovar_Talieh-r100w.jpg
-website: 
-email: talieh.ostovar68@gmail.com
-google: 
-github: 90talieh
-twitter: 
+links:
+  email: talieh.ostovar68@gmail.com
+  github: 90talieh
 ---
 
 Talieh is currently a student in the UCR-SDSU joint Evolutionary Biology program and is co-advised by Prof [Elizabeth Waters](http://waterslab.org/).

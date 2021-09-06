@@ -10,7 +10,6 @@ group: current
 image: images/members/jesusp384x387.png
 links:
   home-page: http://jfpena.com
-  email: Jpena016@ucr.edu 
   github: jpena016
   twitter: FungalEvoDevo
 ---
