@@ -5,7 +5,7 @@ search:
   - T Kurbessoian
 role: phd
 group: current
-image: images/members/Kurbessoian.png
+image: images/members/Kurbessoian.jpg
 links:
   website: https://tania-k.github.io
   email: tkurb001@ucr.edu
