@@ -19,7 +19,7 @@ programmer:
   text: Programmer
 
 visitor:
-  icon: fas fa-user-graduate
+  icon: fas fa-flag
   text: Visiting Scholar
 
 mascot:
