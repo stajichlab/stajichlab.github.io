@@ -1,6 +1,27 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: 10.1128/mBio.02153-21
+- id: doi:10.3390/jof7090723
+  title: "Seven Years at High Salinity\u2014Experimental Evolution of the Extremely\
+    \ Halotolerant Black Yeast Hortaea werneckii"
+  authors:
+  - "Cene Gostin\u010Dar"
+  - Jason E. Stajich
+  - "Anja Kej\u017Ear"
+  - Sunita Sinha
+  - Corey Nislow
+  - Metka Lenassi
+  - Nina Gunde-Cimerman
+  publisher: Journal of Fungi
+  date: '2021-09-04'
+  link: https://doi.org/gmqjwh
+  image: https://www.mdpi.com/jof/jof-07-00723/article_deploy/html/images/jof-07-00723-g001.png
+  tags:
+  - Hortaea
+  - experimental evolution
+  - salinity
+  - halotolerance
+  - population genomics
+- id: doi:10.1128/mBio.02153-21
   title: Aspergillus fumigatus In-Host HOG Pathway Mutation for Cystic Fibrosis Lung
     Microenvironment Persistence
   authors:
@@ -12,7 +33,7 @@
   publisher: mBio
   date: '2021-08-31'
   link: https://doi.org/gmnrqv
-  images: https://journals.asm.org/cms/10.1128/mBio.02153-21/asset/610ab608-7d19-49a5-9a2d-cc63d1e6674d/assets/images/medium/mbio.02153-21-f001.gif
+  image: https://journals.asm.org/cms/10.1128/mBio.02153-21/asset/610ab608-7d19-49a5-9a2d-cc63d1e6674d/assets/images/medium/mbio.02153-21-f001.gif
   tags:
   - aspergillus fumigatus
   - population genomics
