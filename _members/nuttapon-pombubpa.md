@@ -10,7 +10,7 @@ group: alum
 image: images/members/Pombubpa.jpg
 website: https://natpombubpa-lab.github.io/
 email: Nuttapon.Po@chula.ac.th
-google: YVzTNlMAAAAJ
+google-scholar: YVzTNlMAAAAJ
 github: NatPombubpa
 twitter: NatPombubpa
 ---

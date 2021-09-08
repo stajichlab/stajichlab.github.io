@@ -11,7 +11,7 @@ image: images/members/Lotus.jpg
 links:
   website: http://www.lotuslofgren.com
   email: LotusLofgren@gmail.com
-  google: jp6Wo5sAAAAJ
+  google-scholar: jp6Wo5sAAAAJ
   github: MycoPunk
   twitter: LotusLofgren
 ---

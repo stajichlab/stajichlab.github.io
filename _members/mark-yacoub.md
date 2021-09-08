@@ -8,7 +8,7 @@ group: current
 image: images/members/markyacoub.jpg
 #website:
 email:
-#google:
+#google-scholar:
 github: myacoub005
 #twitter:
 ---

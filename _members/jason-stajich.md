@@ -11,7 +11,7 @@ links:
   website: http://lab.stajich.org/
   email: jason.stajich@ucr.edu
   github: stajichlab
-  google: t_YIP5UAAAAJ
+  google-scholar: t_YIP5UAAAAJ
   twitter: hyphaltip
   orcid: 0000-0002-7591-0020
   linkedin: jasonstajich

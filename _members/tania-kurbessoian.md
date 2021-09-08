@@ -9,7 +9,7 @@ image: images/members/Kurbessoian.jpg
 links:
   website: https://tania-k.github.io
   email: tkurb001@ucr.edu
-  google: KZcoGKkAAAAJ
+  google-scholar: KZcoGKkAAAAJ
   github: tania-k
   twitter: BYUnleashed
 ---
