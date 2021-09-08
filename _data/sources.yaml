@@ -1,5 +1,13 @@
-- id: 10.1128/mBio.02153-21
-  images: https://journals.asm.org/cms/10.1128/mBio.02153-21/asset/610ab608-7d19-49a5-9a2d-cc63d1e6674d/assets/images/medium/mbio.02153-21-f001.gif
+- id: doi:10.3390/jof7090723
+  image: https://www.mdpi.com/jof/jof-07-00723/article_deploy/html/images/jof-07-00723-g001.png
+  tags:
+    - Hortaea
+    - experimental evolution
+    - salinity
+    - halotolerance
+    - population genomics
+- id: doi:10.1128/mBio.02153-21
+  image: https://journals.asm.org/cms/10.1128/mBio.02153-21/asset/610ab608-7d19-49a5-9a2d-cc63d1e6674d/assets/images/medium/mbio.02153-21-f001.gif
   tags:
     - aspergillus fumigatus
     - population genomics
