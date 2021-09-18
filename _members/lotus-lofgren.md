@@ -6,7 +6,7 @@ search:
   - LA Lofgren
   - L.A. Lofgren
 role: postdoc
-group: current
+group: alum
 image: images/members/Lotus.jpg
 links:
   website: http://www.lotuslofgren.com
