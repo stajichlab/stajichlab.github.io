@@ -2,6 +2,7 @@
 title: Brad Cavinder
 role: postdoc
 group: alum
+image: images/members/brad-cavinder.jpg
 links:
   linkedin: brad-cavinder-a7b21079/3
 ---
