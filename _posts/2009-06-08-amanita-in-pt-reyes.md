@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amanita in Pt Reyes
-wordpress_id: 151
-wordpress_url: http://stajichlab.fungalgenomes.org/home/?p=151
-categories: []
 tags: []
 ---
-[caption id="" align="alignnone" width="500" caption="Amanita muscara in Pt Reyes"]Saw this beauty while on our hike in Pt Reyes before the Miller Institute Annual Symposium.[![Amanita muscara in Pt Reyes](http://farm4.static.flickr.com/3557/3607008033_1a886fc2e2_d.jpg "Amanita muscara")](http://www.flickr.com/photos/stajich/3607008033)[/caption]
+
+Saw this beauty while on our hike in Pt Reyes before the Miller Institute Annual Symposium
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/stajich/3607008033/" title="Amantia"><img src="https://live.staticflickr.com/3557/3607008033_d0fb8ca379_h.jpg" width="1600" height="1067" alt="Amantia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -1,9 +1,22 @@
 ---
 layout: post
 title: Mushrooms on the journey
-wordpress_id: 153
-wordpress_url: http://stajichlab.fungalgenomes.org/home/?p=153
-categories: []
-tags: []
+tags: [Travel, Mushrooms]
 ---
-Went from CA to OR to ID, MT, and WY for work ([Bioinformatics symposium](http://mcbworkshop.cgrb.oregonstate.edu/) at [Oregon State](http://www.oregonstate.edu/)) and a little vacation.  Here are a couple of mushrooms and lichens seen along the way.[![Amanita family](http://farm4.static.flickr.com/3307/3651510049_5e21912976_m.jpg)](http://www.flickr.com/photos/stajich/3651510049/ "Amanita family by jason.stajich, on Flickr") [![Agaricus augustus](http://farm4.static.flickr.com/3623/3651543265_7992eacd35_m.jpg)](http://www.flickr.com/photos/stajich/3651543265/ "Agaricus augustus by jason.stajich, on Flickr") [![Coprinopsis sp](http://farm3.static.flickr.com/2422/3652427738_204b1f1996_m.jpg)](http://www.flickr.com/photos/stajich/3652427738/ "Coprinopsis sp by jason.stajich, on Flickr")[![Polypore](http://farm3.static.flickr.com/2470/3651639019_fc9522e0c4_m.jpg)](http://www.flickr.com/photos/stajich/3651639019/ "Polypore by jason.stajich, on Flickr") [![Agaricus](http://farm4.static.flickr.com/3557/3672575125_81db0869f8_m.jpg)](http://www.flickr.com/photos/stajich/3672575125/ "Agaricus by jason.stajich, on Flickr") [![Coprinus on Bison dung](http://farm3.static.flickr.com/2584/3673377232_927d735bb9_m.jpg)](http://www.flickr.com/photos/stajich/3673377232/ "Coprinus on Bison dung by jason.stajich, on Flickr")[![Puffballs](http://farm4.static.flickr.com/3404/3673390604_c001e0ede6_m.jpg)](http://www.flickr.com/photos/stajich/3673390604/ "Puffballs by jason.stajich, on Flickr") [![Lichen](http://farm4.static.flickr.com/3648/3673396520_2e0f4c6a44_m.jpg)](http://www.flickr.com/photos/stajich/3673396520/ "Lichen by jason.stajich, on Flickr")
+
+Went from CA to OR to ID, MT, and WY for work ([Bioinformatics symposium](http://mcbworkshop.cgrb.oregonstate.edu/) at [Oregon State](http://www.oregonstate.edu/)) and a little vacation.
+
+
+ Here are a couple of mushrooms and lichens seen along the way.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/stajich/3651510049/" title="Amanita family"><img src="https://live.staticflickr.com/3307/3651510049_3a2409e9ac_h.jpg" width="1497" height="1600" alt="Amanita family"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/stajich/3651543265/" title="Agaricus augustus"><img src="https://live.staticflickr.com/3623/3651543265_86c7c7248a_h.jpg" width="1600" height="1067" alt="Agaricus augustus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/stajich/3652427738/" title="Coprinopsis sp"><img src="https://live.staticflickr.com/2422/3652427738_28263e6cbd_h.jpg" width="936" height="1600" alt="Coprinopsis sp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/stajich/3651639019/" title="Polypore"><img src="https://live.staticflickr.com/2470/3651639019_41546d37d4_h.jpg" width="1600" height="1044" alt="Polypore"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/stajich/3673377232/" title="Coprinus on Bison dung"><img src="https://live.staticflickr.com/2584/3673377232_15d7bd9de8_h.jpg" width="1600" height="1067" alt="Coprinus on Bison dung"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/stajich/3673390604/" title="Puffballs"><img src="https://live.staticflickr.com/3404/3673390604_a11ae32694_h.jpg" width="1600" height="1067" alt="Puffballs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
