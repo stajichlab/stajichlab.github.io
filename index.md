@@ -12,11 +12,11 @@ title: Stajich lab
 
 {% capture text %}
 
-[Research](research) in the lab focuses on evolution of fungi through use of genetic and genomic approaches incorporating experimental and computational tools. 
+[Research](research) in the lab focuses on evolution of fungi through use of genetic and genomic approaches incorporating experimental and computational tools.
 
 {%
   include figure.html
-  image="images/LabGroup_2021_Retreat2.jpg"
+  image="images/lab_photo/LabGroup_2021_Retreat2.jpg"
   caption="Welcome to the Stajich Lab!"
   width="100%"
   link="team"
@@ -37,7 +37,7 @@ Stajich lab welcomes people from diverse backgrounds regardless of race, ethinic
 {% endcapture %}
 {%
   include feature.html
-  image="images/LabGroup_2021_Retreat1.jpg"
+  image="images/lab_photo/LabGroup_2021_Retreat1.jpg"
   link="team"
   heading="Our team members"
   text=text

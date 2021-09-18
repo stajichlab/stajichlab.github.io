@@ -40,6 +40,9 @@ These are past lab members who have moved on in their careers.
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: staff, group: alum" style="small" %}
+
+## Visitor Alumni
+
 {% include list.html data="members" component="portrait" filters="role: visitor, group: alum" style="small" %}
 
 ### Undergraduate Alumni
