@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Serratia vs Fungi, The Movie
-wordpress_id: 1600
-wordpress_url: http://lab.stajich.org/home/?p=1600
-categories: []
-tags: []
+tags: [Bactera, Fungi, Serratia, Rhizopus, Video, Derreck]
 ---
-**When Bacteria attack!**Here's a short movie [Derreck](http://lab.stajich.org/home/people/derreck-carter-house/) made of _Serratia marcescens_ (red) spreading across _Rhizopus stolonifer _in his investigation of antagonism between bacteria and fungi.[embed]https://www.youtube.com/watch?v=gsdL9_yPqYY[/embed]
+## When Bacteria attack!
+
+Here's a short movie [Derreck](/members/derreck-carter-house/) made of _Serratia marcescens_ (red) spreading across _Rhizopus stolonifer_ in his investigation of antagonism between bacteria and fungi.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gsdL9_yPqYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

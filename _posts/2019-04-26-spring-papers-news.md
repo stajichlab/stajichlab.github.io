@@ -10,7 +10,7 @@ tags: []
 
 Several publications were accepted and published in last few months and want to highlight the hard work from lab members and collaborators.
 
-[Jinfeng](http://lab.stajich.org/home/people/jinfeng-chen/) lead article published on the [localized burst of Rice Transposable Elements Ping and Pong](https://www.nature.com/articles/s41467-019-08451-3) in only a subset of the domesticated lineages and clues to what changed to drive their increased activity.
+[Jinfeng](/members/jinfeng-chen/) lead article published on the [localized burst of Rice Transposable Elements Ping and Pong](https://www.nature.com/articles/s41467-019-08451-3) in only a subset of the domesticated lineages and clues to what changed to drive their increased activity.
 
 ![](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41467-019-08451-3/MediaObjects/41467_2019_8451_Fig2_HTML.png) Variation of _mPing, Ping_, and Pong_ element copy number in rice subgroups [https://www.nature.com/articles/s41467-019-08451-3/figures/2](https://www.nature.com/articles/s41467-019-08451-3/figures/2)
 
