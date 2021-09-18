@@ -2,7 +2,7 @@
 title: Nicole Leung
 role: undergraduate
 group: alum
-image: images/member/nicole-leung.jpg
+image: images/members/nicole-leung.jpg
 links:
   linked-in: nicole-leung-f
 ---
