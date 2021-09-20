@@ -7,8 +7,8 @@ member-page: jason-stajich
 
 {%
   include figure.html
-  image="images/JTNPlichen/lichen.jpg"
-  height="100%"
+  image="images/2020-07-JTNP_lichens/IMG_3515.jpeg"
+  height="75%"
 %}
 
 
@@ -20,10 +20,24 @@ Julia’s been studying lichens for several years and currently helps curate the
 
 {%
   include gallery.html
-  image1="images/JTNPlichen/lichen1.jpg"
-  image2="images/JTNPlichen/lichen2.jpg"
-  image3="images/JTNPlichen/lichen3.jpg"
-  image4="images/JTNPlichen/lichen4.jpg"
-  image5="images/JTNPlichen/lichen5.jpg"
-  image6="images/JTNPlichen/lichen6.jpg"
+  image1="images/2020-07-JTNP_lichens/IMG_3510.jpeg"
+  image2="images/2020-07-JTNP_lichens/IMG_3518.jpeg"
+  image3="images/2020-07-JTNP_lichens/IMG_3521.jpeg"
+  image4="images/2020-07-JTNP_lichens/IMG_3524.jpeg"
+  image5="images/2020-07-JTNP_lichens/IMG_3527.jpeg"
+  image6="images/2020-07-JTNP_lichens/IMG_3529.jpeg"
+%}
+
+[Julia](/members/julia-adams) collecting
+{%
+  include gallery.html
+  image1="images/2020-07-JTNP_lichens/IMG_3508.jpeg"
+  image2="images/2020-07-JTNP_lichens/IMG_3536.jpeg"
+%}
+
+The beautiful desert landscape of [Joshua Tree National Park](https://www.nps.gov/jotr/).
+{%
+  include gallery.html
+  image3="images/2020-07-JTNP_lichens/IMG_3546.jpeg"
+  image4="images/2020-07-JTNP_lichens/IMG_3547.jpeg"
 %}
