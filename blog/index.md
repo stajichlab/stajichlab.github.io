@@ -11,6 +11,9 @@ nav:
 
 {% include search-info.html %}
 
+{% include section.html background="images/banners/cholla.jpg" dark=true
+%}
+
 {% include list.html data="posts" component="post-excerpt" %}
 
 {% include section.html %}
