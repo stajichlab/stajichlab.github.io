@@ -9,8 +9,8 @@ Former postdoc [Ousmane Cissé](/members/ousmane-cisse) published his work on _P
 {%
   include figure.html
   caption="Figure 6 - Overview of the timing and evolution of Pneumocystis and their mammalian hosts"
-  image="http://mbio.asm.org/content/9/3/e00381-18/F6.large.jpg"
-  link="http://mbio.asm.org/content/9/3/e00381-18/F6.expansion.html"
+  image="https://journals.asm.org/cms/10.1128/mBio.00381-18/asset/e1858abb-45a4-4529-b116-e8189e977c36/assets/graphic/mbo0031838780006.jpeg"
+  link="https://journals.asm.org/doi/10.1128/mbio.00381-18?permanently=true#fig6"
 %}
 
 Current postdoc [Yan Wang](/members/yan-wang) published part of his thesis work and we worked on these data a bit as part of the [zygolife](http://zygolife.org/) [project](/home/2018/04/zygolife-visitors/) here [3]. 
