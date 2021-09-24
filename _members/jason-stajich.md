@@ -15,6 +15,8 @@ links:
   twitter: hyphaltip
   orcid: 0000-0002-7591-0020
   linkedin: jasonstajich
+redirect_from:
+  - /home/members/jason-stajich
 ---
 I am interested in the process and mechanisms of evolution. I study this primarily in fungi using comparative, computational, and experimental tools.  We utilize genome and RNA sequencing, sequence analysis, molecular evolution, and phylogenetics, and molecular biology tools to explore the functions of genes or genomic regions identified by analyses to be involved in processes we study.
 
