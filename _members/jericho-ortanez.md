@@ -1,6 +1,6 @@
 ---
 title: Jericho Ortanez
-role: undergraduate, staff
+role: staff
 group: alum
 image: images/members/jericho-ortanez.jpg
 ---
