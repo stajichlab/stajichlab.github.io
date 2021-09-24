@@ -14,6 +14,8 @@ links:
   google-scholar: jp6Wo5sAAAAJ
   github: MycoPunk
   twitter: LotusLofgren
+redirect_from:
+  - /home/people/lotus-lofgren
 ---
 
 Lotus studies mycology and ecology, write about science, code, and make scientific illustrations. She was a postdoc in the lab from 2019-2021 and is currently a postdoc at Duke University.

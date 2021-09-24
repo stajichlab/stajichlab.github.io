@@ -12,6 +12,9 @@ links:
   google-scholar: KZcoGKkAAAAJ
   github: tania-k
   twitter: BYUnleashed
+redirect_from:
+  - /home/people/tania-kurbessoian
+  - /home/people/tania
 ---
 
 I am a Microbiologist and Mycologist, fascinated with all things micro and fungi.
