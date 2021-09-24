@@ -21,7 +21,7 @@
 
 - name: AAFTF
   group: featured
-  image: images/AAFTF.png
+  image: images/tools/AAFTF_card.png
   link: https://github.com/stajichlab/AAFTF
   description: Automated Assembly For The Fungi - automated genome assembly for simple haploid genome projects
   repo: stajichlab/AAFTF
