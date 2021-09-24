@@ -46,6 +46,7 @@ Applicants should contact Jason but consider applications graduate programs that
 * [Genetics, Genomics, Bioinformatics](https://ggb.ucr.edu)
 * [Plant Pathology](https://microplantpath.ucr.edu/department-programs/plant-pathology-graduate-program)
 * [Plant Sciences](https://plantbiology.ucr.edu/graduate-program)
+* [Evolution, Ecology, and Organismal Biology](https://eeob.ucr.edu/about-program)
 
 ### Graduate Student Funding opportunities
 
