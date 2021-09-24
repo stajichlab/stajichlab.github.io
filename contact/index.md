@@ -65,8 +65,8 @@ USA
 {% capture col2 %}
 {%
   include figure.html
-  image="images/Genomics.jpg"
-  caption="Instiute for Integrative Genome Biology"
+  image="images/Stajichlab.png"
+  caption="Stajich Lab"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
