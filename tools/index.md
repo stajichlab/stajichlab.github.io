@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-tools"></i>Tools
 
-Software written or contributed to by the lab.
+Links to Projects and Software written or contributed to by the lab.
 
 {% include search-info.html %}
 
