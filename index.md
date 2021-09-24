@@ -2,11 +2,11 @@
 title: Stajich lab
 ---
 
-(note this site is being transitioned from another system and will take a few more weeks to finish updating content for new form -- August '21)
-
 # About Us
 
-[**Stajich lab**](https://lab.stajich.org) is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu).
+The [Stajich lab group](https://lab.stajich.org) is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu).
+
+We are members of graduate programs in [https://microbiology.ucr.edu](Microbiology); [Genetics, Genomics, and Bioinformatics](https://ggb.ucr.edu); [Plant Pathology](https://microplantpath.ucr.edu/department-programs/plant-pathology-graduate-program); [Plant Sciences](https://plantbiology.ucr.edu/graduate-program); [Evolution, Ecology, and Organismal Biology](https://eeob.ucr.edu/about-program). 
 
 ## Fungal Evolutionary Genomics Lab
 
