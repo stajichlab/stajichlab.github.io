@@ -2,13 +2,15 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Laboratory location and contact info
 ---
 
 # <i class="fas fa-envelope"></i>Contact
 
 {% include figure.html image="images/Genomics.jpg" width="100%" %}
-[**Stajich lab**](https://lab.stajich.org) is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu). We are located on the 1st floor of the Genomics building.
+
+The [**Stajich lab**](https://lab.stajich.org) is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu). We are located on the 1st floor of the Genomics building.
+
 {%
   include link.html
   type="email"
@@ -42,7 +44,6 @@ nav:
 {% include section.html %}
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
-
 
 Jason Stajich Laboratory <br>
 900 University Ave <br>

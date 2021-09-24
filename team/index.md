@@ -48,14 +48,68 @@ These are past lab members who have moved on in their careers.
 ### Undergraduate Alumni
 {% include list.html data="members" component="portrait" filters="role: undergraduate, group: alum" style="small" %}
 
-## Funding
+# Lab Group Memories
+
+{%
+  include gallery.html
+  style="square"
+
+  image1="/images/lab_photo/Tios_Tacos_2010.jpg"
+  tooltip1="2010"
+
+  image2="/images/lab_photo/LabGroup_2010b.jpg"
+  tooltip2="2010"
+
+  image3="/images/lab_photo/LabGroup_2010a.jpg"
+  tooltip3="2010"
+
+  image4="/images/lab_photo/labgroup_fungalgenetics_2011.jpg"
+  tooltip4="2011 Fungal Genetics"
+
+  image5="/images/lab_photo/stajich_lab_2015.jpg"
+  tooltip5="2015"
+
+  image6="/images/lab_photo/LabGroup_JTNP_2016.jpg"
+  tooltip6="2016 Joshua Tree"
+
+  image7="/images/lab_photo/LabGroup_2019.jpg"
+  tooltip7="2019 Summer"
+
+  image8="/images/lab_photo/LabGroup_2021_Retreat1.jpg"
+  tooltip8="2021 James Reserve Retreat"
+
+  image9="/images/lab_photo/LabGroup_2021_Retreat2.jpg"
+  tooltip9="2021 James Reserve Retreat"
+
+%}
+
+
+## 2019-2016
+{%
+include figure.html
+image="/images/lab_photo/StajichLabPic_crop_sm.jpg"
+tooltip="2016 Joshua Tree"
+%}
+
+{%
+include figure.html
+image="/images/lab_photo/bandphoto_2016_pinacles.jpg"
+tooltip="2016 Pinacles - Band Photo"
+%}
+
+
+## 2015-2010
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/stajich/albums/72157624144113608" title="2010 May Lab outing @ Tio&#x27;s"><img src="https://live.staticflickr.com/3383/4643529360_54984e5838_h.jpg" width="1600" height="1200" alt="2010 May Lab outing @ Tio&#x27;s"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# Funding
 
 Our work is made possible by funding from several organizations.
 {:.center}
 
 {%
   include gallery.html
-  style="square"
+  style="grid"
 
   image1="images/nsf.png"
   link1="https://nsf.gov/"
