@@ -10,6 +10,6 @@ Suki was a member of the lab for two months and worked on fungal-bacteria intera
 {%
  include figure.html
  caption="Saisuki and some of the lab members and mentors from Summer 2019"
- tooltip="Saisuki and some of the lab members"
+ alt="Saisuki and some of the lab members"
  image="/images/wp_upload/2019/09/Saisuki_groupphoto.jpg"
 %}
