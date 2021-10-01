@@ -4,7 +4,7 @@ search:
   - K. Aadland
 role: postdoc
 group: current
-image: images/members/kelsey-aadland.jpg
+image: images/members/kelsey-aadland.png
 links:
   email: kelsey.aadland@ucr.edu
   github: kaadland
