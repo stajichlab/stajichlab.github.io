@@ -82,7 +82,7 @@
   publisher: Authorea, Inc.
   date: '2021-04-14'
   link: https://doi.org/gmj9wk
-  image: images/Reynolds_2021_Fig6.png
+  image: images/publication_images/reynolds_2021_Fig6.png
   tags:
   - systematics
   - early diverging fungi
@@ -233,6 +233,8 @@
   - coccidioides
   - onygenales
   - genomics
+  - mitogenome
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8496281/bin/jkab132f1.jpg
 - id: pmid:33815472
   title: 'Effects of Simulated Microgravity on the Proteome and Secretome of the Polyextremotolerant
     Black Fungus '
