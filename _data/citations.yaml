@@ -142,20 +142,32 @@
   - Joshua Tree
   - aridlands
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Joshua_Tree_01.jpg/174px-Joshua_Tree_01.jpg
-- id: doi:10.3390/jof7050366
-  title: Transcriptional Analysis of Coccidioides immitis Mycelia and Spherules by
-    RNA Sequencing
+- id: doi:10.1128/MRA.00258-21.
+  title: Metagenome Sequencing to Explore Phylogenomics of Terrestrial Cyanobacteria
   authors:
-  - Aaron F. Carlin
-  - Sinem Beyhan
-  - "Jes\xFAs F. Pe\xF1a"
+  - Ryan D. Ward
   - Jason E. Stajich
-  - Suganya Viriyakosol
-  - Joshua Fierer
-  - Theo N. Kirkland
-  publisher: Journal of Fungi
-  date: '2021-05-07'
-  link: https://doi.org/gmj9xs
+  - Jeffrey R. Johansen
+  - Marcel Huntemann
+  - Alicia Clum
+  - Brian Foster
+  - Bryce Foster
+  - Simon Roux
+  - Krishnaveni Palaniappan
+  - Neha Varghese
+  - Supratim Mukherjee
+  - T. B. K. Reddy
+  - Chris Daum
+  - Alex Copeland
+  - I.-M. A. Chen
+  - Natalia N. Ivanova
+  - Nikos C. Kyrpides
+  - Nicole Shapiro
+  - Emiley A. Eloe-Fadrosh
+  - Nicole Pietrasiak
+  publisher: Microbiology Resource Announcements
+  date: '2021-06-03'
+  link: https://doi.org/10.1128/mra.00258-21.
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8354539/bin/mra.00258-21-f001.jpg
   tags:
   - cyanobacteria
