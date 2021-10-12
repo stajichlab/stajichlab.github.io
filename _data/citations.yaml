@@ -1,5 +1,37 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1371/journal.pone.0257823
+  title: Crowdsourced analysis of fungal growth and branching on microfluidic platforms
+  authors:
+  - Alex Hopke
+  - Alex Mela
+  - Felix Ellett
+  - Derreck Carter-House
+  - "Jes\xFAs F. Pe\xF1a"
+  - Jason E. Stajich
+  - Sophie Altamirano
+  - Brian Lovett
+  - Martin Egan
+  - Shiv Kale
+  - Ilkka Kronholm
+  - Paul Guerette
+  - Edyta Szewczyk
+  - Kevin McCluskey
+  - David Breslauer
+  - Hiral Shah
+  - Bryan R. Coad
+  - Michelle Momany
+  - Daniel Irimia
+  publisher: PLOS ONE
+  date: '2021-09-29'
+  link: https://doi.org/gmz4hg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8480888/bin/pone.0257823.g003.jpg
+  tags:
+  - fungus olympics
+  - growth
+  - zygolife
+  - aspergillus
+  - crowd sourced
 - id: doi:10.3390/jof7090723
   title: "Seven Years at High Salinity\u2014Experimental Evolution of the Extremely\
     \ Halotolerant Black Yeast Hortaea werneckii"
