@@ -103,9 +103,12 @@
   date: '2021-07-20'
   link: https://doi.org/gmj9wn
   tags:
+  - GWSS
+  - sharpshooter
   - insect
   - genome
   - nanopore
+  image: images/publication_images/GWSS_image1.jpg
 - id: pmid:34247231
   title: Diploidy within a Haploid Genus of Entomopathogenic Fungi.
   authors:
@@ -142,7 +145,7 @@
   - Joshua Tree
   - aridlands
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Joshua_Tree_01.jpg/174px-Joshua_Tree_01.jpg
-- id: doi:10.1128/MRA.00258-21.
+- id: doi:10.1128/MRA.00258-21
   title: Metagenome Sequencing to Explore Phylogenomics of Terrestrial Cyanobacteria
   authors:
   - Ryan D. Ward
@@ -167,7 +170,7 @@
   - Nicole Pietrasiak
   publisher: Microbiology Resource Announcements
   date: '2021-06-03'
-  link: https://doi.org/10.1128/mra.00258-21.
+  link: https://doi.org/gkjpkf
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8354539/bin/mra.00258-21-f001.jpg
   tags:
   - cyanobacteria
