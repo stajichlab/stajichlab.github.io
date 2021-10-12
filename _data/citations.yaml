@@ -329,18 +329,37 @@
   - genome
   - MAG
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7980648/bin/40168_2021_1021_Fig1_HTML.jpg
-- id: pmid:3368617
-  title: '[Medium-term course of patients over 65 with acute myocardial infarct].'
+- id: pmid:33686174
+  title: Genomic insights into the host specific adaptation of the Pneumocystis genus.
   authors:
-  - "R Castell\xF3"
-  - "E Alegr\xEDa"
-  - A Merino
-  - M Aparici
-  - J Calabuig
-  - "D Mart\xEDnez Caro"
-  publisher: Revista espanola de cardiologia
-  date: '1988-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/3368617
+  - "Ousmane H Ciss\xE9"
+  - Liang Ma
+  - John P Dekker
+  - Pavel P Khil
+  - Jung-Ho Youn
+  - Jason M Brenchley
+  - Robert Blair
+  - Bapi Pahar
+  - "Magali Chab\xE9"
+  - Koen K A Van Rompay
+  - Rebekah Keesler
+  - Antti Sukura
+  - Vanessa Hirsch
+  - Geetha Kutty
+  - Yueqin Liu
+  - Li Peng
+  - Jie Chen
+  - Jun Song
+  - Christiane Weissenbacher-Lang
+  - Jie Xu
+  - Nathan S Upham
+  - Jason E Stajich
+  - Christina A Cuomo
+  - Melanie T Cushion
+  - Joseph A Kovacs
+  publisher: Communications biology
+  date: '2021-03-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33686174
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7940399/bin/42003_2021_1799_Fig2_HTML.jpg4
   tags:
   - Pneumocystis
