@@ -29,7 +29,10 @@
     - early diverging fungi
     - Zoopagomycota
 - id: doi:10.1093/g3journal/jkab255
+  image: images/publication_images/GWSS_image1.jpg
   tags:
+    - GWSS
+    - sharpshooter
     - insect
     - genome
     - nanopore
@@ -51,7 +54,7 @@
     - Joshua Tree
     - aridlands
 
-- id: doi:10.1128/MRA.00258-21.
+- id: doi:10.1128/MRA.00258-21
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8354539/bin/mra.00258-21-f001.jpg
   tags:
     - cyanobacteria
