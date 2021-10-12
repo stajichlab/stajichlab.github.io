@@ -40,6 +40,7 @@
     - ascomycota
     - genome
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8325562/bin/evab158f5.jpg
+
 - id: pmid:34165331
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Joshua_Tree_01.jpg/174px-Joshua_Tree_01.jpg
   tags:
@@ -49,7 +50,8 @@
     - fungi
     - Joshua Tree
     - aridlands
-- id: doi:10.3390/jof7050366 
+
+- id: doi:10.1128/MRA.00258-21.
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8354539/bin/mra.00258-21-f001.jpg
   tags:
     - cyanobacteria
