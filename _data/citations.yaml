@@ -87,6 +87,10 @@
   - systematics
   - early diverging fungi
   - Zoopagomycota
+  eags:
+  - systematics
+  - early diverging fungi
+  - Zoopagomycota
 - id: doi:10.1093/g3journal/jkab255
   title: "Improved draft reference genome for the Glassy-winged Sharpshooter ( <i>Homalodisca\
     \ vitripennis</i> ), a vector for Pierce\u2019s disease"
@@ -252,6 +256,7 @@
   tags:
   - black yeast
   - knufia
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8012687/bin/fgene-12-638708-g001.jpg
 - id: pmid:33809619
   title: Culture-Dependent and Amplicon Sequencing Approaches Reveal Diversity and
     Distribution of Black Fungi in Antarctic Cryptoendolithic Communities.
@@ -269,6 +274,7 @@
   - endoliths
   - amplicon
   - fungi
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8001563/bin/jof-07-00213-g002.jpg
 - id: pmid:33785623
   title: Balancing Positive and Negative Selection - <i>In Vivo</i> Evolution of <i>Candida
     lusitaniae</i> MRR1
@@ -285,6 +291,7 @@
   - Candida
   - Clavispora lusitaniae
   - drug resistance
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8092287/bin/mBio.03328-20_f001.jpg
 - id: pmid:33752605
   title: Datura genome reveals duplications of psychoactive alkaloid biosynthetic
     genes and high mutation rate following tissue culture.
@@ -300,6 +307,7 @@
   - Datura
   - plant genomics
   - genome
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7986286/bin/12864_2021_7489_Fig2_HTML.jpg
 - id: pmid:33741058
   title: Pre-Cambrian roots of novel Antarctic cryptoendolithic bacterial lineages.
   authors:
@@ -320,37 +328,20 @@
   - endoliths
   - genome
   - MAG
-- id: pmid:33686174
-  title: Genomic insights into the host specific adaptation of the Pneumocystis genus.
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7980648/bin/40168_2021_1021_Fig1_HTML.jpg
+- id: pmid:3368617
+  title: '[Medium-term course of patients over 65 with acute myocardial infarct].'
   authors:
-  - "Ousmane H Ciss\xE9"
-  - Liang Ma
-  - John P Dekker
-  - Pavel P Khil
-  - Jung-Ho Youn
-  - Jason M Brenchley
-  - Robert Blair
-  - Bapi Pahar
-  - "Magali Chab\xE9"
-  - Koen K A Van Rompay
-  - Rebekah Keesler
-  - Antti Sukura
-  - Vanessa Hirsch
-  - Geetha Kutty
-  - Yueqin Liu
-  - Li Peng
-  - Jie Chen
-  - Jun Song
-  - Christiane Weissenbacher-Lang
-  - Jie Xu
-  - Nathan S Upham
-  - Jason E Stajich
-  - Christina A Cuomo
-  - Melanie T Cushion
-  - Joseph A Kovacs
-  publisher: Communications biology
-  date: '2021-03-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33686174
+  - "R Castell\xF3"
+  - "E Alegr\xEDa"
+  - A Merino
+  - M Aparici
+  - J Calabuig
+  - "D Mart\xEDnez Caro"
+  publisher: Revista espanola de cardiologia
+  date: '1988-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3368617
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7940399/bin/42003_2021_1799_Fig2_HTML.jpg4
   tags:
   - Pneumocystis
   - comparative genomics
@@ -370,6 +361,7 @@
   - Apicomplexian
   - RNA binding
   - Evolution
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8190603/bin/mgen-7-0541-g002.jpg
 - id: pmid:33607033
   title: A genome-scale phylogeny of the kingdom Fungi.
   authors:
@@ -393,6 +385,7 @@
   - phylogenomics
   - systematics
   - evolution
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4f6a7310-bc2d-4083-823f-f131655ab9cf/fx1.jpg
 - id: pmid:33597172
   title: Aspergillus fumigatus Strain-Specific Conidia Lung Persistence Causes an
     Allergic Broncho-Pulmonary Aspergillosis-Like Disease Phenotype.
@@ -415,9 +408,10 @@
   tags:
   - Aspergillus fumigatus
   - Cystic Fibrosis
+  image: https://journals.asm.org/cms/10.1128/mSphere.01250-20/asset/d9d55aae-bc91-44a4-9a49-f61c7c090035/assets/images/medium/msphere.01250-20-f0001.gif
 - id: pmid:33593969
-  title: 'A Heterogeneously Expressed Gene Family Modulates the Biofilm Architecture
-    and Hypoxic Growth of '
+  title: A Heterogeneously Expressed Gene Family Modulates the Biofilm Architecture
+    and Hypoxic Growth of <i>Aspergillus fumigatus</i>
   authors:
   - Caitlin H Kowalski
   - Kaesi A Morelli
