@@ -24,7 +24,7 @@
     - cystic fibrosis
 - id: doi:10.22541/au.161839272.27561225/v1
   image: images/publication_images/reynolds_2021_Fig6.png
-  tags:
+  eags:
     - systematics
     - early diverging fungi
     - Zoopagomycota
@@ -80,10 +80,12 @@
     - genomics
     - mitogenome
 - id: pmid:33815472
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8012687/bin/fgene-12-638708-g001.jpg
   tags:
     - black yeast
     - knufia
 - id: pmid:33809619
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8001563/bin/jof-07-00213-g002.jpg
   tags:
     - Antarctica
     - endoliths
@@ -91,42 +93,50 @@
     - fungi
 - id: pmid:33785623
   title: Balancing Positive and Negative Selection - <i>In Vivo</i> Evolution of <i>Candida lusitaniae</i> MRR1
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8092287/bin/mBio.03328-20_f001.jpg
   tags:
     - Candida
     - Clavispora lusitaniae
     - drug resistance
 - id: pmid:33752605
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7986286/bin/12864_2021_7489_Fig2_HTML.jpg
   tags:
     - Datura
     - plant genomics
     - genome
 - id: pmid:33741058
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7980648/bin/40168_2021_1021_Fig1_HTML.jpg
   tags:
     - metagenomics
     - Antarctica
     - endoliths
     - genome
     - MAG
-- id: pmid:33686174
+- id: pmid:3368617
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7940399/bin/42003_2021_1799_Fig2_HTML.jpg4
   tags:
     - Pneumocystis
     - comparative genomics
 - id: pmid:33656416
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8190603/bin/mgen-7-0541-g002.jpg
   tags:
     - Apicomplexian
     - RNA binding
     - Evolution
 - id: pmid:33607033
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4f6a7310-bc2d-4083-823f-f131655ab9cf/fx1.jpg
   tags:
     - fungi
     - phylogenomics
     - systematics
     - evolution
 - id: pmid:33597172
+  image: https://journals.asm.org/cms/10.1128/mSphere.01250-20/asset/d9d55aae-bc91-44a4-9a49-f61c7c090035/assets/images/medium/msphere.01250-20-f0001.gif
   tags:
     - Aspergillus fumigatus
     - Cystic Fibrosis
 - id: pmid:33593969
+  title: A Heterogeneously Expressed Gene Family Modulates the Biofilm Architecture and Hypoxic Growth of <i>Aspergillus fumigatus</i>
   tags:
     - Aspergillus fumigatus
     - biofilm
