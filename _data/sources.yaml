@@ -1,3 +1,12 @@
+- id: doi:10.1371/journal.pone.0257823
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8480888/bin/pone.0257823.g003.jpg
+  tags: 
+    - fungus olympics
+    - growth
+    - zygolife
+    - aspergillus
+    - crowd sourced
+
 - id: doi:10.3390/jof7090723
   image: https://www.mdpi.com/jof/jof-07-00723/article_deploy/html/images/jof-07-00723-g001.png
   tags:
