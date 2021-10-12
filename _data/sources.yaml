@@ -23,7 +23,7 @@
     - aspergillus
     - cystic fibrosis
 - id: doi:10.22541/au.161839272.27561225/v1
-  image: images/Reynolds_2021_Fig6.png
+  image: images/publication_images/reynolds_2021_Fig6.png
   tags:
     - systematics
     - early diverging fungi
@@ -73,10 +73,12 @@
     - genome
     - Phytophthora
 - id: pmid:33871031
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8496281/bin/jkab132f1.jpg
   tags:
     - coccidioides
     - onygenales
     - genomics
+    - mitogenome
 - id: pmid:33815472
   tags:
     - black yeast
