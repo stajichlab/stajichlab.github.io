@@ -1,6 +1,6 @@
 - name: BioPerl
   group: more
-  image: images/photo.jpg
+  image: images/tools/bioperl.png
   link: https://github.com/bioperl
   description: BioPerl project code
   repo: bioperl/bioperl-live

@@ -41,7 +41,7 @@ An NSF supported project focused on [Herptile Microbiomes](http://herptilemicrob
 
 A [USDA funded project](http://Citrus-HLB-Micro.github.io) on the role of microbiome manipulation in HLB Citrus greening is underway and will support two students.
 
-Applicants should contact Jason but consider applications graduate programs that fit research interests
+Applicants should contact [Jason](/members/jason-stajich)  but consider applications graduate programs that fit research interests
 * [Microbiology Graduate Program](https://microbiology.ucr.edu)
 * [Genetics, Genomics, Bioinformatics](https://ggb.ucr.edu)
 * [Plant Pathology](https://microplantpath.ucr.edu/department-programs/plant-pathology-graduate-program)
