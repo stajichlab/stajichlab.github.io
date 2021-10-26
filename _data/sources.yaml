@@ -117,7 +117,7 @@
     - genome
     - MAG
 - id: pmid:33686174
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7940399/bin/42003_2021_1799_Fig2_HTML.jpg4
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7940399/bin/42003_2021_1799_Fig2_HTML.jpg
   tags:
     - Pneumocystis
     - comparative genomics
@@ -135,7 +135,7 @@
     - systematics
     - evolution
 - id: pmid:33597172
-  image: https://journals.asm.org/cms/10.1128/mSphere.01250-20/asset/d9d55aae-bc91-44a4-9a49-f61c7c090035/assets/images/medium/msphere.01250-20-f0001.gif
+  image: https://journals.asm.org/cms/10.1128/mSphere.01250-20/asset/8ce39821-f1dd-4405-818a-a3df40aa308c/assets/images/medium/msphere.01250-20-f0002.gif
   tags:
     - Aspergillus fumigatus
     - Cystic Fibrosis
