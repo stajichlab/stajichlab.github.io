@@ -1211,7 +1211,8 @@
   - disease
   - wildlife disease
 - id: pmid:32241854
-  title: 'Draft Genome Sequence of the Yeast '
+  title: Draft Genome Sequence of the Yeast <i>Rhodotorula sp.</i> strain CCFEE 5036,
+    Isolated from McMurdo Dry Valleys, Antarctica
   authors:
   - Claudia Coleine
   - Sawyer Masonjones
@@ -1301,7 +1302,8 @@
   - spore
   - fungi
 - id: pmid:31871487
-  title: 'Diversity and function of fungi associated with the fungivorous millipede, '
+  title: Diversity and function of fungi associated with the fungivorous millipede,
+    <i>Brachycybe lecontii</i>
   authors:
   - Angie M Macias
   - Paul E Marek
@@ -1381,8 +1383,9 @@
   - plant pathology
   - tool
 - id: pmid:31632357
-  title: 'Microfluidics and Metabolomics Reveal Symbiotic Bacterial-Fungal Interactions
-    Between '
+  title: Microfluidics and Metabolomics Reveal Symbiotic Bacterial-Fungal Interactions
+    Between <i>Mortierella elongata</i> and <i>Burkholderia</i> Include Metabolite
+    Exchange
   authors:
   - Jessie K Uehling
   - Matthew R Entler
@@ -1445,7 +1448,8 @@
   - avocado
   - plant pathology
 - id: pmid:31488541
-  title: 'Future-Proofing Your '
+  title: Future-Proofing Your Microbiology Resource Announcements Genome Assembly
+    for Reproducibility and Clarity
   authors:
   - David A Baltrus
   - Christina A Cuomo
@@ -1558,7 +1562,8 @@
   - Neocallimastigomycota
   - AGF
 - id: pmid:31072892
-  title: 'Draft Genome Sequence of an Antarctic Isolate of the Black Yeast Fungus '
+  title: Draft Genome Sequence of an Antarctic Isolate of the Black Yeast Fungus <i>Exophiala
+    mesophila</i>
   authors:
   - Claudia Coleine
   - Laura Selbmann
@@ -1665,6 +1670,7 @@
   tags:
   - Verticllium
   - genome
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6346206/bin/MRA.01619-18-f0001.jpg
 - id: pmid:30697917
   title: "Pyricularia graminis-tritici is not the correct species name for the wheat\
     \ blast fungus: response to Ceresini et\_al. (MPP 20:2)."
@@ -1783,6 +1789,7 @@
   - systematics
   - zygomycete
   - Endogone
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/b95731db-9f7b-456f-a5ae-f25bbbe96ec1/nph15613-fig-0001-m.png
 - id: pmid:30389707
   title: 'Evolution of drug resistance in an antifungal-naive chronic '
   authors:
