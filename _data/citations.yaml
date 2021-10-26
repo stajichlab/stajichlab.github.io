@@ -445,6 +445,7 @@
   - Aspergillus fumigatus
   - biofilm
   - RNA-seq
+  image: https://journals.asm.org/cms/10.1128/mBio.03579-20/asset/c4ebb506-cce9-4749-9962-c5cc4083f0c6/assets/images/medium/mbio.03579-20-f0001.gif
 - id: pmid:33592192
   title: The genome of Geosiphon pyriformis reveals ancestral traits linked to the
     emergence of the arbuscular mycorrhizal symbiosis.
@@ -470,6 +471,7 @@
   - zygomycete
   - genome
   - comparative genomics
+  image: images/publication_images/geosiphon.jpg
 - id: pmid:33585864
   title: Genome sequence of the oyster mushroom Pleurotus ostreatus strain PC9.
   authors:
@@ -484,6 +486,7 @@
   tags:
   - genome
   - Pleurotus
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8022983/bin/jkaa008f1.jpg
 - id: pmid:33585863
   title: Genomic analyses of two Italian oyster mushroom Pleurotus pulmonarius strains.
   authors:
@@ -498,6 +501,7 @@
   tags:
   - genome
   - Pleurotus
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8022975/bin/jkaa007f3.jpg
 - id: pmid:33547391
   title: Genome-scale phylogenetic analyses confirm Olpidium as the closest living
     zoosporic fungus to the non-flagellated, terrestrial fungi.
@@ -523,6 +527,7 @@
   - evolution
   - metagenomics
   - genome
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7865070/bin/41598_2021_82607_Fig1_HTML.jpg
 - id: pmid:33364917
   title: Resolving the Mortierellaceae phylogeny through synthesis of multi-gene phylogenetics
     and phylogenomics.
@@ -546,6 +551,7 @@
   - zygomycete
   - Mortierellaceae
   - phylogenomics
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7751987/bin/nihms-1646997-f0001.jpg
 - id: pmid:33355923
   title: Comparative genomics reveals dynamic genome evolution in host specialist
     ectomycorrhizal fungi.
@@ -624,6 +630,7 @@
   tags:
   - black yeast
   - review
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7767062/bin/life-10-00362-g001.jpg
 - id: pmid:33232202
   title: 'Beyond the extremes: Rocks as ultimate refuge for fungi in drylands.'
   authors:
@@ -639,6 +646,7 @@
   - review
   - fungi
   - rock
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/umyc20/2021/umyc20.v113.i01/00275514.2020.1816761/20210526/images/medium/umyc_a_1816761_f0002_c.jpg
 - id: pmid:33200960
   title: Phylogenomic analysis of a 55.1 kb 19-gene dataset resolves a monophyletic
     Fusarium that includes the Fusarium solani Species Complex.
@@ -855,6 +863,7 @@
   - Sporothrix
   - genome
   - comparative genomics
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7717857/bin/TEMI_A_1847001_F0001_PB.jpg
 - id: pmid:33138786
   title: Clustering analysis of large-scale phenotypic data in the model filamentous
     fungus Neurospora crassa.
@@ -890,6 +899,7 @@
   - Rice
   - transposon
   - mPing
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7584900/bin/pnas.2015736117fig01.jpg
 - id: pmid:32938701
   title: 'No to '
   authors:
@@ -938,6 +948,7 @@
   - phylogeny
   - taxonomy
   - systematics
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7494836/bin/mSphere.00810-20-f0001.jpg
 - id: pmid:32902066
   title: Belowground impacts of alpine woody encroachment are determined by plant
     traits, local climate, and soil conditions.
@@ -1002,6 +1013,7 @@
   - chytrid
   - zygomycete
   - virus
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7482067/bin/mBio.02027-20-f0004.jpg
 - id: pmid:32883786
   title: 'Best Practices for Successfully Writing and Publishing a Genome Announcement
     in '
@@ -1028,6 +1040,7 @@
   tags:
   - review
   - MRA
+  image: https://journals.asm.org/pb-assets/images/pub-nav/MRA-logo-1601672971873.png
 - id: pmid:32727924
   title: 'Phylogenomic Analyses of Non-Dikarya Fungi Supports Horizontal Gene Transfer
     Driving Diversification of Secondary Metabolism in the Amphibian Gastrointestinal
@@ -1052,6 +1065,7 @@
   - HGT
   - fungi
   - zygomycete
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7466969/bin/3417f1.jpg
 - id: pmid:32660385
   title: Toward a Fully Resolved Fungal Tree of Life.
   authors:
@@ -1087,6 +1101,7 @@
   - culture
   - Antarctica
   - endoliths
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7356261/bin/microorganisms-08-00942-g001.jpg
 - id: pmid:32573682
   title: 'Insights into dryland biocrust microbiome: geography, soil depth and crust
     type affect biocrust microbial communities and networks in Mojave Desert, USA.'
@@ -1105,6 +1120,7 @@
   - fungi
   - aridlands
   - biological crust
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7426032/bin/fiaa125fig1.jpg
 - id: pmid:32555716
   title: 'Behavioral betrayal: How select fungal parasites enlist living insects to
     do their bidding.'
@@ -1124,6 +1140,7 @@
   - review
   - zygomycete
   - Entomophthomycotina
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7302443/bin/ppat.1008598.g001.jpg
 - id: pmid:32412847
   title: 'Evolutionary relationships among '
   authors:
@@ -1159,7 +1176,7 @@
   date: '2020-01-31'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32389308
   tags:
-  - Friemannomyces
+  - Friedmannomyces
   - black yeast
   - Antarctica
   - genome
