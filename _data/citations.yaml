@@ -18,6 +18,10 @@
   - molecular ecology
   - systematics
   - Early diverging fungi
+  extra-links:
+  - type: preprint
+  - type: authorea
+    link: https://www.authorea.com/users/407720/articles/517958
 - id: doi:10.1371/journal.pone.0257823
   title: Crowdsourced analysis of fungal growth and branching on microfluidic platforms
   authors:
@@ -814,7 +818,8 @@
   - phylogenomics
   - Fusarium
 - id: pmid:33155518
-  title: 'A novel '
+  title: A novel <i>Sporothrix brasiliensis</i> genomic variant in Midwestern Brazil
+    evidence for an older and wider sporotrichosis epidemic
   authors:
   - "Jo\xE3o Eudes Filho"
   - Isabele Barbieri Dos Santos
@@ -1461,7 +1466,8 @@
   - Neocallimastigomycota
   - transcriptome
 - id: pmid:31416856
-  title: 'Improved Reference Genome Sequence of '
+  title: Improved Reference Genome Sequence of <i>Coccidioides immitis</i> Strain
+    WA_211, Isolated in Washington State
   authors:
   - Marcus de Melo Teixeira
   - Bridget Marie Barker
