@@ -141,11 +141,13 @@
     - Cystic Fibrosis
 - id: pmid:33593969
   title: A Heterogeneously Expressed Gene Family Modulates the Biofilm Architecture and Hypoxic Growth of <i>Aspergillus fumigatus</i>
+  image: https://journals.asm.org/cms/10.1128/mBio.03579-20/asset/c4ebb506-cce9-4749-9962-c5cc4083f0c6/assets/images/medium/mbio.03579-20-f0001.gif
   tags:
     - Aspergillus fumigatus
     - biofilm
     - RNA-seq
-- id: pmid:33592192
+- id: pmid:
+  image: images/publication_images/geosiphon.jpg
   tags:
     - Geosiphon
     - AMF
@@ -153,14 +155,17 @@
     - genome
     - comparative genomics
 - id: pmid:33585864
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8022983/bin/jkaa008f1.jpg
   tags:
     - genome
     - Pleurotus
 - id: pmid:33585863
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8022975/bin/jkaa007f3.jpg
   tags:
     - genome
     - Pleurotus
 - id: pmid:33547391
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7865070/bin/41598_2021_82607_Fig1_HTML.jpg
   tags:
     - fungi
     - phylogenomics
@@ -170,6 +175,7 @@
     - metagenomics
     - genome
 - id: pmid:33364917
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7751987/bin/nihms-1646997-f0001.jpg
   tags:
     - genome
     - zygomycete
@@ -182,10 +188,12 @@
     - comparative genomics
     - phylogenomics
 - id: pmid:33352712
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7767062/bin/life-10-00362-g001.jpg
   tags:
     - black yeast
     - review
 - id: pmid:33232202
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/umyc20/2021/umyc20.v113.i01/00275514.2020.1816761/20210526/images/medium/umyc_a_1816761_f0002_c.jpg
   tags:
     - endoliths
     - review
@@ -196,6 +204,7 @@
     - phylogenomics
     - Fusarium
 - id: pmid:33155518
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7717857/bin/TEMI_A_1847001_F0001_PB.jpg
   title: A novel <i>Sporothrix brasiliensis</i> genomic variant in Midwestern Brazil evidence for an older and wider sporotrichosis epidemic
   tags:
     - Sporothrix
@@ -206,11 +215,13 @@
     - Neurospora
     - phenotype
 - id: pmid:33020276
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7584900/bin/pnas.2015736117fig01.jpg
   tags:
     - Rice
     - transposon
     - mPing
 - id: pmid:32938701
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7494836/bin/mSphere.00810-20-f0001.jpg
   tags:
     - Fusarium
     - phylogeny
@@ -224,16 +235,19 @@
     - amplicon
     - environmental microbiology
 - id: pmid:32900807
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7482067/bin/mBio.02027-20-f0004.jpg
   tags:
     - mycovirus
     - chytrid
     - zygomycete
     - virus
 - id: pmid:32883786
+  image: https://journals.asm.org/pb-assets/images/pub-nav/MRA-logo-1601672971873.png
   tags:
     - review
     - MRA
 - id: pmid:32727924
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7466969/bin/3417f1.jpg
   tags:
     - phylogenomics
     - Basidiobolus
@@ -247,12 +261,14 @@
     - phylogeny
     - phylogenomics
 - id: pmid:32585947
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7356261/bin/microorganisms-08-00942-g001.jpg
   tags:
     - amplicon
     - culture
     - Antarctica
     - endoliths
 - id: pmid:32573682
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7426032/bin/fiaa125fig1.jpg
   tags:
     - amplicon
     - ITS
@@ -261,6 +277,7 @@
     - aridlands
     - biological crust
 - id: pmid:32555716
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7302443/bin/ppat.1008598.g001.jpg
   tags:
     - insect fungal interactions
     - review
@@ -274,7 +291,7 @@
     - Entomophthomycotina
 - id: pmid:32389308
   tags:
-    - Friemannomyces
+    - Friedmannomyces
     - black yeast
     - Antarctica
     - genome
