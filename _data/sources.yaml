@@ -2,6 +2,7 @@
   image: https://www.authorea.com/users/407720/articles/517958/master/file/figures/Fig6_OTU_tree/Fig6_OTU_tree.png
   extra-links:
   - type: preprint
+  - type: authorea
     link: https://www.authorea.com/users/407720/articles/517958
   tags:
     - Zoopagomycota
@@ -11,7 +12,7 @@
     - Early diverging fungi
 - id: doi:10.1371/journal.pone.0257823
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8480888/bin/pone.0257823.g003.jpg
-  tags: 
+  tags:
     - fungus olympics
     - growth
     - zygolife
@@ -195,7 +196,7 @@
     - phylogenomics
     - Fusarium
 - id: pmid:33155518
-  title: A novel <i>Sporothrix brasiliensis</i> genomic variant in Midwestern Brazil: evidence for an older and wider sporotrichosis epidemic
+  title: A novel <i>Sporothrix brasiliensis</i> genomic variant in Midwestern Brazil evidence for an older and wider sporotrichosis epidemic
   tags:
     - Sporothrix
     - genome
