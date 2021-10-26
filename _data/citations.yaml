@@ -1,5 +1,23 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1111/1755-0998.13540
+  title: 'Understudied, underrepresented, and unknown: methodological biases that
+    limit detection of early diverging fungi from environmental samples'
+  authors:
+  - Nicole K. Reynolds
+  - Michelle A. Jusino
+  - Jason E. Stajich
+  - Matthew E. Smith
+  publisher: Molecular Ecology Resources
+  date: '2021-10-25'
+  link: https://doi.org/gm75v3
+  image: https://www.authorea.com/users/407720/articles/517958/master/file/figures/Fig6_OTU_tree/Fig6_OTU_tree.png
+  tags:
+  - Zoopagomycota
+  - ITS
+  - molecular ecology
+  - systematics
+  - Early diverging fungi
 - id: doi:10.1371/journal.pone.0257823
   title: Crowdsourced analysis of fungal growth and branching on microfluidic platforms
   authors:
@@ -31,7 +49,6 @@
   - growth
   - zygolife
   - aspergillus
-  - crowd sourced
 - id: doi:10.3390/jof7090723
   title: "Seven Years at High Salinity\u2014Experimental Evolution of the Extremely\
     \ Halotolerant Black Yeast Hortaea werneckii"
@@ -71,26 +88,6 @@
   - population genomics
   - aspergillus
   - cystic fibrosis
-- id: doi:10.22541/au.161839272.27561225/v1
-  title: 'Understudied, underrepresented, and unknown: methodological biases that
-    limit detection of early diverging fungi from environmental samples'
-  authors:
-  - Nicole Reynolds
-  - Michelle Jusino
-  - Jason Stajich
-  - Matthew Smith
-  publisher: Authorea, Inc.
-  date: '2021-04-14'
-  link: https://doi.org/gmj9wk
-  image: images/publication_images/reynolds_2021_Fig6.png
-  tags:
-  - systematics
-  - early diverging fungi
-  - Zoopagomycota
-  eags:
-  - systematics
-  - early diverging fungi
-  - Zoopagomycota
 - id: doi:10.1093/g3journal/jkab255
   title: "Improved draft reference genome for the Glassy-winged Sharpshooter ( <i>Homalodisca\
     \ vitripennis</i> ), a vector for Pierce\u2019s disease"
