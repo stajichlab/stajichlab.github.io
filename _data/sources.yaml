@@ -1,3 +1,11 @@
+- id: doi:10.1111/1755-0998.13540
+  image: https://www.authorea.com/users/407720/articles/517958/master/file/figures/Fig6_OTU_tree/Fig6_OTU_tree.png
+  tags:
+    - Zoopagomycota
+    - ITS
+    - molecular ecology
+    - systematics
+    - Early diverging fungi
 - id: doi:10.1371/journal.pone.0257823
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8480888/bin/pone.0257823.g003.jpg
   tags: 
@@ -5,8 +13,6 @@
     - growth
     - zygolife
     - aspergillus
-    - crowd sourced
-
 - id: doi:10.3390/jof7090723
   image: https://www.mdpi.com/jof/jof-07-00723/article_deploy/html/images/jof-07-00723-g001.png
   tags:
@@ -22,12 +28,6 @@
     - population genomics
     - aspergillus
     - cystic fibrosis
-- id: doi:10.22541/au.161839272.27561225/v1
-  image: images/publication_images/reynolds_2021_Fig6.png
-  eags:
-    - systematics
-    - early diverging fungi
-    - Zoopagomycota
 - id: doi:10.1093/g3journal/jkab255
   image: images/publication_images/GWSS_image1.jpg
   tags:
