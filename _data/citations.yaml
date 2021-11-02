@@ -1,5 +1,58 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1111/1755-0998.13540
+  title: 'Understudied, underrepresented, and unknown: methodological biases that
+    limit detection of early diverging fungi from environmental samples'
+  authors:
+  - Nicole K. Reynolds
+  - Michelle A. Jusino
+  - Jason E. Stajich
+  - Matthew E. Smith
+  publisher: Molecular Ecology Resources
+  date: '2021-10-25'
+  link: https://doi.org/gm75v3
+  image: https://www.authorea.com/users/407720/articles/517958/master/file/figures/Fig6_OTU_tree/Fig6_OTU_tree.png
+  tags:
+  - Zoopagomycota
+  - ITS
+  - molecular ecology
+  - systematics
+  - Early diverging fungi
+  extra-links:
+  - type: preprint
+  - type: authorea
+    link: https://www.authorea.com/users/407720/articles/517958
+- id: doi:10.1371/journal.pone.0257823
+  title: Crowdsourced analysis of fungal growth and branching on microfluidic platforms
+  authors:
+  - Alex Hopke
+  - Alex Mela
+  - Felix Ellett
+  - Derreck Carter-House
+  - "Jes\xFAs F. Pe\xF1a"
+  - Jason E. Stajich
+  - Sophie Altamirano
+  - Brian Lovett
+  - Martin Egan
+  - Shiv Kale
+  - Ilkka Kronholm
+  - Paul Guerette
+  - Edyta Szewczyk
+  - Kevin McCluskey
+  - David Breslauer
+  - Hiral Shah
+  - Bryan R. Coad
+  - Michelle Momany
+  - Daniel Irimia
+  publisher: PLOS ONE
+  date: '2021-09-29'
+  link: https://doi.org/gmz4hg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8480888/bin/pone.0257823.g003.jpg
+  tags:
+  - fungus olympics
+  - growth
+  - zygolife
+  - aspergillus
 - id: doi:10.3390/jof7090723
   title: "Seven Years at High Salinity\u2014Experimental Evolution of the Extremely\
     \ Halotolerant Black Yeast Hortaea werneckii"
@@ -39,22 +92,6 @@
   - population genomics
   - aspergillus
   - cystic fibrosis
-- id: doi:10.22541/au.161839272.27561225/v1
-  title: 'Understudied, underrepresented, and unknown: methodological biases that
-    limit detection of early diverging fungi from environmental samples'
-  authors:
-  - Nicole Reynolds
-  - Michelle Jusino
-  - Jason Stajich
-  - Matthew Smith
-  publisher: Authorea, Inc.
-  date: '2021-04-14'
-  link: https://doi.org/gmj9wk
-  image: images/Reynolds_2021_Fig6.png
-  tags:
-  - systematics
-  - early diverging fungi
-  - Zoopagomycota
 - id: doi:10.1093/g3journal/jkab255
   title: "Improved draft reference genome for the Glassy-winged Sharpshooter ( <i>Homalodisca\
     \ vitripennis</i> ), a vector for Pierce\u2019s disease"
@@ -71,9 +108,12 @@
   date: '2021-07-20'
   link: https://doi.org/gmj9wn
   tags:
+  - GWSS
+  - sharpshooter
   - insect
   - genome
   - nanopore
+  image: images/publication_images/GWSS_image1.jpg
 - id: pmid:34247231
   title: Diploidy within a Haploid Genus of Entomopathogenic Fungi.
   authors:
@@ -110,20 +150,32 @@
   - Joshua Tree
   - aridlands
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Joshua_Tree_01.jpg/174px-Joshua_Tree_01.jpg
-- id: doi:10.3390/jof7050366
-  title: Transcriptional Analysis of Coccidioides immitis Mycelia and Spherules by
-    RNA Sequencing
+- id: doi:10.1128/MRA.00258-21
+  title: Metagenome Sequencing to Explore Phylogenomics of Terrestrial Cyanobacteria
   authors:
-  - Aaron F. Carlin
-  - Sinem Beyhan
-  - "Jes\xFAs F. Pe\xF1a"
+  - Ryan D. Ward
   - Jason E. Stajich
-  - Suganya Viriyakosol
-  - Joshua Fierer
-  - Theo N. Kirkland
-  publisher: Journal of Fungi
-  date: '2021-05-07'
-  link: https://doi.org/gmj9xs
+  - Jeffrey R. Johansen
+  - Marcel Huntemann
+  - Alicia Clum
+  - Brian Foster
+  - Bryce Foster
+  - Simon Roux
+  - Krishnaveni Palaniappan
+  - Neha Varghese
+  - Supratim Mukherjee
+  - T. B. K. Reddy
+  - Chris Daum
+  - Alex Copeland
+  - I.-M. A. Chen
+  - Natalia N. Ivanova
+  - Nikos C. Kyrpides
+  - Nicole Shapiro
+  - Emiley A. Eloe-Fadrosh
+  - Nicole Pietrasiak
+  publisher: Microbiology Resource Announcements
+  date: '2021-06-03'
+  link: https://doi.org/gkjpkf
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8354539/bin/mra.00258-21-f001.jpg
   tags:
   - cyanobacteria
@@ -186,6 +238,8 @@
   - coccidioides
   - onygenales
   - genomics
+  - mitogenome
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8496281/bin/jkab132f1.jpg
 - id: pmid:33815472
   title: 'Effects of Simulated Microgravity on the Proteome and Secretome of the Polyextremotolerant
     Black Fungus '
@@ -203,6 +257,7 @@
   tags:
   - black yeast
   - knufia
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8012687/bin/fgene-12-638708-g001.jpg
 - id: pmid:33809619
   title: Culture-Dependent and Amplicon Sequencing Approaches Reveal Diversity and
     Distribution of Black Fungi in Antarctic Cryptoendolithic Communities.
@@ -220,6 +275,7 @@
   - endoliths
   - amplicon
   - fungi
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8001563/bin/jof-07-00213-g002.jpg
 - id: pmid:33785623
   title: Balancing Positive and Negative Selection - <i>In Vivo</i> Evolution of <i>Candida
     lusitaniae</i> MRR1
@@ -236,6 +292,7 @@
   - Candida
   - Clavispora lusitaniae
   - drug resistance
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8092287/bin/mBio.03328-20_f001.jpg
 - id: pmid:33752605
   title: Datura genome reveals duplications of psychoactive alkaloid biosynthetic
     genes and high mutation rate following tissue culture.
@@ -251,6 +308,7 @@
   - Datura
   - plant genomics
   - genome
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7986286/bin/12864_2021_7489_Fig2_HTML.jpg
 - id: pmid:33741058
   title: Pre-Cambrian roots of novel Antarctic cryptoendolithic bacterial lineages.
   authors:
@@ -271,6 +329,7 @@
   - endoliths
   - genome
   - MAG
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7980648/bin/40168_2021_1021_Fig1_HTML.jpg
 - id: pmid:33686174
   title: Genomic insights into the host specific adaptation of the Pneumocystis genus.
   authors:
@@ -302,6 +361,7 @@
   publisher: Communications biology
   date: '2021-03-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33686174
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7940399/bin/42003_2021_1799_Fig2_HTML.jpg
   tags:
   - Pneumocystis
   - comparative genomics
@@ -321,6 +381,7 @@
   - Apicomplexian
   - RNA binding
   - Evolution
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8190603/bin/mgen-7-0541-g002.jpg
 - id: pmid:33607033
   title: A genome-scale phylogeny of the kingdom Fungi.
   authors:
@@ -344,6 +405,7 @@
   - phylogenomics
   - systematics
   - evolution
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4f6a7310-bc2d-4083-823f-f131655ab9cf/fx1.jpg
 - id: pmid:33597172
   title: Aspergillus fumigatus Strain-Specific Conidia Lung Persistence Causes an
     Allergic Broncho-Pulmonary Aspergillosis-Like Disease Phenotype.
@@ -366,9 +428,10 @@
   tags:
   - Aspergillus fumigatus
   - Cystic Fibrosis
+  image: https://journals.asm.org/cms/10.1128/mSphere.01250-20/asset/8ce39821-f1dd-4405-818a-a3df40aa308c/assets/images/medium/msphere.01250-20-f0002.gif
 - id: pmid:33593969
-  title: 'A Heterogeneously Expressed Gene Family Modulates the Biofilm Architecture
-    and Hypoxic Growth of '
+  title: A Heterogeneously Expressed Gene Family Modulates the Biofilm Architecture
+    and Hypoxic Growth of <i>Aspergillus fumigatus</i>
   authors:
   - Caitlin H Kowalski
   - Kaesi A Morelli
@@ -382,6 +445,7 @@
   - Aspergillus fumigatus
   - biofilm
   - RNA-seq
+  image: https://journals.asm.org/cms/10.1128/mBio.03579-20/asset/c4ebb506-cce9-4749-9962-c5cc4083f0c6/assets/images/medium/mbio.03579-20-f0001.gif
 - id: pmid:33592192
   title: The genome of Geosiphon pyriformis reveals ancestral traits linked to the
     emergence of the arbuscular mycorrhizal symbiosis.
@@ -407,6 +471,7 @@
   - zygomycete
   - genome
   - comparative genomics
+  image: images/publication_images/geosiphon.jpg
 - id: pmid:33585864
   title: Genome sequence of the oyster mushroom Pleurotus ostreatus strain PC9.
   authors:
@@ -421,6 +486,7 @@
   tags:
   - genome
   - Pleurotus
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8022983/bin/jkaa008f1.jpg
 - id: pmid:33585863
   title: Genomic analyses of two Italian oyster mushroom Pleurotus pulmonarius strains.
   authors:
@@ -435,6 +501,7 @@
   tags:
   - genome
   - Pleurotus
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8022975/bin/jkaa007f3.jpg
 - id: pmid:33547391
   title: Genome-scale phylogenetic analyses confirm Olpidium as the closest living
     zoosporic fungus to the non-flagellated, terrestrial fungi.
@@ -460,6 +527,7 @@
   - evolution
   - metagenomics
   - genome
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7865070/bin/41598_2021_82607_Fig1_HTML.jpg
 - id: pmid:33364917
   title: Resolving the Mortierellaceae phylogeny through synthesis of multi-gene phylogenetics
     and phylogenomics.
@@ -483,6 +551,7 @@
   - zygomycete
   - Mortierellaceae
   - phylogenomics
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7751987/bin/nihms-1646997-f0001.jpg
 - id: pmid:33355923
   title: Comparative genomics reveals dynamic genome evolution in host specialist
     ectomycorrhizal fungi.
@@ -561,6 +630,7 @@
   tags:
   - black yeast
   - review
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7767062/bin/life-10-00362-g001.jpg
 - id: pmid:33232202
   title: 'Beyond the extremes: Rocks as ultimate refuge for fungi in drylands.'
   authors:
@@ -576,6 +646,7 @@
   - review
   - fungi
   - rock
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/umyc20/2021/umyc20.v113.i01/00275514.2020.1816761/20210526/images/medium/umyc_a_1816761_f0002_c.jpg
 - id: pmid:33200960
   title: Phylogenomic analysis of a 55.1 kb 19-gene dataset resolves a monophyletic
     Fusarium that includes the Fusarium solani Species Complex.
@@ -755,7 +826,8 @@
   - phylogenomics
   - Fusarium
 - id: pmid:33155518
-  title: 'A novel '
+  title: A novel <i>Sporothrix brasiliensis</i> genomic variant in Midwestern Brazil
+    evidence for an older and wider sporotrichosis epidemic
   authors:
   - "Jo\xE3o Eudes Filho"
   - Isabele Barbieri Dos Santos
@@ -791,6 +863,7 @@
   - Sporothrix
   - genome
   - comparative genomics
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7717857/bin/TEMI_A_1847001_F0001_PB.jpg
 - id: pmid:33138786
   title: Clustering analysis of large-scale phenotypic data in the model filamentous
     fungus Neurospora crassa.
@@ -826,6 +899,7 @@
   - Rice
   - transposon
   - mPing
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7584900/bin/pnas.2015736117fig01.jpg
 - id: pmid:32938701
   title: 'No to '
   authors:
@@ -874,6 +948,7 @@
   - phylogeny
   - taxonomy
   - systematics
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7494836/bin/mSphere.00810-20-f0001.jpg
 - id: pmid:32902066
   title: Belowground impacts of alpine woody encroachment are determined by plant
     traits, local climate, and soil conditions.
@@ -938,6 +1013,7 @@
   - chytrid
   - zygomycete
   - virus
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7482067/bin/mBio.02027-20-f0004.jpg
 - id: pmid:32883786
   title: 'Best Practices for Successfully Writing and Publishing a Genome Announcement
     in '
@@ -964,6 +1040,7 @@
   tags:
   - review
   - MRA
+  image: https://journals.asm.org/pb-assets/images/pub-nav/MRA-logo-1601672971873.png
 - id: pmid:32727924
   title: 'Phylogenomic Analyses of Non-Dikarya Fungi Supports Horizontal Gene Transfer
     Driving Diversification of Secondary Metabolism in the Amphibian Gastrointestinal
@@ -988,6 +1065,7 @@
   - HGT
   - fungi
   - zygomycete
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7466969/bin/3417f1.jpg
 - id: pmid:32660385
   title: Toward a Fully Resolved Fungal Tree of Life.
   authors:
@@ -1023,6 +1101,7 @@
   - culture
   - Antarctica
   - endoliths
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7356261/bin/microorganisms-08-00942-g001.jpg
 - id: pmid:32573682
   title: 'Insights into dryland biocrust microbiome: geography, soil depth and crust
     type affect biocrust microbial communities and networks in Mojave Desert, USA.'
@@ -1041,6 +1120,7 @@
   - fungi
   - aridlands
   - biological crust
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7426032/bin/fiaa125fig1.jpg
 - id: pmid:32555716
   title: 'Behavioral betrayal: How select fungal parasites enlist living insects to
     do their bidding.'
@@ -1060,6 +1140,7 @@
   - review
   - zygomycete
   - Entomophthomycotina
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7302443/bin/ppat.1008598.g001.jpg
 - id: pmid:32412847
   title: 'Evolutionary relationships among '
   authors:
@@ -1095,7 +1176,7 @@
   date: '2020-01-31'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32389308
   tags:
-  - Friemannomyces
+  - Friedmannomyces
   - black yeast
   - Antarctica
   - genome
@@ -1130,7 +1211,8 @@
   - disease
   - wildlife disease
 - id: pmid:32241854
-  title: 'Draft Genome Sequence of the Yeast '
+  title: Draft Genome Sequence of the Yeast <i>Rhodotorula sp.</i> strain CCFEE 5036,
+    Isolated from McMurdo Dry Valleys, Antarctica
   authors:
   - Claudia Coleine
   - Sawyer Masonjones
@@ -1220,7 +1302,8 @@
   - spore
   - fungi
 - id: pmid:31871487
-  title: 'Diversity and function of fungi associated with the fungivorous millipede, '
+  title: Diversity and function of fungi associated with the fungivorous millipede,
+    <i>Brachycybe lecontii</i>
   authors:
   - Angie M Macias
   - Paul E Marek
@@ -1300,8 +1383,9 @@
   - plant pathology
   - tool
 - id: pmid:31632357
-  title: 'Microfluidics and Metabolomics Reveal Symbiotic Bacterial-Fungal Interactions
-    Between '
+  title: Microfluidics and Metabolomics Reveal Symbiotic Bacterial-Fungal Interactions
+    Between <i>Mortierella elongata</i> and <i>Burkholderia</i> Include Metabolite
+    Exchange
   authors:
   - Jessie K Uehling
   - Matthew R Entler
@@ -1364,7 +1448,8 @@
   - avocado
   - plant pathology
 - id: pmid:31488541
-  title: 'Future-Proofing Your '
+  title: Future-Proofing Your Microbiology Resource Announcements Genome Assembly
+    for Reproducibility and Clarity
   authors:
   - David A Baltrus
   - Christina A Cuomo
@@ -1402,7 +1487,8 @@
   - Neocallimastigomycota
   - transcriptome
 - id: pmid:31416856
-  title: 'Improved Reference Genome Sequence of '
+  title: Improved Reference Genome Sequence of <i>Coccidioides immitis</i> Strain
+    WA_211, Isolated in Washington State
   authors:
   - Marcus de Melo Teixeira
   - Bridget Marie Barker
@@ -1476,7 +1562,8 @@
   - Neocallimastigomycota
   - AGF
 - id: pmid:31072892
-  title: 'Draft Genome Sequence of an Antarctic Isolate of the Black Yeast Fungus '
+  title: Draft Genome Sequence of an Antarctic Isolate of the Black Yeast Fungus <i>Exophiala
+    mesophila</i>
   authors:
   - Claudia Coleine
   - Laura Selbmann
@@ -1583,6 +1670,7 @@
   tags:
   - Verticllium
   - genome
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6346206/bin/MRA.01619-18-f0001.jpg
 - id: pmid:30697917
   title: "Pyricularia graminis-tritici is not the correct species name for the wheat\
     \ blast fungus: response to Ceresini et\_al. (MPP 20:2)."
@@ -1701,6 +1789,7 @@
   - systematics
   - zygomycete
   - Endogone
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/b95731db-9f7b-456f-a5ae-f25bbbe96ec1/nph15613-fig-0001-m.png
 - id: pmid:30389707
   title: 'Evolution of drug resistance in an antifungal-naive chronic '
   authors:
