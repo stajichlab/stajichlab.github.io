@@ -1,3 +1,10 @@
+- id: 10.1639/0007-2745-123.1.011
+  image: images/publication_images/Sarcogyne_alcesensis.jpg
+  tags:
+    - Lichen
+    - Acarospora
+    - Sarcogyne
+    - Taxonomy
 - id: doi:10.1111/1755-0998.13540
   image: https://www.authorea.com/users/407720/articles/517958/master/file/figures/Fig6_OTU_tree/Fig6_OTU_tree.png
   extra-links:
