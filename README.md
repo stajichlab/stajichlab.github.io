@@ -4,6 +4,13 @@
 An easy-to-use, flexible website template for labs, including automatic citations, GitHub tag imports, pre-built components, and more.
 Spend less time reinventing the wheel and more time running your lab.
 
+#### 🔔 Still in pre-release/preview. We need testers! 🔔
+
+Please help us out!
+How easy is the template to use?
+How flexible is it?
+How's our documentation?
+
 ## Features
 
 - **Automatically generated citations** (using [Manubot](https://manubot.org)) from **just an identifier** (DOI, PubMed ID, and many more)
@@ -16,13 +23,17 @@ Spend less time reinventing the wheel and more time running your lab.
   - image galleries
   - multi-size cards with image and text
   - citations
-  - ...[and more](https://github.com/greenelab/lab-website-template/wiki/Components)!
+  - ...[and many more](https://github.com/greenelab/lab-website-template/wiki/Components)!
 - A **home page**, where you can highlight the most important things that make your lab special
 - A **research page**, with a sorted, searchable list of all your published works
 - A **tools page**, where you can show off your software, datasets, or other useful things
 - A **team** page, compiled automatically from individual members
 - Individual **team member pages** with bios, assignable roles, and social media links
 - A **blog page**, with a sorted, grouped, tagged list of all your posts
+
+## Gallery
+
+[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
 
 ## Documentation
 
