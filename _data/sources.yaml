@@ -1,3 +1,8 @@
+- id: 34878292
+  image: https://journals.asm.org/cms/10.1128/msphere.00922-21/asset/31accfc1-29d2-4e03-8186-f099274739ec/assets/images/medium/msphere.00922-21-f002.gif
+  tags:
+    - Aspergillus fumigatus
+    - experimental evolution
 - id: 10.1639/0007-2745-123.1.011
   image: images/publication_images/Sarcogyne_alcesensis.jpg
   tags:
@@ -35,7 +40,7 @@
 - id: doi:10.1128/mBio.02153-21
   image: https://journals.asm.org/cms/10.1128/mBio.02153-21/asset/610ab608-7d19-49a5-9a2d-cc63d1e6674d/assets/images/medium/mbio.02153-21-f001.gif
   tags:
-    - aspergillus fumigatus
+    - Aspergillus fumigatus
     - population genomics
     - aspergillus
     - cystic fibrosis
