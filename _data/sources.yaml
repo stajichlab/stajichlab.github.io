@@ -1,9 +1,9 @@
-- id: pmid:34878292
+- id: doi:10.1128/msphere.00922-21
   image: https://journals.asm.org/cms/10.1128/msphere.00922-21/asset/31accfc1-29d2-4e03-8186-f099274739ec/assets/images/medium/msphere.00922-21-f002.gif
   tags:
     - Aspergillus fumigatus
     - experimental evolution
-- id: 10.1639/0007-2745-123.1.011
+- id: doi:10.1639/0007-2745-123.1.011
   image: images/publication_images/Sarcogyne_alcesensis.jpg
   tags:
     - Lichen
