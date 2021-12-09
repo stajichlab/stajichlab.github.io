@@ -1,6 +1,28 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: 10.1639/0007-2745-123.1.011
+- id: doi:10.1128/msphere.00922-21
+  title: Host Lung Environment Limits Aspergillus fumigatus Germination through an
+    SskA-Dependent Signaling Response
+  authors:
+  - Marina E. Kirkland
+  - McKenzie Stannard
+  - Caitlin H. Kowalski
+  - Dallas Mould
+  - Alayna Caffrey-Carr
+  - Rachel M. Temple
+  - Brandon S. Ross
+  - Lotus A. Lofgren
+  - Jason E. Stajich
+  - Robert A. Cramer
+  - Joshua J. Obar
+  publisher: mSphere
+  date: '2021-12-08'
+  link: https://doi.org/gnqqx3
+  image: https://journals.asm.org/cms/10.1128/msphere.00922-21/asset/31accfc1-29d2-4e03-8186-f099274739ec/assets/images/medium/msphere.00922-21-f002.gif
+  tags:
+  - Aspergillus fumigatus
+  - experimental evolution
+- id: doi:10.1639/0007-2745-123.1.011
   title: "The monophyletic Sarcogyne canadensis\u2013wheeleri clade, a newly recognized\
     \ group sister to the European Acarospora glaucocarpa group"
   authors:
@@ -107,7 +129,7 @@
   link: https://doi.org/gmnrqv
   image: https://journals.asm.org/cms/10.1128/mBio.02153-21/asset/610ab608-7d19-49a5-9a2d-cc63d1e6674d/assets/images/medium/mbio.02153-21-f001.gif
   tags:
-  - aspergillus fumigatus
+  - Aspergillus fumigatus
   - population genomics
   - aspergillus
   - cystic fibrosis
