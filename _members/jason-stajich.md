@@ -15,6 +15,7 @@ links:
   twitter: hyphaltip
   orcid: 0000-0002-7591-0020
   linkedin: jasonstajich
+  link: /documents/CV/Stajich_Jason_CV.pdf
 redirect_from:
   - /home/members/jason-stajich
   - /home/people/jason-stajich/
