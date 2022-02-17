@@ -3,7 +3,7 @@ title: Lida Halilovic
 search:
   - L. Halilovic
 role: phd
-group: current
+group: alum
 image: images/members/lida-halilovic.jpg
 ---
 
