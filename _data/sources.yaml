@@ -1,3 +1,27 @@
+- id: pmid:35137016
+  tags:
+    - Coccidioides
+    - Coccidioides posadasii
+    - genome
+    - PacBio
+    - Assembly
+    - Annotation
+- id: pmid:35076277
+  image: https://journals.asm.org/cms/10.1128/msystems.01404-21/asset/f53c337e-dade-4c0b-9ebd-3c0b51f1e0b4/assets/images/medium/msystems.01404-21-f001.gif
+  tags:
+    - Coccidioides
+    - development
+    - phase-transition
+    - mycelia
+    - spherule
+    - RNA-seq
+- id: pmid:35050006
+  image: https://www.mdpi.com/jof/jof-08-00066/article_deploy/html/images/jof-08-00066-g001-550.jpg
+  tags:
+    - biofilm
+    - taxonomy
+    - Space Fungi
+    - Ascomycota
 - id: doi:10.1128/msphere.00922-21
   image: https://journals.asm.org/cms/10.1128/msphere.00922-21/asset/31accfc1-29d2-4e03-8186-f099274739ec/assets/images/medium/msphere.00922-21-f002.gif
   tags:
