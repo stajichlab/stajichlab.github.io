@@ -1,4 +1,6 @@
-- id: pmid:35137016
+- id: pmid:3513701
+  image: images/publication_images/C_posa_genome.png
+  title: A chromosomal-level reference genome of the widely utilized <i>Coccidioides posadasii</i> laboratory strain "Silveira"
   tags:
     - Coccidioides
     - Coccidioides posadasii
@@ -7,7 +9,8 @@
     - Assembly
     - Annotation
 - id: pmid:35076277
-  image: https://journals.asm.org/cms/10.1128/msystems.01404-21/asset/f53c337e-dade-4c0b-9ebd-3c0b51f1e0b4/assets/images/medium/msystems.01404-21-f001.gif
+  title: Decoding Transcription Regulatory Mechanisms Associated with <i>Coccidioides immitis</i> Phase Transition Using Total RNA
+  image: images/publication_images/msystems.01404-21-f001.gif
   tags:
     - Coccidioides
     - development
@@ -16,6 +19,7 @@
     - spherule
     - RNA-seq
 - id: pmid:35050006
+  title: Genomic Characterization of <i>Parengyodontium torokii</i> sp. nov., a Biofilm-Forming Fungus Isolated from Mars 2020 Assembly Facility
   image: https://www.mdpi.com/jof/jof-08-00066/article_deploy/html/images/jof-08-00066-g001-550.jpg
   tags:
     - biofilm
@@ -23,7 +27,7 @@
     - Space Fungi
     - Ascomycota
 - id: doi:10.1128/msphere.00922-21
-  image: https://journals.asm.org/cms/10.1128/msphere.00922-21/asset/31accfc1-29d2-4e03-8186-f099274739ec/assets/images/medium/msphere.00922-21-f002.gif
+  image: images/publication_images/msphere.00922-21-f002.gif
   tags:
     - Aspergillus fumigatus
     - experimental evolution
@@ -102,7 +106,7 @@
     - aridlands
 - id: pmid:34067070
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8150946/bin/jof-07-00366-g001.jpg
-  title: Transcriptional Analysis of Coccidioides immitis Mycelia and Spherules by RNA Sequencing
+  title: Transcriptional Analysis of <i>Coccidioides immitis</i> Mycelia and Spherules by RNA Sequencing
   tags:
     - coccidioides
     - onygenales
