@@ -1,5 +1,76 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: pmid:35137016
+  title: A chromosomal-level reference genome of the widely utilized Coccidioides
+    posadasii laboratory strain "Silveira".
+  authors:
+  - Marcus de Melo Teixeira
+  - Jason E Stajich
+  - Jason W Sahl
+  - George R Thompson
+  - Rachel B Brem
+  - Claire A Dubin
+  - Austin V Blackmon
+  - Heather L Mead
+  - Paul Keim
+  - Bridget M Barker
+  publisher: G3 (Bethesda, Md.)
+  date: '2022-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35137016
+  tags:
+  - Coccidioides
+  - Coccidioides posadasii
+  - genome
+  - PacBio
+  - Assembly
+  - Annotation
+- id: pmid:35076277
+  title: 'Decoding Transcription Regulatory Mechanisms Associated with '
+  authors:
+  - Sascha H Duttke
+  - Sinem Beyhan
+  - Rajendra Singh
+  - Sonya Neal
+  - Suganya Viriyakosol
+  - Joshua Fierer
+  - Theo N Kirkland
+  - Jason E Stajich
+  - Christopher Benner
+  - Aaron F Carlin
+  publisher: mSystems
+  date: '2022-01-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35076277
+  image: https://journals.asm.org/cms/10.1128/msystems.01404-21/asset/f53c337e-dade-4c0b-9ebd-3c0b51f1e0b4/assets/images/medium/msystems.01404-21-f001.gif
+  tags:
+  - Coccidioides
+  - development
+  - phase-transition
+  - mycelia
+  - spherule
+  - RNA-seq
+- id: pmid:35050006
+  title: 'Genomic Characterization of '
+  authors:
+  - Ceth W Parker
+  - Marcus de Melo Teixeira
+  - Nitin K Singh
+  - Huzefa A Raja
+  - Kristof B Cank
+  - Giada Spigolon
+  - Nicholas H Oberlies
+  - Bridget M Barker
+  - Jason E Stajich
+  - Christopher E Mason
+  - Kasthuri Venkateswaran
+  publisher: Journal of fungi (Basel, Switzerland)
+  date: '2022-01-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35050006
+  image: https://www.mdpi.com/jof/jof-08-00066/article_deploy/html/images/jof-08-00066-g001-550.jpg
+  tags:
+  - biofilm
+  - taxonomy
+  - Space Fungi
+  - Ascomycota
 - id: doi:10.1128/msphere.00922-21
   title: Host Lung Environment Limits Aspergillus fumigatus Germination through an
     SskA-Dependent Signaling Response
