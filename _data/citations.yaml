@@ -1,14 +1,49 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: pmid:3513701
+- id: pmid:35196462
+  title: Exploring Space via Astromycology A Report on the CIFAR Programs Earth 4D
+    and Fungal Kingdom Inaugural Joint Meeting
+  authors:
+  - Nicola T Case
+  - Min Song
+  - Avery H Fulford
+  - Heather V Graham
+  - Victoria J Orphan
+  - Jason E Stajich
+  - Arturo Casadevall
+  - John Mustard
+  - Joseph Heitman
+  - Barbara Sherwood Lollar
+  - Leah E Cowen
+  publisher: Astrobiology
+  date: '2022-02-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35196462
+  image: images/publication_images/spacefungi.jpeg
+  tags:
+  - Meetings
+  - Reports
+  - Space Fungi
+  - extremophile
+  - Earth4D
+  - Fungal Kingdom
+  - CIFAR
+- id: pmid:35137016
   title: A chromosomal-level reference genome of the widely utilized <i>Coccidioides
     posadasii</i> laboratory strain "Silveira"
   authors:
-  - S T Tan
-  - R B Maxcy
-  publisher: Applied and environmental microbiology
-  date: '1986-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/3513701
+  - Marcus de Melo Teixeira
+  - Jason E Stajich
+  - Jason W Sahl
+  - George R Thompson
+  - Rachel B Brem
+  - Claire A Dubin
+  - Austin V Blackmon
+  - Heather L Mead
+  - Paul Keim
+  - Bridget M Barker
+  publisher: G3 (Bethesda, Md.)
+  date: '2022-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35137016
   image: images/publication_images/C_posa_genome.png
   tags:
   - Coccidioides
