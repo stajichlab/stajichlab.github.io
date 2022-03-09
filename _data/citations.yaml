@@ -1,5 +1,19 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: pmid:35246323
+  title: Fungi are key players in extreme ecosystems.
+  authors:
+  - Claudia Coleine
+  - Jason E Stajich
+  - Laura Selbmann
+  publisher: Trends in ecology & evolution
+  date: '2022-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35246323
+  images: images/publication_images/Coleine2022.jpg
+  tags:
+  - Extremophile
+  - Fungi
+  - Review
 - id: pmid:35196462
   title: Exploring Space via Astromycology A Report on the CIFAR Programs Earth 4D
     and Fungal Kingdom Inaugural Joint Meeting
