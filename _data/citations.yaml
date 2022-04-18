@@ -1,8 +1,9 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
 - id: pmid:35377435
-  title: Avian-associated Aspergillus fumigatus displays broad phylogenetic distribution,
-    no evidence for host specificity, and multiple genotypes within epizootic events.
+  title: Avian-associated <i>Aspergillus fumigatus</i> displays broad phylogenetic
+    distribution, no evidence for host specificity, and multiple genotypes within
+    epizootic events
   authors:
   - Lotus A Lofgren
   - Jeffrey M Lorch
@@ -16,9 +17,7 @@
   publisher: G3 (Bethesda, Md.)
   date: '2022-04-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35377435
-  image: Avian-associated <i>Aspergillus fumigatus</i> displays broad phylogenetic
-    distribution, no evidence for host specificity, and multiple genotypes within
-    epizootic events
+  image: images/publication_images/Afum_avian_Fig2.png
   tags:
   - Aspergillus fumigatus
   - Avian
