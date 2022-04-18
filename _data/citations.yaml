@@ -249,9 +249,9 @@
   - population genomics
   - aspergillus
   - cystic fibrosis
-- id: doi:10.1093/g3journal/jkab255
-  title: "Improved draft reference genome for the Glassy-winged Sharpshooter ( <i>Homalodisca\
-    \ vitripennis</i> ), a vector for Pierce\u2019s disease"
+- id: pmid:34568917
+  title: Improved draft reference genome for the Glassy-winged Sharpshooter (Homalodisca
+    vitripennis), a vector for Pierce's disease.
   authors:
   - Cassandra L Ettinger
   - Frank J Byrne
@@ -261,16 +261,16 @@
   - Peter W Atkinson
   - Rick A Redak
   - Jason E Stajich
-  publisher: G3 Genes|Genomes|Genetics
-  date: '2021-07-20'
-  link: https://doi.org/gmj9wn
+  publisher: G3 (Bethesda, Md.)
+  date: '2021-09-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34568917
+  image: images/publication_images/GWSS_image1.jpg
   tags:
   - GWSS
   - sharpshooter
   - insect
   - genome
   - nanopore
-  image: images/publication_images/GWSS_image1.jpg
 - id: pmid:34247231
   title: Diploidy within a Haploid Genus of Entomopathogenic Fungi.
   authors:
