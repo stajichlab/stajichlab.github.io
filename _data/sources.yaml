@@ -1,3 +1,16 @@
+- id: pmid:35377435
+  image: Avian-associated <i>Aspergillus fumigatus</i> displays broad phylogenetic distribution, no evidence for host specificity, and multiple genotypes within epizootic events
+  tags:
+    - Aspergillus fumigatus
+    - Avian
+    - antifungal
+    - population genomics
+- id: pmid:35298630
+  image: images/publication_images/Coleine_FEMS_2022.png
+  tags:
+    - Extremophile
+    - Rock mycobiome
+    - Fungi
 - id: pmid:35246323
   image: images/publication_images/Coleine2022.jpg
   tags:
