@@ -1,5 +1,6 @@
 - id: pmid:35377435
-  image: Avian-associated <i>Aspergillus fumigatus</i> displays broad phylogenetic distribution, no evidence for host specificity, and multiple genotypes within epizootic events
+  title: Avian-associated <i>Aspergillus fumigatus</i> displays broad phylogenetic distribution, no evidence for host specificity, and multiple genotypes within epizootic events
+  image: images/publication_images/Afum_avian_Fig2.png
   tags:
     - Aspergillus fumigatus
     - Avian
