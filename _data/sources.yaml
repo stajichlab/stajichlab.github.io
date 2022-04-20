@@ -6,6 +6,20 @@
     - sharpshooter
     - insect
     - CRISPR/Cas9
+- id: pmid:35377435
+  title: Avian-associated <i>Aspergillus fumigatus</i> displays broad phylogenetic distribution, no evidence for host specificity, and multiple genotypes within epizootic events
+  image: images/publication_images/Afum_avian_Fig2.png
+  tags:
+    - Aspergillus fumigatus
+    - Avian
+    - antifungal
+    - population genomics
+- id: pmid:35298630
+  image: images/publication_images/Coleine_FEMS_2022.png
+  tags:
+    - Extremophile
+    - Rock mycobiome
+    - Fungi
 - id: pmid:35246323
   image: images/publication_images/Coleine2022.jpg
   tags:
@@ -97,7 +111,7 @@
     - population genomics
     - aspergillus
     - cystic fibrosis
-- id: doi:10.1093/g3journal/jkab255
+- id: pmid:34568917
   image: images/publication_images/GWSS_image1.jpg
   tags:
     - GWSS

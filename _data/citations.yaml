@@ -1,5 +1,47 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: pmid:35377435
+  title: Avian-associated <i>Aspergillus fumigatus</i> displays broad phylogenetic
+    distribution, no evidence for host specificity, and multiple genotypes within
+    epizootic events
+  authors:
+  - Lotus A Lofgren
+  - Jeffrey M Lorch
+  - Robert A Cramer
+  - David S Blehert
+  - Brenda M Berlowski-Zier
+  - Megan E Winzeler
+  - Cecilia Gutierrez-Perez
+  - Nicole E Kordana
+  - Jason E Stajich
+  publisher: G3 (Bethesda, Md.)
+  date: '2022-04-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35377435
+  image: images/publication_images/Afum_avian_Fig2.png
+  tags:
+  - Aspergillus fumigatus
+  - Avian
+  - antifungal
+  - population genomics
+- id: pmid:35298630
+  title: Rocks support a distinctive and consistent mycobiome across contrasting dry
+    regions of Earth.
+  authors:
+  - Claudia Coleine
+  - Manuel Delgado-Baquerizo
+  - Davide Albanese
+  - Brajesh K Singh
+  - Jason E Stajich
+  - Laura Selbmann
+  - Eleonora Egidi
+  publisher: FEMS microbiology ecology
+  date: '2022-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35298630
+  image: images/publication_images/Coleine_FEMS_2022.png
+  tags:
+  - Extremophile
+  - Rock mycobiome
+  - Fungi
 - id: pmid:35246323
   title: Fungi are key players in extreme ecosystems.
   authors:
@@ -249,9 +291,9 @@
   - population genomics
   - aspergillus
   - cystic fibrosis
-- id: doi:10.1093/g3journal/jkab255
-  title: "Improved draft reference genome for the Glassy-winged Sharpshooter ( <i>Homalodisca\
-    \ vitripennis</i> ), a vector for Pierce\u2019s disease"
+- id: pmid:34568917
+  title: Improved draft reference genome for the Glassy-winged Sharpshooter (Homalodisca
+    vitripennis), a vector for Pierce's disease.
   authors:
   - Cassandra L Ettinger
   - Frank J Byrne
@@ -261,16 +303,16 @@
   - Peter W Atkinson
   - Rick A Redak
   - Jason E Stajich
-  publisher: G3 Genes|Genomes|Genetics
-  date: '2021-07-20'
-  link: https://doi.org/gmj9wn
+  publisher: G3 (Bethesda, Md.)
+  date: '2021-09-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34568917
+  image: images/publication_images/GWSS_image1.jpg
   tags:
   - GWSS
   - sharpshooter
   - insect
   - genome
   - nanopore
-  image: images/publication_images/GWSS_image1.jpg
 - id: pmid:34247231
   title: Diploidy within a Haploid Genus of Entomopathogenic Fungi.
   authors:
