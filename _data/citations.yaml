@@ -1,5 +1,46 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1099/mgen.0.000810
+  title: Early branching arbuscular mycorrhizal fungus <i>Paraglomus occultum</i>
+    carries a small and repeat-poor genome compared to relatives in the Glomeromycotina
+  authors:
+  - Mathu Malar C
+  - Yan Wang
+  - Jason E. Stajich
+  - Vasilis Kokkoris
+  - Matthew Villeneuve-Laroche
+  - Gokalp Yildirir
+  - Nicolas Corradi
+  publisher: Microbial Genomics
+  date: '2022-04-22'
+  link: https://doi.org/gpx7fz
+  image: images/publication_images/mgen000810-f1.gif
+  tags:
+  - AMF
+  - zygomycete
+  - Glomeromycota
+- id: pmid:35440677
+  title: Efficient CRISPR/Cas9-mediated genome modification of the glassy-winged sharpshooter
+    <i>Homalodisca vitripennis</i> (Germar)
+  authors:
+  - Inaiara de Souza Pacheco
+  - Anna-Louise A Doss
+  - Beatriz G Vindiola
+  - Dylan J Brown
+  - Cassandra L Ettinger
+  - Jason E Stajich
+  - Richard A Redak
+  - Linda L Walling
+  - Peter W Atkinson
+  publisher: Scientific reports
+  date: '2022-04-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35440677
+  image: images/publication_images/GWSS_Crispr.png
+  tags:
+  - GWSS
+  - sharpshooter
+  - insect
+  - CRISPR/Cas9
 - id: pmid:35377435
   title: Avian-associated <i>Aspergillus fumigatus</i> displays broad phylogenetic
     distribution, no evidence for host specificity, and multiple genotypes within
