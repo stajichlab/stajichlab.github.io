@@ -1,3 +1,10 @@
+- id: doi:10.1099/mgen.0.000810
+  image: images/publication_images/mgen000810-f1.gif
+  title: Early branching arbuscular mycorrhizal fungus <i>Paraglomus occultum</i> carries a small and repeat-poor genome compared to relatives in the Glomeromycotina
+  tags:
+    - AMF
+    - zygomycete
+    - Glomeromycota
 - id: pmid:35440677
   image: images/publication_images/GWSS_Crispr.png
   title: Efficient CRISPR/Cas9-mediated genome modification of the glassy-winged sharpshooter <i>Homalodisca vitripennis</i> (Germar)
