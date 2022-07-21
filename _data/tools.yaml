@@ -95,10 +95,6 @@
     - Phylogeny
 
 - name: PHYling
-=======
-- title: Cool Dataset
-  subtitle: a subtitle
->>>>>>> 6c30bd5 (misc css and js fixes (#109))
   group: featured
   image: images/photo.jpg
   link: https://github.com/stajichlab/PHYling_Unified
@@ -107,21 +103,7 @@
   tags:
     - Phylogeny
 
-<<<<<<< HEAD
 - name: FGMP
-=======
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
->>>>>>> 6c30bd5 (misc css and js fixes (#109))
   group: more
   image: images/photo.jpg
   link: https://github.com/stajichlab/FGMP
