@@ -1,5 +1,97 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: pmid:35847112
+  title: 'The International Space Station Environment Triggers Molecular Responses
+    in '
+  authors:
+  - Adriana Blachowicz
+  - Jillian Romsdahl
+  - Abby J Chiang
+  - Sawyer Masonjones
+  - Markus Kalkum
+  - Jason E Stajich
+  - Tamas Torok
+  - Clay C C Wang
+  - Kasthuri Venkateswaran
+  publisher: Frontiers in microbiology
+  date: '2022-06-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35847112
+  tags:
+  - Aspergillus
+  - proteomics
+  - metabolomics
+  - ISS
+  - Space Fungi
+  image: images/publication_images/spacefungi.jpeg
+- id: pmid:35737674
+  title: The population genetics of the causative agent of snake fungal disease indicate
+    recent introductions to the USA.
+  authors:
+  - Jason T Ladner
+  - Jonathan M Palmer
+  - Cassandra L Ettinger
+  - Jason E Stajich
+  - Terence M Farrell
+  - Brad M Glorioso
+  - Becki Lawson
+  - Steven J Price
+  - Anne G Stengle
+  - Daniel A Grear
+  - Jeffrey M Lorch
+  publisher: PLoS biology
+  date: '2022-06-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35737674
+  tags:
+  - Snake Fungal Disease
+  - Onygenales
+  - Ophidiomyces
+  - Population genetics
+  images: images/publication_images/sfd.jpeg
+- id: pmid:35836417
+  title: Landscape Topography and Regional Drought Alters Dust Microbiomes in the
+    Sierra Nevada of California.
+  authors:
+  - Mia R Maltz
+  - Chelsea J Carey
+  - Hannah L Freund
+  - Jon K Botthoff
+  - Stephen C Hart
+  - Jason E Stajich
+  - Sarah M Aarons
+  - Sarah M Aciego
+  - Molly Blakowski
+  - Nicholas C Dove
+  - Morgan E Barnes
+  - Nuttapon Pombubpa
+  - Emma L Aronson
+  publisher: Frontiers in microbiology
+  date: '2022-06-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35836417
+  tags:
+  - amplicon metabarcoding
+  - ITS
+  - 16S
+  - dust
+  images: images/publication_images/fmicb-13-856454-g001.jpeg
+- id: pmid:35708345
+  title: Metagenome-Assembled Genomes of Bacterial Symbionts Associated with Insecticide-Resistant
+    and -Susceptible Individuals of the Glassy-Winged Sharpshooter (Homalodisca vitripennis).
+  authors:
+  - Cassandra L Ettinger
+  - Frank J Byrne
+  - Richard A Redak
+  - Jason E Stajich
+  publisher: Microbiology resource announcements
+  date: '2022-06-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35708345
+  tags:
+  - GWSS
+  - sharpshooter
+  - metagenome
+  - Bacteria
+  - Metagenome Assembled Genome
+  - insecticide resistance
+  image: images/publication_images/GWSS_Crispr.png
 - id: doi:10.1639/0007-2745-124.2.271
   title: Three species of <i>Trimmatothelopsis</i> (Acarosporaceae) from Europe and
     North America
