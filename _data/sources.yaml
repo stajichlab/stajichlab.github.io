@@ -1,3 +1,34 @@
+- id: pmid:35847112
+  tags:
+    - Aspergillus
+    - proteomics
+    - metabolomics
+    - ISS
+    - Space Fungi
+  image: images/publication_images/spacefungi.jpeg
+- id: pmid:35737674
+  tags:
+    - Snake Fungal Disease
+    - Onygenales
+    - Ophidiomyces
+    - Population genetics
+  images: images/publication_images/sfd.jpeg
+- id: pmid:35836417
+  tags:
+    - amplicon metabarcoding
+    - ITS
+    - 16S
+    - dust
+  images: images/publication_images/fmicb-13-856454-g001.jpeg
+- id: pmid:35708345
+  tags:
+    - GWSS
+    - sharpshooter
+    - metagenome
+    - Bacteria
+    - Metagenome Assembled Genome
+    - insecticide resistance
+  image: images/publication_images/GWSS_Crispr.png 
 - id: doi:10.1639/0007-2745-124.2.271 
   title: Three species of <i>Trimmatothelopsis</i> (Acarosporaceae) from Europe and North America
   tags:
