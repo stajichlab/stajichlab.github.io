@@ -1,6 +1,69 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.isci.2022.104840
+  title: Evolution of zygomycete secretomes and the origins of terrestrial fungal
+    ecologies
+  authors:
+  - Ying Chang
+  - Yan Wang
+  - Stephen Mondo
+  - Steven Ahrendt
+  - William Andreopoulos
+  - Kerrie Barry
+  - Jeff Beard
+  - Gerald L. Benny
+  - Sabrina Blankenship
+  - Gregory Bonito
+  - Christina Cuomo
+  - Alessandro Desiro
+  - Kyle A. Gervers
+  - Hope Hundley
+  - Alan Kuo
+  - Kurt LaButti
+  - B. Franz Lang
+  - Anna Lipzen
+  - "Kerry O\u2019Donnell"
+  - Jasmyn Pangilinan
+  - Nicole Reynolds
+  - Laura Sandor
+  - Matthew E. Smith
+  - Adrian Tsang
+  - Igor V. Grigoriev
+  - Jason E. Stajich
+  - Joseph W. Spatafora
+  publisher: iScience
+  date: '2022-08-01'
+  link: https://doi.org/gqnj44
+  tags:
+  - zygomycete
+  - secretome
+  - Mucoromycota
+  - Zoopagomycota
+  - comparative genomics
+  _cache: 93f5b2e87a62135b4ac65f3de07a9111f3ab9505db7a866c14ece126cb0f5f96
+- id: pmid:35933037
+  title: Comparative Genomics Reveals that Metabolism Underlies Evolution of Entomopathogenicity
+    in Bee-loving <i>Ascosphaera spp. </i> Fungi
+  authors:
+  - J J Maccaro
+  - J F Moreira Salgado
+  - E Klinger
+  - "M P Argueta Guzm\xE1n"
+  - L Ngor
+  - J E Stajich
+  - Q McFrederick
+  publisher: Journal of invertebrate pathology
+  date: '2022-08-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35933037
+  tags:
+  - Ascosphaera
+  - Chalk brood disease
+  - Bee
+  - insect fungal interactions
+  - genomics
+  images: images/publication_images/Maccaro_2022.jpg
+  _cache: 845bd8634808aa77a607d5de87586f8007df45a5cb41cb42934136b2e83fac05
 - id: pmid:35847112
   title: The International Space Station Environment Triggers Molecular Responses
     in <i>Aspergillus niger</i>
@@ -48,8 +111,9 @@
   - Onygenales
   - Ophidiomyces
   - Population genetics
+  - wildlife disease
   images: images/publication_images/sfd.jpg
-  _cache: 54406750f93f85e338462a88a34431f43d6a34661dd7e7dc86aca1d117adec13
+  _cache: da83df621561c783e1f8d0ce2a1da5cab48d1c183c18c0f0780a1fbfa33e393d
 - id: pmid:35836417
   title: Landscape Topography and Regional Drought Alters Dust Microbiomes in the
     Sierra Nevada of California.
@@ -1564,10 +1628,11 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/32412847
   tags:
   - Massospora
+  - insect fungal interactions
   - zygomycete
   - systematics
   - Entomophthomycotina
-  _cache: e6c55edac9e9df66f709fa7321a81c9de421dd846f77889af468fc05d7c71d95
+  _cache: 4cfbf536c8180f0c196175890d96016f60884867f652b91c27c269796cd77a7a
 - id: pmid:32389308
   title: Peculiar genomic traits in the stress-adapted cryptoendolithic Antarctic
     fungus Friedmanniomyces endolithicus.
