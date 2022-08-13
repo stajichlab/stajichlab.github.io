@@ -1,3 +1,19 @@
+- id: doi:10.1016/j.isci.2022.104840
+  tags:
+    - zygomycete
+    - secretome
+    - Mucoromycota
+    - Zoopagomycota
+    - comparative genomics
+- id: pmid:35933037
+  title: Comparative Genomics Reveals that Metabolism Underlies Evolution of Entomopathogenicity in Bee-loving <i>Ascosphaera spp. </i> Fungi 
+  tags:
+    - Ascosphaera
+    - Chalk brood disease
+    - Bee
+    - insect fungal interactions
+    - genomics
+  images: images/publication_images/Maccaro_2022.jpg
 - id: pmid:35847112
   title: The International Space Station Environment Triggers Molecular Responses in <i>Aspergillus niger</i>
   tags:
@@ -13,6 +29,7 @@
     - Onygenales
     - Ophidiomyces
     - Population genetics
+    - wildlife disease
   images: images/publication_images/sfd.jpg
 - id: pmid:35836417
   tags:
@@ -410,6 +427,7 @@
 - id: pmid:32412847
   tags:
     - Massospora
+    - insect fungal interactions
     - zygomycete
     - systematics
     - Entomophthomycotina
