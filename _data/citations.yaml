@@ -1,6 +1,51 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.21203/rs.3.rs-1964919/v1
+  title: Transcriptome and Population Structure of Glassy-winged Sharpshooters (Homalodisca
+    vitripennis) with Varying Insecticide Resistance in Southern California
+  authors:
+  - Cassandra Ettinger
+  - Frank Byrne
+  - Inaiara de Souza Pacheco
+  - Dylan Brown
+  - Linda Walling
+  - Peter Atkinson
+  - Richard Redak
+  - Jason Stajich
+  publisher: Research Square Platform LLC
+  date: '2022-08-16'
+  link: https://doi.org/gqpcxr
+  image: images/publication_images/GWSS_image1.jpg
+  tags:
+  - GWSS
+  - resistance
+  - Glassy-winged Sharpshooter
+  - Genomics
+  _cache: ac0d461cffb39bca65d6360479e50826999dffdc88dc14a0e05913f7c39a8da5
+- id: 10.3390/jof8080789
+  title: The Early Terrestrial Fungal Lineage of <i>Conidiobolus</i> - Transition
+    from Saprotroph to Parasitic Lifestyle
+  authors:
+  - Andrii P. Gryganskyi
+  - Yong Nie
+  - Ann E. Hajek
+  - Kathie T. Hodge
+  - Xiao-Yong Liu
+  - Kelsey Aadland
+  - Kerstin Voigt
+  - Iryna M. Anishchenko
+  - Vira B. Kutovenko
+  - Liudmyla Kava
+  - Antonina Vuek
+  - Rytas Vilgalys
+  - Bo Huang
+  - Jason E. Stajich
+  publisher: Journal of Fungi
+  date: '2022-07-28'
+  link: https://doi.org/gqpcxs
+  image: images/publication_images/conidiobolus.jpg
+  _cache: 683f046bfcd6a3d54e326b1cbdfc8cbda120b7ad859f2e4e87a2e1c92407e49d
 - id: doi:10.1016/j.isci.2022.104840
   title: Evolution of zygomycete secretomes and the origins of terrestrial fungal
     ecologies
@@ -35,13 +80,14 @@
   publisher: iScience
   date: '2022-08-01'
   link: https://doi.org/gqnj44
+  image: images/publication_images/rhizopus.jpg
   tags:
   - zygomycete
   - secretome
   - Mucoromycota
   - Zoopagomycota
   - comparative genomics
-  _cache: 93f5b2e87a62135b4ac65f3de07a9111f3ab9505db7a866c14ece126cb0f5f96
+  _cache: c67170f73f785875ccfc261e9d0f83e562661eb73930dd95db24b5354baaf4b4
 - id: pmid:35933037
   title: Comparative Genomics Reveals that Metabolism Underlies Evolution of Entomopathogenicity
     in Bee-loving <i>Ascosphaera spp. </i> Fungi
@@ -52,7 +98,7 @@
   - "M P Argueta Guzm\xE1n"
   - L Ngor
   - J E Stajich
-  - Q McFrederick
+  - Q S McFrederick
   publisher: Journal of invertebrate pathology
   date: '2022-08-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35933037
@@ -62,8 +108,8 @@
   - Bee
   - insect fungal interactions
   - genomics
-  images: images/publication_images/Maccaro_2022.jpg
-  _cache: 845bd8634808aa77a607d5de87586f8007df45a5cb41cb42934136b2e83fac05
+  image: images/publication_images/Maccaro_2022.jpg
+  _cache: d78c2e0471679c0da8d4c144029ca9ccaa385f43ec795eceb906fea6bffdb3e4
 - id: pmid:35847112
   title: The International Space Station Environment Triggers Molecular Responses
     in <i>Aspergillus niger</i>
@@ -139,8 +185,8 @@
   - ITS
   - 16S
   - dust
-  images: images/publication_images/fmicb-13-856454-g001.jpeg
-  _cache: a84f5cf5db81e04fceedbfc29a0f427d0ebbd4494faf2fb705c361533daf01d2
+  image: images/publication_images/fmicb-13-856454-g001.jpeg
+  _cache: ef3c3808e0ae4b84ad3a94e9e794a84f2dd1662fb46889f60d25d00c3bc2f456
 - id: pmid:35708345
   title: Metagenome-Assembled Genomes of Bacterial Symbionts Associated with Insecticide-Resistant
     and -Susceptible Individuals of the Glassy-Winged Sharpshooter (Homalodisca vitripennis).
@@ -2514,7 +2560,7 @@
   - soil microbiome
   _cache: 8c83c6fb1b8e01967b12f76697d985e367b53cf761c51748968e5f5f7effa7b4
 - id: pmid:29674435
-  title: 'Phylogenetic and Phylogenomic Definition of '
+  title: Phylogenetic and Phylogenomic Definition of <i>Rhizopus</i> Species
   authors:
   - Andrii P Gryganskyi
   - Jacob Golan
@@ -2539,11 +2585,12 @@
   publisher: G3 (Bethesda, Md.)
   date: '2018-05-31'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29674435
+  image: images/publication_images/rhizopus.jpg
   tags:
   - Rhizopus
   - systematics
   - phylogenomics
-  _cache: 1fea5b491b1fc88ab5db65c998320414acab90aa07233999fda5f452425fef78
+  _cache: 1a1cb89964a3593d93dbc60c42794022a90ac99ff7191c17b719446cf26ef584
 - id: pmid:29371508
   title: Analysis of Transposable Elements in Coccidioides Species.
   authors:
