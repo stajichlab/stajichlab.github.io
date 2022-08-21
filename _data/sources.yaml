@@ -1,4 +1,15 @@
+- id: doi:10.21203/rs.3.rs-1964919/v1
+  image: images/publication_images/GWSS_image1.jpg
+  tags: 
+    - GWSS
+    - resistance
+    - Glassy-winged Sharpshooter
+    - Genomics
+- id: 10.3390/jof8080789
+  title: The Early Terrestrial Fungal Lineage of <i>Conidiobolus</i> - Transition from Saprotroph to Parasitic Lifestyle
+  image: images/publication_images/conidiobolus.jpg
 - id: doi:10.1016/j.isci.2022.104840
+  image: images/publication_images/rhizopus.jpg
   tags:
     - zygomycete
     - secretome
@@ -13,7 +24,7 @@
     - Bee
     - insect fungal interactions
     - genomics
-  images: images/publication_images/Maccaro_2022.jpg
+  image: images/publication_images/Maccaro_2022.jpg
 - id: pmid:35847112
   title: The International Space Station Environment Triggers Molecular Responses in <i>Aspergillus niger</i>
   tags:
@@ -37,7 +48,7 @@
     - ITS
     - 16S
     - dust
-  images: images/publication_images/fmicb-13-856454-g001.jpeg
+  image: images/publication_images/fmicb-13-856454-g001.jpeg
 - id: pmid:35708345
   tags:
     - GWSS
@@ -654,6 +665,8 @@
     - molecular ecology
     - soil microbiome
 - id: pmid:29674435
+  title: Phylogenetic and Phylogenomic Definition of <i>Rhizopus</i> Species
+  image: images/publication_images/rhizopus.jpg
   tags:
     - Rhizopus
     - systematics
