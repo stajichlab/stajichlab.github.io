@@ -1,6 +1,87 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmid:36036589
+  title: An Improved 1.5-Gigabase Draft Assembly of Massospora cicadina (Zoopagomycota),
+    an Obligate Fungal Parasite of 13- and 17-Year Cicadas.
+  authors:
+  - Jason E Stajich
+  - Brian Lovett
+  - Cassandra L Ettinger
+  - Derreck A Carter-House
+  - Tania Kurbessoian
+  - Matt T Kasson
+  publisher: Microbiology resource announcements
+  date: '2022-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36036589
+  image: images/publication_images/massospora_cicada.jpg
+  tags:
+  - Massospora
+  - Genome
+  - Zoopagomycota
+  - Entomophthomycotina
+  _cache: 9fede18a8768d0d3574feaa4727919fd13a95c2e7fc2ea9acbaddc6a53f0feea
+- id: pmid:36036588
+  title: Metagenome-Assembled Genomes of Bacteria Associated with Massospora cicadina
+    Fungal Plugs from Infected Brood VIII Periodical Cicadas.
+  authors:
+  - Cassandra L Ettinger
+  - Brian Lovett
+  - Matt T Kasson
+  - Jason E Stajich
+  publisher: Microbiology resource announcements
+  date: '2022-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36036588
+  image: images/publication_images/massospora_cicada.jpg
+  tags:
+  - Massospora
+  - Genome
+  - Zoopagomycota
+  - Entomophthomycotina
+  - Metagenome
+  _cache: a32de7518bc72ee3d64e2f1bb1e18de0a076cdd1ab0922890fa1cf194ac0c9bf
+- id: pmid:36037379
+  title: Diploid-dominant life cycles characterize the early evolution of Fungi.
+  authors:
+  - Kevin R Amses
+  - D Rabern Simmons
+  - Joyce E Longcore
+  - Stephen J Mondo
+  - Kensuke Seto
+  - "Gustavo H Jer\xF4nimo"
+  - Anne E Bonds
+  - C Alisha Quandt
+  - William J Davis
+  - Ying Chang
+  - Brian A Federici
+  - Alan Kuo
+  - Kurt LaButti
+  - Jasmyn Pangilinan
+  - William Andreopoulos
+  - Andrew Tritt
+  - Robert Riley
+  - Hope Hundley
+  - Jenifer Johnson
+  - Anna Lipzen
+  - Kerrie Barry
+  - B Franz Lang
+  - Christina A Cuomo
+  - Nicolas E Buchler
+  - Igor V Grigoriev
+  - Joseph W Spatafora
+  - Jason E Stajich
+  - Timothy Y James
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2022-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36037379
+  image: images/publication_images/ames_chytrid_phylo.jpg
+  tags:
+  - chytrid
+  - Genome evolution
+  - ploidy
+  - phylogenomics
+  _cache: a6a0fcc2cbf4bf483a07799921a0731ee698023a60bd7471d8adc8664ec32011
 - id: doi:10.21203/rs.3.rs-1964919/v1
   title: Transcriptome and Population Structure of Glassy-winged Sharpshooters (Homalodisca
     vitripennis) with Varying Insecticide Resistance in Southern California
@@ -23,29 +104,29 @@
   - Glassy-winged Sharpshooter
   - Genomics
   _cache: ac0d461cffb39bca65d6360479e50826999dffdc88dc14a0e05913f7c39a8da5
-- id: 10.3390/jof8080789
+- id: pmid:36012777
   title: The Early Terrestrial Fungal Lineage of <i>Conidiobolus</i> - Transition
     from Saprotroph to Parasitic Lifestyle
   authors:
-  - Andrii P. Gryganskyi
+  - Andrii P Gryganskyi
   - Yong Nie
-  - Ann E. Hajek
-  - Kathie T. Hodge
+  - Ann E Hajek
+  - Kathie T Hodge
   - Xiao-Yong Liu
   - Kelsey Aadland
   - Kerstin Voigt
-  - Iryna M. Anishchenko
-  - Vira B. Kutovenko
+  - Iryna M Anishchenko
+  - Vira B Kutovenko
   - Liudmyla Kava
   - Antonina Vuek
   - Rytas Vilgalys
   - Bo Huang
-  - Jason E. Stajich
-  publisher: Journal of Fungi
+  - Jason E Stajich
+  publisher: Journal of fungi (Basel, Switzerland)
   date: '2022-07-28'
-  link: https://doi.org/gqpcxs
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36012777
   image: images/publication_images/conidiobolus.jpg
-  _cache: 683f046bfcd6a3d54e326b1cbdfc8cbda120b7ad859f2e4e87a2e1c92407e49d
+  _cache: 747109610184902db9f425179d120067718086d0d2560146d16ec46aa1149c4d
 - id: doi:10.1016/j.isci.2022.104840
   title: Evolution of zygomycete secretomes and the origins of terrestrial fungal
     ecologies
@@ -90,7 +171,7 @@
   _cache: c67170f73f785875ccfc261e9d0f83e562661eb73930dd95db24b5354baaf4b4
 - id: pmid:35933037
   title: Comparative Genomics Reveals that Metabolism Underlies Evolution of Entomopathogenicity
-    in Bee-loving <i>Ascosphaera spp. </i> Fungi
+    in Bee-loving <i>Ascosphaera spp.</i> Fungi
   authors:
   - J J Maccaro
   - J F Moreira Salgado
@@ -109,7 +190,7 @@
   - insect fungal interactions
   - genomics
   image: images/publication_images/Maccaro_2022.jpg
-  _cache: d78c2e0471679c0da8d4c144029ca9ccaa385f43ec795eceb906fea6bffdb3e4
+  _cache: 418934cf0e6cbddb5668fbb975f2040ef5143c6d41ed68a2dd1da2dca628fb8d
 - id: pmid:35847112
   title: The International Space Station Environment Triggers Molecular Responses
     in <i>Aspergillus niger</i>
@@ -609,8 +690,9 @@
   - insect fungal interactions
   - ascomycota
   - genome
+  - ploidy
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8325562/bin/evab158f5.jpg
-  _cache: 575b4df17c7906f6228633a7822fabb13bc58f860d0cf927d9053f07168d93eb
+  _cache: 95cd4b90fd9dcdddeb518edb3054567a92a74166de1ef92c4a98c8b945382694
 - id: pmid:34165331
   title: Amplicon Sequencing of Rock-Inhabiting Microbial Communities from Joshua
     Tree National Park, USA.
@@ -1672,13 +1754,14 @@
   publisher: Mycologia
   date: '2020-05-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32412847
+  image: images/publication_images/massospora_cicada.jpg
   tags:
   - Massospora
   - insect fungal interactions
   - zygomycete
   - systematics
   - Entomophthomycotina
-  _cache: 4cfbf536c8180f0c196175890d96016f60884867f652b91c27c269796cd77a7a
+  _cache: 802e67ee439f06332b29f0c26526e73baf12847ba7dd24edf6e40dd5f516550d
 - id: pmid:32389308
   title: Peculiar genomic traits in the stress-adapted cryptoendolithic Antarctic
     fungus Friedmanniomyces endolithicus.
