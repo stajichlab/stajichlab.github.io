@@ -1,11 +1,33 @@
+- id: pmid:36036589
+  image: images/publication_images/massospora_cicada.jpg
+  tags:
+    - Massospora
+    - Genome
+    - Zoopagomycota
+    - Entomophthomycotina
+- id: pmid:36036588
+  image: images/publication_images/massospora_cicada.jpg
+  tags:
+    - Massospora
+    - Genome
+    - Zoopagomycota
+    - Entomophthomycotina
+    - Metagenome
+- id: pmid:36037379
+  image: images/publication_images/ames_chytrid_phylo.jpg
+  tags:
+    - chytrid
+    - Genome evolution
+    - ploidy
+    - phylogenomics
 - id: doi:10.21203/rs.3.rs-1964919/v1
   image: images/publication_images/GWSS_image1.jpg
-  tags: 
+  tags:
     - GWSS
     - resistance
     - Glassy-winged Sharpshooter
     - Genomics
-- id: 10.3390/jof8080789
+- id: pmid:36012777
   title: The Early Terrestrial Fungal Lineage of <i>Conidiobolus</i> - Transition from Saprotroph to Parasitic Lifestyle
   image: images/publication_images/conidiobolus.jpg
 - id: doi:10.1016/j.isci.2022.104840
@@ -17,7 +39,7 @@
     - Zoopagomycota
     - comparative genomics
 - id: pmid:35933037
-  title: Comparative Genomics Reveals that Metabolism Underlies Evolution of Entomopathogenicity in Bee-loving <i>Ascosphaera spp. </i> Fungi 
+  title: Comparative Genomics Reveals that Metabolism Underlies Evolution of Entomopathogenicity in Bee-loving <i>Ascosphaera spp.</i> Fungi
   tags:
     - Ascosphaera
     - Chalk brood disease
@@ -198,6 +220,7 @@
     - insect fungal interactions
     - ascomycota
     - genome
+    - ploidy
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8325562/bin/evab158f5.jpg
 
 - id: pmid:34165331
@@ -436,6 +459,7 @@
     - zygomycete
     - Entomophthomycotina
 - id: pmid:32412847
+  image: images/publication_images/massospora_cicada.jpg
   tags:
     - Massospora
     - insect fungal interactions
