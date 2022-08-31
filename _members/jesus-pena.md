@@ -6,7 +6,7 @@ search:
   - J. Pena
   - J Pena
 role: phd
-group: current
+group: alum
 image: images/members/jesusp384x387.png
 links:
   home-page: http://jfpena.com
