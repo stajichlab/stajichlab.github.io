@@ -40,6 +40,41 @@
   - Entomophthomycotina
   - Metagenome
   _cache: a32de7518bc72ee3d64e2f1bb1e18de0a076cdd1ab0922890fa1cf194ac0c9bf
+- id: doi:10.1101/2022.06.24.497490
+  title: Divergent evolution of early terrestrial fungi reveals the evolution of Mucormycosis
+    pathogenicity factors
+  authors:
+  - Yan Wang
+  - Ying Chang
+  - Jericho Ortanez
+  - "Jes\xFAs F. Pe\xF1a"
+  - Derreck Carter-House
+  - Nicole K Reynolds
+  - Matthew E Smith
+  - Gerald Benny
+  - Stephen J Mondo
+  - Asaf Salamov
+  - Anna Lipzen
+  - Jasmyn Pangilinan
+  - Jie Guo
+  - Kurt LaButti
+  - William Andreopolous
+  - Andrew Tritt
+  - Keykhosrow Keymanesh
+  - Mi Yan
+  - Kerrie Barry
+  - Igor V Grigoriev
+  - Joseph W Spatafora
+  - Jason E Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-06-27'
+  link: https://doi.org/gqqzph
+  tags:
+  - Mucoromycota
+  - Zoopagomycota
+  - Comparative Genomics
+  - Genome
+  _cache: f272c140e127a9d417719253642da879e8ca994f30ca35e17411610911e5fc99
 - id: pmid:36037379
   title: Diploid-dominant life cycles characterize the early evolution of Fungi.
   authors:
