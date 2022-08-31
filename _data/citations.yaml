@@ -1233,7 +1233,8 @@
   - rock
   _cache: 3001297c6e130c5247184f1bc84582fed23c3706b2046c94c2aa330ba9994462
 - id: pmid:33200960
-  title: 'Phylogenomic Analysis of a 55.1-kb 19-Gene Dataset Resolves a Monophyletic '
+  title: Phylogenomic Analysis of a 55.1-kb 19-Gene Dataset Resolves a Monophyletic
+    <i>Fusarium</i> that Includes the <i>Fusarium solani</i> Species Complex
   authors:
   - David M Geiser
   - Abdullah M S Al-Hatmi
@@ -1406,10 +1407,11 @@
   publisher: Phytopathology
   date: '2021-09-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33200960
+  image: images/publication_images/fusarium_solani_geiser.gif
   tags:
   - phylogenomics
   - Fusarium
-  _cache: 8c67df3932f1312981f28ead59eba93cca4ca76fc4a7b7337f151e16028f3995
+  _cache: 6b6d07472e0b4cc7d039769be6333c9955862776ceab516d30fef4423c7872a4
 - id: pmid:33155518
   title: A novel <i>Sporothrix brasiliensis</i> genomic variant in Midwestern Brazil
     evidence for an older and wider sporotrichosis epidemic
