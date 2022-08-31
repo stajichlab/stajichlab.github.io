@@ -2847,7 +2847,8 @@
   - fungi
   _cache: 55c7232cef8ed0c66b34383cbe51843c1de0b7f9faaa2112d947726497c484d8
 - id: pmid:28684563
-  title: 'Draft Genome Sequences of the Antarctic Endolithic Fungi '
+  title: Draft Genome Sequences of the Antarctic Endolithic Fungi <i>Rachicladosporium
+    antarcticum</i> CCFEE 5527 and <i>Rachicladosporium</i> sp. CCFEE 5018
   authors:
   - Claudia Coleine
   - Sawyer Masonjones
@@ -2863,7 +2864,7 @@
   - Rachicladosporium
   - genome
   - Antarctica
-  _cache: 92d066fdd23556c60e2ee8e2145a9c07ebe901e96a9a6d1e966fff458cac44e6
+  _cache: 96e86f201ebf7de7a9e462a89ef883f9645a64decfdc27147d021e322e25f8a4
 - id: pmid:28500048
   title: 'Insight into the Recent Genome Duplication of the Halophilic Yeast '
   authors:
