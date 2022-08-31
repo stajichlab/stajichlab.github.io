@@ -3,6 +3,7 @@ title: Leila Shadmani
 search:
   - L. Shadmani
   - L Shadmani
+image: images/members/leila-shadmani.jpg
 role: phd
 group: current
 ---
