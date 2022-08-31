@@ -1,6 +1,8 @@
 ---
 title: Cassandra L. Ettinger
 search:
+  - Cassandra L Ettinger
+  - Cassandra Ettinger
   - C.L. Ettinger
   - CL Ettinger
 role: postdoc
