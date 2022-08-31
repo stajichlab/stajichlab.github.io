@@ -375,6 +375,8 @@
     - fungi
     - rock
 - id: pmid:33200960
+  title: Phylogenomic Analysis of a 55.1-kb 19-Gene Dataset Resolves a Monophyletic <i>Fusarium</i> that Includes the <i>Fusarium solani</i> Species Complex
+  image: images/publication_images/fusarium_solani_geiser.gif
   tags:
     - phylogenomics
     - Fusarium
