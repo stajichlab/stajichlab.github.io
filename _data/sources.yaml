@@ -13,6 +13,12 @@
     - Zoopagomycota
     - Entomophthomycotina
     - Metagenome
+- id: doi:10.1101/2022.06.24.497490
+  tags:
+    - Mucoromycota
+    - Zoopagomycota
+    - Comparative Genomics
+    - Genome
 - id: pmid:36037379
   image: images/publication_images/ames_chytrid_phylo.jpg
   tags:
