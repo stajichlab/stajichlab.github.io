@@ -394,7 +394,7 @@
     - Sporothrix
     - genome
     - comparative genomics
-- id: pmid:
+- id: pmid:33138786
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607824/bin/12864_2020_7131_Fig1_HTML.jpg
   tags:
     - Neurospora
@@ -442,6 +442,7 @@
     - fungi
     - zygomycete
 - id: pmid:32660385
+  image: images/publication_images/james_annrev_ftl.jpg
   tags:
     - review
     - fungi
@@ -479,12 +480,14 @@
     - systematics
     - Entomophthomycotina
 - id: pmid:32389308
+  image: images/publication_images/friedmanniomyces.jpg
   tags:
     - Friedmannomyces
     - black yeast
     - Antarctica
     - genome
 - id: pmid:32371596
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7403777/bin/mBio.00449-20-f0001.jpg
   tags:
     - review
     - fungi
@@ -492,27 +495,32 @@
     - wildlife disease
 - id: pmid:32241854
   title: Draft Genome Sequence of the Yeast <i>Rhodotorula sp.</i> strain CCFEE 5036, Isolated from McMurdo Dry Valleys, Antarctica
+  image: images/publication_images/Rhodotorula_CCFEE_5036.png
   tags:
     - genome
     - Rhodotorula
     - Antarctica
 - id: pmid:32161129
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7104180/bin/pnas.1919726117fig02.jpg
   tags:
     - nematode trapping fungi
     - genome
     - population genomics
 - id: pmid:32139564
+  image: images/publication_images/endolithic_microbes.jpg
   tags:
     - metagenomics
     - endoliths
     - Antarctica
 - id: pmid:32041249
+  image: images/publication_images/endolithic_microbes.jpg
   tags:
     - Antarctica
     - endoliths
     - fungi
     - amplicon
 - id: pmid:31900675
+  image: http://www2.clarku.edu/faculty/dhibbett/TFTOL/images/ascospore.jpg
   tags:
     - Africa
     - spore
