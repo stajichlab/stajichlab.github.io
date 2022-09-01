@@ -652,7 +652,7 @@
     - phylogenomics
     - systematics
 - id: pmid:30539259
-   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098231/bin/nihms-1065202-f0001.jpg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098231/bin/nihms-1065202-f0001.jpg
   tags:
     - Aspergillus nidulans
     - proteomics
@@ -817,6 +817,7 @@
     - Ambrosia Beetle
     - PCR
 - id: pmid:27738200
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078412/bin/nihms-873979-f0001.jpg
   tags:
     - zygomycete
     - phylogenomics
@@ -824,39 +825,47 @@
     - phylogenetics
     - genome
 - id: pmid:27554660
+  image: https://www.cell.com/cms/attachment/2d5427d6-60e2-4c5d-ac81-11ac6e0216d4/gr1.jpg
   tags:
     - review
     - Mucor
     - Phycomyces
 - id: pmid:27294409
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4905642/bin/pgen.1006108.g002.jpg
   tags:
     - transposon
     - Pleurotus
 - id: pmid:27048799
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4817252/bin/mbo0021627450002.jpg
   tags:
     - Aspergillus
     - GAG
     - biofilm
 - id: pmid:27034999
+  image: http://www2.genetics-gsa.org/fungal/2015/Twitter.jpg
   tags:
     - social media
     - meeting report
     - review
 - id: pmid:26976598
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822581/bin/pnas.1518501113fig01.jpg
   tags:
     - Escovopsis
     - genome
     - symbiosis
     - mycoparasite
 - id: pmid:26903035
+  image: images/publication_images/uren_2016.jpg
   tags:
     - Xylariaceae
     - endophyte
 - id: pmid:26305593
+  image: images/publication_images/pieuchot_2015.jpg
   tags:
     - Neurospora
     - cytoplasmic streaming
 - id: pmid:26109355
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592977/bin/1949f2.jpg
   tags:
     - small RNA
     - transposon
@@ -867,11 +876,13 @@
     - CBM18
     - Batrachochytrium
 - id: pmid:25805857
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408805/bin/997F01.jpg
   tags:
     - Neurospora
     - intron
     - splicing
 - id: pmid:25750214
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4421004/bin/zek9990944220001.jpg
   tags:
     - Candida albicans
     - phosphoproteome
