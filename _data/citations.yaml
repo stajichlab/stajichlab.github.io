@@ -2181,12 +2181,13 @@
   publisher: Environmental microbiology reports
   date: '2019-08-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31393667
+  image: images/publication_images/endolithic_microbes.jpg
   tags:
   - Antarctica
   - amplicon
   - ITS
   - 16S
-  _cache: 1218b8653a3334191246548ebce9f0f9fbf24bfd4db8353a3a036a32b0a6663b
+  _cache: ea7616e7da341593ad511bde28738251c757d5c6fdeb67515ac7e3e97295b38c
 - id: pmid:31156574
   title: Proteomic and Metabolomic Characteristics of Extremophilic Fungi Under Simulated
     Mars Conditions.
@@ -2245,11 +2246,12 @@
   publisher: Microbiology resource announcements
   date: '2019-05-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31072892
+  image: images/publication_images/friedmanniomyces.jpg
   tags:
   - Exophiala
   - extremophile
   - Antarctica
-  _cache: a1aa1551351fac5452207cc809308f3d6557e5367b79324c8e74fa7d8b68b821
+  _cache: d499d99cce6a167f62f565a24483d9d15abd9a19f5bafe830f62cdc426271de0
 - id: pmid:30987585
   title: 'FGMP: assessing fungal genome completeness.'
   authors:
@@ -2258,10 +2260,11 @@
   publisher: BMC bioinformatics
   date: '2019-04-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30987585
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6466665/bin/12859_2019_2782_Fig3_HTML.jpg
   tags:
   - tool
   - genomics
-  _cache: 14819bc7a6be5d6a13de67d850cfdb7f692c141be8ffb64da2fc7a40baefb03a
+  _cache: 674085750367e0adac55ca45712e9cc27eb2ce83e125b337e61086706cc55970
 - id: pmid:30837337
   title: 'Fungi in the Marine Environment: Open Questions and Unsolved Problems.'
   authors:
@@ -2309,12 +2312,13 @@
   publisher: Nature ecology & evolution
   date: '2019-02-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30778188
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6533610/bin/nihms-1518609-f0001.jpg
   tags:
   - epigenetics
   - fungi
   - 5mC
   - methylation
-  _cache: b7dbbe688bcad11861cacad7290ec53a291b272add74d6fdc1aa540d81531e9b
+  _cache: 72d5445e8c26cf172210553a4839e6008f9f99fb54936da429b2cc5cc2316b79
 - id: pmid:30733435
   title: Tracking the origin of two genetic components associated with transposable
     element bursts in domesticated rice.
@@ -2329,11 +2333,12 @@
   publisher: Nature communications
   date: '2019-02-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30733435
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6367367/bin/41467_2019_8451_Fig2_HTML.jpg
   tags:
   - transposon
   - Rice
   - mPing
-  _cache: 1f106815c7bb8eae2857deaaa2f6a5963e9e3e02c1c89e8cf74f888521c5d83a
+  _cache: 7e50049efd6fc3080dfff13f86595f5978566c3c966295d0b4fa47d1fca6c218
 - id: pmid:30701257
   title: Genome Sequence of a Lethal Vascular Wilt Fungus, Verticillium nonalfalfae,
     a Biological Control Used Against the Invasive Ailanthus altissima.
@@ -2418,13 +2423,14 @@
   publisher: Molecular phylogenetics and evolution
   date: '2019-01-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30639767
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6886740/bin/nihms-1060063-f0005.jpg
   tags:
   - Zoopagales
   - Zoopagomycota
   - zygomycete
   - phylogenomics
   - systematics
-  _cache: ace4f7722bcfe15983f7eff4da59237b99e9776d68ba6e796277cd1d84475ba7
+  _cache: aa1820c02a467f1a84404f30bf61df822b285c1369038e5718a40360985704a5
 - id: pmid:30539259
   title: International Space Station conditions alter genomics, proteomics, and metabolomics
     in Aspergillus nidulans.
@@ -2444,12 +2450,13 @@
   publisher: Applied microbiology and biotechnology
   date: '2018-12-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30539259
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098231/bin/nihms-1065202-f0001.jpg
   tags:
   - Aspergillus nidulans
   - proteomics
   - space fungi
   - ISS
-  _cache: 9844fcadf6be3098f2c84c771ef55ea8e674a40987b614f27bea60cc02de364f
+  _cache: 6b3fa0c5c05f540ce72b66e163959d7e1d3e4a663f3c6ead8e267090f0215338
 - id: pmid:30485448
   title: Phylogenomics of Endogonaceae and evolution of mycorrhizas within Mucoromycota.
   authors:
@@ -2490,11 +2497,12 @@
     of America
   date: '2018-11-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30389707
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6255150/bin/pnas.1807698115fig01.jpg
   tags:
   - Candida
   - Clavispora lusitaniae
   - drug resistance
-  _cache: 9fa956791460e9a1adf7cca835bef76fa065e0cf303ed8728d63bb2d15594552
+  _cache: 3af50b38a727029c186ab68a1d314b6d79e5198f0f946c618007892d3f3fac59
 - id: pmid:30293061
   title: Parasitoid Jewel Wasp Mounts Multipronged Neurochemical Attack to Hijack
     a Host Brain.
@@ -3087,13 +3095,14 @@
   publisher: Mycologia
   date: '2016-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27738200
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078412/bin/nihms-873979-f0001.jpg
   tags:
   - zygomycete
   - phylogenomics
   - systematics
   - phylogenetics
   - genome
-  _cache: 39996b3c87e673a2c21350f427754824deb07c3155dca755cb35dcc892407b12
+  _cache: 845a5b0d76e9eefbf23aa04debdda35d5482cce95121ebb2c45a0a1f442649c6
 - id: pmid:27554660
   title: 'Fungal Evolution: Mucor and Phycomyces See Double.'
   authors:
@@ -3101,11 +3110,12 @@
   publisher: 'Current biology : CB'
   date: '2016-08-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27554660
+  image: https://www.cell.com/cms/attachment/2d5427d6-60e2-4c5d-ac81-11ac6e0216d4/gr1.jpg
   tags:
   - review
   - Mucor
   - Phycomyces
-  _cache: e92ce2beb7bb873906c6523d5caa12f1841ec81aa208ac25bcfdc6bddb0bff6e
+  _cache: 5bcd2755abca09a1dbf228c036463d1433e3f0feeda891c139895fe5ed301784
 - id: pmid:27294409
   title: 'Transposable Elements versus the Fungal Genome: Impact on Whole-Genome Architecture
     and Transcriptional Profiles.'
@@ -3125,10 +3135,11 @@
   publisher: PLoS genetics
   date: '2016-06-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27294409
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4905642/bin/pgen.1006108.g002.jpg
   tags:
   - transposon
   - Pleurotus
-  _cache: 6f5b45a20408c891ce6c602a418ac60183c86794bda7de5296485074265a2cac
+  _cache: 5189febe48c9a798c0be4c4b3aba76b2c26a0b17dd39c96d28459decd66aa78c
 - id: pmid:27048799
   title: Deacetylation of Fungal Exopolysaccharide Mediates Adhesion and Biofilm Formation.
   authors:
@@ -3153,11 +3164,12 @@
   publisher: mBio
   date: '2016-04-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27048799
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4817252/bin/mbo0021627450002.jpg
   tags:
   - Aspergillus
   - GAG
   - biofilm
-  _cache: 157765fd641ff236660da70dfc50b3dd9085038318cb4c4ff48a23361551d008
+  _cache: 622075c243708c9abf064dc6e78ac63b73313e2b6d3b77aac37cb607274c1204
 - id: pmid:27034999
   title: 'Meeting Report: Fungal Genomics Meets Social  Media: Highlights of the 28th
     Fungal Genetics  Conference at Asilomar.'
@@ -3176,11 +3188,12 @@
   publisher: G3 (Bethesda, Md.)
   date: '2015-12-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27034999
+  image: http://www2.genetics-gsa.org/fungal/2015/Twitter.jpg
   tags:
   - social media
   - meeting report
   - review
-  _cache: d0c8d727d4ce888b9c8df9a7149d42560f9d7e467280a37a66290ef9cca8b3a3
+  _cache: 43243fca9b5f4742e7f199d75b3a4561e8116015ccab139800656b69f0a542e2
 - id: pmid:26976598
   title: Small genome of the fungus Escovopsis weberi, a specialized disease agent
     of ant agriculture.
@@ -3203,12 +3216,13 @@
     of America
   date: '2016-03-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26976598
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822581/bin/pnas.1518501113fig01.jpg
   tags:
   - Escovopsis
   - genome
   - symbiosis
   - mycoparasite
-  _cache: 87bbf5e6ab89b738fdb1bf2b36136db44105f2c633c4f6f2f67af88d60bed9fc
+  _cache: 61d6382ddd2dfdd4f296dc082bbbc2c96c88cc704004e1eb07500de8252f83ec
 - id: pmid:26903035
   title: Contributions of North American endophytes to the phylogeny, ecology, and
     taxonomy of Xylariaceae (Sordariomycetes, Ascomycota).
@@ -3222,10 +3236,11 @@
   publisher: Molecular phylogenetics and evolution
   date: '2016-02-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26903035
+  image: images/publication_images/uren_2016.jpg
   tags:
   - Xylariaceae
   - endophyte
-  _cache: 31f7dda4a82bc4bcdcb97adcebb8f4a879bedb802babe56ee6a9a04c9f203db8
+  _cache: fc598103158ed73ea4747c71fda7ce41e22b6a7e72bf1564f51dbabc4902f495
 - id: pmid:26305593
   title: Cellular Subcompartments through Cytoplasmic Streaming.
   authors:
@@ -3239,10 +3254,11 @@
   publisher: Developmental cell
   date: '2015-08-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26305593
+  image: images/publication_images/pieuchot_2015.jpg
   tags:
   - Neurospora
   - cytoplasmic streaming
-  _cache: ab6154bed48bdcf6d1cd3b33ac5a6bacc653e157ede6f54910782304c4e05756
+  _cache: 23a198f38cc2def87cf720d15c4960c11d85149b08de5a05cf1cd58951893917
 - id: pmid:26109355
   title: Endogenous Small RNA Mediates Meiotic Silencing of a Novel DNA Transposon.
   authors:
@@ -3254,12 +3270,13 @@
   publisher: G3 (Bethesda, Md.)
   date: '2015-06-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26109355
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592977/bin/1949f2.jpg
   tags:
   - small RNA
   - transposon
   - Neurospora
   - MSUD
-  _cache: 27f4743627ea9e83b78010e0c4c2dac2d9feb096e60981954120161135a05cfd
+  _cache: 1cc881837cc60e87222b5b95e8ddf6fa10fd05d1ada1c80b4a881b1c7aae3e95
 - id: pmid:25819009
   title: Characterization of the Carbohydrate Binding Module 18 gene family in the
     amphibian pathogen Batrachochytrium dendrobatidis.
@@ -3285,11 +3302,12 @@
   publisher: RNA (New York, N.Y.)
   date: '2015-03-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25805857
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408805/bin/997F01.jpg
   tags:
   - Neurospora
   - intron
   - splicing
-  _cache: 3397045949369a5587d960373141ea13e6c2243ebc5d56b65b135382bdaddad9
+  _cache: 5b6d25707dea953b7939eab9ffcec06f1075ef94f8236723b885d56c4f0f91c0
 - id: pmid:25750214
   title: Analysis of the Candida albicans Phosphoproteome.
   authors:
@@ -3304,10 +3322,11 @@
   publisher: Eukaryotic cell
   date: '2015-03-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25750214
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4421004/bin/zek9990944220001.jpg
   tags:
   - Candida albicans
   - phosphoproteome
-  _cache: 7a872e235ddb23c0415707da3ba53562254457f273022c7266e36b424dac4339
+  _cache: bba9b8559b5d5ea35bfa450cb88228181fb786b0b42f903481e3102955515d45
 - id: pmid:25427217
   title: 'Twenty-first century mycology: a diverse, collaborative, and highly relevant
     science.'
