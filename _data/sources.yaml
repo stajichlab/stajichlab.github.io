@@ -543,18 +543,21 @@
     - plant pathology
     - tool
 - id: pmid:31632357
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6779839/bin/fmicb-10-02163-g001.jpg
   title: Microfluidics and Metabolomics Reveal Symbiotic Bacterial-Fungal Interactions Between <i>Mortierella elongata</i> and <i>Burkholderia</i> Include Metabolite Exchange
   tags:
     - zygomycete
     - tool
     - bacteria fungi interactions
 - id: pmid:31548684
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7396965/bin/nihms-1605563-f0002.jpg
   tags:
     - Aspergillus fumigatus
     - biofilm
     - disease
     - hypoxia
 - id: pmid:31518652
+  image: https://ucanr.edu/blogs/Topics/blogfiles/26378.jpg
   tags:
     - Fusarium
     - avocado
@@ -630,6 +633,7 @@
   tags:
     - systematics
 - id: pmid:30673440
+  image: https://ucanr.edu/blogs/Topics/blogfiles/26378.jpg
   tags:
     - Fusarium kuroshium
     - avocado
@@ -799,6 +803,7 @@
     - tool
     - transposon
 - id: pmid:30682305
+  image: https://ucanr.edu/blogs/Topics/blogfiles/26378.jpg
   tags:
     - Fusarium
     - Ambrosia Beetle
@@ -870,35 +875,42 @@
     - Sporothrix
     - genome
 - id: pmid:25330340
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4199772/bin/ppat.1004464.g003.jpg
   tags:
     - microRNA
     - Fusarium
     - tomato
 - id: pmid:25143134
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cell_wall_structure_of_Fungi.png/320px-Cell_wall_structure_of_Fungi.png
   tags:
     - cell wall
     - Mucoromycotina
     - phylogenomics
 - id: pmid:24912000
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hyphae.JPG/320px-Hyphae.JPG
   tags:
     - soil fungi
     - phylogeny
 - id: pmid:24813190
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4135733/bin/zek9990943010001.jpg
   tags:
     - Cryptococcus
     - annotation
     - curation
 - id: pmid:24743168
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3990503/bin/pgen.1004261.g003.jpg
   tags:
     - Cryptococcus
     - genome
     - RNA-seq
     - microevolution
 - id: pmid:24299411
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Oncom_tekstur.jpg/333px-Oncom_tekstur.jpg
   tags:
     - Neurospora
     - selfing
 - id: pmid:24285193
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rhizobium_tropici_strain_BR816_on_TY_agar.JPG/320px-Rhizobium_tropici_strain_BR816_on_TY_agar.JPG
   tags:
     - symbiosis
     - proteobacteria
@@ -910,6 +922,7 @@
     - built environment
     - MIxS-BE
 - id: pmid:24068976
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pyronema_domesticum_151.jpg/360px-Pyronema_domesticum_151.jpg
   tags:
     - Pyronema
     - genome
@@ -917,6 +930,7 @@
   tags:
     - meeting report
 - id: pmid:23951101
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3738597/bin/pone.0071168.g001.jpg
   tags:
     - Entomophthora muscae
     - insect fungal interactions
