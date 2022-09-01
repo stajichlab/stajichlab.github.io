@@ -363,6 +363,7 @@
     - Mortierellaceae
     - phylogenomics
 - id: pmid:33355923
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7969408/bin/nihms-1657233-f0001.jpg
   tags:
     - Suillus
     - basidomycota
@@ -393,7 +394,8 @@
     - Sporothrix
     - genome
     - comparative genomics
-- id: pmid:33138786
+- id: pmid:
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607824/bin/12864_2020_7131_Fig1_HTML.jpg
   tags:
     - Neurospora
     - phenotype
@@ -411,6 +413,7 @@
     - taxonomy
     - systematics
 - id: pmid:32902066
+  image: images/publication_images/collins_gcb_2020.jpg
   tags:
     - soil microbiome
     - ITS
@@ -425,7 +428,8 @@
     - zygomycete
     - virus
 - id: pmid:32883786
-  image: https://journals.asm.org/pb-assets/images/pub-nav/MRA-logo-1601672971873.png
+  title: Best Practices for Successfully Writing and Publishing a Genome Announcement in <i>Microbiology Resource Announcements</i>
+  image: images/publication_images/mra_cover.jpg
   tags:
     - review
     - MRA
@@ -548,7 +552,8 @@
     - avocado
     - plant pathology
 - id: pmid:31488541
-  title: Future-Proofing Your Microbiology Resource Announcements Genome Assembly for Reproducibility and Clarity
+  title: Future-Proofing Your <i>Microbiology Resource Announcements</i> Genome Assembly for Reproducibility and Clarity
+  image: images/publication_images/mra_cover.jpg
   tags:
     - review
     - MRA
