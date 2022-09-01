@@ -581,6 +581,7 @@
     - genome
     - coccidioides
 - id: pmid:31393667
+  image: images/publication_images/endolithic_microbes.jpg
   tags:
     - Antarctica
     - amplicon
@@ -598,11 +599,13 @@
     - AGF
 - id: pmid:31072892
   title: Draft Genome Sequence of an Antarctic Isolate of the Black Yeast Fungus <i>Exophiala mesophila</i>
+  image: images/publication_images/friedmanniomyces.jpg
   tags:
     - Exophiala
     - extremophile
     - Antarctica
 - id: pmid:30987585
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6466665/bin/12859_2019_2782_Fig3_HTML.jpg
   tags:
     - tool
     - genomics
@@ -614,12 +617,14 @@
     - chytrid
     - marine microbiology
 - id: pmid:30778188
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6533610/bin/nihms-1518609-f0001.jpg
   tags:
     - epigenetics
     - fungi
     - 5mC
     - methylation
 - id: pmid:30733435
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6367367/bin/41467_2019_8451_Fig2_HTML.jpg
   tags:
     - transposon
     - Rice
@@ -639,6 +644,7 @@
     - avocado
     - AFC
 - id: pmid:30639767
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6886740/bin/nihms-1060063-f0005.jpg
   tags:
     - Zoopagales
     - Zoopagomycota
@@ -646,6 +652,7 @@
     - phylogenomics
     - systematics
 - id: pmid:30539259
+   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098231/bin/nihms-1065202-f0001.jpg
   tags:
     - Aspergillus nidulans
     - proteomics
@@ -659,6 +666,7 @@
     - zygomycete
     - Endogone
 - id: pmid:30389707
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6255150/bin/pnas.1807698115fig01.jpg
   tags:
     - Candida
     - Clavispora lusitaniae
