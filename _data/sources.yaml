@@ -591,9 +591,12 @@
     - tool
     - genomics
 - id: pmid:30837337
+  image: images/publication_images/amend_marinefungi.jpg
   tags:
     - review
     - marine fungi
+    - chytrid
+    - marine microbiology
 - id: pmid:30778188
   tags:
     - epigenetics
