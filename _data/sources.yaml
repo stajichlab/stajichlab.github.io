@@ -69,7 +69,7 @@
     - Ophidiomyces
     - Population genetics
     - wildlife disease
-  images: images/publication_images/sfd.jpg
+  image: images/publication_images/sfd.jpg
 - id: pmid:35836417
   tags:
     - amplicon metabarcoding
