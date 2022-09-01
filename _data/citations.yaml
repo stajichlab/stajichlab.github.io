@@ -274,8 +274,8 @@
   - Ophidiomyces
   - Population genetics
   - wildlife disease
-  images: images/publication_images/sfd.jpg
-  _cache: da83df621561c783e1f8d0ce2a1da5cab48d1c183c18c0f0780a1fbfa33e393d
+  image: images/publication_images/sfd.jpg
+  _cache: fa3913e263d18578d420e8dac6fa73055674ff3e347797c490177d43f35e8ccd
 - id: pmid:35836417
   title: Landscape Topography and Regional Drought Alters Dust Microbiomes in the
     Sierra Nevada of California.
