@@ -2063,11 +2063,12 @@
   publisher: Frontiers in microbiology
   date: '2019-10-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31632357
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6779839/bin/fmicb-10-02163-g001.jpg
   tags:
   - zygomycete
   - tool
   - bacteria fungi interactions
-  _cache: 0195e5ab0273eace4ef0abd35125f329a998edf070c9957ec03881464f5d0085
+  _cache: cea04042f6d09b98be421c2f8809933a3083fc23a7a40ad8f8a07307e3f5739a
 - id: pmid:31548684
   title: Fungal biofilm morphology impacts hypoxia fitness and disease progression.
   authors:
@@ -2082,12 +2083,13 @@
   publisher: Nature microbiology
   date: '2019-09-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31548684
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7396965/bin/nihms-1605563-f0002.jpg
   tags:
   - Aspergillus fumigatus
   - biofilm
   - disease
   - hypoxia
-  _cache: 88cc3a0b5a902cb2aae40eb6157f25e999642862750522df67a401e1728d77bb
+  _cache: 8eb84f36788de325496c1055d8f2c4c8b985805a89747280eba7056860cde3b1
 - id: pmid:31518652
   title: Members of the Euwallacea fornicatus species complex exhibit promiscuous
     mutualism with ambrosia fungi in Taiwan.
@@ -2103,11 +2105,12 @@
   publisher: 'Fungal genetics and biology : FG & B'
   date: '2019-09-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31518652
+  image: https://ucanr.edu/blogs/Topics/blogfiles/26378.jpg
   tags:
   - Fusarium
   - avocado
   - plant pathology
-  _cache: 65b04f58e9c3afbf32b1b0a3bb9a01a5195f38a0478da0ed2fddb30889a6dfaf
+  _cache: 9272cf9dc452337babb3e79497428a8c3ec75709af14009a73bcd800fef39cb1
 - id: pmid:31488541
   title: Future-Proofing Your <i>Microbiology Resource Announcements</i> Genome Assembly
     for Reproducibility and Clarity
@@ -2392,11 +2395,12 @@
   publisher: Plant disease
   date: '2018-04-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30673440
+  image: https://ucanr.edu/blogs/Topics/blogfiles/26378.jpg
   tags:
   - Fusarium kuroshium
   - avocado
   - AFC
-  _cache: c12b62cec93d83c44ea45ce80a2edf1e643948eb4ef89de867b61ed4c99bd26f
+  _cache: 6f86dfe8c86f393aece8b13c958feafea6e5f947fd7864abdbd874ff1e402b02
 - id: pmid:30639767
   title: Genome-scale phylogenetics reveals a monophyletic Zoopagales (Zoopagomycota,
     Fungi).
@@ -3052,11 +3056,12 @@
   publisher: Plant disease
   date: '2016-11-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30682305
+  image: https://ucanr.edu/blogs/Topics/blogfiles/26378.jpg
   tags:
   - Fusarium
   - Ambrosia Beetle
   - PCR
-  _cache: b75c9dadf1a8c6bd3e5f9b9c9db218435b6a7e8e70bcc355ad09ef248498a457
+  _cache: 59158032912b209dcc14cc35a87a868d1aafb070395e4a07ed1618ee367875a6
 - id: pmid:27738200
   title: A phylum-level phylogenetic classification of zygomycete fungi based on genome-scale
     data.
@@ -3381,11 +3386,12 @@
   publisher: PLoS pathogens
   date: '2014-10-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25330340
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4199772/bin/ppat.1004464.g003.jpg
   tags:
   - microRNA
   - Fusarium
   - tomato
-  _cache: e3ec345db2c1661917f291cd1e479b2f57228b9bfcbfe0928859286a0464828d
+  _cache: 95ef21a5c2030958d51d8ebf650270905ca762a71be965a9d47b69ed1cd769ed
 - id: pmid:25143134
   title: Deciphering the uniqueness of Mucoromycotina cell walls by combining biochemical
     and phylogenomic approaches.
@@ -3397,11 +3403,12 @@
   publisher: Environmental microbiology
   date: '2014-09-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25143134
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cell_wall_structure_of_Fungi.png/320px-Cell_wall_structure_of_Fungi.png
   tags:
   - cell wall
   - Mucoromycotina
   - phylogenomics
-  _cache: 172a5311dbbbfd64ba7214304ab1ecb718f7bdb301048775915cf2bcfaadcb32
+  _cache: 1e9cd12a97239b47af81d5b8d0a3768bddb0c42b6c40d748a093d782f1a5be99
 - id: pmid:24912000
   title: Evolutionary histories of soil fungi are reflected in their large-scale biogeography.
   authors:
@@ -3414,10 +3421,11 @@
   publisher: Ecology letters
   date: '2014-06-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24912000
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hyphae.JPG/320px-Hyphae.JPG
   tags:
   - soil fungi
   - phylogeny
-  _cache: e43f78ca753b8ffe72a43cdb39b8999ba38277644b095a190f6ea5a5db7f24fb
+  _cache: 9ad00a67653a84433dc9b132a40d763a45455e6fec706363d7f56bf76371591d
 - id: pmid:24813190
   title: Literature-based gene curation and proposed genetic nomenclature for cryptococcus.
   authors:
@@ -3430,11 +3438,12 @@
   publisher: Eukaryotic cell
   date: '2014-05-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24813190
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4135733/bin/zek9990943010001.jpg
   tags:
   - Cryptococcus
   - annotation
   - curation
-  _cache: ea862e3b33506471f00ac3effe0933aebd0d855338a4afb00cfe11da96a1b85c
+  _cache: 03cea3837ed8eafd72d2dd4b449d0881e9f7ee393459934c977c0faf7ce2aeef
 - id: pmid:24743168
   title: Analysis of the genome and transcriptome of Cryptococcus neoformans var.
     grubii reveals complex RNA expression and microevolution leading to virulence
@@ -3495,12 +3504,13 @@
   publisher: PLoS genetics
   date: '2014-04-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24743168
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3990503/bin/pgen.1004261.g003.jpg
   tags:
   - Cryptococcus
   - genome
   - RNA-seq
   - microevolution
-  _cache: 7e947d08e8f9a9f9d603dc01cc6c512460c830c25c4405b5b07f3186efdd7a7d
+  _cache: 649e1a3a23a53037fe6aa1d49bc68aece4d420c09fa9f6fb3a77e214173866b9
 - id: pmid:24299411
   title: 'Neurospora and the dead-end hypothesis: genomic consequences of selfing
     in the model genus.'
@@ -3511,10 +3521,11 @@
   publisher: Evolution; international journal of organic evolution
   date: '2013-08-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24299411
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Oncom_tekstur.jpg/333px-Oncom_tekstur.jpg
   tags:
   - Neurospora
   - selfing
-  _cache: b4c1921aaac151329f80adb2ab2351727b40479fe5f4529a09101291d01b057b
+  _cache: ecfce71e46744fdf066c59b7c22ace4350a553d971ce2c0f5cef99b6d78b30b8
 - id: pmid:24285193
   title: Evolutionary origins and diversification of proteobacterial mutualists.
   authors:
@@ -3525,12 +3536,13 @@
   publisher: Proceedings. Biological sciences
   date: '2013-11-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24285193
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rhizobium_tropici_strain_BR816_on_TY_agar.JPG/320px-Rhizobium_tropici_strain_BR816_on_TY_agar.JPG
   tags:
   - symbiosis
   - proteobacteria
   - mutalism
   - evolution
-  _cache: c1d71b45eb694d9c2b1054c8cc278d3266e81cba0d049a77d8edc2dea3f63093
+  _cache: 1f74db66736c756d3417e1204648414920b3a7b769e6320f0e398dc11f9708a6
 - id: pmid:24152717
   title: 'MIxS-BE: a MIxS extension defining a minimum information standard for sequence
     data from the built environment.'
@@ -3575,10 +3587,11 @@
   publisher: PLoS genetics
   date: '2013-09-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24068976
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pyronema_domesticum_151.jpg/360px-Pyronema_domesticum_151.jpg
   tags:
   - Pyronema
   - genome
-  _cache: 3a9c198f39ac639e282e61b1fbe368bd363fb21ed29470783d9eb1f6426480bb
+  _cache: 048f5161321af1601f4a8c13b5efd939b7e880b2ff19b6bc83e0c25c48190191
 - id: pmid:23961317
   title: 'Meeting report: fungal its workshop (october 2012).'
   authors:
@@ -3624,11 +3637,12 @@
   publisher: PloS one
   date: '2013-08-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23951101
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3738597/bin/pone.0071168.g001.jpg
   tags:
   - Entomophthora muscae
   - insect fungal interactions
   - fly
-  _cache: 49d5e8cb183d1cce037b93d0e5ae9a910b322acbb07f511c509a05e6ee0544f9
+  _cache: 4810c899ab67256aa864b080f4bc574506de926d26dadf7d7f621e1e9cb68966
 - id: pmid:23932404
   title: Shared signatures of parasitism and phylogenomics unite Cryptomycota and
     microsporidia.
