@@ -2273,10 +2273,13 @@
   publisher: mBio
   date: '2019-03-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30837337
+  image: images/publication_images/amend_marinefungi.jpg
   tags:
   - review
   - marine fungi
-  _cache: aa21c1279f9d01f0383f0bf37eac07cd571fd1f0efd1a7ea949b2fb1a0cec6bf
+  - chytrid
+  - marine microbiology
+  _cache: 998b77b41c7b1b0e877258d8fb2127b643dfc402dbfd61fcdddfe315977b59b0
 - id: pmid:30778188
   title: Diversity of cytosine methylation across the fungal tree of life.
   authors:
