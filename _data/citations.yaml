@@ -110,13 +110,13 @@
     of America
   date: '2022-08-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36037379
-  image: images/publication_images/ames_chytrid_phylo.jpg
+  image: images/publication_images/chytrid_pnas.jpg
   tags:
   - chytrid
   - Genome evolution
   - ploidy
   - phylogenomics
-  _cache: a6a0fcc2cbf4bf483a07799921a0731ee698023a60bd7471d8adc8664ec32011
+  _cache: a82f344de50b8cc18877ce92ea05f7004c51a10c1c1e5ad04ac4a2f004ef9429
 - id: doi:10.21203/rs.3.rs-1964919/v1
   title: Transcriptome and Population Structure of Glassy-winged Sharpshooters (Homalodisca
     vitripennis) with Varying Insecticide Resistance in Southern California
