@@ -21,7 +21,6 @@ The Stajich Lab asks questions about how microbes interact with a focus on Fungi
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-<<<<<<< HEAD
 {%
   include link.html
   icon="fas fa-hands-helping"
@@ -29,24 +28,7 @@ The Stajich Lab asks questions about how microbes interact with a focus on Fungi
   link="join"
   style="button"
 %}
-=======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include section.html %}
-
-## Join
-
-#### Post Dogtoral Researcher
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
-
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
->>>>>>> upstream/main
 {:.center}
 
 {% include section.html %}
