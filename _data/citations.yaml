@@ -3,7 +3,7 @@
 
 - id: pmid:36152775
   title: Single nucleotide polymorphisms and chromosomal copy number variation may
-    impact the Sporothrix brasiliensis antifungal susceptibility and sporotrichosis
+    impact the <i>Sporothrix brasiliensis</i> antifungal susceptibility and sporotrichosis
     clinical outcomes.
   authors:
   - Marcus M Teixeira
@@ -28,7 +28,7 @@
   - antifungal
   - azole
   - CNV
-  _cache: de3809c019741569893f7724fc05cb5b0d097d83bb193483235887e501a40916
+  _cache: b112a7c0f37e6f5734f4d316d0f660279610bb509922573538bcd946f63d5c1e
 - id: pmid:36179219
   title: 'The future of fungi: threats and opportunities.'
   authors:
@@ -116,7 +116,9 @@
   - metagenomics
   _cache: a6f525f21b3829bba0dddfebac75598908218e7b28cf8a85858d6b3ca5eb3f04
 - id: pmid:36197945
-  title: 'Manipulation of the Global Regulator '
+  title: Manipulation of the Global Regulator <i>mcrA</i> Upregulates Secondary Metabolite
+    Production in <i>Aspergillus wentii</i> Using CRISPR-Cas9 with In Vitro Assembled
+    Ribonucleoproteins
   authors:
   - Bo Yuan
   - Nancy P Keller
@@ -133,7 +135,7 @@
   - CRISPR
   - BGC
   - mcrA
-  _cache: 883e2ce100465927f4780bbf7166beb2243fffcb3711c6269ebe72cae67f4c6b
+  _cache: 61caece2a419a66ff63aca1b74e72b6eb302a1f4c1a9ad391629d9a2cfc67c4b
 - id: pmid:36273137
   title: Transcriptome and population structure of glassy-winged sharpshooters (Homalodisca
     vitripennis) with varying insecticide resistance in southern California.
@@ -158,7 +160,7 @@
   - RNA-seq
   _cache: c8fd2c01c6dc4205f70b13b7d45cf3345185a268b569467da021e39890fe5b30
 - id: pmid:36036589
-  title: An Improved 1.5-Gigabase Draft Assembly of Massospora cicadina (Zoopagomycota),
+  title: An Improved 1.5-Gigabase Draft Assembly of <i>Massospora cicadina</i> (Zoopagomycota),
     an Obligate Fungal Parasite of 13- and 17-Year Cicadas.
   authors:
   - Jason E Stajich
@@ -176,9 +178,9 @@
   - Genome
   - Zoopagomycota
   - Entomophthomycotina
-  _cache: 9fede18a8768d0d3574feaa4727919fd13a95c2e7fc2ea9acbaddc6a53f0feea
+  _cache: d0ebde6a4d55ec3dd9a5cf249ef740586d710704ab2d2907602d429c05dafec7
 - id: pmid:36036588
-  title: Metagenome-Assembled Genomes of Bacteria Associated with Massospora cicadina
+  title: Metagenome-Assembled Genomes of Bacteria Associated with <i>Massospora cicadina</i>
     Fungal Plugs from Infected Brood VIII Periodical Cicadas.
   authors:
   - Cassandra L Ettinger
@@ -195,7 +197,7 @@
   - Zoopagomycota
   - Entomophthomycotina
   - Metagenome
-  _cache: a32de7518bc72ee3d64e2f1bb1e18de0a076cdd1ab0922890fa1cf194ac0c9bf
+  _cache: e213507fb65bd376436667b1bf2a4447b80593b359984b04590d066bffa40bda
 - id: doi:10.1101/2022.06.24.497490
   title: Divergent evolution of early terrestrial fungi reveals the evolution of Mucormycosis
     pathogenicity factors
