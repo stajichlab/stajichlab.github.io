@@ -273,28 +273,6 @@
   - ploidy
   - phylogenomics
   _cache: a82f344de50b8cc18877ce92ea05f7004c51a10c1c1e5ad04ac4a2f004ef9429
-- id: doi:10.21203/rs.3.rs-1964919/v1
-  title: Transcriptome and Population Structure of Glassy-winged Sharpshooters (Homalodisca
-    vitripennis) with Varying Insecticide Resistance in Southern California
-  authors:
-  - Cassandra Ettinger
-  - Frank Byrne
-  - Inaiara de Souza Pacheco
-  - Dylan Brown
-  - Linda Walling
-  - Peter Atkinson
-  - Richard Redak
-  - Jason Stajich
-  publisher: Research Square Platform LLC
-  date: '2022-08-16'
-  link: https://doi.org/gqpcxr
-  image: images/publication_images/GWSS_image1.jpg
-  tags:
-  - GWSS
-  - resistance
-  - Glassy-winged Sharpshooter
-  - Genomics
-  _cache: ac0d461cffb39bca65d6360479e50826999dffdc88dc14a0e05913f7c39a8da5
 - id: pmid:36012777
   title: The Early Terrestrial Fungal Lineage of <i>Conidiobolus</i> - Transition
     from Saprotroph to Parasitic Lifestyle
