@@ -1,3 +1,40 @@
+- id: pmid:36152775
+  image: images/publication_images/Teixeira_FGB_2022.jpg
+  tags:
+    - Sporothrix
+    - resistance
+    - antifungal
+    - azole
+    - CNV
+- id: pmid:36179219
+  image: images/publication_images/case_futurefungi.jpg
+  tags:
+    - Review
+    - CIFAR
+    - Future Of Fungi
+    - BWF
+- id: pmid:36179670
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9567272/bin/fx1.jpg
+  tags:
+    - mycobiome
+    - cancer
+    - metagenomics
+- id: pmid:36197945
+  image: https://pubs.acs.org/cms/10.1021/acschembio.2c00456/asset/images/medium/cb2c00456_0006.gif
+  tags:
+    - Aspergillus
+    - Secondary Metabolism
+    - CRISPR
+    - BGC
+    - mcrA
+- id: pmid:36273137
+  image: images/publication_images/GWSS_image1.jpg
+  tags:
+    - GWSS
+    - resistance
+    - Glassy-winged Sharpshooter
+    - Genomics
+    - RNA-seq
 - id: pmid:36036589
   image: images/publication_images/massospora_cicada.jpg
   tags:
