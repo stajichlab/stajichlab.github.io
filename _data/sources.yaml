@@ -1,5 +1,6 @@
 - id: pmid:36152775
   image: images/publication_images/Teixeira_FGB_2022.jpg
+  title: Single nucleotide polymorphisms and chromosomal copy number variation may impact the <i>Sporothrix brasiliensis</i> antifungal susceptibility and sporotrichosis clinical outcomes.
   tags:
     - Sporothrix
     - resistance
@@ -21,6 +22,7 @@
     - metagenomics
 - id: pmid:36197945
   image: https://pubs.acs.org/cms/10.1021/acschembio.2c00456/asset/images/medium/cb2c00456_0006.gif
+  title: Manipulation of the Global Regulator <i>mcrA</i> Upregulates Secondary Metabolite Production in <i>Aspergillus wentii</i> Using CRISPR-Cas9 with In Vitro Assembled Ribonucleoproteins
   tags:
     - Aspergillus
     - Secondary Metabolism
@@ -36,6 +38,7 @@
     - Genomics
     - RNA-seq
 - id: pmid:36036589
+  title: An Improved 1.5-Gigabase Draft Assembly of <i>Massospora cicadina</i> (Zoopagomycota), an Obligate Fungal Parasite of 13- and 17-Year Cicadas.
   image: images/publication_images/massospora_cicada.jpg
   tags:
     - Massospora
@@ -43,6 +46,7 @@
     - Zoopagomycota
     - Entomophthomycotina
 - id: pmid:36036588
+  title: Metagenome-Assembled Genomes of Bacteria Associated with <i>Massospora cicadina</i> Fungal Plugs from Infected Brood VIII Periodical Cicadas.
   image: images/publication_images/massospora_cicada.jpg
   tags:
     - Massospora
