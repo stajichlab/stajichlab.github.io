@@ -63,13 +63,6 @@
     - Genome evolution
     - ploidy
     - phylogenomics
-- id: doi:10.21203/rs.3.rs-1964919/v1
-  image: images/publication_images/GWSS_image1.jpg
-  tags:
-    - GWSS
-    - resistance
-    - Glassy-winged Sharpshooter
-    - Genomics
 - id: pmid:36012777
   title: The Early Terrestrial Fungal Lineage of <i>Conidiobolus</i> - Transition from Saprotroph to Parasitic Lifestyle
   image: images/publication_images/conidiobolus.jpg
