@@ -1,6 +1,7 @@
 ---
 name: Talieh Ostovar
 title: Talieh Ostovar
+description: Evolutionary Biology Graduate Student (SDSU-UCR)
 search:
   - T. Ostovar
 role: phd

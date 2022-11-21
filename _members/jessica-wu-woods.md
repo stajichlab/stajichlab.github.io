@@ -1,6 +1,7 @@
 ---
 name: Jessica Wu-Woods
 title: Jessica Wu-Woods
+description: Microbiology Graduate Student
 search:
   - J. Wu-Woods
   - J Wu-Woods

@@ -1,6 +1,7 @@
 ---
 name: Tania Kurbessoian
 title: Tania Kurbessoian
+description: Microbiology Graduate Student
 search:
   - T. Kurbessoian
   - T Kurbessoian
