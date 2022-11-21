@@ -1,4 +1,5 @@
 ---
+name: Jessica Wu-Woods
 title: Jessica Wu-Woods
 search:
   - J. Wu-Woods

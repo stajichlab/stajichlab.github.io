@@ -1,4 +1,5 @@
 ---
+name: Sadikshya Sharma
 title: Sadikshya Sharma
 role: staff
 group: current

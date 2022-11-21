@@ -1,4 +1,5 @@
 ---
+name: Julia Adams
 title: Julia Adams
 search:
   - J. Adams
