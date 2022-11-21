@@ -1,4 +1,5 @@
 ---
+name: Jinfeng Chen
 title: Jinfeng Chen
 role: postdoc
 group: alum

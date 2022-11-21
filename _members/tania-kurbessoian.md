@@ -1,4 +1,5 @@
 ---
+name: Tania Kurbessoian
 title: Tania Kurbessoian
 search:
   - T. Kurbessoian

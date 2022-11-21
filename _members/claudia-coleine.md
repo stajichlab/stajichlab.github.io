@@ -1,4 +1,5 @@
 ---
+name: Claudia Coleine
 title: Claudia Coleine
 search:
   - C. Coleine

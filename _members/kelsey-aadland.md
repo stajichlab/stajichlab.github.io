@@ -1,4 +1,5 @@
 ---
+name: Kelsey Aadland
 title: Kelsey Aadland
 search:
   - K. Aadland

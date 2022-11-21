@@ -1,4 +1,5 @@
 ---
+name: Cassandra L. Ettinger
 title: Cassandra L. Ettinger
 search:
   - Cassandra L Ettinger

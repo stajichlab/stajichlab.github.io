@@ -1,4 +1,5 @@
 ---
+name: Jason Stajich
 title: Jason E. Stajich
 search:
   - J.E. Stajich
