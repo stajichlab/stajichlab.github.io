@@ -55,9 +55,6 @@ These are past lab members who have moved on in their careers.
   include gallery.html
   style="square"
 
-  image1="/images/lab_photo/Tios_Tacos_2010.jpg"
-  tooltip1="2010"
-
   image2="/images/lab_photo/LabGroup_2010b.jpg"
   tooltip2="2010"
 
