@@ -1,7 +1,7 @@
 ---
 title: Lotus A Lofgren
 name: Lotus Lofgren
-description: former Postdoctoral Fellow
+description: Postdoctoral Fellow
 search:
   - L. Lofgren
   - L Lofgren

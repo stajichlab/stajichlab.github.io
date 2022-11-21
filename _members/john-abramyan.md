@@ -1,7 +1,7 @@
 ---
 title: John Abramyan
 name: John Abramyan
-description: former Postdoctoral Fellow
+description: Postdoctoral Fellow
 role: postdoc
 group: alum
 image: images/members/john-abramyan.jpg
