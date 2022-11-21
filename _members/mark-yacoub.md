@@ -1,6 +1,7 @@
 ---
 name: Mark Yacoub
 title: Mark Yacoub
+description: Microbiology Graduate Student
 search:
   - M. Yacoub
   - M Yacoub
