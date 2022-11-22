@@ -1,5 +1,7 @@
 ---
+name: Claudia Coleine
 title: Claudia Coleine
+description: Marie Curie Postdoctoral Fellow 
 search:
   - C. Coleine
 role: postdoc

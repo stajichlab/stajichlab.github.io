@@ -1,4 +1,44 @@
+- id: pmid:36152775
+  image: images/publication_images/Teixeira_FGB_2022.jpg
+  title: Single nucleotide polymorphisms and chromosomal copy number variation may impact the <i>Sporothrix brasiliensis</i> antifungal susceptibility and sporotrichosis clinical outcomes.
+  tags:
+    - Sporothrix
+    - resistance
+    - antifungal
+    - azole
+    - CNV
+- id: pmid:36179219
+  image: images/publication_images/case_futurefungi.jpg
+  tags:
+    - Review
+    - CIFAR
+    - Future Of Fungi
+    - BWF
+- id: pmid:36179670
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9567272/bin/fx1.jpg
+  tags:
+    - mycobiome
+    - cancer
+    - metagenomics
+- id: pmid:36197945
+  image: https://pubs.acs.org/cms/10.1021/acschembio.2c00456/asset/images/medium/cb2c00456_0006.gif
+  title: Manipulation of the Global Regulator <i>mcrA</i> Upregulates Secondary Metabolite Production in <i>Aspergillus wentii</i> Using CRISPR-Cas9 with In Vitro Assembled Ribonucleoproteins
+  tags:
+    - Aspergillus
+    - Secondary Metabolism
+    - CRISPR
+    - BGC
+    - mcrA
+- id: pmid:36273137
+  image: images/publication_images/GWSS_image1.jpg
+  tags:
+    - GWSS
+    - resistance
+    - Glassy-winged Sharpshooter
+    - Genomics
+    - RNA-seq
 - id: pmid:36036589
+  title: An Improved 1.5-Gigabase Draft Assembly of <i>Massospora cicadina</i> (Zoopagomycota), an Obligate Fungal Parasite of 13- and 17-Year Cicadas.
   image: images/publication_images/massospora_cicada.jpg
   tags:
     - Massospora
@@ -6,6 +46,7 @@
     - Zoopagomycota
     - Entomophthomycotina
 - id: pmid:36036588
+  title: Metagenome-Assembled Genomes of Bacteria Associated with <i>Massospora cicadina</i> Fungal Plugs from Infected Brood VIII Periodical Cicadas.
   image: images/publication_images/massospora_cicada.jpg
   tags:
     - Massospora
@@ -26,13 +67,6 @@
     - Genome evolution
     - ploidy
     - phylogenomics
-- id: doi:10.21203/rs.3.rs-1964919/v1
-  image: images/publication_images/GWSS_image1.jpg
-  tags:
-    - GWSS
-    - resistance
-    - Glassy-winged Sharpshooter
-    - Genomics
 - id: pmid:36012777
   title: The Early Terrestrial Fungal Lineage of <i>Conidiobolus</i> - Transition from Saprotroph to Parasitic Lifestyle
   image: images/publication_images/conidiobolus.jpg

@@ -1,5 +1,7 @@
 ---
+name: Kelsey Aadland
 title: Kelsey Aadland
+description: Postdoctoral Fellow
 search:
   - K. Aadland
 role: postdoc

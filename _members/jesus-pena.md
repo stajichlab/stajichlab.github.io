@@ -1,5 +1,7 @@
 ---
 title: Jesús Peña
+name: Jesús Peña
+description: Microbiology Graduate student
 search:
   - J. Peña
   - J Peña

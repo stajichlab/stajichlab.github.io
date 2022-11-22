@@ -1,5 +1,7 @@
 ---
+name: Xinzhan Liu
 title: Xinzhan Liu
+description: Sabbatical Visitor
 role: visitor
 group: current
 image: images/members/xinzhan-liu.jpg

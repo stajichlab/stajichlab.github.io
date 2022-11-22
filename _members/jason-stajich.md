@@ -1,5 +1,7 @@
 ---
+name: Jason Stajich
 title: Jason E. Stajich
+description: Professor
 search:
   - J.E. Stajich
   - Jason E Stajich

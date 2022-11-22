@@ -1,5 +1,7 @@
 ---
+name: Cassandra L. Ettinger
 title: Cassandra L. Ettinger
+description: NSF Ocean Sciences Postdoctoral Fellow
 search:
   - Cassandra L Ettinger
   - Cassandra Ettinger
@@ -9,7 +11,7 @@ role: postdoc
 group: current
 image: images/members/cassie.png
 links:
-  website: https://casett.github.io/
+  link: https://casett.github.io/
   github: casett
   twitter: casettron
 ---

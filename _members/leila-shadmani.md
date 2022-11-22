@@ -1,5 +1,6 @@
 ---
-title: Leila Shadmani
+name: Leila Shadmani
+description: Graduate Student
 search:
   - L. Shadmani
   - L Shadmani

@@ -1,5 +1,7 @@
 ---
+name: Tania Kurbessoian
 title: Tania Kurbessoian
+description: Microbiology Graduate Student
 search:
   - T. Kurbessoian
   - T Kurbessoian
@@ -7,11 +9,11 @@ role: phd
 group: current
 image: images/members/Kurbessoian.jpg
 links:
-  website: https://tania-k.github.io
+  link: https://tania-k.github.io
   email: tkurb001@ucr.edu
   google-scholar: KZcoGKkAAAAJ
   github: tania-k
-  twitter: BYUnleashed
+  twitter: TaniaKurbs
 redirect_from:
   - /home/people/tania-kurbessoian
   - /home/people/tania

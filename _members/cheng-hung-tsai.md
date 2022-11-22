@@ -1,5 +1,6 @@
 ---
-title: Cheng-Hung Tsai
+name: Cheng-Hung Tsai
+description: Graduate Student
 search:
   - C-H. Tsai
   - CH Tsai

@@ -1,5 +1,7 @@
 ---
+name: Julia Adams
 title: Julia Adams
+description: Plant Biology Graduate Student
 search:
   - J. Adams
   - J Adams
