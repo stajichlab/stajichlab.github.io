@@ -43,4 +43,3 @@ Our lab welcomes individuals from diverse backgrounds regardless of race, ethini
   text=text
 %}
 
-<a rel="me" href="https://genomic.social/@hyphaltip">Mastodon</a>
