@@ -1,3 +1,26 @@
+- id: doi:10.1101/2022.12.02.518905
+  tags: 
+    - virus
+    - antarctica
+- id: doi:10.1101/2022.11.21.517404
+  tags:
+    - herbivore
+    - microbiome
+    - anaerobic gut fungi
+- id: pmid:36404926
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9668684/bin/fx1.jpg
+  tags:
+    - kakapo
+    - population genomics
+    - outbreak
+    - avian
+- id: pmid:36395320
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9714929/bin/pbio.3001890.g004.jpg
+  title: The pan-genome of <i>Aspergillus fumigatus</i> provides a high-resolution view of its population structure revealing high levels of lineage-specific diversity driven by recombination
+  tags: 
+    - Aspergillus
+    - population genomics
+    - pangenome
 - id: pmid:36152775
   image: images/publication_images/Teixeira_FGB_2022.jpg
   title: Single nucleotide polymorphisms and chromosomal copy number variation may impact the <i>Sporothrix brasiliensis</i> antifungal susceptibility and sporotrichosis clinical outcomes.
