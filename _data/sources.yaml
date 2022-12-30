@@ -5,6 +5,8 @@
     - taxonomy
     - Space Fungi
     - Ascomycota
+    - genome
+    - nanopore
 - id: doi:10.1101/2022.12.02.518905
   tags:
     - virus
