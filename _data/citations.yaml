@@ -113,6 +113,21 @@
   - microbiome
   - anaerobic gut fungi
   _cache: 4beea7e574e2cd6ae69611ad78a7b23fd7c29af744525bfeb1329749c325d165
+- id: pmid:36395320
+  title: The pan-genome of Aspergillus fumigatus provides a high-resolution view of
+    its population structure revealing high levels of lineage-specific diversity driven
+    by recombination.
+  authors:
+  - Lotus A Lofgren
+  - Brandon S Ross
+  - Robert A Cramer
+  - Jason E Stajich
+  publisher: PLoS biology
+  date: '2022-11-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36395320
+  tags:
+  - Afumigatus
+  _cache: fe5b2f55aaa7b02cd49cfbd187714108bb1b5a62194e88691ff5fa85d01137fb
 - id: doi:10.1016/j.isci.2022.105470
   title: "A single fungal strain was the unexpected cause of a mass aspergillosis\
     \ outbreak in the world\u2019s largest and only flightless parrot"
