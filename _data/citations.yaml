@@ -1,6 +1,160 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2022.12.14.520320
+  title: Exploring Viral Communities Associated With Terrestrial Cyanobacteria Metagenomes
+  authors:
+  - Cassandra L. Ettinger
+  - Sudipto R. Paul
+  - Neptali Flores
+  - Ryan D. Ward
+  - Nicole Pietrasiak
+  - Jason E. Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-14'
+  link: https://doi.org/grj82b
+  tags:
+  - cyanobacteria
+  - metagenome
+  - virus
+  _cache: ce652e15a45aa7db7a95d4c47874c50af8935e6dcd17a540cfc8ac1bf871f805
+- id: doi:10.3390/jof9010031
+  title: "Description and Genome Characterization of Three Novel Fungal Strains Isolated\
+    \ from Mars 2020 Mission-Associated Spacecraft Assembly Facility Surfaces\u2014\
+    Recommendations for Two New Genera and One Species"
+  authors:
+  - Atul Munish Chander
+  - Marcus de Melo Teixeira
+  - Nitin K. Singh
+  - Michael P. Williams
+  - Anna C. Simpson
+  - Namita Damle
+  - Ceth W. Parker
+  - Jason E. Stajich
+  - Christopher E. Mason
+  - Tamas Torok
+  - Kasthuri Venkateswaran
+  publisher: Journal of Fungi
+  date: '2022-12-23'
+  link: https://doi.org/grj8z6
+  tags:
+  - space fungi
+  - ISS
+  - taxonomy
+  - Space Fungi
+  - Ascomycota
+  - genome
+  - nanopore
+  _cache: 851e2aa228e2a60913cef95574af24ff155bfbe7217b56dc11ac58eafc206398
+- id: doi:10.1101/2022.12.02.518905
+  title: "Highly diverse and unknown viruses may enhance Antarctic endoliths\u2019\
+    \ adaptability"
+  authors:
+  - Cassandra L. Ettinger
+  - Morgan Saunders
+  - Laura Selbmann
+  - Manuel Delgado-Baquerizo
+  - Claudio Donati
+  - Davide Albanese
+  - Simon Roux
+  - Susannah Tringe
+  - Christa Pennacchio
+  - Tijana G. del Rio
+  - Jason E. Stajich
+  - Claudia Coleine
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-03'
+  link: https://doi.org/grgd5g
+  tags:
+  - virus
+  - antarctica
+  - metagenome
+  _cache: 6280028b2be2ee82715052762891e825ecf741fa7f94e636b68eac4bef940d30
+- id: doi:10.1101/2022.11.21.517404
+  title: Patterns and determinants of the global herbivorous mycobiome
+  authors:
+  - Casey H. Meili
+  - Adrienne L. Jones
+  - Alex X. Arreola
+  - Jeffrey Habel
+  - Carrie J. Pratt
+  - Radwa A. Hanafy
+  - Yan Wang
+  - Aymen S. Yassin
+  - Moustafa A. TagElDein
+  - Christina D. Moon
+  - Peter H. Janssen
+  - Mitesh Shrestha
+  - Prajwal Rajbhandari
+  - Magdalena Nagler
+  - Julia M. Vinzelj
+  - Sabine M. Podmirseg
+  - Jason E. Stajich
+  - Arthur L. Goetsch
+  - Jerry Hayes
+  - Diana Young
+  - Katerina Fliegerova
+  - Diego Javier Grilli
+  - "Roman Vodi\u010Dka"
+  - Giuseppe Moniello
+  - Silvana Mattiello
+  - Mona T. Kashef
+  - Yosra I. Nagy
+  - Joan A. Edwards
+  - Sumit Singh Dagar
+  - Andrew P. Foote
+  - Noha H. Youssef
+  - Mostafa S. Elshahed
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-11-21'
+  link: https://doi.org/grgd5h
+  tags:
+  - herbivore
+  - microbiome
+  - anaerobic gut fungi
+  _cache: 4beea7e574e2cd6ae69611ad78a7b23fd7c29af744525bfeb1329749c325d165
+- id: doi:10.1016/j.isci.2022.105470
+  title: "A single fungal strain was the unexpected cause of a mass aspergillosis\
+    \ outbreak in the world\u2019s largest and only flightless parrot"
+  authors:
+  - David J. Winter
+  - Bevan S. Weir
+  - Travis Glare
+  - Johanna Rhodes
+  - John Perrott
+  - Matthew C. Fisher
+  - Jason E. Stajich
+  - Andrew Digby
+  - Peter K. Dearden
+  - Murray P. Cox
+  publisher: iScience
+  date: '2022-12-01'
+  link: https://doi.org/grj82m
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9668684/bin/fx1.jpg
+  tags:
+  - kakapo
+  - population genomics
+  - outbreak
+  - avian
+  _cache: 833dd7ff01cb5171356a45c66711e6906f154989c5c8627fc0f225324d979bbb
+- id: doi:10.1371/journal.pbio.3001890
+  title: The pan-genome of <i>Aspergillus fumigatus</i> provides a high-resolution
+    view of its population structure revealing high levels of lineage-specific diversity
+    driven by recombination
+  authors:
+  - Lotus A. Lofgren
+  - Brandon S. Ross
+  - Robert A. Cramer
+  - Jason E. Stajich
+  publisher: PLOS Biology
+  date: '2022-11-17'
+  link: https://doi.org/grj82p
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9714929/bin/pbio.3001890.g004.jpg
+  tags:
+  - Aspergillus
+  - population genomics
+  - pangenome
+  _cache: 8397317cb9d575376f18ec016dd83f405aa33e12aa2d066cb176a2dd6d41024f
 - id: pmid:36152775
   title: Single nucleotide polymorphisms and chromosomal copy number variation may
     impact the <i>Sporothrix brasiliensis</i> antifungal susceptibility and sporotrichosis
