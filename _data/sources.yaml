@@ -1,3 +1,8 @@
+- id: doi:10.1101/2022.12.14.520320
+  tags:
+    - cyanobacteria
+    - metagenome
+    - virus
 - id: doi:10.3390/jof9010031
   tags:
     - space fungi
@@ -11,6 +16,7 @@
   tags:
     - virus
     - antarctica
+    - metagenome
 - id: doi:10.1101/2022.11.21.517404
   tags:
     - herbivore
