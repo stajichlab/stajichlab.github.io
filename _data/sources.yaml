@@ -1,5 +1,5 @@
 - id: pmid:36617272
-  image: images/reynolds2023.png
+  image: images/publication_images/reynolds2023.png
   tags: 
     - kickxellomycotina
     - genomes
@@ -33,9 +33,6 @@
     - herbivore
     - microbiome
     - anaerobic gut fungi
-- id: pmid:36395320
-  tags:
-    - Afumigatus
 - id: doi:10.1016/j.isci.2022.105470
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9668684/bin/fx1.jpg
   tags:
