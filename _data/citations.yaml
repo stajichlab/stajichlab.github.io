@@ -21,13 +21,13 @@
   publisher: Genome biology and evolution
   date: '2023-01-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36617272
-  image: images/reynolds2023.png
+  image: images/publication_images/reynolds2023.png
   tags:
   - kickxellomycotina
   - genomes
   - zygolife
   - mycoparasite
-  _cache: 731280ec2a9e0e2bf20faf453ff690465d2dbe49c75882f293894d335aa7a49d
+  _cache: d40eaf3d05538e6dc49250c3759e381194d6c1597445cb2368efeed7f758b6b2
 - id: doi:10.1101/2022.12.14.520320
   title: Exploring Viral Communities Associated With Terrestrial Cyanobacteria Metagenomes
   authors:
@@ -144,21 +144,6 @@
   - microbiome
   - anaerobic gut fungi
   _cache: 0e179ffcd7f6fca06f7f3c48b755dc3cdf63d6a08b2bfd1a8d491809aeece1f7
-- id: pmid:36395320
-  title: The pan-genome of Aspergillus fumigatus provides a high-resolution view of
-    its population structure revealing high levels of lineage-specific diversity driven
-    by recombination.
-  authors:
-  - Lotus A Lofgren
-  - Brandon S Ross
-  - Robert A Cramer
-  - Jason E Stajich
-  publisher: PLoS biology
-  date: '2022-11-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36395320
-  tags:
-  - Afumigatus
-  _cache: 4f7ffaeecb98988bbcdc6bc5a20017682ba5750db6819319471171730f88f23c
 - id: doi:10.1016/j.isci.2022.105470
   title: "A single fungal strain was the unexpected cause of a mass aspergillosis\
     \ outbreak in the world\u2019s largest and only flightless parrot"
