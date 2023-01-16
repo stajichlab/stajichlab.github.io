@@ -1,9 +1,18 @@
+- id: pmid:36617272
+  image: images/reynolds2023.png
+  tags: 
+    - kickxellomycotina
+    - genomes
+    - zygolife
+    - mycoparasite
 - id: doi:10.1101/2022.12.14.520320
+  image: https://journals.asm.org/cms/10.1128/MRA.00258-21/asset/a8c321ec-3a0c-4043-bb6f-c507f04481d2/assets/images/large/mra.00258-21-f001.jpg
   tags:
     - cyanobacteria
     - metagenome
     - virus
 - id: doi:10.3390/jof9010031
+  image: https://pub.mdpi-res.com/jof/jof-09-00031/article_deploy/html/images/jof-09-00031-g001.png
   tags:
     - space fungi
     - ISS
@@ -13,11 +22,13 @@
     - genome
     - nanopore
 - id: doi:10.1101/2022.12.02.518905
+  image: images/publication_images/Ettinger2023a.jpg
   tags:
     - virus
     - antarctica
     - metagenome
 - id: doi:10.1101/2022.11.21.517404
+  image: images/publication_images/Meili2023.jpg
   tags:
     - herbivore
     - microbiome
