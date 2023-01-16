@@ -15,9 +15,6 @@ yaml.Dumper.ignore_aliases = lambda *args: True
 # current working directory
 directory = os.path.dirname(os.path.realpath(__file__))
 
-# fallback year, month, day
-default_date = [1900, 1, 1]
-
 # allow printing ANSI color codes on Windows
 os.system("")
 
@@ -64,7 +61,7 @@ def date_part(citation, index):
     try:
         return citation.get("issued").get("date-parts")[0][index]
     except Exception:
-        return default_date[index]
+        return ""
 
 
 # format date string with leading 0's
@@ -72,7 +69,7 @@ def clean_date(date):
     try:
         return datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%m-%d")
     except Exception:
-        return "-".join(str(part) for part in default_date)
+        return ""
 
 
 # read data from yaml file
@@ -87,8 +84,8 @@ def load_data(filename, type_check=True):
     # try to open file
     try:
         file = open(path, encoding="utf8")
-    except Exception as message:
-        raise Exception(message or f"Can't open {filename}")
+    except Exception as e:
+        raise Exception(e or f"Can't open {filename}")
 
     # try to parse as yaml
     try:
@@ -149,8 +146,8 @@ def cite_with_manubot(source):
     try:
         commands = ["manubot", "cite", id, "--log-level=WARNING"]
         output = subprocess.Popen(commands, stdout=subprocess.PIPE).communicate()
-    except Exception as error:
-        log(error, 3, "gray")
+    except Exception as e:
+        log(e, 3, "gray")
         raise Exception("Manubot could not generate citation")
 
     # parse results as json
@@ -179,13 +176,17 @@ def cite_with_manubot(source):
     container = manubot.get("container-title", "")
     collection = manubot.get("collection-title", "")
     publisher = manubot.get("publisher", "")
-    citation["publisher"] = container or publisher or collection
+    citation["publisher"] = container or publisher or collection or ""
 
     # date
     year = date_part(manubot, 0)
-    month = date_part(manubot, 1)
-    day = date_part(manubot, 2)
-    citation["date"] = f"{year}-{month}-{day}"
+    if year:
+        month = date_part(manubot, 1) or "1"
+        day = date_part(manubot, 2) or "1"
+        citation["date"] = clean_date(f"{year}-{month}-{day}")
+    else:
+        citation["date"] = ""
+
 
     # link
     citation["link"] = manubot.get("URL", "")
