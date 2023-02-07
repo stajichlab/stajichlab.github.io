@@ -1,12 +1,40 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: biorxiv:10.1101/2023.01.14.524055
-  title: '| bioRxiv'
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.biorxiv.org/node/
+- id: pmid:36744882
+  title: Comparative Genomic Analyses of Cellulolytic Machinery Reveal Two Nutritional
+    Strategies of Marine Labyrinthulomycetes Protists.
+  authors:
+  - Xiuping Liu
+  - Lu Lyu
+  - Jiaqian Li
+  - Biswarup Sen
+  - Mohan Bai
+  - Jason E Stajich
+  - Jackie L Collier
+  - Guangyi Wang
+  publisher: Microbiology spectrum
+  date: '2023-02-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36744882
+  image: http://syst.bio.konan-u.ac.jp/labybase/images/botryochytrium_radiatum_dic_250.jpg
+  tags:
+  - Labyrinthulomycetes
+  _cache: e9b23bba6b64134fc284cbd66777286a8f4ca9c89ad276f83c5bd53688812d78
+- id: doi:10.1101/2023.01.14.524055
+  title: Genomic resources enable insight into the developmental transcriptome of
+    the blastoclad fungus,<i>Coelomomyces lativittatus</i>, an obligate parasite of
+    mosquitoes and microcrustaceans
+  authors:
+  - Cassandra L. Ettinger
+  - Talieh Ostovar
+  - Mark Yacoub
+  - Steven Ahrendt
+  - Robert H. Hice
+  - Brian A. Federici
+  - Jason E. Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-17'
+  link: https://doi.org/grqwp9
   image: https://www.biorxiv.org/content/biorxiv/early/2023/01/17/2023.01.14.524055/F1.large.jpg
   tags:
   - chytrid
@@ -15,7 +43,7 @@
   - mosquito pathogen
   - RNA-seq
   - transcriptomics
-  _cache: e1e8633d0e485843b709ee7d98d573a6cc3f42c1be8407e03bce432e8bcbe821
+  _cache: f3caf840614fe690a78839d1b4e761b5555207ed79a1175d124139af5a70e59b
 - id: pmid:36617272
   title: 'Mycoparasites, gut dwellers, and saprotrophs: Phylogenomic reconstructions
     and comparative analyses of Kickxellomycotina fungi.'
