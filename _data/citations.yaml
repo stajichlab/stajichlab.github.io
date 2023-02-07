@@ -16,10 +16,10 @@
   publisher: Microbiology spectrum
   date: '2023-02-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36744882
-  image: http://syst.bio.konan-u.ac.jp/labybase/images/botryochytrium_radiatum_dic_250.jpg
+  image: images/publication_images/botryochytrium_radiatum_dic_250.jpg
   tags:
   - Labyrinthulomycetes
-  _cache: e9b23bba6b64134fc284cbd66777286a8f4ca9c89ad276f83c5bd53688812d78
+  _cache: 7d5ff6343d313a1d4471878f4b21fabd2487bb700d0f473d6b7b89fb6e197fc1
 - id: doi:10.1101/2023.01.14.524055
   title: Genomic resources enable insight into the developmental transcriptome of
     the blastoclad fungus,<i>Coelomomyces lativittatus</i>, an obligate parasite of
