@@ -1,5 +1,7 @@
 ---
 title: Yizhou Wang
+name: Yizhou Wang
+description: Graduate Student
 search:
   - Yizhou Wang
 role: phd

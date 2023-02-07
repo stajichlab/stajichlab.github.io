@@ -1,5 +1,7 @@
 ---
 title: Derreck Carter-House
+name: Derreck Carter-House
+description: Gradute Student
 search:
   - D. Carter-House
   - D Carter-House

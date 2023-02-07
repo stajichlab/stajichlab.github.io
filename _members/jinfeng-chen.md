@@ -1,6 +1,7 @@
 ---
 name: Jinfeng Chen
 title: Jinfeng Chen
+description: Postdoctoral Fellow
 role: postdoc
 group: alum
 image: images/members/jinfeng-chen.jpg

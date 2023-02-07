@@ -1,5 +1,7 @@
 ---
 title: Ying Sun
+name: Ying Sun
+description: Postdoctoral Fellow
 search:
   - Y. Sun
   - Y Sun

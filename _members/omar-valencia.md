@@ -1,5 +1,7 @@
 ---
 title: Omar Valencia
+name: Omar Valencia
+description: Jr Specialist
 pronouns: any
 search:
   - O. Valencia

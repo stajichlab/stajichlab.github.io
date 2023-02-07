@@ -1,6 +1,7 @@
 ---
 name: Leila Shadmani
-description: Graduate Student
+title: Leila Shadmani
+description: Microbiology Graduate Student
 search:
   - L. Shadmani
   - L Shadmani

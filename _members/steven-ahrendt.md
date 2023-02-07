@@ -1,5 +1,7 @@
 ---
 title: Steven Ahrendt
+name: Steven Ahrendt
+description: Graduate Student
 search:
   - S. Ahrendt-Pham
 role: phd

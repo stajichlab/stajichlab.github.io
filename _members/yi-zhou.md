@@ -1,5 +1,7 @@
 ---
 title: Yi Zhou
+name: Yi Zhou
+description: Masters Student
 role: phd
 group: alum
 image: images/members/yi-zhou.jpg

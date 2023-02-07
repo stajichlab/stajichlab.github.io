@@ -6,7 +6,7 @@ search:
   - T. Kurbessoian
   - T Kurbessoian
 role: phd
-group: current
+group: alum
 image: images/members/Kurbessoian.jpg
 links:
   link: https://tania-k.github.io

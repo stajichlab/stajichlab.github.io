@@ -1,5 +1,7 @@
 ---
 title: Sawyer Masonjones
+name: Sawyer Masonjones
+description: Graduate Student
 search:
   - S. Masonjones
   - S Masonjones

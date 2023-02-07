@@ -1,5 +1,7 @@
 ---
 title: Yan Wang
+name: Yan Wang
+description: Postdoctoral Fellow
 search:
   - Y. Wang
   - Yan Wang

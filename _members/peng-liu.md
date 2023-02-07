@@ -1,5 +1,7 @@
 ---
 title: Peng Liu
+name: Peng Liu
+description: Postdoctoral Fellow
 role: postdoc
 group: alum
 image: images/members/peng-liu.jpg

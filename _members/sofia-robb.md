@@ -1,6 +1,8 @@
 ---
 title: Sofia Robb
+name: Sofia Robb
 role: postdoc
+description: Postdoctoral Fellow
 group: alum
 image: images/members/sofia-robb.jpg
 links:

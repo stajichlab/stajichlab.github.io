@@ -1,6 +1,6 @@
 ---
 name: Cheng-Hung Tsai
-description: Graduate Student
+description: GGB Graduate Student
 search:
   - C-H. Tsai
   - CH Tsai

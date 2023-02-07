@@ -1,5 +1,7 @@
 ---
 title: Brad Cavinder
+name: Brad Cavinder
+description: Postdoctoral Fellow
 role: postdoc
 group: alum
 image: images/members/brad-cavinder.jpg

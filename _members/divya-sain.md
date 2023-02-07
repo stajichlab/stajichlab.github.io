@@ -1,5 +1,7 @@
 ---
 title: Divya Sain
+name: Divya Sain
+description: Gradute Student
 search:
   - D. Sain
 role: phd

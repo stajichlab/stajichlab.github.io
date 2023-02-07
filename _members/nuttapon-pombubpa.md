@@ -1,5 +1,7 @@
 ---
 title: Nuttapon Pombubpa
+name: Nuttapon Pombubpa
+description: Gradute Student
 search:
   - N. Pombubpa
   - Nat Pombubpa
