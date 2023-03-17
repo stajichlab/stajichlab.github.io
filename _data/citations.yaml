@@ -22,8 +22,8 @@
   _cache: 7d5ff6343d313a1d4471878f4b21fabd2487bb700d0f473d6b7b89fb6e197fc1
 - id: doi:10.1101/2023.01.14.524055
   title: Genomic resources enable insight into the developmental transcriptome of
-    the blastoclad fungus,<i>Coelomomyces lativittatus</i>, an obligate parasite of
-    mosquitoes and microcrustaceans
+    the blastoclad fungus, <i>Coelomomyces lativittatus</i> , an obligate parasite
+    of mosquitoes and microcrustaceans
   authors:
   - Cassandra L. Ettinger
   - Talieh Ostovar
@@ -43,7 +43,7 @@
   - mosquito pathogen
   - RNA-seq
   - transcriptomics
-  _cache: f3caf840614fe690a78839d1b4e761b5555207ed79a1175d124139af5a70e59b
+  _cache: 2e489a4064802af9ed1e751d29471fe67e96caab7fc7ffb732c5eb7d8dd88d81
 - id: pmid:36617272
   title: 'Mycoparasites, gut dwellers, and saprotrophs: Phylogenomic reconstructions
     and comparative analyses of Kickxellomycotina fungi.'
