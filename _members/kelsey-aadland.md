@@ -5,7 +5,7 @@ description: Postdoctoral Fellow
 search:
   - K. Aadland
 role: postdoc
-group: current
+group: alum
 image: images/members/kelsey-aadland.png
 links:
   email: kelsey.aadland@ucr.edu
