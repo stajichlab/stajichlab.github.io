@@ -22,17 +22,16 @@
     - microbiome
     - mycobiome
 - id: pmid:36827202
-  title: Phylogenomic analysis of the <i>Neocallimastigomycota</i>: proposal of <i>Caecomycetaceae</i> fam. nov., <i>Piromycetaceae</i> fam. nov., and emended description of the families <i>Neocallimastigaceae</i> and <i>Anaeromycetaceae</i>
   tags: 
     - AGF
     - Rumen fungi
-    -  Neocallimastigomycota
+    - Neocallimastigomycota
 - id: pmid:36744882
   image: images/publication_images/botryochytrium_radiatum_dic_250.jpg
   tags: 
     - Labyrinthulomycetes
 - id: doi:10.1101/2023.01.14.524055
-  title: Genomic resources enable insight into the developmental transcriptome of the blastoclad fungus, <i>Coelomomyces lativittatus</i> , an obligate parasite of mosquitoes and microcrustaceans
+  title: Genomic resources enable insight into the developmental transcriptome of the blastoclad fungus, <i>Coelomomyces lativittatus</i>, an obligate parasite of mosquitoes and microcrustaceans
   image: https://www.biorxiv.org/content/biorxiv/early/2023/01/17/2023.01.14.524055/F1.large.jpg
   tags:
     - chytrid
