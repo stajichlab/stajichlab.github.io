@@ -1,3 +1,32 @@
+- id: pmid:37042758
+  image: https://journals.asm.org/cms/10.1128/mra.00101-23/asset/790fde60-ef5b-4fa2-b0e8-9db4f759f784/assets/images/small/mra.00101-23-f001.jpg
+  tags: 
+    - fusarium
+    - citrus
+- id: pmid:36930540
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10079182/bin/evad046f1.jpg
+  tags:
+    - zygolife
+    - zygomycete
+    - genome
+- id: pmid:36910183
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9992537/bin/fmicb-14-1100590-g001.jpg
+  tags:
+    - citrus
+    - microbiome
+    - mycobiome
+- id: pmid:36910183
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9992537/bin/fmicb-14-1100590-g001.jpg
+  tags:
+    - citrus
+    - microbiome
+    - mycobiome
+- id: pmid:36827202
+  title: Phylogenomic analysis of the <i>Neocallimastigomycota</i>: proposal of <i>Caecomycetaceae</i> fam. nov., <i>Piromycetaceae</i> fam. nov., and emended description of the families <i>Neocallimastigaceae</i> and <i>Anaeromycetaceae</i>
+  tags: 
+    - AGF
+    - Rumen fungi
+    -  Neocallimastigomycota
 - id: pmid:36744882
   image: images/publication_images/botryochytrium_radiatum_dic_250.jpg
   tags: 
