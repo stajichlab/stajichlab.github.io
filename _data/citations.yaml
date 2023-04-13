@@ -1,6 +1,114 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmid:37042758
+  title: Genome Sequence and Assembly of 18 Fusarium Isolates from Florida Citrus
+    under High Huanglongbing Disease Pressure and California Citrus under Low Huanglongbing
+    Disease Pressure.
+  authors:
+  - Tania Kurbessoian
+  - Gretchen Heimlich-Villalta
+  - Nichole Ginnan
+  - Flavia Campos Vieira
+  - Philippe E Rolshausen
+  - M Caroline Roper
+  - Jason E Stajich
+  publisher: Microbiology resource announcements
+  date: '2023-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37042758
+  image: https://journals.asm.org/cms/10.1128/mra.00101-23/asset/790fde60-ef5b-4fa2-b0e8-9db4f759f784/assets/images/small/mra.00101-23-f001.jpg
+  tags:
+  - fusarium
+  - citrus
+  _cache: 8c824968fc4dbebd079bdd77a7013b90102009a0f4679bdedf032b2448265ea1
+- id: pmid:36930540
+  title: Divergent Evolution of Early Terrestrial Fungi Reveals the Evolution of Mucormycosis
+    Pathogenicity Factors.
+  authors:
+  - Yan Wang
+  - Ying Chang
+  - "Jericho Orta\xF1ez"
+  - "Jes\xFAs F Pe\xF1a"
+  - Derreck Carter-House
+  - Nicole K Reynolds
+  - Matthew E Smith
+  - Gerald Benny
+  - Stephen J Mondo
+  - Asaf Salamov
+  - Anna Lipzen
+  - Jasmyn Pangilinan
+  - Jie Guo
+  - Kurt LaButti
+  - William Andreopolous
+  - Andrew Tritt
+  - Keykhosrow Keymanesh
+  - Mi Yan
+  - Kerrie Barry
+  - Igor V Grigoriev
+  - Joseph W Spatafora
+  - Jason E Stajich
+  publisher: Genome biology and evolution
+  date: '2023-04-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36930540
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10079182/bin/evad046f1.jpg
+  tags:
+  - zygolife
+  - zygomycete
+  - genome
+  _cache: 8c393731f589d214ad4868477399bee5b139556f52117d1e6183fcd773c8108e
+- id: pmid:36910183
+  title: Microbiome diversity, composition and assembly in a California citrus orchard.
+  authors:
+  - MengYuan Xi
+  - Elizabeth Deyett
+  - Jason E Stajich
+  - Ashraf El-Kereamy
+  - M Caroline Roper
+  - Philippe E Rolshausen
+  publisher: Frontiers in microbiology
+  date: '2023-02-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36910183
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9992537/bin/fmicb-14-1100590-g001.jpg
+  tags:
+  - citrus
+  - microbiome
+  - mycobiome
+  _cache: 17765a0b8bfcf27615923177362119773d7e4af33d015437076d64a9567ef0a1
+- id: pmid:36910183
+  title: Microbiome diversity, composition and assembly in a California citrus orchard.
+  authors:
+  - MengYuan Xi
+  - Elizabeth Deyett
+  - Jason E Stajich
+  - Ashraf El-Kereamy
+  - M Caroline Roper
+  - Philippe E Rolshausen
+  publisher: Frontiers in microbiology
+  date: '2023-02-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36910183
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9992537/bin/fmicb-14-1100590-g001.jpg
+  tags:
+  - citrus
+  - microbiome
+  - mycobiome
+  _cache: 17765a0b8bfcf27615923177362119773d7e4af33d015437076d64a9567ef0a1
+- id: pmid:36827202
+  title: 'Phylogenomic analysis of the '
+  authors:
+  - Radwa A Hanafy
+  - Yan Wang
+  - Jason E Stajich
+  - Carrie J Pratt
+  - Noha H Youssef
+  - Mostafa S Elshahed
+  publisher: International journal of systematic and evolutionary microbiology
+  date: '2023-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36827202
+  tags:
+  - AGF
+  - Rumen fungi
+  - Neocallimastigomycota
+  _cache: 9f95d347c19f34beed412227fdc79f34614d15b920d6ccb8f572b3ef784ea52f
 - id: pmid:36744882
   title: Comparative Genomic Analyses of Cellulolytic Machinery Reveal Two Nutritional
     Strategies of Marine Labyrinthulomycetes Protists.
@@ -22,7 +130,7 @@
   _cache: 7d5ff6343d313a1d4471878f4b21fabd2487bb700d0f473d6b7b89fb6e197fc1
 - id: doi:10.1101/2023.01.14.524055
   title: Genomic resources enable insight into the developmental transcriptome of
-    the blastoclad fungus, <i>Coelomomyces lativittatus</i> , an obligate parasite
+    the blastoclad fungus, <i>Coelomomyces lativittatus</i>, an obligate parasite
     of mosquitoes and microcrustaceans
   authors:
   - Cassandra L. Ettinger
@@ -43,7 +151,7 @@
   - mosquito pathogen
   - RNA-seq
   - transcriptomics
-  _cache: 2e489a4064802af9ed1e751d29471fe67e96caab7fc7ffb732c5eb7d8dd88d81
+  _cache: 784c4f1664bf443f8a37a71c214b3361612ce5aa96d38f0cd599557ed8a9d0e6
 - id: pmid:36617272
   title: 'Mycoparasites, gut dwellers, and saprotrophs: Phylogenomic reconstructions
     and comparative analyses of Kickxellomycotina fungi.'
