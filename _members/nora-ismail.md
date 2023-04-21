@@ -7,7 +7,7 @@ search:
   - N. Ismail
 role: phd
 group: current
-image: images/members/-xu.jpg
+image: images/members/nora-ismail.jpg
 links:
   email: nisma004@ucr.edu
 ---
