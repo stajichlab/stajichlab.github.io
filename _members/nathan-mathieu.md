@@ -1,18 +1,16 @@
 ---
-name: Mark Yacoub
-title: Mark Yacoub
-description: Microbiology Graduate Student
+name: Nathan Mathieu
+title: Nathan Mathieu
+description: GGB Graduate Student
 search:
-  - M. Yacoub
-  - M Yacoub
+  - N. Mathieu
 role: phd
 group: current
-image: images/members/markyacoub.jpg
+image: images/members/nathan-mathieu.jpg
 #website:
-email: myaco005@ucr.edu
+email: nmath020@ucr.edu
 #google-scholar:
-github: myacoub005
-twitter: kidtrid
+github: nfmathieu94
 ---
 
 Mark joined the lab in 2021 as a PhD student in the [Microbiology](http://microbiology.ucr.edu) Program after completing his BS at UC Davis. He is currently working on the amphibian pathogen _Batrachochytrium dendrobatidis_ and related chytrid fungi.
