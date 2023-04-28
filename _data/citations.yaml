@@ -1,6 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmid:37066389
+  title: Mrs4 loss of function in fungi during adaptation to the cystic fibrosis lung.
+  authors:
+  - Daniel Murante
+  - Elora G Demers
+  - Tania Kurbessoian
+  - Marina Ruzic
+  - Alix Ashare
+  - Jason E Stajich
+  - Deborah A Hogan
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2023-04-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37066389
+  tags:
+  - Candida
+  - Clavispora
+  - Cystic Fibrosis
+  _cache: 81d0236348f3cfe1d43189b87d49a359f53e5b436407e21eb8768c00f48e2322
+- id: doi:10.1101/2023.04.27.538478
+  title: Geographical Survey of the Mycobiome and Microbiome of Southern California
+    Glassy-winged Sharpshooters
+  authors:
+  - Cassandra L. Ettinger
+  - Jessica Wu-Woods
+  - Tania L. Kurbessoian
+  - Dylan J. Brown
+  - Inaiara de Souza Pacheco
+  - Beatriz G. Vindiola
+  - Linda L. Walling
+  - Peter W. Atkinson
+  - Frank J. Byrne
+  - Richard Redak
+  - Jason E. Stajich
+  publisher: bioRxiv
+  date: '2023-04-27'
+  link: https://doi.org/gr6sk9
+  tags:
+  - GWSS
+  - microbiome
+  _cache: 5d98e17c97f241234379cdbe71e468f953403377a1765315a750ac1c52faf432
 - id: pmid:37042758
   title: Genome Sequence and Assembly of 18 Fusarium Isolates from Florida Citrus
     under High Huanglongbing Disease Pressure and California Citrus under Low Huanglongbing
