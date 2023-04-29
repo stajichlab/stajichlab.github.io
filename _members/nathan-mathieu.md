@@ -13,4 +13,4 @@ email: nmath020@ucr.edu
 github: nfmathieu94
 ---
 
-Mark joined the lab in 2021 as a PhD student in the [Microbiology](http://microbiology.ucr.edu) Program after completing his BS at UC Davis. He is currently working on the amphibian pathogen _Batrachochytrium dendrobatidis_ and related chytrid fungi.
+Nathan joined the lab in 2022 as a PhD student in [GGB](http://ggb.ucr.edu) working jointly with the Stajich lab and Sue Wessler's lab on rice transposons and the mPing/Ping/Pong family.
