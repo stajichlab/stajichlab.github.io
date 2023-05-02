@@ -13,4 +13,4 @@ email: nmath020@ucr.edu
 github: nfmathieu94
 ---
 
-Nathan joined the lab in 2022 as a PhD student in [GGB](http://ggb.ucr.edu) working jointly with the Stajich lab and Sue Wessler's lab on rice transposons and the mPing/Ping/Pong family.
+Nathan joined the lab in 2022 as a PhD student in [GGB](http://ggb.ucr.edu) working jointly with the Stajich lab and Sue Wessler's lab on rice transposons and the _mPing/Ping/Pong_ family.
