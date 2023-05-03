@@ -96,42 +96,24 @@
   - zygomycete
   - genome
   _cache: 8c393731f589d214ad4868477399bee5b139556f52117d1e6183fcd773c8108e
-- id: pmid:36910183
-  title: Microbiome diversity, composition and assembly in a California citrus orchard.
+- id: doi:10.3389/fmicb.2023.1100590
+  title: Microbiome diversity, composition and assembly in a California citrus orchard
   authors:
   - MengYuan Xi
   - Elizabeth Deyett
-  - Jason E Stajich
+  - Jason E. Stajich
   - Ashraf El-Kereamy
-  - M Caroline Roper
-  - Philippe E Rolshausen
-  publisher: Frontiers in microbiology
+  - M. Caroline Roper
+  - Philippe E. Rolshausen
+  publisher: Frontiers in Microbiology
   date: '2023-02-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36910183
+  link: https://doi.org/gr65z6
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9992537/bin/fmicb-14-1100590-g001.jpg
   tags:
   - citrus
   - microbiome
   - mycobiome
-  _cache: 17765a0b8bfcf27615923177362119773d7e4af33d015437076d64a9567ef0a1
-- id: pmid:36910183
-  title: Microbiome diversity, composition and assembly in a California citrus orchard.
-  authors:
-  - MengYuan Xi
-  - Elizabeth Deyett
-  - Jason E Stajich
-  - Ashraf El-Kereamy
-  - M Caroline Roper
-  - Philippe E Rolshausen
-  publisher: Frontiers in microbiology
-  date: '2023-02-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36910183
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9992537/bin/fmicb-14-1100590-g001.jpg
-  tags:
-  - citrus
-  - microbiome
-  - mycobiome
-  _cache: 17765a0b8bfcf27615923177362119773d7e4af33d015437076d64a9567ef0a1
+  _cache: 02908f2dcbe893c28dd0f1476b92068253e408b047104b1c1d6927d9c7c47aaf
 - id: pmid:36827202
   title: 'Phylogenomic analysis of the '
   authors:
