@@ -24,7 +24,6 @@ redirect_from:
 ---
 I am interested in the process and mechanisms of evolution. I study this primarily in fungi using comparative, computational, and experimental tools.  We utilize genome and RNA sequencing, sequence analysis, molecular evolution, and phylogenetics, and molecular biology tools to explore the functions of genes or genomic regions identified by analyses to be involved in processes we study.
 
-
 Most of our work is focused in the [zygomycete](http://zygolife.org/) and zoosporic [chytrid](http://chytrids.org/) fungi (fungi that move!). We also have collaborative projects and interests in *Aspergillus*, *Fusarium*, *Coccidioides*, and *Clavispora lusitaniae*. The lab is increasingly moving towards questions that relate to symbioses with new projects on fungal-bacteria antagonism and on the biological symbioses that occur among fungi, algae, bacteria in desert Biological crusts. I also have a new interest in extremophile fungi and working on projects to understand the halophilic *[Hortaea](https://www.ncbi.nlm.nih.gov/bioproject/356640) werneckii* and endolithic [Antarctic fungi](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA342238) through genome sequencing and laboratory experiments.
 
 
