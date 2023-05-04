@@ -1,9 +1,9 @@
 ---
-name: Nora Ismail
-title: Nora Ismail
+name: Noralhuda Ismail
+title: Noralhuda Ismail
 description: Microbiology Graduate Student
 search:
-  - Nora Ismail
+  - Noralhuda Ismail
   - N. Ismail
 role: phd
 group: current
