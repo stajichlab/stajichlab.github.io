@@ -5,7 +5,7 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
 {% include section.html %}
 
@@ -18,9 +18,9 @@ nav:
 
 {% include section.html %}
 
-## News
+{% include search-box.html %}
 
-<!-- Twitter embeds from https://publish.twitter.com/ -->
+{% include tags.html tags=site.tags %}
 
 <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/stajichlab?ref_src=twsrc%5Etfw">Tweets by Stajichlab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
@@ -36,3 +36,8 @@ Jesus Pena introduces his research on sexual reproduction in the zygomycete fung
 <!-- YouTube embed. Go to a video, click share, then embed. -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/okdpZFn-C5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endcapture %}
+
+{% include search-info.html %}
+
+{% include list.html data="posts" component="post-excerpt" %}
+

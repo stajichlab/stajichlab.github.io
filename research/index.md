@@ -5,11 +5,19 @@ nav:
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 Research in the Stajich lab encompass a variety of topics from Evolution, Genomics, Mycology, Microbiology, and Bioinformatics. 
 
 {% include section.html %}
+
+## Highlighted
+
+{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+
+{% include section.html %}
+
+## All
 
 {% include search-box.html %}
 

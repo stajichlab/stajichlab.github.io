@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# {% include icon.html icon="fa-solid fa-users" %}Team
 
 The Stajich Lab asks questions about how microbes interact with a focus on Fungi. We use genomics, bioinformatics, and experimental mycology approaches to test evolutionary, molecular, and ecological questions.
 
@@ -19,7 +19,9 @@ The Stajich Lab asks questions about how microbes interact with a focus on Fungi
 {% include list.html data="members" component="portrait" filters="role: visitor, group: current: " %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+
+{% include section.html background="images/background.jpg" dark=true %}
+
 
 {%
   include link.html
@@ -137,3 +139,4 @@ Our work is made possible by funding from several organizations.
   link7="https://nifa.usda.gov/"
   tooltip7="National Institute of Food and Agriculture; US Department of Agriculture"
 %}
+
