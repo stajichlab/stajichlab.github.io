@@ -10,6 +10,12 @@ Graduate students in our group are members of programs in [Microbiology](https:/
 
 ## Fungal Evolutionary Genomics Lab
 
+{% include banner.html image="images/banner.jpg" %}
+
+{% include section.html %}
+
+# Highlights
+
 {% capture text %}
 
 [Research](research) in the lab focuses on evolution of fungi through use of genetic and genomic approaches incorporating experimental and computational tools.
@@ -24,6 +30,14 @@ Graduate students in our group are members of programs in [Microbiology](https:/
 {:.center}
 
 
+{%
+  include link.html
+  link="tools"
+  text="Browse our tools"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
 {% endcapture %}
 
 {% include section.html full=true %}

@@ -5,14 +5,14 @@ nav:
   tooltip: Laboratory location and contact info
 ---
 
-# <i class="fas fa-envelope"></i>Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 {% include figure.html image="images/Genomics.jpg" width="100%" %}
 
 The [**Stajich lab**](https://lab.stajich.org) is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu). We are located on the 1st floor of the Genomics building.
 
 {%
-  include link.html
+  include button.html
   type="email"
   icon=""
   text="jason.stajich@ucr.edu"
@@ -21,19 +21,18 @@ The [**Stajich lab**](https://lab.stajich.org) is part of the [Department of Mic
   style="button"
 %}
 {%
-  include link.html
+  include button.html
   type="phone"
   icon=""
   text="(951) 827-2363"
   tooltip=""
   link="+1-951-827-2363"
   style="button"
+
 %}
 {%
-  include link.html
+  include button.html
   type="address"
-  icon=""
-  text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://goo.gl/maps/NuqUSJTfcby2Xrsj8"
   style="button"
@@ -55,18 +54,48 @@ USA
 
 {:.center}
 
+{% include section.html %}
+
 {% capture col1 %}
+
 {%
   include figure.html
   image="images/UCR1.jpg"
   caption="University of California, Riverside"
 %}
+
 {% endcapture %}
+
 {% capture col2 %}
+
 {%
   include figure.html
   image="images/Stajichlab.png"
   caption="Stajich Lab"
 %}
+
 {% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html dark=true %}
+
+{% capture col1 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col2 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col3 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
