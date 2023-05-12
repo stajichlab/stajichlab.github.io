@@ -248,7 +248,7 @@
   - genome
   - nanopore
   _cache: bc24175251e09a35c4d2adc6aff645a947f32eaa5ab4d6f99365c8b969dcb1f8
-- id: doi:10.1101/2022.12.02.518905
+- id: doi:10.1186/s40168-023-01554-6
   title: "Highly diverse and unknown viruses may enhance Antarctic endoliths\u2019\
     \ adaptability"
   authors:
@@ -264,15 +264,15 @@
   - Tijana G. del Rio
   - Jason E. Stajich
   - Claudia Coleine
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-12-03'
-  link: https://doi.org/grgd5g
+  publisher: Microbiome
+  date: '2023-05-08'
+  link: https://doi.org/gr77gv
   image: images/publication_images/Ettinger2023a.jpg
   tags:
   - virus
   - antarctica
   - metagenome
-  _cache: ea77d8f035ae4e58703936d1e1baefe0b49ed0eab2084b9a05ed37e23e6ca0e4
+  _cache: d8434c71393fe7fd106142e94317668c3aa649239407661ca206415e97749ef3
 - id: doi:10.1101/2022.11.21.517404
   title: Patterns and determinants of the global herbivorous mycobiome
   authors:
