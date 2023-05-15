@@ -13,7 +13,7 @@ We also got to host the Zygofornia Zygolife team meeting.  Here are some pictur
 {%
   include figure.html
   caption=" Zygolife team photo, minus Jason, in the UC James Reserve, San Jacinto Mountains, California"
-  image="/images/wp_upload/2018/04/IMG_7506.jpg"
+  image="images/wp_upload/2018/04/IMG_7506.jpg"
 %}
 
 {%
@@ -25,62 +25,62 @@ We also got to host the Zygofornia Zygolife team meeting.  Here are some pictur
 {%
   include figure.html
   caption="Bees love the water near a wash that had a little bit of moisture in Mojave, in Granite Mountain Desert Research Center"
-  image="/images/wp_upload/2018/04/IMG_2376.20180405.jpg"
+  image="images/wp_upload/2018/04/IMG_2376.20180405.jpg"
 %}
 
 {%
   include figure.html
   caption="Jessie and Derreck bonded over fungi and bacteria"
-  image="/images/wp_upload/2018/04/IMG_7520.jpg"
+  image="images/wp_upload/2018/04/IMG_7520.jpg"
 %}
 
 {%
   include figure.html
   caption="Lichens and mosses on granite rocks in Granite Mountain Desert Research Center"
-  image="/images/wp_upload/2018/04/IMG_2382.20180405.jpg"
+  image="images/wp_upload/2018/04/IMG_2382.20180405.jpg"
 %}
 
 {%
   include figure.html
   caption="Sunset over Kelso Dunes in Mojave National Preserve"
-  image="/images/wp_upload/2018/04/IMG_2426.20180405-1.jpg"
+  image="images/wp_upload/2018/04/IMG_2426.20180405-1.jpg"
 %}
 
 {%
   include figure.html
   caption="Lizards in Mojave National Preserve"
-  image="/images/wp_upload/2018/04/IMG_2431.20180405.jpg"
+  image="images/wp_upload/2018/04/IMG_2431.20180405.jpg"
 %}
 
 {%
   include figure.html
   caption="Blooms among Lava in Mojave National Preserve"
-  image="/images/wp_upload/2018/04/IMG_2454.20180405.jpg"
+  image="images/wp_upload/2018/04/IMG_2454.20180405.jpg"
 %}
 
 {%
   include figure.html
   caption="Sweeny Granite Mountain Desert Research Center, a University of California, Natural Reserve."
-  image="/images/wp_upload/2018/04/IMG_2380.20180405.jpg"
+  image="images/wp_upload/2018/04/IMG_2380.20180405.jpg"
 %}
 
 {%
   include figure.html
-  image="/images/wp_upload/2018/04/IMG_2455.20180405.jpg"
+  image="images/wp_upload/2018/04/IMG_2455.20180405.jpg"
 %}
 
 {%
   include figure.html
-  image="/images/wp_upload/2018/04/IMG_2452.20180405.jpg"
+  image="images/wp_upload/2018/04/IMG_2452.20180405.jpg"
 %}
 
 {%
   include figure.html
-  image="/images/wp_upload/2018/04/IMG_7469.20180405.jpg"
+  image="images/wp_upload/2018/04/IMG_7469.20180405.jpg"
 %}
 
 {%
   include figure.html
   caption="Kelso Dunes, Mojave National Preserve"
-  image="/images/wp_upload/2018/04/IMG_2398.20180405.jpg"
+  image="images/wp_upload/2018/04/IMG_2398.20180405.jpg"
 %}

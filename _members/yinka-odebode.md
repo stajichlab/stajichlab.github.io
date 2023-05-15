@@ -10,7 +10,10 @@ links:
 
 Dr Adeyinka (John) Odebode was a visiting student from University of Lagos, Nigeria on a WARA fellowship in 2015. Yinka worked on fungal identification and phylogenetics of molds found in air.
 
-{%
-include gallery.html
-image1="images/lab_photo/yinka_jason.jpg"
-%}
+{% capture content %}
+  ![](images/lab_photo/yinka_jason.jpg)
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+

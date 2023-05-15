@@ -9,10 +9,8 @@ group :jekyll_plugins do
   gem "jekyll-spaceship"
   gem "jekyll-sitemap"
   gem "jekyll-redirect-from"
-  gem "jekyll-spaceship"
   gem "jekyll-last-modified-at"
   gem "jekyll-feed"
-  gem "jekyll-sitemap"
 
   # other potentially useful plugins
   gem "jekyll-github-metadata"

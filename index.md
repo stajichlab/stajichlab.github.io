@@ -10,10 +10,6 @@ Graduate students in our group are members of programs in [Microbiology](https:/
 
 ## Fungal Evolutionary Genomics Lab
 
-{% include banner.html image="images/banner.jpg" %}
-
-{% include section.html %}
-
 # Highlights
 
 {% capture text %}
@@ -31,7 +27,7 @@ Graduate students in our group are members of programs in [Microbiology](https:/
 
 
 {%
-  include link.html
+  include button.html
   link="tools"
   text="Browse our tools"
   icon="fas fa-arrow-right"

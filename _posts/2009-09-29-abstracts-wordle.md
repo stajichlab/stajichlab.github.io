@@ -6,7 +6,7 @@ Making some signs for the doors to offices.  Here's a [Wordle](http://www.wordl
  
 {%
   include figure.html
-  image="/images/wp_upload/2009/09/stajich_wordle6.png"
+  image="images/wp_upload/2009/09/stajich_wordle6.png"
 %}
 
  

@@ -20,7 +20,7 @@ Graduate students [Nat Pombubpa](/members/nuttapon-pombubpa) collaborated with 
 Andrii Gryganskyi's work on _Rhizopus_ phylogeny with some of the first multi-genome work on this genus that was one of the earliest collaborations on some [ZyGoLife](http://zygolife.org) questions [5].
 {%
   include figure.html
-  image="/images/wp_upload/2018/05/Rhizopus_1.jpeg"
+  image="images/wp_upload/2018/05/Rhizopus_1.jpeg"
 %}
 
  Work exploring whether Transposable elements have a role in stage-specific gene expression in _Coccidioides_ with Theo Kirkland and Anna Muszewska [6]. 

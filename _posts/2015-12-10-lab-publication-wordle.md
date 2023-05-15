@@ -7,8 +7,6 @@ categories: []
 tags: []
 ---
 
-{%
-include figure.html
-image="/images/wp_upload/2015/12/StajichWordle2015.png"
+{% include section.html size="full" %}
 
-%}
+{% include figure.html image="images/wp_upload/2015/12/StajichWordle2015.png" %}
