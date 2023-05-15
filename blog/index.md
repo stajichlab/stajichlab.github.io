@@ -9,10 +9,9 @@ nav:
 
 {% include section.html %}
 
-{% include search-info.html %}
+{% include search-box.html %}
 
-{% include section.html background="images/banners/cholla.jpg" dark=true
-%}
+{% include search-info.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
 
