@@ -11,12 +11,6 @@ Research in the Stajich lab encompass a variety of topics from Evolution, Genomi
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
 ## All
 
 {% include search-box.html %}
