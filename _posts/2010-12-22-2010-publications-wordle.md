@@ -7,7 +7,16 @@ categories: []
 tags: []
 ---
 
-Here's our 2010 publications [wordle](http://www.wordle.net/advanced "Wordle") made with [pubmed2wordle](http://www.pubmed2wordle.appspot.com/ "pubmed2wordle") using this query that includes paper co-authored by Jason, Divya, and John with this [search](http://bit.ly/eWjw6U "(Stajich JE[Author] OR Sain D[Author] OR Abramyan J[Author]) AND "2010"[Publication Date] "). 
-h/t to [Kevin's blog](http://gasstationwithoutpumps.wordpress.com/2010/12/14/pubmed2wordle/) for showing this easy app - had done this previously with a cmdline bioperl script]
+Here's our 2010 publications Wordle made with pubmed2wordle.
 
-[![Lab 2010 pubs Wordle](images/wp_upload/2010/12/StajichLab_2010-1024x638.png "StajichLab_2010")](images/wp_upload/2010/12/StajichLab_2010.png)
+h/t to [Kevin's blog](http://gasstationwithoutpumps.wordpress.com/2010/12/14/pubmed2wordle/) for showing this easy app - had done this previously with a cmdline bioperl script.
+
+{%
+  include figure.html
+  image="images/wp_upload/2010/12/StajichLab_2010.png"
+  caption="Lab 2010 pubs Wordle"
+  link="images/wp_upload/2010/12/StajichLab_2010.png"
+  width="400px"
+%}
+
+
