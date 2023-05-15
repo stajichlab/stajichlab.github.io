@@ -1,4 +1,5 @@
 - id: pmid:37066389
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10104081/bin/nihpp-2023.04.05.535776v1-f0001.jpg
   tags:
     - Candida
     - Clavispora
@@ -25,6 +26,7 @@
     - microbiome
     - mycobiome
 - id: pmid:36827202
+  title: Phylogenomic analysis of the Neocallimastigomycota: proposal of <i>Caecomycetaceae</i> fam. nov., <i>Piromycetaceae</i> fam. nov., and emended description of the families Neocallimastigaceae and Anaeromycetaceae
   tags: 
     - AGF
     - Rumen fungi
