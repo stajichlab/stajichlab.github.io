@@ -1,4 +1,5 @@
 - name: BioPerl
+  title: BioPerl Toolkit
   group: Analysis
   image: images/tools/bioperl.png
   link: https://github.com/bioperl
@@ -10,7 +11,7 @@
 
 - name: Funannotate
   group: featured
-
+  title: Funannotate
   image: /images/tools/funannotate-logo.png
   link: https://funannotate.readthedocs.io/
   description: Automated genome annotation pipeline that includes self-training, RNAseq incorporation in training and prediction, functional annotation, and comparative genomics. Developed by [Jon Palmer](https://github.com/nextgenusfs) with input from Jason Stajich
@@ -19,34 +20,38 @@
     - annotation
 
 - name: Lab SOPs
+  title: Lab Standard Operating Procedures
   group: featured
   image: images/photo.jpg
   link: https://lab.stajich.org/SOP_data/
-  description: Standard Operating Procedures for Data analyses
+  description: SOPs for Data analyses
   repo: stajichlab/SOP_data
     - protocols
     - documentation
 
 - name: AAFTF
+  title: Automated Assembly For The Fungi (AAFTF)
   group: featured
   image: images/tools/AAFTF_card.png
   link: https://github.com/stajichlab/AAFTF
-  description: Automated Assembly For The Fungi - automated genome assembly for simple haploid genome projects
+  description: Automated genome assembly for simple genome projects (best for Haploids)
   repo: stajichlab/AAFTF
   tags:
     - assembly
 
 - name: Zygolife LCG assembly
+  title: ZyGoLife Project Illumina Genomes
   group: Dataset
   image: images/fungi/Gilbertella_persicaria_2.jpg
   link: https://github.com/zygolife/LCG_Assembly
-  description: ZyGoLife - Low Coverage Genome assembly and annotation
+  description: Low/Medium Coverage Zygo Genome assembly and annotation
   repo: zygolife/LCG_Assembly
   tags:
     - datasets
     - ZyGoLife
 
 - name: Zygolife
+  titile: ZyGoLife Project
   image: images/fungi/Gilbertella_persicaria_2.jpg
   group: Dataset
   link: http://zygolife.org
@@ -57,18 +62,20 @@
     - Phylogeny
 
 - name: 1000 Fungal Genomes
+  title: 1KFG
   group: Dataset
   link: http://1000.fungalgenomes.org
-  description: 1kFG project
+  description: 1000 Fungal genomes project
   tags:
     - datasets
     - fungi
     - Phylogeny
 
 - name: 1kfg - NCBI fungi
+  title: NCBI Fungi Downloads
   group: Dataset
   link: https://github.com/1KFG/NCBI_fungi
-  description: calculating summary statistics for public fungal genomes in NCBI and downloading genomes and annotations
+  description: Tools for calculating summary statistics for public fungal genomes in NCBI and downloading genomes and annotations
   repo: 1kfg/NCBI_fungi
   tags:
     - datasets
@@ -78,7 +85,7 @@
 - name: 1kfg - 2019 Freeze
   group: Dataset
   link: https://github.com/1KFG/2019_dataset
-  description: downloads and processing for 1kfg project datasets from JGI and other
+  description: 1KFG 2019 freeze - downloads and processing for 1kfg project datasets from JGI and other
   repo: 1kfg/2019_dataset
   tags:
     - datasets
@@ -86,9 +93,10 @@
     - Phylogeny
 
 - name: 1kfg - PHYling Fungi HMMs
+  title: PHYling Fungi HMMs
   group: Dataset
   link: https://github.com/1KFG/PHYling_HMMs_fungi
-  description: HMMs for several public phylogenomic marker sets for Fungal Phylogenomics
+  description: Protein HMMs for several public phylogenomic marker sets for Fungal Phylogenomics
   repo: 1kfg/PHYlings_HMMs_fungi
   tags:
     - datasets
@@ -96,25 +104,28 @@
     - Phylogeny
 
 - name: PHYling
+  title: PHYling
   group: featured
   image: images/photo.jpg
   link: https://github.com/stajichlab/PHYling_Unified
-  description: PHYling Phylogenomic package
+  description: Phylogenomic package using BUSCO or custom protein HMMs
   repo: stajichlab/PHYling_Unified
   tags:
     - Phylogeny
 
 - name: FGMP
+  title: Fungal Genome Mapping Pipeline 
   group: Analysis
   image: images/photo.jpg
   link: https://github.com/stajichlab/FGMP
-  description: Fungal Genome Mapping Pipeline - an alternate tool for genome completeness that incorporates coding and non-coding elements
+  description: An alternate tool for genome completeness that incorporates coding and non-coding elements
   repo: stajichlab/FGMP
   tags:
     - fungi
     - assembly
 
 - name: ReLocaTE2
+  title: ReLocaTE2
   group: Analysis
   image: images/tools/relocaTE.jpg
   link: https://github.com/stajichlab/RelocaTE2
