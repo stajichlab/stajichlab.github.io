@@ -1,3 +1,5 @@
+Visit **[lab.stajich.org](https://lab.stajich.org)** 🚀
+
 <h1 align="center">Lab Website Template</h1>
 
 <p align="center">
