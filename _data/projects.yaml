@@ -1,5 +1,5 @@
 - name: BioPerl
-  group: more
+  group: Analysis
   image: images/tools/bioperl.png
   link: https://github.com/bioperl
   description: BioPerl project code
@@ -37,7 +37,7 @@
     - assembly
 
 - name: Zygolife LCG assembly
-  group: more
+  group: Dataset
   image: images/fungi/Gilbertella_persicaria_2.jpg
   link: https://github.com/zygolife/LCG_Assembly
   description: ZyGoLife - Low Coverage Genome assembly and annotation
@@ -48,7 +48,7 @@
 
 - name: Zygolife
   image: images/fungi/Gilbertella_persicaria_2.jpg
-  group: featured
+  group: Dataset
   link: http://zygolife.org
   description: Zygomycetes Genealoogy of Life
   tags:
@@ -57,7 +57,7 @@
     - Phylogeny
 
 - name: 1000 Fungal Genomes
-  group: more
+  group: Dataset
   link: http://1000.fungalgenomes.org
   description: 1kFG project
   tags:
@@ -66,7 +66,7 @@
     - Phylogeny
 
 - name: 1kfg - NCBI fungi
-  group: more
+  group: Dataset
   link: https://github.com/1KFG/NCBI_fungi
   description: calculating summary statistics for public fungal genomes in NCBI and downloading genomes and annotations
   repo: 1kfg/NCBI_fungi
@@ -76,7 +76,7 @@
     - Phylogeny
 
 - name: 1kfg - 2019 Freeze
-  group: more
+  group: Dataset
   link: https://github.com/1KFG/2019_dataset
   description: downloads and processing for 1kfg project datasets from JGI and other
   repo: 1kfg/2019_dataset
@@ -86,7 +86,7 @@
     - Phylogeny
 
 - name: 1kfg - PHYling Fungi HMMs
-  group: more
+  group: Dataset
   link: https://github.com/1KFG/PHYling_HMMs_fungi
   description: HMMs for several public phylogenomic marker sets for Fungal Phylogenomics
   repo: 1kfg/PHYlings_HMMs_fungi
@@ -105,7 +105,7 @@
     - Phylogeny
 
 - name: FGMP
-  group: More
+  group: Analysis
   image: images/photo.jpg
   link: https://github.com/stajichlab/FGMP
   description: Fungal Genome Mapping Pipeline - an alternate tool for genome completeness that incorporates coding and non-coding elements
@@ -115,7 +115,7 @@
     - assembly
 
 - name: ReLocaTE2
-  group: All
+  group: Analysis
   image: images/tools/relocaTE.jpg
   link: https://github.com/stajichlab/RelocaTE2
   description: Transposable element insertion site mapping tool using short-reads for population resequencing
