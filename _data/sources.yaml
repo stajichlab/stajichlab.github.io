@@ -11,11 +11,12 @@
     - Clavispora
     - Cystic Fibrosis
 - id: doi:10.1101/2023.04.27.538478
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/04/27/2023.04.27.538478/F1.large.jpg?width=800&height=600&carousel=1
   tags:
     - GWSS
     - microbiome
 - id: pmid:37042758
-  image: https://journals.asm.org/cms/10.1128/mra.00101-23/asset/790fde60-ef5b-4fa2-b0e8-9db4f759f784/assets/images/small/mra.00101-23-f001.jpg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10190278/bin/mra.00101-23-f001.jpg
   tags: 
     - fusarium
     - citrus
