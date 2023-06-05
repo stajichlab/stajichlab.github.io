@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:37214671
+  title: Identification of the Neoaspergillic Acid Biosynthesis Gene Cluster by Establishing
+    an <i>In Vitro</i> CRISPR-Ribonucleoprotein Genetic System in <i>Aspergillus melleus</i>
+  authors:
+  - Bo Yuan
+  - Michelle F Grau
+  - "Ramiro Mendon\xE7a Murata"
+  - Tamas Torok
+  - Kasthuri Venkateswaran
+  - Jason E Stajich
+  - Clay C C Wang
+  publisher: ACS omega
+  date: '2023-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37214671
+  tags:
+  - Asperigillus
+  - Secondary Metabolism
+  - CRISPR
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:37066389
   title: Mrs4 loss of function in fungi during adaptation to the cystic fibrosis lung.
   authors:
