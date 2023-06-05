@@ -12,4 +12,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-last-modified-at"
   gem "jekyll-github-metadata"
+  gem "jekyll-gist"
+  gem "jekyll-mentions"
+  gem "jekyll-relative-links"
 end
