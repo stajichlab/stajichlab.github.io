@@ -54,9 +54,9 @@ These are past lab members who have moved on in their careers.
 # Lab Group Memories
 {% capture content %}
 
-   ![]("images/lab_photo/LabGroup_2010b.jpg")
+   ![](/images/lab_photo/LabGroup_2010b.jpg)
 
-   ![]("images/lab_photo/LabGroup_2010a.jpg")
+   ![](/images/lab_photo/LabGroup_2010a.jpg)
 {% endcapture %}
 {% include grid.html content=content %}
 

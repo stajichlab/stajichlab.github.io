@@ -13,6 +13,8 @@ nav:
 
 {% include section.html %}
 
+Software and Datasets Developed in the Lab (still being updated)
+
 ## Featured
 
 {% include list.html component="card" data="projects" filters="group: featured" %}

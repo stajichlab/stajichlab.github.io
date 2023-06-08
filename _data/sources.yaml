@@ -1,3 +1,12 @@
+- id: doi:10.3389/fmicb.2023.1135800
+  image: https://www.frontiersin.org/files/Articles/1135800/fmicb-14-1135800-HTML/image_m/fmicb-14-1135800-g001.jpg
+  tags:
+    - mycobiome
+    - microbiome
+    - aridlands
+    - desert
+    - Chihuahuan
+    - soil health
 - id: pmid:37214671
   title: Identification of the Neoaspergillic Acid Biosynthesis Gene Cluster by Establishing an <i>In Vitro</i> CRISPR-Ribonucleoprotein Genetic System in <i>Aspergillus melleus</i>
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10193573/bin/ao2c08104_0003.jpg

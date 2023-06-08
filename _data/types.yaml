@@ -33,6 +33,12 @@ link:
   text: Link
   tooltip: Link
 
+cv:
+  tooltip: CV
+  icon: fa-solid fa-globe
+  text: CV
+ 
+
 website:
   icon: fa-solid fa-globe
   text: Website
