@@ -1,12 +1,43 @@
+
+- id: pmid:37293838
+  title: In host evolution of <i>Exophiala dermatitidis</i> in cystic fibrosis lung micro-environment
+  tags:
+    - Cystic Fibrosis
+    - Exophiala
+    - Population Genomics
+- id: pmid:37349567
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41559-023-02095-9/MediaObjects/41559_2023_2095_Fig1_HTML.png?as=webp
+  tags:
+    - Fungi
+    - Taxonomy
+    - Genomics
+    - Comparative Genomics
+    - Evolution
+    - 1KFG
+    - 1000 Fungal Genomes
+- id: pmid:37289095
+  title: Genome Sequence of <i>Lichtheimia ornata</i>, an Emerging Opportunistic Mucorales Pathogen
+  image: https://en.wikipedia.org/wiki/Lichtheimia_corymbifera#/media/File:Absidia_corymbifera.jpg
+  tags:
+    - Lichtheimia
+    - Mucoromycotina
+- id: doi:10.3389/fevo.2019.00344
+  image: https://live.staticflickr.com/65535/52870534798_0051531628_q_d.jpg
+  tags:
+    - aridlands
+    - review
+    - Microbes
+    - Biological Crusts
 - id: doi:10.3389/fmicb.2023.1135800
   image: https://www.frontiersin.org/files/Articles/1135800/fmicb-14-1135800-HTML/image_m/fmicb-14-1135800-g001.jpg
   tags:
-    - mycobiome
-    - microbiome
-    - aridlands
-    - desert
-    - Chihuahuan
+    - Mycobiome
+    - Microbiome
+    - Aridlands
+    - Desert
+    - Chihuahuan Desert
     - soil health
+     - Biological Crusts
 - id: pmid:37214671
   title: Identification of the Neoaspergillic Acid Biosynthesis Gene Cluster by Establishing an <i>In Vitro</i> CRISPR-Ribonucleoprotein Genetic System in <i>Aspergillus melleus</i>
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10193573/bin/ao2c08104_0003.jpg
@@ -167,12 +198,6 @@
     - Zoopagomycota
     - Entomophthomycotina
     - Metagenome
-- id: doi:10.1101/2022.06.24.497490
-  tags:
-    - Mucoromycota
-    - Zoopagomycota
-    - Comparative Genomics
-    - Genome
 - id: pmid:36037379
   image: images/publication_images/chytrid_pnas.jpg
   tags:

@@ -1,5 +1,93 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:37293838
+  title: In host evolution of <i>Exophiala dermatitidis</i> in cystic fibrosis lung
+    micro-environment
+  authors:
+  - Tania Kurbessoian
+  - Daniel Murante
+  - Alex Crocker
+  - Deborah A Hogan
+  - Jason E Stajich
+  publisher: G3 (Bethesda, Md.)
+  date: '2023-06-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37293838
+  tags:
+  - Cystic Fibrosis
+  - Exophiala
+  - Population Genomics
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:37349567
+  title: Genomes of fungi and relatives reveal delayed loss of ancestral gene families
+    and evolution of key fungal traits.
+  authors:
+  - "Zsolt Mer\xE9nyi"
+  - "Krisztina Krizs\xE1n"
+  - Neha Sahu
+  - Xiao-Bin Liu
+  - "Bal\xE1zs B\xE1lint"
+  - Jason E Stajich
+  - Joseph W Spatafora
+  - "L\xE1szl\xF3 G Nagy"
+  publisher: Nature ecology & evolution
+  date: '2023-06-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37349567
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41559-023-02095-9/MediaObjects/41559_2023_2095_Fig1_HTML.png?as=webp
+  tags:
+  - Fungi
+  - Taxonomy
+  - Genomics
+  - Comparative Genomics
+  - Evolution
+  - 1KFG
+  - 1000 Fungal Genomes
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:37289095
+  title: Genome Sequence of <i>Lichtheimia ornata</i>, an Emerging Opportunistic Mucorales
+    Pathogen
+  authors:
+  - Terrance Shea
+  - Jason T Mohabir
+  - Tania Kurbessoian
+  - Brittany Berdy
+  - James Fontaine
+  - Andreas Gnirke
+  - Jonathan Livny
+  - Jason E Stajich
+  - Christina A Cuomo
+  publisher: Microbiology resource announcements
+  date: '2023-06-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37289095
+  image: https://en.wikipedia.org/wiki/Lichtheimia_corymbifera#/media/File:Absidia_corymbifera.jpg
+  tags:
+  - Lichtheimia
+  - Mucoromycotina
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fevo.2019.00344
+  title: Reproduction and Dispersal of Biological Soil Crust Organisms
+  authors:
+  - Steven D. Warren
+  - Larry L. Clair
+  - Lloyd R. Stark
+  - Louise A. Lewis
+  - Nuttapon Pombubpa
+  - Tania Kurbessoian
+  - Jason E. Stajich
+  - Zachary T. Aanderud
+  publisher: Frontiers in Ecology and Evolution
+  date: '2019-10-04'
+  link: https://doi.org/ggdkg6
+  image: https://live.staticflickr.com/65535/52870534798_0051531628_q_d.jpg
+  tags:
+  - aridlands
+  - review
+  - Microbes
+  - Biological Crusts
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fmicb.2023.1135800
   title: Landscape characteristics shape surface soil microbiomes in the Chihuahuan
     Desert
@@ -19,12 +107,12 @@
   link: https://doi.org/gsbvtn
   image: https://www.frontiersin.org/files/Articles/1135800/fmicb-14-1135800-HTML/image_m/fmicb-14-1135800-g001.jpg
   tags:
-  - mycobiome
-  - microbiome
-  - aridlands
-  - desert
-  - Chihuahuan
-  - soil health
+  - Mycobiome
+  - Microbiome
+  - Aridlands
+  - Desert
+  - Chihuahuan Desert
+  - soil health - Biological Crusts
   plugin: sources.py
   file: sources.yaml
 - id: pmid:37214671
@@ -627,42 +715,6 @@
   - Zoopagomycota
   - Entomophthomycotina
   - Metagenome
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2022.06.24.497490
-  title: Divergent evolution of early terrestrial fungi reveals the evolution of Mucormycosis
-    pathogenicity factors
-  authors:
-  - Yan Wang
-  - Ying Chang
-  - Jericho Ortanez
-  - "Jes\xFAs F. Pe\xF1a"
-  - Derreck Carter-House
-  - Nicole K Reynolds
-  - Matthew E Smith
-  - Gerald Benny
-  - Stephen J Mondo
-  - Asaf Salamov
-  - Anna Lipzen
-  - Jasmyn Pangilinan
-  - Jie Guo
-  - Kurt LaButti
-  - William Andreopolous
-  - Andrew Tritt
-  - Keykhosrow Keymanesh
-  - Mi Yan
-  - Kerrie Barry
-  - Igor V Grigoriev
-  - Joseph W Spatafora
-  - Jason E Stajich
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-06-27'
-  link: https://doi.org/gqqzph
-  tags:
-  - Mucoromycota
-  - Zoopagomycota
-  - Comparative Genomics
-  - Genome
   plugin: sources.py
   file: sources.yaml
 - id: pmid:36037379
