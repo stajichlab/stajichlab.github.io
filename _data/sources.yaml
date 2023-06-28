@@ -122,12 +122,15 @@
     - virus
     - antarctica
     - metagenome
-- id: doi:10.1101/2022.11.21.517404
+- id: pmid:37365172
   image: images/publication_images/Meili2023.jpg
   tags:
     - herbivore
     - microbiome
+    - chytrid
+    - Neocallimastigomycota
     - anaerobic gut fungi
+    - AGF
 - id: doi:10.1016/j.isci.2022.105470
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9668684/bin/fx1.jpg
   tags:

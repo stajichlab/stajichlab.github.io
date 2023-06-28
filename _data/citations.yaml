@@ -424,27 +424,27 @@
   - metagenome
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2022.11.21.517404
-  title: Patterns and determinants of the global herbivorous mycobiome
+- id: pmid:37365172
+  title: Patterns and determinants of the global herbivorous mycobiome.
   authors:
-  - Casey H. Meili
-  - Adrienne L. Jones
-  - Alex X. Arreola
+  - Casey H Meili
+  - Adrienne L Jones
+  - Alex X Arreola
   - Jeffrey Habel
-  - Carrie J. Pratt
-  - Radwa A. Hanafy
+  - Carrie J Pratt
+  - Radwa A Hanafy
   - Yan Wang
-  - Aymen S. Yassin
-  - Moustafa A. TagElDein
-  - Christina D. Moon
-  - Peter H. Janssen
+  - Aymen S Yassin
+  - Moustafa A TagElDein
+  - Christina D Moon
+  - Peter H Janssen
   - Mitesh Shrestha
   - Prajwal Rajbhandari
   - Magdalena Nagler
-  - Julia M. Vinzelj
-  - Sabine M. Podmirseg
-  - Jason E. Stajich
-  - Arthur L. Goetsch
+  - Julia M Vinzelj
+  - Sabine M Podmirseg
+  - Jason E Stajich
+  - Arthur L Goetsch
   - Jerry Hayes
   - Diana Young
   - Katerina Fliegerova
@@ -452,21 +452,24 @@
   - "Roman Vodi\u010Dka"
   - Giuseppe Moniello
   - Silvana Mattiello
-  - Mona T. Kashef
-  - Yosra I. Nagy
-  - Joan A. Edwards
+  - Mona T Kashef
+  - Yosra I Nagy
+  - Joan A Edwards
   - Sumit Singh Dagar
-  - Andrew P. Foote
-  - Noha H. Youssef
-  - Mostafa S. Elshahed
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-11-21'
-  link: https://doi.org/grgd5h
+  - Andrew P Foote
+  - Noha H Youssef
+  - Mostafa S Elshahed
+  publisher: Nature communications
+  date: '2023-06-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37365172
   image: images/publication_images/Meili2023.jpg
   tags:
   - herbivore
   - microbiome
+  - chytrid
+  - Neocallimastigomycota
   - anaerobic gut fungi
+  - AGF
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.isci.2022.105470
