@@ -136,19 +136,19 @@
   - CRISPR
   plugin: sources.py
   file: sources.yaml
-- id: pmid:37066389
-  title: Mrs4 loss of function in fungi during adaptation to the cystic fibrosis lung.
+- id: doi:10.1128/mbio.01171-23
+  title: Mrs4 loss of function in fungi during adaptation to the cystic fibrosis lung
   authors:
   - Daniel Murante
-  - Elora G Demers
+  - Elora G. Demers
   - Tania Kurbessoian
   - Marina Ruzic
   - Alix Ashare
-  - Jason E Stajich
-  - Deborah A Hogan
-  publisher: 'bioRxiv : the preprint server for biology'
-  date: '2023-04-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37066389
+  - Jason E. Stajich
+  - Deborah A. Hogan
+  publisher: mBio
+  date: '2023-07-11'
+  link: https://doi.org/gsgk5h
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10104081/bin/nihpp-2023.04.05.535776v1-f0001.jpg
   tags:
   - Candida
