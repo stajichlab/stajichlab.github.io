@@ -33,7 +33,10 @@ I am involved in several fungal genome projects including co-leading the [1000 f
 
 My interests are also in the evolution of multicellular forms and regulation of development in fungi.  I think understanding how differential gene regulation is established can help learn more about the mechanisms of cell type differentiation.  We are also studying the cell wall to understand how innovations in the cell wall and dimorphism impact interactions between pathogenic fungi and hosts they infect. These different projects seek to provide new insight into the big picture of how the complexity of life evolved and how host and pathogen interactions co-evolved.
 
+To address this work we also need tools to sift and mine the gigantic datasets that genomics can produce. In the past I focused on building tools for comparative and computational analyses of genomes including work on the [BioPerl](http://bioperl.org/) and [Gbrowse](http://www.gmod.org/wiki/Gbrowse) projects and the development of open source software for bioinformatics and life sciences research through the [Open Bioinformatics Foundation](http://www.open-bio.org/).
 
-To address this work we also need tools to sift and mine the gigantic datasets that genomics can produce. I have focused on building tools for comparative and computational analyses of genomes including work on the [BioPerl](http://bioperl.org/) and [Gbrowse](http://www.gmod.org/wiki/Gbrowse) projects and the development of open source software for bioinformatics and life sciences research through the [Open Bioinformatics Foundation](http://www.open-bio.org/).
+*Disclosures*
+
+I am a paid consultant for [Michroma](https://www.michroma.co/) and on the Scientific Advisory Board of [Sincarne](https://sincarne.com/).  I have served as a paid consultant in the past for [Zymergen](https://en.wikipedia.org/wiki/Zymergen), [Trace Genomics](https://tracegenomics.com/), [Triton Algae](https://tritonai.com/), and [Indigo Ag](indigoag.com).
 
 {% include list.html data="citations" component="citation" filter="page: jason-member" %}
