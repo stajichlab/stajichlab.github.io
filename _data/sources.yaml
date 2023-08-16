@@ -1,5 +1,6 @@
 - id: pmid:37568226
-  title: Genomic characterization and radiation tolerance of <i>Naganishia kalamii</i> sp. nov. and <i>Cystobasidium onofrii</i> sp. nov. from Mars 2020 mission assembly facilities
+  title: Genomic characterization and radiation tolerance of <i>Naganishia kalamii</i> sp. nov. and <i>Cystobasidium onofrii</i> sp. nov. from Mars 2020 mission assembly facilities.
+  image: images/publication_images/imafungus2023_nk_co.jpg
   tags:
     - Naganishia
     - Cystobasidium
@@ -7,14 +8,16 @@
     - ISS
     - Mars 2020
 - id: pmid:37513002
+  image: https://www.mdpi.com/microorganisms/microorganisms-11-01830/article_deploy/html/images/microorganisms-11-01830-g001-550.jpg
   tags:
     - zygolife
     - genome
 - id: pmid:37490857
+  image: images/publication_images/cb2023_extremenv.jpg
   tags:
     - Extremophile
     - Review
-- id: pmid:37293838
+- id: doi:10.1093/g3journal/jkad126
   title: In host evolution of <i>Exophiala dermatitidis</i> in cystic fibrosis lung micro-environment
   tags:
     - Cystic Fibrosis
