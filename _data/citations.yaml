@@ -1,5 +1,84 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:37568226
+  title: Genomic characterization and radiation tolerance of <i>Naganishia kalamii</i>
+    sp. nov. and <i>Cystobasidium onofrii</i> sp. nov. from Mars 2020 mission assembly
+    facilities
+  authors:
+  - Patrick Leo
+  - Marcus de Melo Texeira
+  - Atul M Chander
+  - Nitin K Singh
+  - Anna C Simpson
+  - Andrey Yurkov
+  - Fathi Karouia
+  - Jason E Stajich
+  - Christopher E Mason
+  - Kasthuri Venkateswaran
+  publisher: IMA fungus
+  date: '2023-08-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37568226
+  tags:
+  - Naganishia
+  - Cystobasidium
+  - Space Fungi
+  - ISS
+  - Mars 2020
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:37513002
+  title: 'Sequencing the Genomes of the First Terrestrial Fungal Lineages: What Have
+    We Learned?'
+  authors:
+  - Andrii P Gryganskyi
+  - Jacob Golan
+  - Anna Muszewska
+  - Alexander Idnurm
+  - Somayeh Dolatabadi
+  - Stephen J Mondo
+  - Vira B Kutovenko
+  - Volodymyr O Kutovenko
+  - Michael T Gajdeczka
+  - Iryna M Anishchenko
+  - Julia Pawlowska
+  - Ngoc Vinh Tran
+  - Ingo Ebersberger
+  - Kerstin Voigt
+  - Yan Wang
+  - Ying Chang
+  - Teresa E Pawlowska
+  - Joseph Heitman
+  - Rytas Vilgalys
+  - Gregory Bonito
+  - Gerald L Benny
+  - Matthew E Smith
+  - Nicole Reynolds
+  - Timothy Y James
+  - Igor V Grigoriev
+  - Joseph W Spatafora
+  - Jason E Stajich
+  publisher: Microorganisms
+  date: '2023-07-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37513002
+  tags:
+  - zygolife
+  - genome
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:37490857
+  title: Extremophilic and extremotolerant fungi.
+  authors:
+  - "Cene Gostin\u010Dar"
+  - Jason E Stajich
+  - Nina Gunde-Cimerman
+  publisher: 'Current biology : CB'
+  date: '2023-07-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37490857
+  tags:
+  - Extremophile
+  - Review
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:37293838
   title: In host evolution of <i>Exophiala dermatitidis</i> in cystic fibrosis lung
     micro-environment
@@ -112,7 +191,8 @@
   - Aridlands
   - Desert
   - Chihuahuan Desert
-  - soil health - Biological Crusts
+  - soil health
+  - Biological Crusts
   plugin: sources.py
   file: sources.yaml
 - id: pmid:37214671
@@ -296,21 +376,21 @@
   - Labyrinthulomycetes
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.01.14.524055
-  title: Genomic resources enable insight into the developmental transcriptome of
-    the blastoclad fungus, <i>Coelomomyces lativittatus</i>, an obligate parasite
-    of mosquitoes and microcrustaceans
+- id: pmid:37494633
+  title: Genomes and transcriptomes help unravel the complex life cycle of the blastoclad
+    fungus, <i>Coelomomyces lativittatus</i>, an obligate parasite of mosquitoes and
+    microcrustaceans.
   authors:
-  - Cassandra L. Ettinger
+  - Cassandra L Ettinger
   - Talieh Ostovar
   - Mark Yacoub
   - Steven Ahrendt
-  - Robert H. Hice
-  - Brian A. Federici
-  - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-17'
-  link: https://doi.org/grqwp9
+  - Robert H Hice
+  - Brian A Federici
+  - Jason E Stajich
+  publisher: Mycologia
+  date: '2023-07-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37494633
   image: https://www.biorxiv.org/content/biorxiv/early/2023/01/17/2023.01.14.524055/F1.large.jpg
   tags:
   - chytrid
