@@ -1,3 +1,12 @@
+- id: doi:10.1101/2023.08.23.554450
+  image: images/publication_images/vargas_2023.jpg
+  tags: 
+    - Herptile
+    - Microbiome
+    - Bacterial-Fungal Interactions
+    - ITS
+    - 16S
+    - amplicon
 - id: pmid:37568226
   title: Genomic characterization and radiation tolerance of <i>Naganishia kalamii</i> sp. nov. and <i>Cystobasidium onofrii</i> sp. nov. from Mars 2020 mission assembly facilities.
   image: images/publication_images/imafungus2023_nk_co.jpg

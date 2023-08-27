@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.08.23.554450
+  title: 'Herptile gut microbiomes: a natural system to study multi-kingdom interactions
+    between filamentous fungi and bacteria'
+  authors:
+  - Lluvia B. Vargas-Gastelum
+  - Alexander S. Romer
+  - N. Reed Alexander
+  - Marjan Ghotbi
+  - Kylie C Moe
+  - Kerry L McPhail
+  - George F Neuhaus
+  - Leila Shadmani
+  - Joseph W. Spatafora
+  - Jason E Stajich
+  - Javier F Tabima
+  - Donald Walker
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-08-25'
+  link: https://doi.org/gsnctc
+  image: images/publication_images/vargas_2023.jpg
+  tags:
+  - Herptile
+  - Microbiome
+  - Bacterial-Fungal Interactions
+  - ITS
+  - 16S
+  - amplicon
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:37568226
   title: Genomic characterization and radiation tolerance of <i>Naganishia kalamii</i>
     sp. nov. and <i>Cystobasidium onofrii</i> sp. nov. from Mars 2020 mission assembly
