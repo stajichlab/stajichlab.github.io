@@ -342,8 +342,8 @@
     - Fungal Kingdom
     - CIFAR
 - id: pmid:35137016
-  image: images/publication_images/C_posa_genome.png
-  title: A chromosomal-level reference genome of the widely utilized <i>Coccidioides posadasii</i> laboratory strain "Silveira"
+  image: images/publication_images/C_posa_genome.jpg
+  title: A chromosomal-level reference genome of the widely utilized Coccidioides posadasii laboratory strain Silveira
   tags:
     - Coccidioides
     - Coccidioides posadasii
@@ -519,13 +519,13 @@
     - systematics
     - evolution
 - id: pmid:33597172
-  image: https://journals.asm.org/cms/10.1128/mSphere.01250-20/asset/8ce39821-f1dd-4405-818a-a3df40aa308c/assets/images/medium/msphere.01250-20-f0002.gif
+  image: images/publication_images/jones_2021.jpg
   tags:
     - Aspergillus fumigatus
     - Cystic Fibrosis
 - id: pmid:33593969
   title: A Heterogeneously Expressed Gene Family Modulates the Biofilm Architecture and Hypoxic Growth of <i>Aspergillus fumigatus</i>
-  image: https://journals.asm.org/cms/10.1128/mBio.03579-20/asset/c4ebb506-cce9-4749-9962-c5cc4083f0c6/assets/images/medium/mbio.03579-20-f0001.gif
+  image: images/publication_images/kowalski_2021.jpg
   tags:
     - Aspergillus fumigatus
     - biofilm

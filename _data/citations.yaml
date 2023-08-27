@@ -1222,8 +1222,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: pmid:35137016
-  title: A chromosomal-level reference genome of the widely utilized <i>Coccidioides
-    posadasii</i> laboratory strain "Silveira"
+  title: A chromosomal-level reference genome of the widely utilized Coccidioides
+    posadasii laboratory strain Silveira
   authors:
   - Marcus de Melo Teixeira
   - Jason E Stajich
@@ -1238,7 +1238,7 @@
   publisher: G3 (Bethesda, Md.)
   date: '2022-04-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35137016
-  image: images/publication_images/C_posa_genome.png
+  image: images/publication_images/C_posa_genome.jpg
   tags:
   - Coccidioides
   - Coccidioides posadasii
@@ -1810,7 +1810,7 @@
   publisher: mSphere
   date: '2021-02-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33597172
-  image: https://journals.asm.org/cms/10.1128/mSphere.01250-20/asset/8ce39821-f1dd-4405-818a-a3df40aa308c/assets/images/medium/msphere.01250-20-f0002.gif
+  image: images/publication_images/jones_2021.jpg
   tags:
   - Aspergillus fumigatus
   - Cystic Fibrosis
@@ -1828,7 +1828,7 @@
   publisher: mBio
   date: '2021-02-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33593969
-  image: https://journals.asm.org/cms/10.1128/mBio.03579-20/asset/c4ebb506-cce9-4749-9962-c5cc4083f0c6/assets/images/medium/mbio.03579-20-f0001.gif
+  image: images/publication_images/kowalski_2021.jpg
   tags:
   - Aspergillus fumigatus
   - biofilm
