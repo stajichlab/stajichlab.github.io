@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2022.12.30.522274
+  title: <i>Botrytis cinerea</i>small RNAs are associated with tomato AGO1 and silence
+    tomato defense-related target genes supporting cross-kingdom RNAi
+  authors:
+  - Baoye He
+  - Qiang Cai
+  - Arne Weiberg
+  - Wei Li
+  - An-Po Cheng
+  - Shouqiang Ouyang
+  - Katherine Borkovich
+  - Jason Stajich
+  - Cei Abreu-Goodger
+  - Hailing Jin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-02'
+  link: https://doi.org/gr8gx6
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/02/15/2022.12.30.522274/F2.medium.gif
+  tags:
+  - smallRNA
+  - tomato
+  - Botrytis cinerea
+  - gene silencing
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.08.23.554450
   title: 'Herptile gut microbiomes: a natural system to study multi-kingdom interactions
     between filamentous fungi and bacteria'

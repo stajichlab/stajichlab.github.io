@@ -1,3 +1,10 @@
+- id: doi:10.1101/2022.12.30.522274
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/02/15/2022.12.30.522274/F2.medium.gif
+  tags:
+    - smallRNA
+    - tomato
+    - Botrytis cinerea
+    - gene silencing
 - id: doi:10.1101/2023.08.23.554450
   image: images/publication_images/vargas_2023.jpg
   tags: 
