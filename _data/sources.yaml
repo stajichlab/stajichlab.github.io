@@ -1,3 +1,12 @@
+- id: doi:10.1101/2023.09.13.557621
+  image: images/publication_images/Emusc_Fig1C.png
+  tags: 
+    - Entomophthora
+    - Big Genome
+    - Nanopore
+    - Transposon
+    - Zoopagomycota
+    - zygomycete
 - id: doi:10.1101/2022.12.30.522274
   image: https://www.biorxiv.org/content/biorxiv/early/2023/02/15/2022.12.30.522274/F2.medium.gif
   tags:
