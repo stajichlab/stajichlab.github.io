@@ -1,5 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.09.13.557621
+  title: Signatures of transposon-mediated genome inflation, host specialization,
+    and photoentrainment in<i>Entomophthora muscae</i>and allied entomophthoralean
+    fungi
+  authors:
+  - Jason E. Stajich
+  - Brian Lovett
+  - Emily Lee
+  - Angie M. Macias
+  - Ann E. Hajek
+  - Benjamin L. de Bivort
+  - Matt T. Kasson
+  - Henrik H. De Fine Licht
+  - Carolyn Elya
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-09-16'
+  link: https://doi.org/gsqxj7
+  image: images/publication_images/Emusc_Fig1C.png
+  tags:
+  - Entomophthora
+  - Big Genome
+  - Nanopore
+  - Transposon
+  - Zoopagomycota
+  - zygomycete
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2022.12.30.522274
   title: <i>Botrytis cinerea</i>small RNAs are associated with tomato AGO1 and silence
     tomato defense-related target genes supporting cross-kingdom RNAi
@@ -29,18 +56,18 @@
   title: 'Herptile gut microbiomes: a natural system to study multi-kingdom interactions
     between filamentous fungi and bacteria'
   authors:
-  - Lluvia B. Vargas-Gastelum
+  - "Lluvia Vargas-Gast\xE9lum"
   - Alexander S. Romer
   - N. Reed Alexander
   - Marjan Ghotbi
-  - Kylie C Moe
-  - Kerry L McPhail
-  - George F Neuhaus
+  - Kylie C. Moe
+  - Kerry L. McPhail
+  - George F. Neuhaus
   - Leila Shadmani
   - Joseph W. Spatafora
-  - Jason E Stajich
-  - Javier F Tabima
-  - Donald Walker
+  - Jason E. Stajich
+  - Javier F. Tabima
+  - Donald M. Walker
   publisher: Cold Spring Harbor Laboratory
   date: '2023-08-25'
   link: https://doi.org/gsnctc
@@ -488,7 +515,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.12.14.520320
-  title: Exploring Viral Communities Associated With Terrestrial Cyanobacteria Metagenomes
+  title: Cataloging Viral Diversity from Nonaxenic Terrestrial Cyanobacteria Cultures
   authors:
   - Cassandra L. Ettinger
   - Sudipto R. Paul
