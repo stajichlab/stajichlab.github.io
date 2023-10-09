@@ -1,6 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-<<<<<<< HEAD
 - id: pmid:37740386
   title: The reference genome assembly of the bright cobblestone lichen, Acarospora
     socialis.
@@ -25,8 +24,24 @@
   - CCGP
   plugin: sources.py
   file: sources.yaml
-=======
->>>>>>> 78fde51628d543077d1a95ac1fa0357450dcd6c4
+- id: doi:10.1101/2022.10.18.512709
+  title: '<i>Conoideocrella luteorostrata</i>(Hypocreales: Claviciptaceae), a potential
+    biocontrol fungus for elongate hemlock scale in United States Christmas tree production
+    areas'
+  authors:
+  - Hana Barrett
+  - Brian Lovett
+  - Matt T. Kasson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-18'
+  link: https://doi.org/gstv3f
+  image: images/publication_images/conoideocrella_2023.jpg
+  tags:
+  - Conoideocrella
+  - biocontrol
+  - Clavicipitaceae
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.09.13.557621
   title: Signatures of transposon-mediated genome inflation, host specialization,
     and photoentrainment in<i>Entomophthora muscae</i>and allied entomophthoralean
@@ -44,32 +59,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-09-16'
   link: https://doi.org/gsqxj7
-<<<<<<< HEAD
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/16/2023.09.13.557621/F6.large.jpg?width=800&height=600&carousel=1
-  tags:
-  - Entomophthora
-  - Zoopagomycota
-  - transposon
-  - genome evolution
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2022.10.18.512709
-  title: '<i>Conoideocrella luteorostrata</i>(Hypocreales: Claviciptaceae), a potential
-    biocontrol fungus for elongate hemlock scale in United States Christmas tree production
-    areas'
-  authors:
-  - Hana Barrett
-  - Brian Lovett
-  - Matt T. Kasson
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-10-18'
-  link: https://doi.org/gstv3f
-  image: images/publication_images/conoideocrella_2023.jpg
-  tags:
-  - Conoideocrella
-  - biocontrol
-  - Clavicipitaceae
-=======
   image: images/publication_images/Emusc_Fig1C.png
   tags:
   - Entomophthora
@@ -78,7 +67,6 @@
   - Transposon
   - Zoopagomycota
   - zygomycete
->>>>>>> 78fde51628d543077d1a95ac1fa0357450dcd6c4
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.12.30.522274
@@ -110,18 +98,18 @@
   title: 'Herptile gut microbiomes: a natural system to study multi-kingdom interactions
     between filamentous fungi and bacteria'
   authors:
-  - "Lluvia Vargas-Gast\xE9lum"
+  - Lluvia B. Vargas-Gastelum
   - Alexander S. Romer
   - N. Reed Alexander
   - Marjan Ghotbi
-  - Kylie C. Moe
-  - Kerry L. McPhail
-  - George F. Neuhaus
+  - Kylie C Moe
+  - Kerry L McPhail
+  - George F Neuhaus
   - Leila Shadmani
   - Joseph W. Spatafora
-  - Jason E. Stajich
-  - Javier F. Tabima
-  - Donald M. Walker
+  - Jason E Stajich
+  - Javier F Tabima
+  - Donald Walker
   publisher: Cold Spring Harbor Laboratory
   date: '2023-08-25'
   link: https://doi.org/gsnctc
