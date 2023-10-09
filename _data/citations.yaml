@@ -16,8 +16,11 @@
   publisher: The Journal of heredity
   date: '2023-09-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37740386
-  image: images/publication_images/acarospora_fig1.jpg - Lichen - Acarospora - genome
-    - CCGP
+  image: images/publication_images/acarospora_fig1.jpg
+  tags:
+  - Acarospora
+  - genome
+  - CCGP
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.10.18.512709
