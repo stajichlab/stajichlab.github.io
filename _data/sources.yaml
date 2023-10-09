@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - id: pmid:37740386
   image: https://academic.oup.com/view-large/figure/418643388/esad052_fig1.jpg
   tags:
@@ -18,6 +19,17 @@
     - Conoideocrella
     - biocontrol
     - Clavicipitaceae
+=======
+- id: doi:10.1101/2023.09.13.557621
+  image: images/publication_images/Emusc_Fig1C.png
+  tags: 
+    - Entomophthora
+    - Big Genome
+    - Nanopore
+    - Transposon
+    - Zoopagomycota
+    - zygomycete
+>>>>>>> 78fde51628d543077d1a95ac1fa0357450dcd6c4
 - id: doi:10.1101/2022.12.30.522274
   image: https://www.biorxiv.org/content/biorxiv/early/2023/02/15/2022.12.30.522274/F2.medium.gif
   tags:
