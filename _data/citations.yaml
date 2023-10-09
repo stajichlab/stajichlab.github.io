@@ -1,25 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: pmid:37740386
-  title: The reference genome assembly of the bright cobblestone lichen, Acarospora
-    socialis.
-  authors:
-  - Julia N Adams
-  - Merly Escalona
-  - Mohan P A Marimuthu
-  - Colin W Fairbairn
-  - Eric Beraut
-  - William Seligmann
-  - Oanh Nguyen
-  - Noravit Chumchim
-  - Jason E Stajich
-  publisher: The Journal of heredity
-  date: '2023-09-07'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37740386
-  image: images/publication_images/acarospora_fig1.jpg - Lichen - Acarospora - genome
-    - CCGP
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1101/2022.10.18.512709
   title: '<i>Conoideocrella luteorostrata</i>(Hypocreales: Claviciptaceae), a potential
     biocontrol fungus for elongate hemlock scale in United States Christmas tree production
@@ -36,6 +16,28 @@
   - Conoideocrella
   - biocontrol
   - Clavicipitaceae
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:37740386
+  title: The reference genome assembly of the bright cobblestone lichen, Acarospora
+    socialis.
+  authors:
+  - Julia N Adams
+  - Merly Escalona
+  - Mohan P A Marimuthu
+  - Colin W Fairbairn
+  - Eric Beraut
+  - William Seligmann
+  - Oanh Nguyen
+  - Noravit Chumchim
+  - Jason E Stajich
+  publisher: The Journal of heredity
+  date: '2023-09-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37740386
+  tags:
+  - Acarospora
+  - genome
+  - CCGP
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.09.13.557621

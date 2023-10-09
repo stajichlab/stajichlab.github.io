@@ -1,15 +1,14 @@
-- id: pmid:37740386
-  image: images/publication_images/acarospora_fig1.jpg
-  tags:
-    - Acarospora
-    - genome
-    - CCGP
 - id: doi:10.1101/2022.10.18.512709
   image: images/publication_images/conoideocrella_2023.jpg
   tags: 
     - Conoideocrella
     - biocontrol
     - Clavicipitaceae
+- id: pmid:37740386
+  tags:
+    - Acarospora
+    - genome
+    - CCGP
 - id: doi:10.1101/2023.09.13.557621
   image: images/publication_images/Emusc_Fig1C.png
   tags: 
