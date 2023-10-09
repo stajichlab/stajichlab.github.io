@@ -1,6 +1,6 @@
 - id: pmid:37740386
   image: images/publication_images/acarospora_fig1.jpg
-    - Lichen
+  tags:
     - Acarospora
     - genome
     - CCGP
