@@ -1,3 +1,10 @@
+- id: pmid:37800904
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10597469/bin/msphere.00267-23.f001.jpg
+  tags:
+   - sharpshooter
+   - microbiome
+   - insect
+   - host-microbe
 - id: doi:10.3390/jof9111094
   image: https://www.mdpi.com/jof/jof-09-01094/article_deploy/html/images/jof-09-01094-g003-550.jpg
   tags:

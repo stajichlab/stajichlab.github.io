@@ -1,5 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:37800904
+  title: Geographical survey of the mycobiome and microbiome of Southern California
+    glassy-winged sharpshooters.
+  authors:
+  - Cassandra L Ettinger
+  - Jessica Wu-Woods
+  - Tania Kurbessoian
+  - Dylan J Brown
+  - Inaiara de Souza Pacheco
+  - Beatriz G Vindiola
+  - Linda L Walling
+  - Peter W Atkinson
+  - Frank J Byrne
+  - Richard Redak
+  - Jason E Stajich
+  publisher: mSphere
+  date: '2023-10-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37800904
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10597469/bin/msphere.00267-23.f001.jpg
+  tags:
+  - sharpshooter
+  - microbiome
+  - insect
+  - host-microbe
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/jof9111094
   title: Evaluation of Different Gene Prediction Tools in Coccidioides immitis
   authors:
