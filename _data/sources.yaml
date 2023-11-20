@@ -1,3 +1,9 @@
+- id: doi:10.3390/jof9111094
+  image: https://www.mdpi.com/jof/jof-09-01094/article_deploy/html/images/jof-09-01094-g003-550.jpg
+  tags:
+    - coccidioides
+    - onygenales
+    - RNA-seq
 - id: doi:10.1101/2022.10.18.512709
   image: images/publication_images/conoideocrella_2023.jpg
   tags: 
