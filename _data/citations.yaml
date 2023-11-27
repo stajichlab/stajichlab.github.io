@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:37988381
+  title: Key processes required for the different stages of fungal carnivory by a
+    nematode-trapping fungus.
+  authors:
+  - Hung-Che Lin
+  - Guillermo Vidal-Diez de Ulzurrun
+  - Sheng-An Chen
+  - Ching-Ting Yang
+  - Rebecca J Tay
+  - Tomoyo Iizuka
+  - Tsung-Yu Huang
+  - Chih-Yen Kuo
+  - "A Pedro Gon\xE7alves"
+  - Siou-Ying Lin
+  - Yu-Chu Chang
+  - Jason E Stajich
+  - Erich M Schwarz
+  - Yen-Ping Hsueh
+  publisher: PLoS biology
+  date: '2023-11-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37988381
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3002400.g002
+  tags:
+  - nematode trapping fungi
+  - genomics
+  - transcriptome
+  - Arthrobotrys
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:37800904
   title: Geographical survey of the mycobiome and microbiome of Southern California
     glassy-winged sharpshooters.
@@ -139,18 +168,18 @@
   title: 'Herptile gut microbiomes: a natural system to study multi-kingdom interactions
     between filamentous fungi and bacteria'
   authors:
-  - Lluvia B. Vargas-Gastelum
+  - "Lluvia Vargas-Gast\xE9lum"
   - Alexander S. Romer
   - N. Reed Alexander
   - Marjan Ghotbi
-  - Kylie C Moe
-  - Kerry L McPhail
-  - George F Neuhaus
+  - Kylie C. Moe
+  - Kerry L. McPhail
+  - George F. Neuhaus
   - Leila Shadmani
   - Joseph W. Spatafora
-  - Jason E Stajich
-  - Javier F Tabima
-  - Donald Walker
+  - Jason E. Stajich
+  - Javier F. Tabima
+  - Donald M. Walker
   publisher: Cold Spring Harbor Laboratory
   date: '2023-08-25'
   link: https://doi.org/gsnctc
@@ -2809,6 +2838,7 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7104180/bin/pnas.1919726117fig02.jpg
   tags:
   - nematode trapping fungi
+  - Arthrobotrys
   - genome
   - population genomics
   plugin: sources.py

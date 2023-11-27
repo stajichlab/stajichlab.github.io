@@ -1,3 +1,10 @@
+- id: pmid:37988381
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3002400.g002
+  tags:
+   - nematode trapping fungi
+   - genomics
+   - transcriptome
+   - Arthrobotrys
 - id: pmid:37800904
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10597469/bin/msphere.00267-23.f001.jpg
   tags:
@@ -743,6 +750,7 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7104180/bin/pnas.1919726117fig02.jpg
   tags:
     - nematode trapping fungi
+    - Arthrobotrys
     - genome
     - population genomics
 - id: pmid:32139564
