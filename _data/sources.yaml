@@ -1,3 +1,11 @@
+
+- id: doi:10.1128/mra.00913-23
+  image: images/publication_images/kurbessoian_2024a.jpg
+  tags:
+    - Exophiala
+    - Black Yeast
+    - Genome
+    - Genome Announcement
 - id: pmid:37988381
   image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3002400.g002
   tags:
@@ -18,6 +26,7 @@
     - coccidioides
     - onygenales
     - RNA-seq
+    - gene prediction
 - id: doi:10.1101/2022.10.18.512709
   image: images/publication_images/conoideocrella_2023.jpg
   tags: 
@@ -132,6 +141,7 @@
   tags: 
     - fusarium
     - citrus
+    - Genome Announcement
 - id: pmid:36930540
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10079182/bin/evad046f1.jpg
   tags:
@@ -177,6 +187,7 @@
     - cyanobacteria
     - metagenome
     - virus
+    - Genome Announcement
 - id: doi:10.3390/jof9010031
   image: https://pub.mdpi-res.com/jof/jof-09-00031/article_deploy/html/images/jof-09-00031-g001.png
   tags:
@@ -491,6 +502,7 @@
     - cyanobacteria
     - metagenomics
     - aridlands
+    - Genome Announcement
 - id: pmid:34067070
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8150946/bin/jof-07-00366-g001.jpg
   title: Transcriptional Analysis of <i>Coccidioides immitis</i> Mycelia and Spherules by RNA Sequencing
@@ -881,9 +893,12 @@
   tags:
     - Verticllium
     - genome
+    - Genome Announcement
 - id: pmid:30697917
   tags:
     - systematics
+    - Pyricularia
+    - wheat blast
 - id: pmid:30673440
   image: https://ucanr.edu/blogs/Topics/blogfiles/26378.jpg
   tags:

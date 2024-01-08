@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1128/mra.00913-23
+  title: Draft genome sequence of a black yeast fungus <i>Exophiala xenobiotica</i>
+    isolated from La Brea Tar Pits
+  authors:
+  - Tania Kurbessoian
+  - Danielle Stevenson
+  - Renata Haro
+  - Samantha Ying
+  - Jason E. Stajich
+  publisher: Microbiology Resource Announcements
+  date: '2024-01-05'
+  link: https://doi.org/gtcp5h
+  image: images/publication_images/kurbessoian_2024a.jpg
+  tags:
+  - Exophiala
+  - Black Yeast
+  - Genome
+  - Genome Announcement
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:37988381
   title: Key processes required for the different stages of fungal carnivory by a
     nematode-trapping fungus.
@@ -69,17 +89,21 @@
   - coccidioides
   - onygenales
   - RNA-seq
+  - gene prediction
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.10.18.512709
-  title: '<i>Conoideocrella luteorostrata</i>(Hypocreales: Claviciptaceae), a potential
-    biocontrol fungus for elongate hemlock scale in United States Christmas tree production
-    areas'
+  title: 'Morphological and phylogenetic resolution of <i>Conoideocrella luteorostrata</i>
+    (Hypocreales: Clavicipitaceae), a potential biocontrol fungus for <i>Fiorinia
+    externa</i> in United States Christmas tree production areas'
   authors:
-  - Hana Barrett
   - Brian Lovett
+  - Hana Barrett
+  - Angie M. Macias
+  - Jason E. Stajich
+  - Lindsay R. Kasson
   - Matt T. Kasson
-  publisher: Cold Spring Harbor Laboratory
+  publisher: Microbiology
   date: '2022-10-18'
   link: https://doi.org/gstv3f
   image: images/publication_images/conoideocrella_2023.jpg
@@ -103,7 +127,7 @@
   - Noravit Chumchim
   - Jason E Stajich
   publisher: The Journal of heredity
-  date: '2023-09-07'
+  date: '2023-11-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37740386
   image: images/publication_images/acarospora_fig1.jpg
   tags:
@@ -114,7 +138,7 @@
   file: sources.yaml
 - id: doi:10.1101/2023.09.13.557621
   title: Signatures of transposon-mediated genome inflation, host specialization,
-    and photoentrainment in<i>Entomophthora muscae</i>and allied entomophthoralean
+    and photoentrainment in <i>Entomophthora muscae</i> and allied entomophthoralean
     fungi
   authors:
   - Jason E. Stajich
@@ -122,11 +146,11 @@
   - Emily Lee
   - Angie M. Macias
   - Ann E. Hajek
-  - Benjamin L. de Bivort
+  - Benjamin L. De Bivort
   - Matt T. Kasson
   - Henrik H. De Fine Licht
   - Carolyn Elya
-  publisher: Cold Spring Harbor Laboratory
+  publisher: Genomics
   date: '2023-09-16'
   link: https://doi.org/gsqxj7
   image: images/publication_images/Emusc_Fig1C.png
@@ -452,6 +476,7 @@
   tags:
   - fusarium
   - citrus
+  - Genome Announcement
   plugin: sources.py
   file: sources.yaml
 - id: pmid:36930540
@@ -611,7 +636,7 @@
   - Ryan D. Ward
   - Nicole Pietrasiak
   - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: Microbiology
   date: '2022-12-14'
   link: https://doi.org/grj82b
   image: https://journals.asm.org/cms/10.1128/MRA.00258-21/asset/a8c321ec-3a0c-4043-bb6f-c507f04481d2/assets/images/large/mra.00258-21-f001.jpg
@@ -619,6 +644,7 @@
   - cyanobacteria
   - metagenome
   - virus
+  - Genome Announcement
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/jof9010031
@@ -1237,7 +1263,7 @@
   - Gokalp Yildirir
   - Nicolas Corradi
   publisher: Microbial Genomics
-  date: '2022-04-22'
+  date: '2022-04-26'
   link: https://doi.org/gpx7fz
   image: images/publication_images/mgen000810-f1.gif
   tags:
@@ -1682,6 +1708,7 @@
   - cyanobacteria
   - metagenomics
   - aridlands
+  - Genome Announcement
   plugin: sources.py
   file: sources.yaml
 - id: pmid:34067070
@@ -3319,6 +3346,7 @@
   tags:
   - Verticllium
   - genome
+  - Genome Announcement
   plugin: sources.py
   file: sources.yaml
 - id: pmid:30697917
@@ -3346,6 +3374,8 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/30697917
   tags:
   - systematics
+  - Pyricularia
+  - wheat blast
   plugin: sources.py
   file: sources.yaml
 - id: pmid:30673440
