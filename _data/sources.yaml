@@ -1,3 +1,14 @@
+- id: doi:10.1101/2024.01.04.574182
+  tags:
+    - Mycovirus
+    - NCLDV
+    - Chytrid
+    - Fungi
+- id: doi:10.1101/2023.10.16.562584
+  tags:
+    - zygomycete
+    - Fungi
+    - Bacterial-Fungi interactions
 - id: doi:10.1128/mra.01080-23
   image: images/publication_images/crust_wetting.jpg
   tags:
