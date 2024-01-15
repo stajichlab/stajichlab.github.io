@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1101/2024.01.04.574182
+  title: Large DNA viruses in early diverging fungal genomes are relics of past and
+    present infections
+  authors:
+  - Jillian M. Myers
+  - Frederik Schulz
+  - Saleh Rahimlou
+  - Kevin R. Amses
+  - D. Rabern Simmons
+  - Jason E. Stajich
+  - Timothy Y. James
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-01-05'
+  link: https://doi.org/gtcwqs
   tags:
   - Mycovirus
   - NCLDV
@@ -29,6 +42,33 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/mra.01080-23
+  title: Metatranscriptomes of two biological soil crust types from the Mojave desert
+    in response to wetting
+  authors:
+  - Thuy M. Nguyen
+  - Nuttapon Pombubpa
+  - Marcel Huntemann
+  - Alicia Clum
+  - Brian Foster
+  - Bryce Foster
+  - Simon Roux
+  - Krishnaveni Palaniappan
+  - Neha Varghese
+  - Supratim Mukherjee
+  - T. B. K. Reddy
+  - Chris Daum
+  - Alex Copeland
+  - I-Min A. Chen
+  - Natalia N. Ivanova
+  - Nikos C. Kyrpides
+  - Miranda Harmon-Smith
+  - Emiley A. Eloe-Fadrosh
+  - Nicole Pietrasiak
+  - Jason E. Stajich
+  - Erik F. Y. Hom
+  publisher: Microbiology Resource Announcements
+  date: '2024-01-08'
+  link: https://doi.org/gtcwqt
   image: images/publication_images/crust_wetting.jpg
   tags:
   - biocrust
