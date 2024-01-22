@@ -1,6 +1,6 @@
 ---
-title: Jericho Ortanez
-name: Jericho Ortanez
+title: Jericho Ortañez
+name: Jericho Ortañez
 description: Junior Specialist
 role: staff
 group: alum

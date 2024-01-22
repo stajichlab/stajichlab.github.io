@@ -2,7 +2,7 @@
 name: Sadikshya Sharma
 title: Sadikshya Sharma
 description: Assistant Specialist
-role: staff
+role: phd
 group: current
 image: images/members/sadikshya-sharma.jpg
 ---
