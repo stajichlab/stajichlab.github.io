@@ -54,13 +54,8 @@ These are past lab members who have moved on in their careers.
 # Lab Group Memories
 {% capture content %}
 
-   ![](/images/lab_photo/LabGroup_2010b.jpg)
-
-   ![](/images/lab_photo/LabGroup_2010a.jpg)
 {% endcapture %}
 {% include grid.html content=content %}
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/stajich/albums/72157624144113608" title="2010 May Lab outing @ Tio&#x27;s"><img src="https://live.staticflickr.com/3383/4643529360_54984e5838_h.jpg" width="1600" height="1200" alt="2010 May Lab outing @ Tio&#x27;s"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Funding
 
