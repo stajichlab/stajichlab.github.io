@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.01.20.575729
+  title: Haplotype phased genome of 'Fairchild' mandarin highlights influence of local
+    chromatin state on gene expression
+  authors:
+  - Isaac A. Diaz
+  - Talieh Ostovar
+  - Jinfeng Chen
+  - Sarah Saddoris
+  - Robert J. Schmitz
+  - Susan R. Wessler
+  - Jason Stajich
+  - Danelle K. Seymour
+  publisher: bioRxiv
+  date: '2024-01-24'
+  link: https://doi.org/gtftcr
+  tags:
+  - Citrus
+  - Genome
+  - Transposable elements
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2024.01.04.574182
   title: Large DNA viruses in early diverging fungal genomes are relics of past and
     present infections
