@@ -1,3 +1,8 @@
+- id: doi:10.1101/2024.01.24.576925
+  tags:
+    - Batrachochytrium
+    - Compartive Genomics
+    - pangenome
 - id: doi:10.1101/2024.01.20.575729
   image: images/publication_images/Citrus_stack.jpg
   tags:
