@@ -1,8 +1,33 @@
-- id: doi:10.1101/2024.01.24.576925
+- id: pmid:38465644
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10930103/bin/TEMI_A_2315960_F0001_OC.gif
+  tags:
+    - Histoplasma
+- id: pmid:38275281
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/umyc20.v116.i02
+  tags: 
+    - Conoideocrella
+    - biocontrol
+    - Clavicipitaceae
+- id: pmid:38490202
   tags:
     - Batrachochytrium
-    - Compartive Genomics
+    - Mycovirus
+    - Genome
+    - Frog
+    - Virulence
+- id: doi:10.1101/2024.01.24.576925
+  image: images/publication_images/Yacoub_2024.gif
+  tags:
+    - Batrachochytrium
+    - Comparative Genomics
     - pangenome
+- id: pmid:38349154
+  image: images/publication_images/Vargas_2024.jpg
+  tags:
+    - Herptile
+    - Microbiome
+    - Network
+    - Bacterial-Fungal Interactions
 - id: doi:10.1101/2024.01.20.575729
   image: images/publication_images/Citrus_stack.jpg
   tags:
@@ -39,17 +64,17 @@
 - id: pmid:37988381
   image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3002400.g002
   tags:
-   - nematode trapping fungi
-   - genomics
-   - transcriptome
-   - Arthrobotrys
+    - nematode trapping fungi
+    - genomics
+    - transcriptome
+    - Arthrobotrys
 - id: pmid:37800904
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10597469/bin/msphere.00267-23.f001.jpg
   tags:
-   - sharpshooter
-   - microbiome
-   - insect
-   - host-microbe
+    - sharpshooter
+    - microbiome
+    - insect
+    - host-microbe
 - id: doi:10.3390/jof9111094
   image: https://www.mdpi.com/jof/jof-09-01094/article_deploy/html/images/jof-09-01094-g003-550.jpg
   tags:
@@ -57,12 +82,6 @@
     - onygenales
     - RNA-seq
     - gene prediction
-- id: doi:10.1101/2022.10.18.512709
-  image: images/publication_images/conoideocrella_2023.jpg
-  tags: 
-    - Conoideocrella
-    - biocontrol
-    - Clavicipitaceae
 - id: pmid:37740386
   image: images/publication_images/acarospora_fig1.jpg
   tags:
@@ -1318,7 +1337,7 @@
 - id: pmid:21268975
   tags:
     - Batrachochytrium
-    - review
+    - Review
 - id: pmid:20885784
   tags:
     - meiosis
