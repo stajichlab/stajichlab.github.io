@@ -55,13 +55,13 @@
 <meta property="og:title" content="A desert foray">
 <meta property="og:site_title" content="Stajich Laboratory for Fungal Evolutionary Genomics">
 <meta property="og:description" content="An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
-<meta property="og:url" content="">
+<meta property="og:url" content="https://github.com">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="A desert foray">
 <meta property="twitter:description" content="An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
-<meta property="twitter:url" content="">
+<meta property="twitter:url" content="https://github.com">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
 
@@ -82,7 +82,7 @@
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
     },
-    "url": ""
+    "url": "https://github.com"
   }
 </script>
 
@@ -96,9 +96,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -307,6 +307,8 @@
 
   <script src="/_scripts/site-search.js"></script>
 
+  <script src="/_scripts/table-wrap.js"></script>
+
   <script src="/_scripts/tooltip.js"></script>
 
 
@@ -388,9 +390,9 @@
       </span>
     
     
-      <span class="title" data-tooltip="Home">
+      <span class="title-text" data-tooltip="Home">
         
-          <span>Stajich Laboratory for Fungal Evolutionary Genomics</span>
+          <span class="title">Stajich Laboratory for Fungal Evolutionary Genomics</span>
         
         
       </span>
@@ -446,7 +448,6 @@
   modify main content of page:
   - add section breaks
   - attach section properties
-  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
 
@@ -455,14 +456,19 @@
 
 
 
-
-
   
   
   
 
-  <section class="background" data-size="page">
-    <h1 class="center">A desert foray</h1>
+  <section class="background" data-size="1" style="--image: url('/Nat_Sampling.jpg')">
+    <!--
+  background: Nat_Sampling.jpg;
+  dark: ;
+  size: 1;
+-->
+
+
+<h1 class="center">A desert foray</h1>
 
 <div class="post-info">
   

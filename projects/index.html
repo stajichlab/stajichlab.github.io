@@ -55,13 +55,13 @@
 <meta property="og:title" content="Projects">
 <meta property="og:site_title" content="Stajich Laboratory for Fungal Evolutionary Genomics">
 <meta property="og:description" content="An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
-<meta property="og:url" content="">
+<meta property="og:url" content="https://github.com">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Projects">
 <meta property="twitter:description" content="An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
-<meta property="twitter:url" content="">
+<meta property="twitter:url" content="https://github.com">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
 
@@ -82,7 +82,7 @@
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
     },
-    "url": ""
+    "url": "https://github.com"
   }
 </script>
 
@@ -96,9 +96,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -359,6 +359,8 @@
 
   <script src="/_scripts/site-search.js"></script>
 
+  <script src="/_scripts/table-wrap.js"></script>
+
   <script src="/_scripts/tooltip.js"></script>
 
 
@@ -440,9 +442,9 @@
       </span>
     
     
-      <span class="title" data-tooltip="Home">
+      <span class="title-text" data-tooltip="Home">
         
-          <span>Stajich Laboratory for Fungal Evolutionary Genomics</span>
+          <span class="title">Stajich Laboratory for Fungal Evolutionary Genomics</span>
         
         
       </span>
@@ -498,11 +500,8 @@
   modify main content of page:
   - add section breaks
   - attach section properties
-  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
-
-
 
 
 
@@ -516,6 +515,22 @@
   <section class="background" data-size="page">
     <h1 id="projects">
 <i class="icon fa-solid fa-wrench"></i>Projects</h1>
+
+<div class="tags" data-link="https://github.com/projects/">
+    
+      <a href="https://github.com/projects/?search=%22tag:%20publication%22" class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
+      </a>
+    
+      <a href="https://github.com/projects/?search=%22tag:%20resource%22" class="tag" data-tooltip='Show items with the tag "resource"'>
+        resource
+      </a>
+    
+      <a href="https://github.com/projects/?search=%22tag:%20website%22" class="tag" data-tooltip='Show items with the tag "website"'>
+        website
+      </a>
+    
+  </div>
 
 <div class="search-info"></div>
   </section>
@@ -550,8 +565,10 @@
     
 
     
-      <p>Automated genome annotation pipeline that includes self-training, RNAseq incorporation in training and prediction, functional annotation, and comparative genomics. Developed by <a href="https://github.com/nextgenusfs">Jon Palmer</a> with input from Jason Stajich</p>
+      <p>
+        Automated genome annotation pipeline that includes self-training, RNAseq incorporation in training and prediction, functional annotation, and comparative genomics. Developed by <a href="https://github.com/nextgenusfs">Jon Palmer</a> with input from Jason Stajich
 
+      </p>
     
 
     
@@ -586,8 +603,10 @@
     
 
     
-      <p>SOPs for Data analyses</p>
+      <p>
+        SOPs for Data analyses
 
+      </p>
     
 
     
@@ -618,8 +637,10 @@
     
 
     
-      <p>Automated genome assembly for simple genome projects (best for Haploids)</p>
+      <p>
+        Automated genome assembly for simple genome projects (best for Haploids)
 
+      </p>
     
 
     
@@ -654,8 +675,10 @@
     
 
     
-      <p>Phylogenomic package using BUSCO or custom protein HMMs</p>
+      <p>
+        Phylogenomic package using BUSCO or custom protein HMMs
 
+      </p>
     
 
     
@@ -704,8 +727,10 @@
     
 
     
-      <p>BioPerl project code</p>
+      <p>
+        BioPerl project code
 
+      </p>
     
 
     
@@ -740,8 +765,10 @@
     
 
     
-      <p>An alternate tool for genome completeness that incorporates coding and non-coding elements</p>
+      <p>
+        An alternate tool for genome completeness that incorporates coding and non-coding elements
 
+      </p>
     
 
     
@@ -780,8 +807,10 @@
     
 
     
-      <p>Transposable element insertion site mapping tool using short-reads for population resequencing</p>
+      <p>
+        Transposable element insertion site mapping tool using short-reads for population resequencing
 
+      </p>
     
 
     
@@ -814,8 +843,10 @@
     
 
     
-      <p>Low/Medium Coverage Zygo Genome assembly and annotation</p>
+      <p>
+        Low/Medium Coverage Zygo Genome assembly and annotation
 
+      </p>
     
 
     
@@ -850,8 +881,10 @@
     
 
     
-      <p>Zygomycetes Genealoogy of Life</p>
+      <p>
+        Zygomycetes Genealoogy of Life
 
+      </p>
     
 
     
@@ -894,8 +927,10 @@
     
 
     
-      <p>1000 Fungal genomes project</p>
+      <p>
+        1000 Fungal genomes project
 
+      </p>
     
 
     
@@ -938,8 +973,10 @@
     
 
     
-      <p>Tools for calculating summary statistics for public fungal genomes in NCBI and downloading genomes and annotations</p>
+      <p>
+        Tools for calculating summary statistics for public fungal genomes in NCBI and downloading genomes and annotations
 
+      </p>
     
 
     
@@ -978,8 +1015,10 @@
     
 
     
-      <p>1KFG 2019 freeze - downloads and processing for 1kfg project datasets from JGI and other</p>
+      <p>
+        1KFG 2019 freeze - downloads and processing for 1kfg project datasets from JGI and other
 
+      </p>
     
 
     
@@ -1022,8 +1061,10 @@
     
 
     
-      <p>Protein HMMs for several public phylogenomic marker sets for Fungal Phylogenomics</p>
+      <p>
+        Protein HMMs for several public phylogenomic marker sets for Fungal Phylogenomics
 
+      </p>
     
 
     
