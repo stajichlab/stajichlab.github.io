@@ -5,6 +5,7 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 logo: images/logo.svg
 header: images/backgrounds/mojave_cholla_background.jpg
 footer: images/backgrounds/mojave_cholla_background.jpg
+proofer: false
 baseurl: /
 
 # site social media and other links

@@ -113,8 +113,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.01.20.575729
-  title: Haplotype phased genome of 'Fairchild' mandarin highlights influence of local
-    chromatin state on gene expression
+  title: "Haplotype phased genome of \u2018Fairchild\u2019 mandarin highlights influence\
+    \ of local chromatin state on gene expression"
   authors:
   - Isaac A. Diaz
   - Talieh Ostovar
@@ -124,7 +124,7 @@
   - Susan R. Wessler
   - Jason Stajich
   - Danelle K. Seymour
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2024-01-24'
   link: https://doi.org/gtftcr
   image: images/publication_images/Citrus_stack.jpg
@@ -157,16 +157,17 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.10.16.562584
-  title: Prevalence and diversity of TAL effector-like proteins in fungal endosymbiotic<i>Mycetohabitans
-    spp</i>
+  title: Prevalence and diversity of TAL effector-like proteins in fungal endosymbiotic
+    Mycetohabitans spp.
   authors:
   - Sara C. D. Carpenter
   - Adam J. Bogdanove
-  - Jason E. Stajich
+  - Bhuwan Abbot
+  - Jason Eric Stajich
   - Jessie Uehling
   - Brian Lovett
-  - Matt Kasson
-  - Morgan E. Carter
+  - Matt T Kasson
+  - Morgan E Carter
   publisher: Cold Spring Harbor Laboratory
   date: '2023-10-16'
   link: https://doi.org/gtcp5r
@@ -203,7 +204,7 @@
   - Jason E. Stajich
   - Erik F. Y. Hom
   publisher: Microbiology Resource Announcements
-  date: '2024-01-08'
+  date: '2024-02-15'
   link: https://doi.org/gtcwqt
   image: images/publication_images/crust_wetting.jpg
   tags:
@@ -214,8 +215,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/mra.00913-23
-  title: Draft genome sequence of a black yeast fungus <i>Exophiala xenobiotica</i>
-    isolated from La Brea Tar Pits
+  title: "Draft genome sequence of a black yeast fungus\n            <i>Exophiala\
+    \ xenobiotica</i>\n            isolated from La Brea Tar Pits"
   authors:
   - Tania Kurbessoian
   - Danielle Stevenson
@@ -223,7 +224,7 @@
   - Samantha Ying
   - Jason E. Stajich
   publisher: Microbiology Resource Announcements
-  date: '2024-01-05'
+  date: '2024-02-15'
   link: https://doi.org/gtcp5h
   image: images/publication_images/kurbessoian_2024a.jpg
   tags:
@@ -330,7 +331,7 @@
   file: sources.yaml
 - id: doi:10.1101/2023.09.13.557621
   title: Signatures of transposon-mediated genome inflation, host specialization,
-    and photoentrainment in <i>Entomophthora muscae</i> and allied entomophthoralean
+    and photoentrainment in<i>Entomophthora muscae</i>and allied entomophthoralean
     fungi
   authors:
   - Jason E. Stajich
@@ -338,11 +339,11 @@
   - Emily Lee
   - Angie M. Macias
   - Ann E. Hajek
-  - Benjamin L. De Bivort
+  - Benjamin L. de Bivort
   - Matt T. Kasson
   - Henrik H. De Fine Licht
   - Carolyn Elya
-  publisher: Genomics
+  publisher: Cold Spring Harbor Laboratory
   date: '2023-09-16'
   link: https://doi.org/gsqxj7
   image: images/publication_images/Emusc_Fig1C.png
@@ -828,7 +829,7 @@
   - Ryan D. Ward
   - Nicole Pietrasiak
   - Jason E. Stajich
-  publisher: Microbiology
+  publisher: Cold Spring Harbor Laboratory
   date: '2022-12-14'
   link: https://doi.org/grj82b
   image: https://journals.asm.org/cms/10.1128/MRA.00258-21/asset/a8c321ec-3a0c-4043-bb6f-c507f04481d2/assets/images/large/mra.00258-21-f001.jpg
