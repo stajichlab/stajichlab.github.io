@@ -1,3 +1,15 @@
+- id: pmid:38329355
+  image: images/publication_images/crust_wetting.jpg
+  tags:
+    - biocrust
+    - biological crust
+    - Metagenome
+- id: pmid:38189307
+  image: images/publication_images/coleine_2024.jpg
+  tags:
+    - Extremophile
+    - Antarctica
+    - Bacteria
 - id: pmid:38465644
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10930103/bin/TEMI_A_2315960_F0001_OC.gif
   tags:
@@ -9,6 +21,7 @@
     - biocontrol
     - Clavicipitaceae
 - id: pmid:38490202
+  image: images/publication_images/Clemons_2024.jpg
   tags:
     - Batrachochytrium
     - Mycovirus

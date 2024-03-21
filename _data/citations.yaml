@@ -1,5 +1,75 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:38329355
+  title: Whole community shotgun metagenomes of two biological soil crust types from
+    the Mojave Desert.
+  authors:
+  - Thuy M Nguyen
+  - Nuttapon Pombubpa
+  - Marcel Huntemann
+  - Alicia Clum
+  - Brian Foster
+  - Bryce Foster
+  - Simon Roux
+  - Krishnaveni Palaniappan
+  - Neha Varghese
+  - Supratim Mukherjee
+  - T B K Reddy
+  - Chris Daum
+  - Alex Copeland
+  - I-Min A Chen
+  - Natalia N Ivanova
+  - Nikos C Kyrpides
+  - Miranda Harmon-Smith
+  - Emiley A Eloe-Fadrosh
+  - Nicole Pietrasiak
+  - Jason E Stajich
+  - Erik F Y Hom
+  publisher: Microbiology resource announcements
+  date: '2024-02-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38329355
+  image: images/publication_images/crust_wetting.jpg
+  tags:
+  - biocrust
+  - biological crust
+  - Metagenome
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:38189307
+  title: Metatranscriptomes of two biological soil crust types from the Mojave desert
+    in response to wetting.
+  authors:
+  - Thuy M Nguyen
+  - Nuttapon Pombubpa
+  - Marcel Huntemann
+  - Alicia Clum
+  - Brian Foster
+  - Bryce Foster
+  - Simon Roux
+  - Krishnaveni Palaniappan
+  - Neha Varghese
+  - Supratim Mukherjee
+  - T B K Reddy
+  - Chris Daum
+  - Alex Copeland
+  - I-Min A Chen
+  - Natalia N Ivanova
+  - Nikos C Kyrpides
+  - Miranda Harmon-Smith
+  - Emiley A Eloe-Fadrosh
+  - Nicole Pietrasiak
+  - Jason E Stajich
+  - Erik F Y Hom
+  publisher: Microbiology resource announcements
+  date: '2024-01-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38189307
+  image: images/publication_images/coleine_2024.jpg
+  tags:
+  - Extremophile
+  - Antarctica
+  - Bacteria
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:38465644
   title: Tracing histoplasmosis genomic epidemiology and species occurrence across
     the USA.
@@ -60,6 +130,7 @@
   publisher: 'Current biology : CB'
   date: '2024-03-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38490202
+  image: images/publication_images/Clemons_2024.jpg
   tags:
   - Batrachochytrium
   - Mycovirus
