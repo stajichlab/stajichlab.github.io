@@ -60,13 +60,6 @@
     - zygomycete
     - Fungi
     - Bacterial-Fungi interactions
-- id: doi:10.1128/mra.01080-23
-  image: images/publication_images/crust_wetting.jpg
-  tags:
-    - biocrust
-    - biological crust
-    - metatranscriptome
-    - Genome Announcement
 - id: doi:10.1128/mra.00913-23
   image: images/publication_images/kurbessoian_2024a.jpg
   tags:
