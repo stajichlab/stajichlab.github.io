@@ -29,8 +29,9 @@
     - Antarctica
     - Metagenome
 - id: doi:10.1007/s13225-024-00533-y
-  image:
+  image: images/publication_images/coleine2024.jpg
   tags: 
+    - Black Yeast
 - id: pmid:38329355
   image: images/publication_images/crust_wetting.jpg
   tags:
@@ -48,8 +49,8 @@
   tags:
     - Histoplasma
 - id: pmid:38275281
-  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/umyc20.v116.i02
-  title: Morphological and phylogenetic resolution of <i>Conoideocrella luteorostrata</i>8 (Hypocreales: Clavicipitaceae), a potential biocontrol fungus for Fiorinia externa in United States Christmas tree production areas
+  image: images/publication_images/Conoideocrella.jpg
+  title: Morphological and phylogenetic resolution of <i>Conoideocrella luteorostrata</i> (Hypocreales, Clavicipitaceae), a potential biocontrol fungus for Fiorinia externa in United States Christmas tree production areas
   tags:
     - Conoideocrella
     - biocontrol
@@ -373,7 +374,7 @@
     - ploidy
     - phylogenomics
 - id: pmid:36012777
-  title: The Early Terrestrial Fungal Lineage of <i>Conidiobolus</i> - Transition from Saprotroph to Parasitic Lifestyle
+  title: The Early Terrestrial Fungal Lineage of Conidiobolus - Transition from Saprotroph to Parasitic Lifestyle
   image: images/publication_images/conidiobolus.jpg
 - id: doi:10.1016/j.isci.2022.104840
   image: images/publication_images/rhizopus.jpg

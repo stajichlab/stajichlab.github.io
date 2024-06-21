@@ -1,5 +1,156 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:38873189
+  title: 'Study of fungal cell wall evolution through its monosaccharide composition:
+    An insight into fungal species interacting with plants.'
+  authors:
+  - Sara I Yugueros
+  - "Jorge Pel\xE1ez"
+  - Jason E Stajich
+  - "Mar\xEDa Fuertes-Rabanal"
+  - "Andrea S\xE1nchez-Vallet"
+  - Asier Largo-Gosens
+  - "Hugo M\xE9lida"
+  publisher: Cell surface (Amsterdam, Netherlands)
+  date: '2024-05-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38873189
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11170279/bin/gr3.jpg
+  tags:
+  - cell wall
+  - fungi
+  - comparative
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:38860878
+  title: Prevalence and diversity of TAL effector-like proteins in fungal endosymbiotic
+  authors:
+  - Sara C D Carpenter
+  - Adam J Bogdanove
+  - Bhuwan Abbot
+  - Jason E Stajich
+  - Jessie K Uehling
+  - Brian Lovett
+  - Matt T Kasson
+  - Morgan E Carter
+  publisher: Microbial genomics
+  date: '2024-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38860878
+  image: https://www.microbiologyresearch.org/docserver/ahah/fulltext/mgen/10/6/mgen001261-f1_thmb.gif
+  tags:
+  - Bacterial-Fungal Interactions
+  - zygomycete
+  - Mucoromycotina
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:38806503
+  title: Genomic and morphological characterization of Knufia obscura isolated from
+    the Mars 2020 spacecraft assembly facility.
+  authors:
+  - Atul Munish Chander
+  - Marcus de Melo Teixeira
+  - Nitin K Singh
+  - Michael P Williams
+  - Ceth W Parker
+  - Patrick Leo
+  - Jason E Stajich
+  - Tamas Torok
+  - Scott Tighe
+  - Christopher E Mason
+  - Kasthuri Venkateswaran
+  publisher: Scientific reports
+  date: '2024-05-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38806503
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11133487/bin/41598_2024_61115_Fig1_HTML.jpg
+  tags:
+  - Black yeast
+  - Knufia
+  - Fungi
+  - Space Fungi
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:38609393
+  title: Epidemiological, clinical, and genomic landscape of coccidioidomycosis in
+    northeastern Brazil.
+  authors:
+  - "Kelsen Dantas Eul\xE1lio"
+  - Daniel R Kollath
+  - Liline Maria Soares Martins
+  - Antonio de Deus Filho
+  - Maria do Amparo Salmito Cavalcanti
+  - Lucas Machado Moreira
+  - "Bernardo Guerra Ten\xF3rio"
+  - Lucas Gomes de Brito Alves
+  - Danielle Yamauchi
+  - Ligia Vizeu Barrozo
+  - George R Thompson Iii
+  - Mathieu Nacher
+  - Jason E Stajich
+  - Gil Benard
+  - Eduardo Bagagli
+  - Maria Sueli Soares Felipe
+  - Bridget M Barker
+  - Luciana Trilles
+  - Marcus de Melo Teixeira
+  publisher: Nature communications
+  date: '2024-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38609393
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11014852/bin/41467_2024_47388_Fig3_HTML.jpg
+  tags:
+  - Coccidioidomycosis
+  - Coccidioides
+  - Brazil
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:38244622
+  title: Metagenomics untangles potential adaptations of Antarctic endolithic bacteria
+    at the fringe of habitability.
+  authors:
+  - Claudia Coleine
+  - Davide Albanese
+  - Angelique E Ray
+  - Manuel Delgado-Baquerizo
+  - Jason E Stajich
+  - Timothy J Williams
+  - Stefano Larsen
+  - Susannah Tringe
+  - Christa Pennacchio
+  - Belinda C Ferrari
+  - Claudio Donati
+  - Laura Selbmann
+  publisher: The Science of the total environment
+  date: '2024-01-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38244622
+  image: images/publication_images/endolithic_microbes.jpg
+  tags:
+  - Antarctica
+  - Metagenome
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s13225-024-00533-y
+  title: Class-wide genomic tendency throughout specific extremes in black fungi
+  authors:
+  - Claudia Coleine
+  - Tania Kurbessoian
+  - Giulia Calia
+  - Manuel Delgado-Baquerizo
+  - Alessandro Cestaro
+  - Massimo Pindo
+  - Federica Armanini
+  - Francesco Asnicar
+  - Daniela Isola
+  - Nicola Segata
+  - Claudio Donati
+  - Jason E. Stajich
+  - Sybren de Hoog
+  - Laura Selbmann
+  publisher: Fungal Diversity
+  date: '2024-02-26'
+  link: https://doi.org/gtz7x3
+  image: images/publication_images/coleine2024.jpg
+  tags:
+  - Black Yeast
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:38329355
   title: Whole community shotgun metagenomes of two biological soil crust types from
     the Mojave Desert.
@@ -94,7 +245,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: pmid:38275281
-  title: Morphological and phylogenetic resolution of
+  title: Morphological and phylogenetic resolution of <i>Conoideocrella luteorostrata</i>
+    (Hypocreales, Clavicipitaceae), a potential biocontrol fungus for Fiorinia externa
+    in United States Christmas tree production areas
   authors:
   - Brian Lovett
   - Hana Barrett
@@ -105,7 +258,7 @@
   publisher: Mycologia
   date: '2024-01-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38275281
-  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/umyc20.v116.i02
+  image: images/publication_images/Conoideocrella.jpg
   tags:
   - Conoideocrella
   - biocontrol
@@ -128,7 +281,7 @@
   - Timothy Y James
   - Jason E Stajich
   publisher: 'Current biology : CB'
-  date: '2024-03-08'
+  date: '2024-03-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38490202
   image: images/publication_images/Clemons_2024.jpg
   tags:
@@ -367,23 +520,22 @@
   - CCGP
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.09.13.557621
+- id: pmid:38767950
   title: Signatures of transposon-mediated genome inflation, host specialization,
-    and photoentrainment in<i>Entomophthora muscae</i>and allied entomophthoralean
-    fungi
+    and photoentrainment in
   authors:
-  - Jason E. Stajich
+  - Jason E Stajich
   - Brian Lovett
   - Emily Lee
-  - Angie M. Macias
-  - Ann E. Hajek
-  - Benjamin L. de Bivort
-  - Matt T. Kasson
-  - Henrik H. De Fine Licht
+  - Angie M Macias
+  - Ann E Hajek
+  - Benjamin L de Bivort
+  - Matt T Kasson
+  - Henrik H De Fine Licht
   - Carolyn Elya
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-09-16'
-  link: https://doi.org/gsqxj7
+  publisher: eLife
+  date: '2024-05-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38767950
   image: images/publication_images/Emusc_Fig1C.png
   tags:
   - Entomophthora
@@ -870,7 +1022,6 @@
   link: https://doi.org/grj8z6
   image: https://pub.mdpi-res.com/jof/jof-09-00031/article_deploy/html/images/jof-09-00031-g001.png
   tags:
-  - space fungi
   - ISS
   - taxonomy
   - Space Fungi
@@ -1245,8 +1396,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: pmid:36012777
-  title: The Early Terrestrial Fungal Lineage of <i>Conidiobolus</i> - Transition
-    from Saprotroph to Parasitic Lifestyle
+  title: The Early Terrestrial Fungal Lineage of Conidiobolus - Transition from Saprotroph
+    to Parasitic Lifestyle
   authors:
   - Andrii P Gryganskyi
   - Yong Nie
