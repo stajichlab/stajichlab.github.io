@@ -1,3 +1,36 @@
+- id: pmid:38873189
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11170279/bin/gr3.jpg
+  tags: 
+    - cell wall
+    - fungi
+    - comparative
+- id: pmid:38860878
+  image: https://www.microbiologyresearch.org/docserver/ahah/fulltext/mgen/10/6/mgen001261-f1_thmb.gif
+  tags:
+    - Bacterial-Fungal Interactions
+    - zygomycete
+    - Mucoromycotina
+- id: pmid:38806503
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11133487/bin/41598_2024_61115_Fig1_HTML.jpg
+  tags:
+    - Black yeast
+    - Knufia
+    - Fungi
+    - Space Fungi
+- id: pmid:38609393
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11014852/bin/41467_2024_47388_Fig3_HTML.jpg
+  tags:
+    - Coccidioidomycosis
+    - Coccidioides
+    - Brazil
+- id: pmid:38244622
+  image: images/publication_images/endolithic_microbes.jpg
+  tags:
+    - Antarctica
+    - Metagenome
+- id: doi:10.1007/s13225-024-00533-y
+  image:
+  tags: 
 - id: pmid:38329355
   image: images/publication_images/crust_wetting.jpg
   tags:
@@ -16,7 +49,8 @@
     - Histoplasma
 - id: pmid:38275281
   image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/umyc20.v116.i02
-  tags: 
+  title: Morphological and phylogenetic resolution of <i>Conoideocrella luteorostrata</i>8 (Hypocreales: Clavicipitaceae), a potential biocontrol fungus for Fiorinia externa in United States Christmas tree production areas
+  tags:
     - Conoideocrella
     - biocontrol
     - Clavicipitaceae
@@ -97,7 +131,7 @@
     - Acarospora
     - genome
     - CCGP
-- id: doi:10.1101/2023.09.13.557621
+- id: pmid:38767950
   image: images/publication_images/Emusc_Fig1C.png
   tags: 
     - Entomophthora
@@ -240,7 +274,6 @@
 - id: doi:10.3390/jof9010031
   image: https://pub.mdpi-res.com/jof/jof-09-00031/article_deploy/html/images/jof-09-00031-g001.png
   tags:
-    - space fungi
     - ISS
     - taxonomy
     - Space Fungi
