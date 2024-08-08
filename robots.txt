@@ -1,1 +1,1 @@
-Sitemap: https://github.com/sitemap.xml
+Sitemap: https://lab.stajich.org/sitemap.xml
