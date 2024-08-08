@@ -5,7 +5,7 @@ description: Marie Curie Postdoctoral Fellow
 search:
   - C. Coleine
 role: postdoc
-group: current
+group: alum
 image: images/members/claudia-coleine.jpg
 links:
   twitter: ClaudiaColeine
