@@ -8,7 +8,7 @@ search:
   - Jason E. Stajich
 role: pi
 group: current
-image: images/members/Stajich_2019_2.jpg
+image: images/members/Stajich_2024_07.jpg
 links:
   home-page: http://lab.stajich.org/
   email: jason.stajich@ucr.edu

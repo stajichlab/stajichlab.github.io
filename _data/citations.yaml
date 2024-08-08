@@ -1,5 +1,42 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:38979181
+  title: Giant transposons promote strain heterogeneity in a major fungal pathogen.
+  authors:
+  - Emile Gluck-Thaler
+  - Adrian Forsythe
+  - Charles Puerner
+  - Jason E Stajich
+  - Daniel Croll
+  - Robert A Cramer
+  - Aaron A Vogan
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2024-06-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38979181
+  tags:
+  - starship
+  - transposons
+  - repetitive elements
+  - Aspergillus fumigatus
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:38915581
+  title: Description of new micro-colonial fungi species
+  authors:
+  - Tania Kurbessoian
+  - Sarah A Ahmed
+  - Yu Quan
+  - Sybren de Hoog
+  - Jason E Stajich
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2024-06-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38915581
+  tags:
+  - taxonomy
+  - black fungi
+  - genome
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:38873189
   title: 'Study of fungal cell wall evolution through its monosaccharide composition:
     An insight into fungal species interacting with plants.'

@@ -1,3 +1,14 @@
+- id: pmid:38979181
+  tags: 
+    - starship
+    - transposons
+    - repetitive elements
+    - Aspergillus fumigatus
+- id: pmid:38915581
+  tags:
+    - taxonomy
+    - black fungi
+    - genome
 - id: pmid:38873189
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11170279/bin/gr3.jpg
   tags: 
