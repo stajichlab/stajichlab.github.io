@@ -1,4 +1,5 @@
 ---
+name: Jaehyuk Choi
 title: Jaehyuk Choi
 image: images/members/jaehyuk-choi.png
 role: visitor

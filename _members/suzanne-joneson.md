@@ -1,4 +1,5 @@
 ---
+name: Suzanne Joneson
 title: Suzanne Joneson
 role: visitor
 group: alum

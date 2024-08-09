@@ -1,4 +1,5 @@
 ---
+name: Adeyinka Odebode
 title: Adeyinka Odebode
 role: visitor
 group: alum
