@@ -1,4 +1,5 @@
 ---
+name: Saisuki Putumbaka
 title: Saisuki Putumbaka
 role: undergraduate
 group: alum

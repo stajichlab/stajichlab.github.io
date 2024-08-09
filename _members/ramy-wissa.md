@@ -1,4 +1,5 @@
 ---
+name: Ramy Wissa
 title: Ramy Wissa
 role: undergraduate
 group: alum

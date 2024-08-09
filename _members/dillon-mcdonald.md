@@ -1,4 +1,5 @@
 ---
+name: Dillon McDonald
 title: Dillon McDonald
 role: undergraduate
 group: alum

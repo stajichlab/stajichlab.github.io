@@ -1,4 +1,5 @@
 ---
+name: Nicole Leung
 title: Nicole Leung
 role: undergraduate
 group: alum

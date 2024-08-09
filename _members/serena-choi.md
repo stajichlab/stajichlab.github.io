@@ -1,4 +1,5 @@
 ---
+name: Serena Choi
 title: Serena Choi
 role: undergraduate
 group: alum

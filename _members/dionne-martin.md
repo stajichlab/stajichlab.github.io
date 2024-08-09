@@ -1,4 +1,5 @@
 ---
+name: Dionne Martin
 title: Dionne Martin
 role: undergraduate
 group: alum

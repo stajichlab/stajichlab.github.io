@@ -1,8 +1,12 @@
 ---
+name: Renata Haro
 title: Renata Haro
 role: undergraduate
 image: images/members/renata-haro.jpg
 group: alum
+search:
+  - Renata Haro
+  - R Haro
 links:
   linkedin: renata-haro-05601b189
 ---

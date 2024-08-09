@@ -1,4 +1,5 @@
 ---
+name: Annie Nyguen
 title: Annie Nyguen
 role: undergraduate
 group: alum

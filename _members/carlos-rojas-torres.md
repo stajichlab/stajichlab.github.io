@@ -1,4 +1,5 @@
 ---
+name: Carlos Rojas Torres
 title: Carlos Rojas Torres
 role: undergraduate
 group: alum

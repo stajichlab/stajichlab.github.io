@@ -1,4 +1,5 @@
 ---
+name: Deane Kim
 title: Deane Kim
 role: undergraduate
 group: alum

@@ -1,4 +1,5 @@
 ---
+name: Georgiy Smirnov
 title: Georgiy Smirnov
 role: undergraduate
 group: alum
