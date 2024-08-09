@@ -20,7 +20,7 @@ redirect_from:
   - /home/people/lotus-lofgren
 ---
 
-Lotus studies mycology and ecology, write about science, code, and make scientific illustrations. She was a postdoc in the lab from 2019-2021 and is currently a [Tri-I MMPTP](https://mgm.duke.edu/tri-i-mmptp) (NIH T-32) postdoctoral fellow at Duke University.
+Lotus studies mycology and ecology, write about science, code, and make scientific illustrations. She was a postdoc in the lab from 2019-2021 and then received ca [Tri-I MMPTP](https://mgm.duke.edu/tri-i-mmptp) (NIH T-32) postdoctoral fellowish at Duke University (2022-2024). Dr Lofgren is currently an Assistant Professor of Mycology at UC Berkeley in the [Department of Plant and Microbial Biology](https://plantandmicrobiology.berkeley.edu/).
 
 Lotus was broadly interested in the mechanisms structuring fungal community dynamics, and address these questions using molecular methods, comparative genomics, population genetics, and bioinformatics. Current projects are focused on fungal host specificity and co-evolution, fungal virulence, guild occupation, trait and genome evolution, and genomic tool development.
 
