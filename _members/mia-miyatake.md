@@ -1,5 +1,7 @@
 ---
+name: Mia Miyatake
 title: Mia Miyatake
+description: Undergraduate Researcher
 role: undergraduate
 group: current
 image: 

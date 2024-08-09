@@ -1,5 +1,7 @@
 ---
+name: Varshini Balaji
 title: Varshini Balaji
+description: Undergraduate Researcher
 role: undergraduate
 group: current
 image: images/members/varshini-balaji.jpg
