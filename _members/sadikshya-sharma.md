@@ -1,7 +1,7 @@
 ---
 name: Sadikshya Sharma
 title: Sadikshya Sharma
-description: Assistant Specialist
+description: GGB Graduate Student
 role: phd
 group: current
 image: images/members/sadikshya-sharma.jpg
