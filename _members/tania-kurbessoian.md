@@ -14,7 +14,7 @@ links:
   google-scholar: KZcoGKkAAAAJ
   github: tania-k
   twitter: TaniaKurbs
-  linked-in: tania-kurbessoian
+  linkedin: tania-kurbessoian
 redirect_from:
   - /home/people/tania-kurbessoian
   - /home/people/tania

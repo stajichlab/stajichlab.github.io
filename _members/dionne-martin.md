@@ -5,7 +5,7 @@ role: undergraduate
 group: alum
 image: images/members/dionne-martin.jpg
 links:
-  linked-in: dionne-martin-8246031bb
+  linkedin: dionne-martin-8246031bb
 ---
 
 Dionne Martin was an undergraduate who worked from 2020-21 on cyanobacteria genomics. She is currently a graduate student in Plant Sciences at [University of Georgia](https://ips.uga.edu/).
