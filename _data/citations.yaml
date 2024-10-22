@@ -1,5 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:39223407
+  title: A Cluster of Diutina catenulata Funguria in Patients with Coronavirus Disease
+    2019 (COVID-19) Hospitalized in a Tertiary Reference Hospital from Rio de Janeiro,
+    Brazil.
+  authors:
+  - Rodrigo Almeida-Paes
+  - Marcus de Melo Teixeira
+  - Fernanda Alves de Oliveira
+  - Marcos de Abreu Almeida
+  - Fernando Almeida-Silva
+  - Kim Mattos Geraldo
+  - "Estev\xE3o Portela Nunes"
+  - Bridget M Baker
+  - Jason E Stajich
+  - Beatriz Grinsztejn
+  - "Valdilea Gon\xE7alves Veloso"
+  - Andrea d'Avila Freitas
+  - "Rosely Maria Zancop\xE9-Oliveira"
+  publisher: Current microbiology
+  date: '2024-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39223407
+  tags:
+  - Fungal pathogen
+  - Diutina
+  - COVID-19
+  - population genomics
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:38979181
   title: Giant transposons promote strain heterogeneity in a major fungal pathogen.
   authors:
