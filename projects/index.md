@@ -17,7 +17,7 @@ Software and Datasets Developed in the Lab (still being updated)
 
 ## Featured
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
@@ -28,3 +28,6 @@ Software and Datasets Developed in the Lab (still being updated)
 ## Datasets
 
 {% include list.html component="card" data="projects" filters="group: Dataset " style="small" %}
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
+
