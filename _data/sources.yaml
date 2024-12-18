@@ -1,16 +1,24 @@
+- id: pmid:39601523
+  image: images/publication_images/neonectria.jpg
+  tags: 
+   - Neonectria
+   - Tree pathogen
 - id: pmid:39223407
+  image: images/publication_imags/diutina.jpg
   tags: 
    - Fungal pathogen
    - Diutina
    - COVID-19
    - population genomics
 - id: pmid:38979181
+  image: images/publication_images/starship_afum.jpg
   tags: 
     - starship
     - transposons
     - repetitive elements
     - Aspergillus fumigatus
 - id: pmid:38915581
+  image: images/publication_images/taxawa.jpg
   tags:
     - taxonomy
     - black fungi
@@ -72,6 +80,7 @@
     - Conoideocrella
     - biocontrol
     - Clavicipitaceae
+    - Tree pathogen
 - id: pmid:38490202
   image: images/publication_images/Clemons_2024.jpg
   tags:
