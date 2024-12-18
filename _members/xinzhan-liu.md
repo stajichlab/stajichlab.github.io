@@ -3,7 +3,7 @@ name: Xin-zhan Liu
 title: Xin-zhan Liu
 description: Sabbatical Visitor
 role: visitor
-group: current
+group: alum
 image: images/members/xinzhan-liu.jpg
 ---
 
