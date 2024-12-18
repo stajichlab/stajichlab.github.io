@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:39601523
+  title: Draft genome sequences for
+  authors:
+  - Hannah M Petronek
+  - Matt T Kasson
+  - Amy M Metheny
+  - Cameron M Stauder
+  - Brian Lovett
+  - Shannon C Lynch
+  - Jeff R Garnas
+  - Lindsay R Kasson
+  - Jason E Stajich
+  publisher: Microbiology resource announcements
+  date: '2024-11-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39601523
+  image: images/publication_images/neonectria.jpg
+  tags:
+  - Neonectria
+  - Tree pathogen
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:39223407
   title: A Cluster of Diutina catenulata Funguria in Patients with Coronavirus Disease
     2019 (COVID-19) Hospitalized in a Tertiary Reference Hospital from Rio de Janeiro,
@@ -21,6 +42,7 @@
   publisher: Current microbiology
   date: '2024-09-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39223407
+  image: images/publication_imags/diutina.jpg
   tags:
   - Fungal pathogen
   - Diutina
@@ -41,6 +63,7 @@
   publisher: 'bioRxiv : the preprint server for biology'
   date: '2024-10-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38979181
+  image: images/publication_images/starship_afum.jpg
   tags:
   - starship
   - transposons
@@ -59,6 +82,7 @@
   publisher: 'bioRxiv : the preprint server for biology'
   date: '2024-06-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38915581
+  image: images/publication_images/taxawa.jpg
   tags:
   - taxonomy
   - black fungi
@@ -328,6 +352,7 @@
   - Conoideocrella
   - biocontrol
   - Clavicipitaceae
+  - Tree pathogen
   plugin: sources.py
   file: sources.yaml
 - id: pmid:38490202
