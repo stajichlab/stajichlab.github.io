@@ -11,15 +11,16 @@ The Stajich Lab asks questions about how microbes interact with a focus on Fungi
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: current " %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: current: " %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: current: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: current: " %}
-{% include list.html data="members" component="portrait" filters="role: staff, group: current: " %}
-{% include list.html data="members" component="portrait" filters="role: visitor, group: current: " %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergraduate' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'staff' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'visitor' and group == 'current'" %}
+
 {:.center}
 
-# {% include list.html data="members" component="portrait" filter="role != '^pi'" %}
+
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -40,17 +41,16 @@ The Stajich Lab asks questions about how microbes interact with a focus on Fungi
 
 These are past lab members who have moved on in their careers.
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: staff, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'staff' and group == 'alum'" style="small" %}
 
 ## Visitor Alumni
 
-{% include list.html data="members" component="portrait" filters="role: visitor, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'visitor' and group == 'alum'" style="small" %}
 
 ### Undergraduate Alumni
-{% include list.html data="members" component="portrait" filters="role: undergraduate, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergraduate' and  group == 'alum'" style="small" %}
 
 # Lab Group Memories
 {% capture content %}
