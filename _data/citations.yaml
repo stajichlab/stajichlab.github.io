@@ -22,9 +22,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: pmid:39223407
-  title: A Cluster of Diutina catenulata Funguria in Patients with Coronavirus Disease
-    2019 (COVID-19) Hospitalized in a Tertiary Reference Hospital from Rio de Janeiro,
-    Brazil.
+  title: Draft genome sequences for <i>Neonectria magnoliae</i> and <i>Neonectria
+    punicea</i>, canker pathogens of <i>Liriodendron tulipifera</i> and <i>Acer saccharum</i>
+    in West Virginia
   authors:
   - Rodrigo Almeida-Paes
   - Marcus de Melo Teixeira
