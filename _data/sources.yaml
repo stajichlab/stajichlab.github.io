@@ -1,4 +1,5 @@
 - id: doi:10.1101/2024.06.12.598762
+  image: images/publication_images/taxawa.jpg
   tags:
      - Black yeast
      - Biocrust
@@ -54,12 +55,6 @@
     - transposons
     - repetitive elements
     - Aspergillus fumigatus
-- id: pmid:38915581
-  image: images/publication_images/taxawa.jpg
-  tags:
-    - taxonomy
-    - black fungi
-    - genome
 - id: pmid:38873189
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11170279/bin/gr3.jpg
   tags: 

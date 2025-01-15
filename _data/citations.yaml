@@ -12,6 +12,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-06-13'
   link: https://doi.org/g8zv56
+  image: images/publication_images/taxawa.jpg
   tags:
   - Black yeast
   - Biocrust
@@ -217,24 +218,6 @@
   - transposons
   - repetitive elements
   - Aspergillus fumigatus
-  plugin: sources.py
-  file: sources.yaml
-- id: pmid:38915581
-  title: Description of new micro-colonial fungi species
-  authors:
-  - Tania Kurbessoian
-  - Sarah A Ahmed
-  - Yu Quan
-  - Sybren de Hoog
-  - Jason E Stajich
-  publisher: 'bioRxiv : the preprint server for biology'
-  date: '2024-06-20'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38915581
-  image: images/publication_images/taxawa.jpg
-  tags:
-  - taxonomy
-  - black fungi
-  - genome
   plugin: sources.py
   file: sources.yaml
 - id: pmid:38873189
