@@ -1,7 +1,9 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: pmid:39601523
-  title: Draft genome sequences for
+  title: Draft genome sequences for <i>Neonectria magnoliae</i> and <i>Neonectria
+    punicea</i>, canker pathogens of <i>Liriodendron tulipifera</i> and <i>Acer saccharum</i>
+    in West Virginia
   authors:
   - Hannah M Petronek
   - Matt T Kasson
@@ -22,9 +24,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: pmid:39223407
-  title: Draft genome sequences for <i>Neonectria magnoliae</i> and <i>Neonectria
-    punicea</i>, canker pathogens of <i>Liriodendron tulipifera</i> and <i>Acer saccharum</i>
-    in West Virginia
+  title: A Cluster of <i>Diutina catenulata</i> Funguria in Patients with Coronavirus
+    Disease 2019 (COVID-19) Hospitalized in a Tertiary Reference Hospital from Rio
+    de Janeiro, Brazil
   authors:
   - Rodrigo Almeida-Paes
   - Marcus de Melo Teixeira
@@ -42,7 +44,7 @@
   publisher: Current microbiology
   date: '2024-09-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39223407
-  image: images/publication_imags/diutina.jpg
+  image: images/publication_images/diutina.jpg
   tags:
   - Fungal pathogen
   - Diutina
