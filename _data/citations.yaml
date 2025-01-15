@@ -1,5 +1,151 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.06.12.598762
+  title: Description of new micro-colonial fungi species<i>Neophaeococcomyces mojavensis</i>,<i>Coniosporium
+    tulheliwenetii, and Taxawa tesnikishii</i>cultured from biological soil crusts
+  authors:
+  - Tania Kurbessoian
+  - Sarah A. Ahmed
+  - Yu Quan
+  - Sybren de Hoog
+  - Jason E. Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-06-13'
+  link: https://doi.org/g8zv56
+  tags:
+  - Black yeast
+  - Biocrust
+  - Taxonomy
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.12.06.627215
+  title: A genomic resource for exploring bacterial-viral dynamics in seagrass ecosystems
+  authors:
+  - Cassandra L. Ettinger
+  - Jason E. Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-12-06'
+  link: https://doi.org/g8zv5z
+  tags:
+  - Seagrass Microbes
+  - MAG
+  - Bacteria
+  - Virus
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.12.27.630416
+  title: Novel Glomeromycotina-Moss Associations Identified in California Dryland
+    Biocrusts
+  authors:
+  - Kian H. Kelly
+  - Claudia Coleine
+  - Chris Coshland
+  - Jason E. Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-12-28'
+  link: https://doi.org/g8zv52
+  tags:
+  - AMF
+  - Moss
+  - Biocrust
+  - Glomeromycotina
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.12.27.630554
+  title: Absolute abundance unveils<i>Basidiobolus</i>as a cross-domain bridge indirectly
+    bolstering gut microbiome homeostasis
+  authors:
+  - Mitra Ghotbi
+  - Jason E. Stajich
+  - Jason Dallas
+  - Alexander Rurik
+  - Chloe Cummins
+  - "Lluvia Vargas-Gast\xE9lum"
+  - Marjan Ghotbi
+  - Joseph W. Spatafora
+  - Kian Kelly
+  - N. Reed Alexander
+  - Kylie C. Moe
+  - Kimberly C. Syring
+  - Leila Shadmani
+  - Julissa Perez-Marron
+  - Donald M. Walker
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-12-28'
+  link: https://doi.org/g8zv53
+  tags:
+  - Herptile Microbiomes
+  - Basidiobolus
+  - Microbiome
+  - Bacteria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.01.03.631223
+  title: Dynamic remodeling of centrioles and the microtubule cytoskeleton in the
+    lifecycle of chytrid fungi
+  authors:
+  - Alexandra F. Long
+  - Krishnakumar Vasudevan
+  - Andrew J.M. Swafford
+  - Claire M. Venard
+  - Jason E. Stajich
+  - Lillian K. Fritz-Laylin
+  - Jessica L. Feldman
+  - Tim Stearns
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-04'
+  link: https://doi.org/g8zv54
+  tags:
+  - Chytrid
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cub.2024.11.005
+  title: Familiar fungal friends and foes
+  authors:
+  - Jason E. Stajich
+  publisher: Current Biology
+  date: '2024-12-01'
+  link: https://doi.org/g8zv5r
+  tags:
+  - book review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-75666-5_3
+  title: 'Fungi from Extreme Environments: Genome Sequences and Beyond'
+  authors:
+  - "Cene Gostin\u010Dar"
+  - Claudia Coleine
+  - Nina Gunde-Cimerman
+  - Jason E. Stajich
+  publisher: The Mycota
+  date: '2024-01-01'
+  link: https://doi.org/g8zv5v
+  tags:
+  - Extremophile
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/jacsau.4c00869
+  title: '<i>Rhinocladiella similis</i>: A Model Eukaryotic Organism for Astrobiological
+    Studies on Microbial Interactions with Martian Soil Analogs'
+  authors:
+  - Alef dos Santos
+  - "J\xFAnia Schultz"
+  - "Isabella Dal\u2019Rio"
+  - Fluvio Molodon
+  - Marilia Almeida Trapp
+  - "Bernardo Guerra Ten\xF3rio"
+  - Jason E. Stajich
+  - Marcus de Melo Teixeira
+  - Eduardo Jorge Pilau
+  - Alexandre Soares Rosado
+  - Edson Rodrigues-Filho
+  publisher: JACS Au
+  date: '2024-12-23'
+  link: https://doi.org/g8zv5x
+  tags:
+  - Extremophile
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:39601523
   title: Draft genome sequences for <i>Neonectria magnoliae</i> and <i>Neonectria
     punicea</i>, canker pathogens of <i>Liriodendron tulipifera</i> and <i>Acer saccharum</i>
@@ -1826,7 +1972,7 @@
   - Meetings
   - Reports
   - Space Fungi
-  - extremophile
+  - Extremophile
   - Earth4D
   - Fungal Kingdom
   - CIFAR
@@ -3637,7 +3783,7 @@
   tags:
   - proteomics
   - black yeast
-  - extremophile
+  - Extremophile
   plugin: sources.py
   file: sources.yaml
 - id: pmid:31126947
@@ -3681,7 +3827,7 @@
   image: images/publication_images/friedmanniomyces.jpg
   tags:
   - Exophiala
-  - extremophile
+  - Extremophile
   - Antarctica
   plugin: sources.py
   file: sources.yaml
@@ -4113,7 +4259,7 @@
   tags:
   - population genomics
   - black yeast
-  - extremophile
+  - Extremophile
   - halotolerance
   - Hortaea
   plugin: sources.py
@@ -4415,7 +4561,7 @@
   - Hortaea
   - black yeast
   - genome
-  - extremophile
+  - Extremophile
   - halotolerance
   plugin: sources.py
   file: sources.yaml

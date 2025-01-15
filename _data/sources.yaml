@@ -1,3 +1,38 @@
+- id: doi:10.1101/2024.06.12.598762
+  tags:
+     - Black yeast
+     - Biocrust
+     - Taxonomy
+- id: doi:10.1101/2024.12.06.627215
+  tags:
+    - Seagrass Microbes
+    - MAG
+    - Bacteria
+    - Virus
+- id: doi:10.1101/2024.12.27.630416
+  tags:
+    - AMF
+    - Moss
+    - Biocrust
+    - Glomeromycotina
+- id: doi:10.1101/2024.12.27.630554
+  tags:
+    - Herptile Microbiomes
+    - Basidiobolus
+    - Microbiome
+    - Bacteria
+- id: doi:10.1101/2025.01.03.631223
+  tags:
+    - Chytrid
+- id: doi:10.1016/j.cub.2024.11.005
+  tags:
+    - book review
+- id: doi:10.1007/978-3-031-75666-5_3
+  tags:
+    - Extremophile
+- id: doi:10.1021/jacsau.4c00869
+  tags:
+    - Extremophile
 - id: pmid:39601523
   image: images/publication_images/neonectria.jpg
   title: Draft genome sequences for <i>Neonectria magnoliae</i> and <i>Neonectria punicea</i>, canker pathogens of <i>Liriodendron tulipifera</i> and <i>Acer saccharum</i> in West Virginia
@@ -502,7 +537,7 @@
     - Meetings
     - Reports
     - Space Fungi
-    - extremophile
+    - Extremophile
     - Earth4D
     - Fungal Kingdom
     - CIFAR
@@ -962,7 +997,7 @@
   tags:
     - proteomics
     - black yeast
-    - extremophile
+    - Extremophile
 - id: pmid:31126947
   tags:
     - HGT
@@ -973,7 +1008,7 @@
   image: images/publication_images/friedmanniomyces.jpg
   tags:
     - Exophiala
-    - extremophile
+    - Extremophile
     - Antarctica
 - id: pmid:30987585
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6466665/bin/12859_2019_2782_Fig3_HTML.jpg
@@ -1086,7 +1121,7 @@
   tags:
     - population genomics
     - black yeast
-    - extremophile
+    - Extremophile
     - halotolerance
     - Hortaea
 - id: pmid:29739910
@@ -1161,7 +1196,7 @@
     - Hortaea
     - black yeast
     - genome
-    - extremophile
+    - Extremophile
     - halotolerance
 - id: pmid:28481340
   tags:
