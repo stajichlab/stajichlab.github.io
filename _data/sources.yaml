@@ -1,22 +1,26 @@
 - id: doi:10.1101/2024.06.12.598762
   image: images/publication_images/taxawa.jpg
+  title:  Description of new micro-colonial fungi species <i>Neophaeococcomyces mojavensis</i>, <i>Coniosporium tulheliwenetii</i>, and <i>Taxawa tesnikishii</i> cultured from biological soil crusts
   tags:
      - Black yeast
      - Biocrust
      - Taxonomy
 - id: doi:10.1101/2024.12.06.627215
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/12/06/2024.12.06.627215/F2.large.jpg
   tags:
     - Seagrass Microbes
     - MAG
     - Bacteria
     - Virus
 - id: doi:10.1101/2024.12.27.630416
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/12/28/2024.12.27.630416/F2.large.jpg
   tags:
     - AMF
     - Moss
     - Biocrust
     - Glomeromycotina
 - id: doi:10.1101/2024.12.27.630554
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/12/28/2024.12.27.630554/F5.large.jpg
   tags:
     - Herptile Microbiomes
     - Basidiobolus
@@ -26,14 +30,19 @@
   tags:
     - Chytrid
 - id: doi:10.1016/j.cub.2024.11.005
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982224015124-gr1.jpg
   tags:
     - book review
 - id: doi:10.1007/978-3-031-75666-5_3
+  image: images/publication_images/endolithic_microbes.jpg 
   tags:
     - Extremophile
 - id: doi:10.1021/jacsau.4c00869
+  image: https://pubs.acs.org/cms/10.1021/jacsau.4c00869/asset/images/medium/au4c00869_0010.gif
   tags:
     - Extremophile
+    - Rhinocladiella
+    - Mars analog
 - id: pmid:39601523
   image: images/publication_images/neonectria.jpg
   title: Draft genome sequences for <i>Neonectria magnoliae</i> and <i>Neonectria punicea</i>, canker pathogens of <i>Liriodendron tulipifera</i> and <i>Acer saccharum</i> in West Virginia
