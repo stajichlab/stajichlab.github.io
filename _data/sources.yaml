@@ -65,7 +65,7 @@
     - repetitive elements
     - Aspergillus fumigatus
 - id: pmid:38873189
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11170279/bin/gr3.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468233024000094-gr3.jpg 
   tags: 
     - cell wall
     - fungi
@@ -77,7 +77,7 @@
     - zygomycete
     - Mucoromycotina
 - id: pmid:38806503
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11133487/bin/41598_2024_61115_Fig1_HTML.jpg
+  image: images/publication_images/Chander_2024_fig1.jpg
   tags:
     - Black yeast
     - Knufia
