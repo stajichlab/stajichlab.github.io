@@ -6,7 +6,7 @@ search:
   - Sharon Xu
   - Xueyan Xu
 role: phd
-group: current
+group: alum
 image: images/members/xueyan-xu.jpg
 links:
   email: xxu092@ucr.edu

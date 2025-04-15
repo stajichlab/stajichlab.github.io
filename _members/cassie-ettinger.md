@@ -8,7 +8,7 @@ search:
   - C.L. Ettinger
   - CL Ettinger
 role: postdoc
-group: current
+group: alum
 image: images/members/cassie.png
 links:
   link: https://casett.github.io/
