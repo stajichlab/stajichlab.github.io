@@ -1,5 +1,137 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.03.05.641731
+  title: Increased aridity is associated with diversity and composition changes in
+    the biocrust mycobiome
+  authors:
+  - Kian Kelly
+  - Xinzhan Liu
+  - Jared Croyle
+  - Jason E. Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-05'
+  link: https://doi.org/g9fnmw
+  tags:
+  - Biocrust
+  - Fungi
+  - mycobiome
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.03.31.646452
+  title: 'A Novel<i>Sarocladium spinificis</i>Strain Suppresses<i>Coccidioides posadasii</i>Growth:
+    Morphological and Genetic Perspectives'
+  authors:
+  - Marcus de M. Teixeira
+  - Sarah A. Ahmed
+  - Heather Mead
+  - Sybren de Hoog
+  - Nathan Wiederhold
+  - Jason E. Stajich
+  - Daniel R. Matute
+  - George Thompson
+  - Bridget M. Barker
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-31'
+  link: https://doi.org/g9fnmx
+  tags:
+  - Coccidioides
+  - Sarocladium
+  - Biocontrol
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.02.11.637735
+  title: Eukaryotic MAGs recovered from deep metagenomic sequencing of the seagrass,<i>Zostera
+    marina,</i>include a novel chytrid in the order Lobulomycetales
+  authors:
+  - Cassandra L. Ettinger
+  - Jonathan A. Eisen
+  - Jason E. Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-11'
+  link: https://doi.org/g9fnmz
+  tags:
+  - Marine fungi
+  - chytrid
+  - Metagenome
+  - Seagrass
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.01.23.634575
+  title: Assessing the Evolutionary Trajectory of Arbuscular Mycorrhizal Conserved
+    Genes in Seagrasses and Aquatic Close Relatives
+  authors:
+  - Cassandra L. Ettinger
+  - Jennifer Arroyo
+  - Jason E. Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-25'
+  link: https://doi.org/g9fnm2
+  tags:
+  - AMF
+  - arbuscular mycorrhizal
+  - Seagrass
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.12.17.629027
+  title: Genomic streamlining of seagrass-associated<i>Colletotrichum</i>sp. may be
+    related to its adaptation to a marine monocot host
+  authors:
+  - Cassandra L. Ettinger
+  - Jonathan A. Eisen
+  - Jason E. Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-12-17'
+  link: https://doi.org/g9fnmv
+  tags:
+  - Seagrass
+  - Metagenome
+  - Colletotrichum
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-024-08419-4
+  title: "Fungal impacts on Earth\u2019s ecosystems"
+  authors:
+  - Nicola T. Case
+  - Sarah J. Gurr
+  - Matthew C. Fisher
+  - David S. Blehert
+  - Charles Boone
+  - Arturo Casadevall
+  - Anuradha Chowdhary
+  - Christina A. Cuomo
+  - Cameron R. Currie
+  - David W. Denning
+  - Iuliana V. Ene
+  - Lillian K. Fritz-Laylin
+  - Aleeza C. Gerstein
+  - Neil A. R. Gow
+  - Asiya Gusa
+  - Iliyan D. Iliev
+  - Timothy Y. James
+  - Hailing Jin
+  - Regine Kahmann
+  - Bruce S. Klein
+  - James W. Kronstad
+  - Kyla S. Ost
+  - Kabir G. Peay
+  - Rebecca S. Shapiro
+  - Donald C. Sheppard
+  - Neta Shlezinger
+  - Jason E. Stajich
+  - Eva H. Stukenbrock
+  - John W. Taylor
+  - Gerard D. Wright
+  - Leah E. Cowen
+  - Joseph Heitman
+  - Julia A. Segre
+  publisher: Nature
+  date: '2025-02-05'
+  link: https://doi.org/g9bvs9
+  tags:
+  - Fungi
+  - Review
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2024.06.12.598762
   title: Description of new micro-colonial fungi species <i>Neophaeococcomyces mojavensis</i>,
     <i>Coniosporium tulheliwenetii</i>, and <i>Taxawa tesnikishii</i> cultured from

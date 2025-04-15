@@ -1,3 +1,33 @@
+- id: doi:10.1101/2025.03.05.641731
+  tags: 
+     - Biocrust
+     - Fungi
+     - mycobiome
+- id: doi:10.1101/2025.03.31.646452
+  tags: 
+     - Coccidioides
+     - Sarocladium
+     - Biocontrol
+- id: doi:10.1101/2025.02.11.637735
+  tags:
+     - Marine fungi
+     - chytrid
+     - Metagenome
+     - Seagrass
+- id: doi:10.1101/2025.01.23.634575
+  tags: 
+     - AMF
+     - arbuscular mycorrhizal
+     - Seagrass
+- id: doi:10.1101/2024.12.17.629027
+  tags:
+     - Seagrass
+     - Metagenome
+     - Colletotrichum
+- id: doi:10.1038/s41586-024-08419-4
+  tags:
+     - Fungi
+     - Review
 - id: doi:10.1101/2024.06.12.598762
   image: images/publication_images/taxawa.jpg
   title:  Description of new micro-colonial fungi species <i>Neophaeococcomyces mojavensis</i>, <i>Coniosporium tulheliwenetii</i>, and <i>Taxawa tesnikishii</i> cultured from biological soil crusts
