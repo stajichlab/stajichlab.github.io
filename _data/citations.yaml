@@ -1,5 +1,41 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.02.27.640643
+  title: Inferring fungal cis-regulatory networks from genome sequences
+  authors:
+  - Alan M Moses
+  - Jason E Stajich
+  - Audrey P Gasch
+  - David A Knowles
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-03'
+  link: https://doi.org/g9fpbw
+  tags:
+  - Fungi
+  - cis-regulation
+  - Orthology
+  - Gene function
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.02.13.638206
+  title: Kingdom-Wide CRISPR Guide Design with ALLEGRO
+  authors:
+  - Amirsadra Mohseni
+  - Reyhane Ghorbani Nia
+  - Aida Tafrishi
+  - Xin-Zhan Liu
+  - Jason E. Stajich
+  - Ian Wheeldon
+  - Stefano Lonardi
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-17'
+  link: https://doi.org/g85gc3
+  tags:
+  - CRISPR
+  - Fungi
+  - Bioinformatics
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:40097246
   title: Activation of the Trichodimerol Pathway through Deletion of <i>mcrA</i> in
     Marine <i>Penicillium rubens</i> YAP001
