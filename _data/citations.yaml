@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:40097246
+  title: Activation of the Trichodimerol Pathway through Deletion of <i>mcrA</i> in
+    Marine <i>Penicillium rubens</i> YAP001
+  authors:
+  - Jennifer Shyong
+  - Quoc-Dung Tran Huynh
+  - Stella Dziedzic
+  - Emily Aguirre
+  - Chris Rabot
+  - Bo Yuan
+  - Hugo Edward Herrero-MacKenzie
+  - Jason E Stajich
+  - Ching-Kuo Lee
+  - Carly D Kenkel
+  - Clay C C Wang
+  publisher: ACS chemical biology
+  date: '2025-03-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40097246
+  tags:
+  - Penicillium
+  - Natural Product
+  - Secondary Metabolism
+  - marine fungi
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2025.03.05.641731
   title: Increased aridity is associated with diversity and composition changes in
     the biocrust mycobiome
@@ -18,8 +43,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.03.31.646452
-  title: 'A Novel<i>Sarocladium spinificis</i>Strain Suppresses<i>Coccidioides posadasii</i>Growth:
-    Morphological and Genetic Perspectives'
+  title: A Novel <i>Sarocladium spinificis</i> Strain Suppresses <i>Coccidioides posadasii</i>
+    Growth Morphological and Genetic Perspectives
   authors:
   - Marcus de M. Teixeira
   - Sarah A. Ahmed
@@ -73,8 +98,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.12.17.629027
-  title: Genomic streamlining of seagrass-associated<i>Colletotrichum</i>sp. may be
-    related to its adaptation to a marine monocot host
+  title: Genomic streamlining of seagrass-associated <i>Colletotrichum sp.</i> may
+    be related to its adaptation to a marine monocot host
   authors:
   - Cassandra L. Ettinger
   - Jonathan A. Eisen

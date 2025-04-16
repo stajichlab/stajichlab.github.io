@@ -1,9 +1,17 @@
+- id: pmid:40097246
+  title: Activation of the Trichodimerol Pathway through Deletion of <i>mcrA</i> in Marine <i>Penicillium rubens</i> YAP001
+  tags: 
+     - Penicillium
+     - Natural Product
+     - Secondary Metabolism
+     - marine fungi
 - id: doi:10.1101/2025.03.05.641731
   tags: 
      - Biocrust
      - Fungi
      - mycobiome
 - id: doi:10.1101/2025.03.31.646452
+  title: A Novel <i>Sarocladium spinificis</i> Strain Suppresses <i>Coccidioides posadasii</i> Growth Morphological and Genetic Perspectives
   tags: 
      - Coccidioides
      - Sarocladium
@@ -20,6 +28,7 @@
      - arbuscular mycorrhizal
      - Seagrass
 - id: doi:10.1101/2024.12.17.629027
+  title: Genomic streamlining of seagrass-associated <i>Colletotrichum sp.</i> may be related to its adaptation to a marine monocot host
   tags:
      - Seagrass
      - Metagenome
