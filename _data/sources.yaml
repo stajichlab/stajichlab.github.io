@@ -1,3 +1,11 @@
+- id: doi:10.3114/sim.2025.111.03
+  title: Section-level genome sequencing and comparative genomics of Aspergillus sections <i>Cavernicolus</i> and <i>Usti</i>
+  tags:
+    - Aspergillus
+    - Taxonomy
+    - Systematics
+    - Cavernicolus
+    - Usti
 - id: doi:10.1101/2025.02.27.640643
   tags:
      - Fungi
@@ -108,7 +116,7 @@
    - Diutina
    - COVID-19
    - population genomics
-- id: pmid:38979181
+- id: pmid:40353686
   image: images/publication_images/starship_afum.jpg
   tags: 
     - starship
@@ -181,7 +189,7 @@
     - Genome
     - Frog
     - Virulence
-- id: doi:10.1101/2024.01.24.576925
+- id: doi:10.1093/gbe/evaf114
   image: images/publication_images/Yacoub_2024.gif
   tags:
     - Batrachochytrium

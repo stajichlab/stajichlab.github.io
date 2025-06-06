@@ -1,5 +1,57 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3114/sim.2025.111.03
+  title: Section-level genome sequencing and comparative genomics of Aspergillus sections
+    <i>Cavernicolus</i> and <i>Usti</i>
+  authors:
+  - J.L. Nybo
+  - T.C. Vesth
+  - S. Theobald
+  - J.C. Frisvad
+  - T.O. Larsen
+  - I. Kjaerboelling
+  - K. Rothschild-Mancinelli
+  - E.K. Lyhne
+  - K. Barry
+  - A. Clum
+  - Y. Yoshinaga
+  - L. Ledsgaard
+  - C. Daum
+  - A. Lipzen
+  - A. Kuo
+  - R. Riley
+  - S. Mondo
+  - K. LaButti
+  - S. Haridas
+  - J. Pangalinan
+  - A.A. Salamov
+  - B.A. Simmons
+  - J.K. Magnuson
+  - J. Chen
+  - E. Drula
+  - B. Henrissat
+  - A. Wiebenga
+  - R.J.M. Lubbers
+  - "A. Mu\u0308ller"
+  - A.C. dos Santos Gomes
+  - "M.R. M\xE4kel\xE4"
+  - J.E. Stajich
+  - I.V. Grigoriev
+  - U.H. Mortensen
+  - R.P. de Vries
+  - S.E. Baker
+  - M.R. Andersen
+  publisher: Studies in Mycology
+  date: '2025-01-01'
+  link: https://doi.org/g9pfc2
+  tags:
+  - Aspergillus
+  - Taxonomy
+  - Systematics
+  - Cavernicolus
+  - Usti
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2025.02.27.640643
   title: Inferring fungal cis-regulatory networks from genome sequences
   authors:
@@ -401,19 +453,20 @@
   - population genomics
   plugin: sources.py
   file: sources.yaml
-- id: pmid:38979181
+- id: pmid:40353686
   title: Giant transposons promote strain heterogeneity in a major fungal pathogen.
   authors:
   - Emile Gluck-Thaler
   - Adrian Forsythe
   - Charles Puerner
+  - Cecilia Gutierrez-Perez
   - Jason E Stajich
   - Daniel Croll
   - Robert A Cramer
   - Aaron A Vogan
-  publisher: 'bioRxiv : the preprint server for biology'
-  date: '2024-10-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38979181
+  publisher: mBio
+  date: '2025-05-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40353686
   image: images/publication_images/starship_afum.jpg
   tags:
   - starship
@@ -715,15 +768,15 @@
   - Virulence
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.01.24.576925
+- id: doi:10.1093/gbe/evaf114
   title: Comparative genomics reveals intra and inter species variation in the pathogenic
-    fungus<i>Batrachochytrium dendrobatidis</i>
+    fungus <i>Batrachochytrium dendrobatidis</i>
   authors:
-  - Mark N. Yacoub
-  - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-01-25'
-  link: https://doi.org/gthdcc
+  - Mark N Yacoub
+  - Jason E Stajich
+  publisher: Genome Biology and Evolution
+  date: '2025-06-04'
+  link: https://doi.org/g9pfc3
   image: images/publication_images/Yacoub_2024.gif
   tags:
   - Batrachochytrium
@@ -785,14 +838,17 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.01.04.574182
-  title: Large DNA viruses in early diverging fungal genomes are relics of past and
-    present infections
+  title: Discovery of giant viruses as past and present infections of zoosporic fungi
   authors:
   - Jillian M. Myers
   - Frederik Schulz
   - Saleh Rahimlou
+  - Vikas Yadav
   - Kevin R. Amses
   - D. Rabern Simmons
+  - Sheng Sun
+  - Michelle Orozco-Quime
+  - Joseph Heitman
   - Jason E. Stajich
   - Timothy Y. James
   publisher: Cold Spring Harbor Laboratory
