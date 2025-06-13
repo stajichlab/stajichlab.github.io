@@ -1,7 +1,7 @@
 ---
 name: Christian Ona
 title: Christian Ona
-description: PLPA Graduate Student
+description: Plant Pathology Graduate Student
 role: phd
 group: current
 image: images/members/christian-ona.jpg

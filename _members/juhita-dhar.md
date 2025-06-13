@@ -1,7 +1,7 @@
 ---
 name: Juhita Dhar
 title: Juhita Dhar
-description: MCBL Graduate Student
+description: Microbiology Graduate Student
 role: phd
 group: current
 image: images/members/juhita-dhar.jpg
