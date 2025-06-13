@@ -5,6 +5,8 @@ description: PLPA Graduate Student
 role: phd
 group: current
 image: images/members/christian-ona.jpg
+links:
+  linkedin: christian-ona
 ---
 
 Christian Ona joined the lab in Winter 2025 with a focus on Extremophile Fungi projects. He is an <a href="https://exfab.org">ExFAB</a> 
