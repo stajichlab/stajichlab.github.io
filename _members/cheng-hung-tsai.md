@@ -13,3 +13,8 @@ links:
   linkedin: cheng-hung-tsai-b31644191
 ---
 Cheng-Hung joined the lab in 2021 and is a PhD student in the [Genetics, Genomics, and Bioinformatics](http://ggb.ucr.edu) program. He is currently working on ddeveloping methods and application of metagenomics in fungi and soil microbiomes.
+
+His current software includes 
+* [PHYling](https://github.com/stajichlab/PHyling/) - phylogenomics tool and pipeline
+* [dbCANlight](https://github.com/chtsai0105/dbcanlight) - pyhmmer speedup of dbCAN tool
+
