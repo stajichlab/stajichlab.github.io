@@ -6,7 +6,7 @@ search:
   - J. Adams
   - J Adams
 role: phd
-group: current
+group: alum
 image: images/members/julia-adams.jpg
 links:
   email: jadam013@ucr.edu
