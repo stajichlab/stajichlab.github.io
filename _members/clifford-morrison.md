@@ -5,7 +5,7 @@ description: Assistant Project Scientist
 search:
   - Cliff Morrison
   - C S Morrison
-role: staff
+role: postdoc
 group: current
 image: images/members/cliff-morrison.jpg
 links:
