@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1128/mra.01273-24
+  title: Draft genome of <i>Conoideocrella luteorostrata</i> ARSEF 14590 (Clavicipitaceae),
+    an entomopathogenic fungus with a wealth of biosynthetic and biocontrol potential
+  authors:
+  - Brian Lovett
+  - Jason E. Stajich
+  - Hana Barrett
+  - Lindsay R. Kasson
+  - Daniel G. Panaccione
+  - Cecilia A. Reiter
+  - Jessica L. Fuss
+  - Gregory Biddle
+  - Matt T. Kasson
+  publisher: Microbiology Resource Announcements
+  date: '2025-07-23'
+  link: https://doi.org/g9t2pm
+  tags:
+  - Conoideocrella
+  - Clavicipitaceae
+  - biocontrol
+  - entomopathogenic fungus
+  - Genome Announcement
+  - MRA
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3114/sim.2025.111.03
   title: Section-level genome sequencing and comparative genomics of Aspergillus sections
     <i>Cavernicolus</i> and <i>Usti</i>
@@ -902,6 +927,7 @@
   - Black Yeast
   - Genome
   - Genome Announcement
+  - MRA
   plugin: sources.py
   file: sources.yaml
 - id: pmid:37988381
@@ -1310,6 +1336,7 @@
   - fusarium
   - citrus
   - Genome Announcement
+  - MRA
   plugin: sources.py
   file: sources.yaml
 - id: pmid:36930540
@@ -1478,6 +1505,7 @@
   - metagenome
   - virus
   - Genome Announcement
+  - MRA
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/jof9010031
@@ -2541,6 +2569,7 @@
   - metagenomics
   - aridlands
   - Genome Announcement
+  - MRA
   plugin: sources.py
   file: sources.yaml
 - id: pmid:34067070
@@ -2586,6 +2615,8 @@
   tags:
   - genome
   - Phytophthora
+  - MRA
+  - Genome Announcement
   plugin: sources.py
   file: sources.yaml
 - id: pmid:33871031
@@ -4180,6 +4211,7 @@
   - Verticllium
   - genome
   - Genome Announcement
+  - MRA
   plugin: sources.py
   file: sources.yaml
 - id: pmid:30697917
