@@ -1,3 +1,12 @@
+- id: doi:10.1128/mra.01273-24
+  title: Draft genome of <i>Conoideocrella luteorostrata</i> ARSEF 14590 (Clavicipitaceae), an entomopathogenic fungus with a wealth of biosynthetic and biocontrol potential
+  tags:
+    - Conoideocrella
+    - Clavicipitaceae
+    - biocontrol
+    - entomopathogenic fungus
+    - Genome Announcement
+    - MRA
 - id: doi:10.3114/sim.2025.111.03
   title: Section-level genome sequencing and comparative genomics of Aspergillus sections <i>Cavernicolus</i> and <i>Usti</i>
   tags:
@@ -8,61 +17,61 @@
     - Usti
 - id: doi:10.1101/2025.02.27.640643
   tags:
-     - Fungi
-     - cis-regulation
-     - Orthology
-     - Gene function
+    - Fungi
+    - cis-regulation
+    - Orthology
+    - Gene function
 - id: doi:10.1101/2025.02.13.638206
   tags:
-     - CRISPR
-     - Fungi
-     - Bioinformatics
+    - CRISPR
+    - Fungi
+    - Bioinformatics
 - id: pmid:40097246
   title: Activation of the Trichodimerol Pathway through Deletion of <i>mcrA</i> in Marine <i>Penicillium rubens</i> YAP001
   tags: 
-     - Penicillium
-     - Natural Product
-     - Secondary Metabolism
-     - marine fungi
+    - Penicillium
+    - Natural Product
+    - Secondary Metabolism
+    - marine fungi
 - id: doi:10.1101/2025.03.05.641731
   tags: 
-     - Biocrust
-     - Fungi
-     - mycobiome
+    - Biocrust
+    - Fungi
+    - mycobiome
 - id: doi:10.1101/2025.03.31.646452
   title: A Novel <i>Sarocladium spinificis</i> Strain Suppresses <i>Coccidioides posadasii</i> Growth Morphological and Genetic Perspectives
   tags: 
-     - Coccidioides
-     - Sarocladium
-     - Biocontrol
+    - Coccidioides
+    - Sarocladium
+    - Biocontrol
 - id: doi:10.1101/2025.02.11.637735
   tags:
-     - Marine fungi
-     - chytrid
-     - Metagenome
-     - Seagrass
+    - Marine fungi
+    - chytrid
+    - Metagenome
+    - Seagrass
 - id: doi:10.1101/2025.01.23.634575
   tags: 
-     - AMF
-     - arbuscular mycorrhizal
-     - Seagrass
+    - AMF
+    - arbuscular mycorrhizal
+    - Seagrass
 - id: doi:10.1101/2024.12.17.629027
   title: Genomic streamlining of seagrass-associated <i>Colletotrichum sp.</i> may be related to its adaptation to a marine monocot host
   tags:
-     - Seagrass
-     - Metagenome
-     - Colletotrichum
+    - Seagrass
+    - Metagenome
+    - Colletotrichum
 - id: doi:10.1038/s41586-024-08419-4
   tags:
-     - Fungi
-     - Review
+    - Fungi
+    - Review
 - id: doi:10.1101/2024.06.12.598762
   image: images/publication_images/taxawa.jpg
   title:  Description of new micro-colonial fungi species <i>Neophaeococcomyces mojavensis</i>, <i>Coniosporium tulheliwenetii</i>, and <i>Taxawa tesnikishii</i> cultured from biological soil crusts
   tags:
-     - Black yeast
-     - Biocrust
-     - Taxonomy
+    - Black yeast
+    - Biocrust
+    - Taxonomy
 - id: doi:10.1101/2024.12.06.627215
   image: https://www.biorxiv.org/content/biorxiv/early/2024/12/06/2024.12.06.627215/F2.large.jpg
   tags:
@@ -231,6 +240,7 @@
     - Black Yeast
     - Genome
     - Genome Announcement
+    - MRA
 - id: pmid:37988381
   image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3002400.g002
   tags:
@@ -352,6 +362,7 @@
     - fusarium
     - citrus
     - Genome Announcement
+    - MRA
 - id: pmid:36930540
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10079182/bin/evad046f1.jpg
   tags:
@@ -398,6 +409,7 @@
     - metagenome
     - virus
     - Genome Announcement
+    - MRA
 - id: doi:10.3390/jof9010031
   image: https://pub.mdpi-res.com/jof/jof-09-00031/article_deploy/html/images/jof-09-00031-g001.png
   tags:
@@ -712,6 +724,7 @@
     - metagenomics
     - aridlands
     - Genome Announcement
+    - MRA
 - id: pmid:34067070
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8150946/bin/jof-07-00366-g001.jpg
   title: Transcriptional Analysis of <i>Coccidioides immitis</i> Mycelia and Spherules by RNA Sequencing
@@ -724,6 +737,8 @@
   tags:
     - genome
     - Phytophthora
+    - MRA
+    - Genome Announcement
 - id: pmid:33871031
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8496281/bin/jkab132f1.jpg
   tags:
@@ -1104,6 +1119,7 @@
     - Verticllium
     - genome
     - Genome Announcement
+    - MRA
 - id: pmid:30697917
   tags:
     - systematics
