@@ -1,3 +1,11 @@
+- id: doi:10.1128/mra.00427-25
+  tags:
+    - Genome Announcement
+    - MRA
+    - Archaea
+    - Antartica
+    - Metagenome
+    - MAG
 - id: doi:10.1128/mra.01273-24
   title: Draft genome of <i>Conoideocrella luteorostrata</i> ARSEF 14590 (Clavicipitaceae), an entomopathogenic fungus with a wealth of biosynthetic and biocontrol potential
   tags:

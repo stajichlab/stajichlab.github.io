@@ -1,5 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1128/mra.00427-25
+  title: Draft genome sequence of an uncultured archaeon from Antarctic endolithic
+    communities
+  authors:
+  - Claudia Coleine
+  - Diego Micheletti
+  - Massimo Pindo
+  - Simone Larger
+  - Erika Stefani
+  - Federico Biagioli
+  - Jason E. Stajich
+  - Claudio Donati
+  publisher: Microbiology Resource Announcements
+  date: '2025-07-23'
+  link: https://doi.org/g9vcfc
+  tags:
+  - Genome Announcement
+  - MRA
+  - Archaea
+  - Antartica
+  - Metagenome
+  - MAG
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1128/mra.01273-24
   title: Draft genome of <i>Conoideocrella luteorostrata</i> ARSEF 14590 (Clavicipitaceae),
     an entomopathogenic fungus with a wealth of biosynthetic and biocontrol potential
