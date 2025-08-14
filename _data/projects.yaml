@@ -107,7 +107,7 @@
   title: PHYling
   group: featured
   image: images/photo.jpg
-  link: https://github.com/stajichlab/PHYling_Unified
+  link: https://github.com/stajichlab/Phyling
   description: Phylogenomic package using BUSCO or custom protein HMMs
   repo: stajichlab/PHYling_Unified
   tags:
