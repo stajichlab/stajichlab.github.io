@@ -1,5 +1,76 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.07.30.666921
+  title: 'Phyling: phylogenetic inference from annotated genomes'
+  authors:
+  - Cheng-Hung Tsai
+  - Jason Eric Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-08-01'
+  link: https://doi.org/g9wzrc
+  tags:
+  - phylogenomics
+  - tool
+  - Bioinformatics
+  - Software
+  - Phylogenetics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.funbio.2025.101590
+  title: "Celebrating the fifth edition of the International Symposium on Fungal Stress\
+    \ \u2013 ISFUS, a decade after its 2014 debut"
+  authors:
+  - Alene Alder-Rangel
+  - Amanda E.A. Rangel
+  - Arturo Casadevall
+  - Asiya Gusa
+  - Chaoyang Xue
+  - Charles M. Boone
+  - Chris Todd Hittinger
+  - Claudio A. Masuda
+  - "Consuelo Olivares-Ya\xF1ez"
+  - Deborah Bell-Pedersen
+  - Erica J. Washington
+  - Gerhard Braus
+  - Guilhem Janbon
+  - "Istv\xE1n P\xF3csi"
+  - Jason E. Stajich
+  - Jay C. Dunlap
+  - Joan W. Bennett
+  - Joseph Heitman
+  - Ling Lu
+  - Lucia Landi
+  - Mari L. Shinohara
+  - Maurizio Del Poeta
+  - Mavis A. Acheampong
+  - Mia R. Maltz
+  - Michael C. Lorenz
+  - Minou Nowrousian
+  - N. Louise Glass
+  - Nichole A. Broderick
+  - "Nicol\xE1s Pedrini"
+  - Nir Osherov
+  - R. Blake Billmyre
+  - Sabrina Sarrocco
+  - "Salom\xE9 LeibundGut-Landmann"
+  - "V\xE2nia Aparecida Vicente"
+  - Xiaorong Lin
+  - Xin-Qing Zhao
+  - Yong-Sun Bahn
+  - Zachary A. Lewis
+  - Drauzio E.N. Rangel
+  publisher: Fungal Biology
+  date: '2025-08-01'
+  link: https://doi.org/g9wzrd
+  tags:
+  - Extremophiles
+  - Meetings
+  - Meeting Report
+  - Biotechnology
+  - Fungal stress
+  - Mycoremediation
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1128/mra.00427-25
   title: Draft genome sequence of an uncultured archaeon from Antarctic endolithic
     communities

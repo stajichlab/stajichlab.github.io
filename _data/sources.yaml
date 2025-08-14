@@ -1,3 +1,18 @@
+- id: doi:10.1101/2025.07.30.666921
+  tags:
+    - phylogenomics
+    - tool
+    - Bioinformatics
+    - Software
+    - Phylogenetics
+- id: doi:10.1016/j.funbio.2025.101590
+  tags:
+    - Extremophiles
+    - Meetings
+    - Meeting Report
+    - Biotechnology
+    - Fungal stress
+    - Mycoremediation
 - id: doi:10.1128/mra.00427-25
   tags:
     - Genome Announcement
