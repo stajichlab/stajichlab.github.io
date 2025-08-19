@@ -189,19 +189,20 @@
   - Gene function
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.02.13.638206
-  title: Kingdom-Wide CRISPR Guide Design with ALLEGRO
+- id: doi:10.1093/nar/gkaf783
+  title: Kingdom-wide CRISPR guide design with ALLEGRO
   authors:
   - Amirsadra Mohseni
   - Reyhane Ghorbani Nia
   - Aida Tafrishi
+  - "Mario\_Le\xF3n L\xF3pez"
   - Xin-Zhan Liu
-  - Jason E. Stajich
-  - Ian Wheeldon
+  - "Jason\_E Stajich"
   - Stefano Lonardi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-02-17'
-  link: https://doi.org/g85gc3
+  - Ian Wheeldon
+  publisher: Nucleic Acids Research
+  date: '2025-08-11'
+  link: https://doi.org/g9xj5s
   tags:
   - CRISPR
   - Fungi
