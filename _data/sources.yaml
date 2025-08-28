@@ -1,3 +1,8 @@
+- id: doi:10.1128/mra.00519-25
+  tags:
+    - Aspergillus
+    - Genome Annotation
+    - Genome Announcement
 - id: doi:10.1101/2025.07.30.666921
   tags:
     - phylogenomics
@@ -44,11 +49,12 @@
     - cis-regulation
     - Orthology
     - Gene function
-- id: doi:10.1093/nar/gkaf783
+- id: pmid:40829801
   tags:
     - CRISPR
     - Fungi
     - Bioinformatics
+    - ALLEGRO
 - id: pmid:40097246
   title: Activation of the Trichodimerol Pathway through Deletion of <i>mcrA</i> in Marine <i>Penicillium rubens</i> YAP001
   tags: 
@@ -117,9 +123,11 @@
     - Basidiobolus
     - Microbiome
     - Bacteria
-- id: doi:10.1101/2025.01.03.631223
+- id: pmid:40833813
   tags:
     - Chytrid
+    - Centriole
+    - MTOC
 - id: doi:10.1016/j.cub.2024.11.005
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982224015124-gr1.jpg
   tags:

@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1128/mra.00519-25
+  title: "Genome annotation of\n            <i>Aspergillus melleus</i>\n         \
+    \   strain CBS 546.65"
+  authors:
+  - Jason E. Stajich
+  - Sean M. Garvey
+  - "J\xE9ssica Gil-Serna"
+  publisher: Microbiology Resource Announcements
+  date: '2025-08-25'
+  link: https://doi.org/g9zrfk
+  tags:
+  - Aspergillus
+  - Genome Annotation
+  - Genome Announcement
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2025.07.30.666921
   title: 'Phyling: phylogenetic inference from annotated genomes'
   authors:
@@ -189,24 +205,25 @@
   - Gene function
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1093/nar/gkaf783
-  title: Kingdom-wide CRISPR guide design with ALLEGRO
+- id: pmid:40829801
+  title: Kingdom-wide CRISPR guide design with ALLEGRO.
   authors:
   - Amirsadra Mohseni
   - Reyhane Ghorbani Nia
   - Aida Tafrishi
-  - "Mario\_Le\xF3n L\xF3pez"
+  - "Mario Le\xF3n L\xF3pez"
   - Xin-Zhan Liu
-  - "Jason\_E Stajich"
+  - Jason E Stajich
   - Stefano Lonardi
   - Ian Wheeldon
-  publisher: Nucleic Acids Research
+  publisher: Nucleic acids research
   date: '2025-08-11'
-  link: https://doi.org/g9xj5s
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40829801
   tags:
   - CRISPR
   - Fungi
   - Bioinformatics
+  - ALLEGRO
   plugin: sources.py
   file: sources.yaml
 - id: pmid:40097246
@@ -451,23 +468,25 @@
   - Bacteria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.01.03.631223
+- id: pmid:40833813
   title: Dynamic remodeling of centrioles and the microtubule cytoskeleton in the
-    lifecycle of chytrid fungi
+    lifecycle of chytrid fungi.
   authors:
-  - Alexandra F. Long
+  - Alexandra F Long
   - Krishnakumar Vasudevan
-  - Andrew J.M. Swafford
-  - Claire M. Venard
-  - Jason E. Stajich
-  - Lillian K. Fritz-Laylin
-  - Jessica L. Feldman
+  - Andrew Swafford
+  - Claire M Venard
+  - Jason E Stajich
+  - Lillian K Fritz-Laylin
+  - Jessica L Feldman
   - Tim Stearns
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-01-04'
-  link: https://doi.org/g8zv54
+  publisher: Molecular biology of the cell
+  date: '2025-08-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40833813
   tags:
   - Chytrid
+  - Centriole
+  - MTOC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cub.2024.11.005
