@@ -6,7 +6,7 @@ search:
   - Cliff Morrison
   - C S Morrison
 role: postdoc
-group: current
+group: alum
 image: images/members/cliff-morrison.jpg
 links:
   linkedin: cliffordstevenmorrison
