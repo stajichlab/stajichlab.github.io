@@ -909,13 +909,13 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/gbe/evaf114
-  title: Comparative genomics reveals intra and inter species variation in the pathogenic
-    fungus <i>Batrachochytrium dendrobatidis</i>
+  title: Comparative Genomics Reveals Intra and Inter Species Variation in the Pathogenic
+    Fungus <i>Batrachochytrium dendrobatidis</i>
   authors:
   - Mark N Yacoub
   - Jason E Stajich
   publisher: Genome Biology and Evolution
-  date: '2025-06-04'
+  date: '2025-05-30'
   link: https://doi.org/g9pfc3
   image: images/publication_images/Yacoub_2024.gif
   tags:
