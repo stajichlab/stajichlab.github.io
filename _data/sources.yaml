@@ -1,3 +1,15 @@
+- id: pmid:41055359
+  tags:
+    - Candida
+    - antifungal resistance
+- id: pmid:40915141
+  tags:
+    - Fungi
+    - Bioremediation
+    - dryland soils
+- id: pmid:41022589
+  tags:
+    - Gene Network reconstruction
 - id: doi:10.1128/mra.00519-25
   tags:
     - Aspergillus
