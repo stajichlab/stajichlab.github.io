@@ -152,8 +152,10 @@
     - Microbiome
     - Bacteria
 - id: pmid:40833813
+  image: images/publication_images/long_rg_centriole.jpg
   tags:
     - Chytrid
+    - Rhizoclosmatium globosum
     - Centriole
     - MTOC
 - id: doi:10.1016/j.cub.2024.11.005

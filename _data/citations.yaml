@@ -542,8 +542,10 @@
   publisher: Molecular biology of the cell
   date: '2025-08-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40833813
+  image: images/publication_images/long_rg_centriole.jpg
   tags:
   - Chytrid
+  - Rhizoclosmatium globosum
   - Centriole
   - MTOC
   plugin: sources.py
