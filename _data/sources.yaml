@@ -1,21 +1,30 @@
 - id: pmid:41055359
+  image: images/publication_images/candida_resistance_2025.jpg
   tags:
     - Candida
     - antifungal resistance
 - id: pmid:40915141
+  image: images/publication_images/biorediation_stevenson_2025.jpg
   tags:
     - Fungi
     - Bioremediation
     - dryland soils
 - id: pmid:41022589
+  image: images/publication_images/rhiepa_2025.jpg
   tags:
     - Gene Network reconstruction
+    - RHIEPA
+    - Bioinformatics
+    - Fungi
+    - Gene regulation
 - id: doi:10.1128/mra.00519-25
+  image: images/publication_images/aspergillus_melleus.jpg
   tags:
     - Aspergillus
     - Genome Annotation
     - Genome Announcement
 - id: doi:10.1101/2025.07.30.666921
+  image: images/publication_images/phyling_2025.jpg
   tags:
     - phylogenomics
     - tool
@@ -23,6 +32,7 @@
     - Software
     - Phylogenetics
 - id: doi:10.1016/j.funbio.2025.101590
+  image: images/publication_images/isfus-2024.jpg
   tags:
     - Extremophiles
     - Meetings
@@ -31,6 +41,7 @@
     - Fungal stress
     - Mycoremediation
 - id: doi:10.1128/mra.00427-25
+  image: images/publication_images/endolithic_microbes.jpg 
   tags:
     - Genome Announcement
     - MRA
@@ -40,6 +51,7 @@
     - MAG
 - id: doi:10.1128/mra.01273-24
   title: Draft genome of <i>Conoideocrella luteorostrata</i> ARSEF 14590 (Clavicipitaceae), an entomopathogenic fungus with a wealth of biosynthetic and biocontrol potential
+  image: images/publication_images/mra.01273-24.f001.jpg
   tags:
     - Conoideocrella
     - Clavicipitaceae
@@ -49,19 +61,15 @@
     - MRA
 - id: doi:10.3114/sim.2025.111.03
   title: Section-level genome sequencing and comparative genomics of Aspergillus sections <i>Cavernicolus</i> and <i>Usti</i>
+  image: images/publication_images/aspergillus_usti.jpg
   tags:
     - Aspergillus
     - Taxonomy
     - Systematics
     - Cavernicolus
     - Usti
-- id: doi:10.1101/2025.02.27.640643
-  tags:
-    - Fungi
-    - cis-regulation
-    - Orthology
-    - Gene function
 - id: pmid:40829801
+  image: images/publication_images/allegro_crispr.jpg
   tags:
     - CRISPR
     - Fungi
@@ -69,25 +77,33 @@
     - ALLEGRO
 - id: pmid:40097246
   title: Activation of the Trichodimerol Pathway through Deletion of <i>mcrA</i> in Marine <i>Penicillium rubens</i> YAP001
+  image: images/publication_images/trichodimerol_pathway.jpg
   tags: 
     - Penicillium
     - Natural Product
     - Secondary Metabolism
     - marine fungi
 - id: doi:10.1101/2025.03.05.641731
+  image: images/publication_images/kelly_biocrust_2025.jpg
   tags: 
     - Biocrust
     - Fungi
     - mycobiome
 - id: doi:10.1101/2025.03.31.646452
   title: A Novel <i>Sarocladium spinificis</i> Strain Suppresses <i>Coccidioides posadasii</i> Growth Morphological and Genetic Perspectives
+  image: images/publication_images/sarocladium_2025.jpg
   tags: 
     - Coccidioides
     - Sarocladium
     - Biocontrol
 - id: doi:10.1101/2025.02.11.637735
+  title: Eukaryotic MAGs recovered from deep metagenomic sequencing of the seagrass, <i>Zostera marina</i>, include a novel chytrid in the order Lobulomycetales
+  image: images/publication_images/ettinger_lobulomycete.jpg
   tags:
     - Marine fungi
+    - Lobulomycetales
+    - MAG
+    - Metagenome
     - chytrid
     - Metagenome
     - Seagrass
@@ -158,16 +174,16 @@
   image: images/publication_images/neonectria.jpg
   title: Draft genome sequences for <i>Neonectria magnoliae</i> and <i>Neonectria punicea</i>, canker pathogens of <i>Liriodendron tulipifera</i> and <i>Acer saccharum</i> in West Virginia
   tags: 
-   - Neonectria
-   - Tree pathogen
+    - Neonectria
+    - Tree pathogen
 - id: pmid:39223407
   image: images/publication_images/diutina.jpg
   title: A Cluster of <i>Diutina catenulata</i> Funguria in Patients with Coronavirus Disease 2019 (COVID-19) Hospitalized in a Tertiary Reference Hospital from Rio de Janeiro, Brazil
   tags: 
-   - Fungal pathogen
-   - Diutina
-   - COVID-19
-   - population genomics
+    - Fungal pathogen
+    - Diutina
+    - COVID-19
+    - population genomics
 - id: pmid:40353686
   image: images/publication_images/starship_afum.jpg
   tags: 

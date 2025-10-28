@@ -14,6 +14,7 @@
   publisher: mBio
   date: '2025-10-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41055359
+  image: images/publication_images/candida_resistance_2025.jpg
   tags:
   - Candida
   - antifungal resistance
@@ -34,6 +35,7 @@
   publisher: The Science of the total environment
   date: '2025-09-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40915141
+  image: images/publication_images/biorediation_stevenson_2025.jpg
   tags:
   - Fungi
   - Bioremediation
@@ -51,8 +53,13 @@
   publisher: Genetics
   date: '2025-09-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41022589
+  image: images/publication_images/rhiepa_2025.jpg
   tags:
   - Gene Network reconstruction
+  - RHIEPA
+  - Bioinformatics
+  - Fungi
+  - Gene regulation
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/mra.00519-25
@@ -65,6 +72,7 @@
   publisher: Microbiology Resource Announcements
   date: '2025-08-25'
   link: https://doi.org/g9zrfk
+  image: images/publication_images/aspergillus_melleus.jpg
   tags:
   - Aspergillus
   - Genome Annotation
@@ -79,6 +87,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-08-01'
   link: https://doi.org/g9wzrc
+  image: images/publication_images/phyling_2025.jpg
   tags:
   - phylogenomics
   - tool
@@ -133,6 +142,7 @@
   publisher: Fungal Biology
   date: '2025-08-01'
   link: https://doi.org/g9wzrd
+  image: images/publication_images/isfus-2024.jpg
   tags:
   - Extremophiles
   - Meetings
@@ -157,6 +167,7 @@
   publisher: Microbiology Resource Announcements
   date: '2025-07-23'
   link: https://doi.org/g9vcfc
+  image: images/publication_images/endolithic_microbes.jpg
   tags:
   - Genome Announcement
   - MRA
@@ -182,6 +193,7 @@
   publisher: Microbiology Resource Announcements
   date: '2025-07-23'
   link: https://doi.org/g9t2pm
+  image: images/publication_images/mra.01273-24.f001.jpg
   tags:
   - Conoideocrella
   - Clavicipitaceae
@@ -235,29 +247,13 @@
   publisher: Studies in Mycology
   date: '2025-01-01'
   link: https://doi.org/g9pfc2
+  image: images/publication_images/aspergillus_usti.jpg
   tags:
   - Aspergillus
   - Taxonomy
   - Systematics
   - Cavernicolus
   - Usti
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2025.02.27.640643
-  title: Inferring fungal cis-regulatory networks from genome sequences
-  authors:
-  - Alan M Moses
-  - Jason E Stajich
-  - Audrey P Gasch
-  - David A Knowles
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-03-03'
-  link: https://doi.org/g9fpbw
-  tags:
-  - Fungi
-  - cis-regulation
-  - Orthology
-  - Gene function
   plugin: sources.py
   file: sources.yaml
 - id: pmid:40829801
@@ -274,6 +270,7 @@
   publisher: Nucleic acids research
   date: '2025-08-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40829801
+  image: images/publication_images/allegro_crispr.jpg
   tags:
   - CRISPR
   - Fungi
@@ -299,6 +296,7 @@
   publisher: ACS chemical biology
   date: '2025-03-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40097246
+  image: images/publication_images/trichodimerol_pathway.jpg
   tags:
   - Penicillium
   - Natural Product
@@ -317,6 +315,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-03-05'
   link: https://doi.org/g9fnmw
+  image: images/publication_images/kelly_biocrust_2025.jpg
   tags:
   - Biocrust
   - Fungi
@@ -339,6 +338,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-03-31'
   link: https://doi.org/g9fnmx
+  image: images/publication_images/sarocladium_2025.jpg
   tags:
   - Coccidioides
   - Sarocladium
@@ -346,8 +346,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.02.11.637735
-  title: Eukaryotic MAGs recovered from deep metagenomic sequencing of the seagrass,<i>Zostera
-    marina,</i>include a novel chytrid in the order Lobulomycetales
+  title: Eukaryotic MAGs recovered from deep metagenomic sequencing of the seagrass,
+    <i>Zostera marina</i>, include a novel chytrid in the order Lobulomycetales
   authors:
   - Cassandra L. Ettinger
   - Jonathan A. Eisen
@@ -355,8 +355,12 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-02-11'
   link: https://doi.org/g9fnmz
+  image: images/publication_images/ettinger_lobulomycete.jpg
   tags:
   - Marine fungi
+  - Lobulomycetales
+  - MAG
+  - Metagenome
   - chytrid
   - Metagenome
   - Seagrass
