@@ -108,10 +108,12 @@
     - Metagenome
     - Seagrass
 - id: doi:10.1101/2025.01.23.634575
+  image: images/publication_images/ettinger_seagrass_AMF.jpg
   tags: 
     - AMF
     - arbuscular mycorrhizal
     - Seagrass
+    - Comparative genomics
 - id: doi:10.1101/2024.12.17.629027
   title: Genomic streamlining of seagrass-associated <i>Colletotrichum sp.</i> may be related to its adaptation to a marine monocot host
   tags:
