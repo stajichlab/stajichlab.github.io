@@ -11,12 +11,6 @@ The Stajich lab mentors Postdoctoral fellows, Graduate and Undergraduate student
 
 ## Postdoctoral opportunities
 
-An NSF supported project focused on [Herptile Microbiomes](http://herptilemicrobiomes.org) will start in January 2022 with support for one Postdoctoral scientist to perform mentored research and lead questions around fungal and bacteria interactions in herptile digestive tract microbiomes. We are looking for and individual with expertise in metagenomic and amplicon metabarcoding data analyses, genome assembly and annotation, statistical or microbial ecology experience, and phylogenetics.
-
-Additional opportunities for mentored postdoctoral research will be available in our NIH supported research on in-host evolution of fungi in chronic infections where we seek candidates with experience in population and comparative genomics.  
-
-The lab is also excited to host and help provide postdoctoral training in other areas of fungal genomics, transcriptomics, and the interface of systematics and fungal evolution with genomic tools. Please get in touch if you would like to pursue externally funded opportunities from agencies and private foundations as well.
-
 ### Postdoc funding opportunities
 
 * [NSF PRFB](https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb)
@@ -37,10 +31,6 @@ The lab is also excited to host and help provide postdoctoral training in other 
 
 ## Graduate opportunities
 
-An NSF supported project focused on [Herptile Microbiomes](http://herptilemicrobiomes.org) will start in January 2022 with support for one graduate student over the subsequent 4 years.  We are looking to for a student with interests to develop and apply skills in computational microbial ecology and microbiome analyses. The project will span interactions of Fungi and Bacteria in Amphibian and Reptile digestive tracts with wild caught, captive, and experimental manipulation of diets.  This is a collaborative project with faculty at MTSU [Donny Walker](https://herptilemicrobiomes.org/members/donald-walker) and OSU faculty [Kerrie McPhail](https://herptilemicrobiomes.org/members/kerry-mcphail) and [Joey Spatafora](https://herptilemicrobiomes.org/members/joey-spatafora)
-
-A [USDA funded project](http://Citrus-HLB-Micro.github.io) on the role of microbiome manipulation in HLB Citrus greening is underway and will support two students.
-
 Applicants should contact [Jason](/members/jason-stajich)  but consider applications graduate programs that fit research interests
 * [Microbiology Graduate Program](https://microbiology.ucr.edu)
 * [Genetics, Genomics, Bioinformatics](https://ggb.ucr.edu)
@@ -60,7 +50,8 @@ We are avid mentors of undergraduate research. There are opportunities for resea
 * [UCR CAMP](https://stem.ucr.edu/research-opportunities/camp)
 * [UCR RISE](https://stem.ucr.edu/research-opportunities/rise)
 * [MARC U STAR](https://marcu.ucr.edu/)
+* [UCR REU program](https://cepceb.ucr.edu/research-training/reu)
 
 ## Staff positions
 
-The lab does not currently have opening for programmers or lab staff positions at this time. However we do anticipate possible future funded positions around genomic databases and genome annotation tools.
+The lab does not currently have opening for programmers or lab staff positions at this time.
