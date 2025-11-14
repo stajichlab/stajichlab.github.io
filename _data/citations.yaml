@@ -716,7 +716,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/38860878
   image: https://www.microbiologyresearch.org/docserver/ahah/fulltext/mgen/10/6/mgen001261-f1_thmb.gif
   tags:
-  - Bacterial-Fungal Interactions
+  - bacteria fungi interactions
   - zygomycete
   - Mucoromycotina
   plugin: sources.py
@@ -1016,7 +1016,7 @@
   - ITS
   - 16S
   - amplicon
-  - Bacterial-Fungal Interactions
+  - bacteria fungi interactions
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.01.20.575729
@@ -1085,7 +1085,7 @@
   tags:
   - zygomycete
   - Fungi
-  - Bacterial-Fungi interactions
+  - bacteria fungi interactions
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/mra.00913-23
@@ -2531,8 +2531,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1639/0007-2745-123.1.011
-  title: "The monophyletic Sarcogyne canadensis\u2013wheeleri clade, a newly recognized\
-    \ group sister to the European Acarospora glaucocarpa group"
+  title: "The monophyletic <i>Sarcogyne canadensis\u2013wheeleri</i> clade, a newly\
+    \ recognized group sister to the European <i>Acarospora glaucocarpa</i> group"
   authors:
   - Kerry Knudsen
   - Julia N. Adams
@@ -3526,7 +3526,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: pmid:32938701
-  title: No to
+  title: No to <i>Neocosmospora</i>- Phylogenomic and Practical Reasons for Continued
+    Inclusion of the <i>Fusarium solani</i> Species Complex in the Genus <i>Fusarium</i>
   authors:
   - Kerry O'Donnell
   - Abdullah M S Al-Hatmi
@@ -3831,6 +3832,30 @@
   - black yeast
   - Antarctica
   - genome
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2020.09.07.286443
+  title: Volatiles from <i>Serratia marcescens</i>, <i>S. proteamaculans</i>, and
+    <i>Bacillus subtilis</i> Inhibit Growth of <i>Rhizopus stolonifer</i> and Other
+    Fungi
+  authors:
+  - Derreck Carter-House
+  - Joshua Chung
+  - Skylar McDonald
+  - Kerry Mauck
+  - Jason E Stajich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-09-07'
+  link: https://doi.org/gr8g2v
+  image: images/publication_images/serratia_inhibition.jpg
+  tags:
+  - Volatile
+  - Growth suppression
+  - Fungi
+  - Bacteria
+  - bacteria fungi interactions
+  - Serratia
+  - Rhizopus
   plugin: sources.py
   file: sources.yaml
 - id: pmid:32371596

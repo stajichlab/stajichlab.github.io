@@ -63,3 +63,8 @@ These are past lab members who have moved on in their careers.
 Our work is made possible by funding from several organizations.
 {:.center}
 
+https://www.nifa.usda.gov/
+https://nsf.gov/
+https://nih.gov/
+https://cifa.ca/
+https://moore.org

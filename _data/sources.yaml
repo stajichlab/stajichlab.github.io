@@ -205,7 +205,7 @@
 - id: pmid:38860878
   image: https://www.microbiologyresearch.org/docserver/ahah/fulltext/mgen/10/6/mgen001261-f1_thmb.gif
   tags:
-    - Bacterial-Fungal Interactions
+    - bacteria fungi interactions
     - zygomycete
     - Mucoromycotina
 - id: pmid:38806503
@@ -277,7 +277,7 @@
     - ITS
     - 16S
     - amplicon
-    - Bacterial-Fungal Interactions
+    - bacteria fungi interactions
 - id: doi:10.1101/2024.01.20.575729
   image: images/publication_images/Citrus_stack.jpg
   tags:
@@ -296,7 +296,7 @@
   tags:
     - zygomycete
     - Fungi
-    - Bacterial-Fungi interactions
+    - bacteria fungi interactions
 - id: doi:10.1128/mra.00913-23
   image: images/publication_images/kurbessoian_2024a.jpg
   tags:
@@ -715,6 +715,7 @@
     - experimental evolution
 - id: doi:10.1639/0007-2745-123.1.011
   image: images/publication_images/Sarcogyne_alcesensis.jpg
+  title: The monophyletic <i>Sarcogyne canadensis–wheeleri</i> clade, a newly recognized group sister to the European <i>Acarospora glaucocarpa</i> group
   tags:
     - Lichen
     - Acarospora
@@ -952,6 +953,7 @@
     - transposon
     - mPing
 - id: pmid:32938701
+  title: No to <i>Neocosmospora</i>- Phylogenomic and Practical Reasons for Continued Inclusion of the <i>Fusarium solani</i> Species Complex in the Genus <i>Fusarium</i>
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7494836/bin/mSphere.00810-20-f0001.jpg
   tags:
     - Fusarium
@@ -1033,6 +1035,17 @@
     - black yeast
     - Antarctica
     - genome
+- id: doi:10.1101/2020.09.07.286443
+  title: Volatiles from <i>Serratia marcescens</i>, <i>S. proteamaculans</i>, and <i>Bacillus subtilis</i> Inhibit Growth of <i>Rhizopus stolonifer</i> and Other Fungi
+  image: images/publication_images/serratia_inhibition.jpg
+  tags:
+    - Volatile
+    - Growth suppression
+    - Fungi
+    - Bacteria
+    - bacteria fungi interactions
+    - Serratia
+    - Rhizopus
 - id: pmid:32371596
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7403777/bin/mBio.00449-20-f0001.jpg
   tags:
