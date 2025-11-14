@@ -674,7 +674,7 @@
   image: images/publication_images/starship_afum.jpg
   tags:
   - starship
-  - transposons
+  - transposable elements
   - repetitive elements
   - Aspergillus fumigatus
   plugin: sources.py
@@ -1019,26 +1019,33 @@
   - bacteria fungi interactions
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.01.20.575729
-  title: "Haplotype phased genome of \u2018Fairchild\u2019 mandarin highlights influence\
-    \ of local chromatin state on gene expression"
+- id: pmid:41168720
+  title: A haplotype-resolved chromatin landscape connects cis-regulatory variants
+    to trait variation in Citrus.
   authors:
-  - Isaac A. Diaz
+  - Isaac A Diaz
   - Talieh Ostovar
   - Jinfeng Chen
+  - Emmanuel Avila de Dios
+  - Ryan Piscatella
+  - Ruth S Perez-Alfaro
+  - Omar Zayed
   - Sarah Saddoris
-  - Robert J. Schmitz
-  - Susan R. Wessler
-  - Jason Stajich
-  - Danelle K. Seymour
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-01-24'
-  link: https://doi.org/gtftcr
+  - Robert J Schmitz
+  - Susan R Wessler
+  - Jason E Stajich
+  - Danelle K Seymour
+  publisher: BMC genomics
+  date: '2025-10-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41168720
   image: images/publication_images/Citrus_stack.jpg
   tags:
   - Citrus
   - Genome
-  - Transposable elements
+  - cis-regulatory
+  - chromatin
+  - gene regulation
+  - transposable elements
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.01.04.574182
@@ -1225,7 +1232,7 @@
   - Entomophthora
   - Big Genome
   - Nanopore
-  - Transposon
+  - transposable elements
   - Zoopagomycota
   - zygomycete
   plugin: sources.py
@@ -3521,7 +3528,7 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7584900/bin/pnas.2015736117fig01.jpg
   tags:
   - Rice
-  - transposon
+  - transposable elements
   - mPing
   plugin: sources.py
   file: sources.yaml
@@ -4393,7 +4400,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/30733435
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6367367/bin/41467_2019_8451_Fig2_HTML.jpg
   tags:
-  - transposon
+  - transposable elements
   - Rice
   - mPing
   plugin: sources.py
@@ -4830,7 +4837,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/29371508
   tags:
   - Coccidioides
-  - transposon
+  - transposable elements
   plugin: sources.py
   file: sources.yaml
 - id: pmid:29321239
@@ -4901,7 +4908,7 @@
   date: '2017-11-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29158416
   tags:
-  - transposon
+  - transposable elements
   - Rice
   - mPing
   plugin: sources.py
@@ -5136,7 +5143,7 @@
   repo: https://github.com/stajichlab/RelocaTE2
   tags:
   - tool
-  - transposon
+  - transposable elements
   plugin: sources.py
   file: sources.yaml
 - id: pmid:30682305
@@ -5236,7 +5243,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/27294409
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4905642/bin/pgen.1006108.g002.jpg
   tags:
-  - transposon
+  - transposable elements
   - Pleurotus
   plugin: sources.py
   file: sources.yaml
@@ -5378,7 +5385,7 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592977/bin/1949f2.jpg
   tags:
   - small RNA
-  - transposon
+  - transposable elements
   - Neurospora
   - MSUD
   plugin: sources.py
@@ -5867,7 +5874,7 @@
   date: '2013-06-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23576519
   tags:
-  - transposon
+  - transposable elements
   - tool
   plugin: sources.py
   file: sources.yaml
@@ -6000,7 +6007,7 @@
   tags:
   - Neurospora
   - mating
-  - transposon
+  - transposable elements
   plugin: sources.py
   file: sources.yaml
 - id: pmid:22072962
@@ -6438,7 +6445,7 @@
   - Coccidioides
   - genome
   - population genomics
-  - transposon
+  - transposable elements
   plugin: sources.py
   file: sources.yaml
 - id: pmid:20386741
