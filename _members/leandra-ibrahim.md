@@ -1,4 +1,5 @@
 ---
+name: Leandra Ibrahim
 title: Leandra Ibrahim
 role: undergraduate
 group: alum

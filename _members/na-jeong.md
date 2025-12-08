@@ -1,5 +1,6 @@
 ---
 title: Na Jeong
+name: Na Jeong
 role: undergraduate
 group: alum
 ---
