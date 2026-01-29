@@ -1,3 +1,11 @@
+- id: doi:10.5943/mycosphere/16/1/27
+  image: images/publication_images/Sun_Mycosphere_yeasts.jpg
+  tags:
+    - Rhodotorula
+    - Yeast
+    - Basidiomycete
+    - Taxonomy
+    - Discovery
 - id: pmid:41055359
   image: images/publication_images/candida_resistance_2025.jpg
   tags:
