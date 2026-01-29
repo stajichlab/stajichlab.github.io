@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.5943/mycosphere/16/1/27
+  title: The hidden taxonomic novelty of anamorphic basidiomycetous yeasts in the
+    phyllosphere and tidal flats in China
+  authors:
+  - JQ Sun
+  - ZN Du
+  - HY Zhu
+  - JZ Luo
+  - AK Zheng
+  - T Boekhout
+  - M Groenewald
+  - FL Hui
+  - AH Li
+  - JE Stajich
+  - W Zang
+  - FY Bai
+  - XZ Liu
+  publisher: Mycosphere
+  date: '2025-12-22'
+  link: https://doi.org/hbmvhn
+  image: images/publication_images/Sun_Mycosphere_yeasts.jpg
+  tags:
+  - Rhodotorula
+  - Yeast
+  - Basidiomycete
+  - Taxonomy
+  - Discovery
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:41055359
   title: Coordinated regulation of Mdr1- and Cdr1-mediated protection from antifungals
     by the Mrr1 transcription factor in emerging
@@ -51,7 +80,7 @@
   - Audrey P Gasch
   - David A Knowles
   publisher: Genetics
-  date: '2025-09-30'
+  date: '2026-01-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41022589
   image: images/publication_images/rhiepa_2025.jpg
   tags:
@@ -312,7 +341,7 @@
   - Xinzhan Liu
   - Jared Croyle
   - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-03-05'
   link: https://doi.org/g9fnmw
   image: images/publication_images/kelly_biocrust_2025.jpg
@@ -335,7 +364,7 @@
   - Daniel R. Matute
   - George Thompson
   - Bridget M. Barker
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-03-31'
   link: https://doi.org/g9fnmx
   image: images/publication_images/sarocladium_2025.jpg
@@ -352,7 +381,7 @@
   - Cassandra L. Ettinger
   - Jonathan A. Eisen
   - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-02-11'
   link: https://doi.org/g9fnmz
   image: images/publication_images/ettinger_lobulomycete.jpg
@@ -373,7 +402,7 @@
   - Cassandra L. Ettinger
   - Jennifer Arroyo
   - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-01-25'
   link: https://doi.org/g9fnm2
   image: images/publication_images/ettinger_seagrass_AMF.jpg
@@ -391,7 +420,7 @@
   - Cassandra L. Ettinger
   - Jonathan A. Eisen
   - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-12-17'
   link: https://doi.org/g9fnmv
   tags:
@@ -455,7 +484,7 @@
   - Yu Quan
   - Sybren de Hoog
   - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-06-13'
   link: https://doi.org/g8zv56
   image: images/publication_images/taxawa.jpg
@@ -470,7 +499,7 @@
   authors:
   - Cassandra L. Ettinger
   - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-12-06'
   link: https://doi.org/g8zv5z
   image: https://www.biorxiv.org/content/biorxiv/early/2024/12/06/2024.12.06.627215/F2.large.jpg
@@ -489,7 +518,7 @@
   - Claudia Coleine
   - Chris Coshland
   - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-12-28'
   link: https://doi.org/g8zv52
   image: https://www.biorxiv.org/content/biorxiv/early/2024/12/28/2024.12.27.630416/F2.large.jpg
@@ -973,8 +1002,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/gbe/evaf114
-  title: Comparative Genomics Reveals Intra and Inter Species Variation in the Pathogenic
-    Fungus <i>Batrachochytrium dendrobatidis</i>
+  title: "Comparative Genomics Reveals Intra and Inter Species Variation in the Pathogenic\
+    \ Fungus\n                    <i>Batrachochytrium dendrobatidis</i>"
   authors:
   - Mark N Yacoub
   - Jason E Stajich
@@ -1062,7 +1091,7 @@
   - Joseph Heitman
   - Jason E. Stajich
   - Timothy Y. James
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-01-05'
   link: https://doi.org/gtcwqs
   image: https://www.biorxiv.org/content/biorxiv/early/2024/01/05/2024.01.04.574182/F2.medium.gif
@@ -1085,7 +1114,7 @@
   - Brian Lovett
   - Matt T Kasson
   - Morgan E Carter
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-10-16'
   link: https://doi.org/gtcp5r
   image: https://www.biorxiv.org/content/biorxiv/early/2023/10/16/2023.10.16.562584/F1.medium.gif
@@ -1238,8 +1267,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.12.30.522274
-  title: <i>Botrytis cinerea</i>small RNAs are associated with tomato AGO1 and silence
-    tomato defense-related target genes supporting cross-kingdom RNAi
+  title: "<i>Botrytis cinerea</i>\n                  small RNAs are associated with\
+    \ tomato AGO1 and silence tomato defense-related target genes supporting cross-kingdom\
+    \ RNAi"
   authors:
   - Baoye He
   - Qiang Cai
@@ -1251,7 +1281,7 @@
   - Jason Stajich
   - Cei Abreu-Goodger
   - Hailing Jin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-01-02'
   link: https://doi.org/gr8gx6
   image: https://www.biorxiv.org/content/biorxiv/early/2023/02/15/2022.12.30.522274/F2.medium.gif
@@ -1682,7 +1712,7 @@
   - Ryan D. Ward
   - Nicole Pietrasiak
   - Jason E. Stajich
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-12-14'
   link: https://doi.org/grj82b
   image: https://journals.asm.org/cms/10.1128/MRA.00258-21/asset/a8c321ec-3a0c-4043-bb6f-c507f04481d2/assets/images/large/mra.00258-21-f001.jpg
