@@ -1,15 +1,18 @@
 - id: pmid:41932335
+  image: images/publication_images/Caulerpa_CCUP.jpg
   tags:
-    - Chloroplasts
+    - Chloroplast
     - Caulerpa
     - gene duplication
     - gene neofunctionalization
     - starch granule
 - id: pmid:41890020
+  title: Thermal adaptation crosstalk with azole response through lncRNA in <i>Aspergillus fumigatus</i>
   tags:
    - Aspergillus fumigatus
    - Azole resistance
 - id: pmid:41889904
+  title: An epigenetic mechanism of azole tolerance facilitates acquired antifungal resistance in <i>Aspergillus fumigatus</i>
   tags:
    - Aspergillus fumigatus
    - Azole resistance
@@ -19,6 +22,7 @@
     - Phyling
     - Phylogenomics
 - id: pmid:41670438
+  title: Manipulation of Global Regulator mcrA Activates the Fumigermin Pathway in <i>Penicillium camemberti</i> IMV00769
   tags:
     - Aspergillus
     - BGC
