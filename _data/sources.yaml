@@ -1,3 +1,39 @@
+- id: pmid:41932335
+  tags:
+    - Chloroplasts
+    - Caulerpa
+    - gene duplication
+    - gene neofunctionalization
+    - starch granule
+- id: pmid:41890020
+  tags:
+   - Aspergillus fumigatus
+   - Azole resistance
+- id: pmid:41889904
+  tags:
+   - Aspergillus fumigatus
+   - Azole resistance
+- id: pmid:41885611
+  tags:
+    - Methods
+    - Phyling
+    - Phylogenomics
+- id: pmid:41670438
+  tags:
+    - Aspergillus
+    - BGC
+    - Secondary Metabolism
+- id: pmid:41459970
+  tags:
+    - Coccidioides
+    - Sarocladium
+- id: pmid:41279718
+  tags:
+    - Aspergillus fumigatus
+- id: pmid:41006832
+  tags:
+    - Microbiome
+    - Data reuse
 - id: doi:10.5943/mycosphere/16/1/27
   image: images/publication_images/Sun_Mycosphere_yeasts.jpg
   tags:
@@ -154,7 +190,7 @@
     - Moss
     - Biocrust
     - Glomeromycotina
-- id: doi:10.1093/ismejo/wraf150
+- id: pmid:40689579
   title: Absolute abundance unveils <i>Basidiobolus</i> as a cross-domain bridge indirectly bolstering gut microbiome homeostasis
   image: https://www.biorxiv.org/content/biorxiv/early/2024/12/28/2024.12.27.630554/F5.large.jpg
   tags:
@@ -1451,7 +1487,7 @@
   tags:
     - CBM18
     - Batrachochytrium
-- id: doi:10.1261/rna.047985.114
+- id: pmid:25805857
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408805/bin/997F01.jpg
   tags:
     - Neurospora
