@@ -14,8 +14,9 @@
   publisher: 'Current biology : CB'
   date: '2026-04-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41932335
+  image: images/publication_images/Caulerpa_CCUP.jpg
   tags:
-  - Chloroplasts
+  - Chloroplast
   - Caulerpa
   - gene duplication
   - gene neofunctionalization
@@ -23,7 +24,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: pmid:41890020
-  title: Thermal adaptation crosstalk with azole response through lncRNA in
+  title: Thermal adaptation crosstalk with azole response through lncRNA in <i>Aspergillus
+    fumigatus</i>
   authors:
   - Nava Raj Poudyal
   - Ryan T Mehlem
@@ -40,7 +42,7 @@
   file: sources.yaml
 - id: pmid:41889904
   title: An epigenetic mechanism of azole tolerance facilitates acquired antifungal
-    resistance in
+    resistance in <i>Aspergillus fumigatus</i>
   authors:
   - Sandeep Vellanki
   - Nathan DeMichaelis
@@ -70,7 +72,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: pmid:41670438
-  title: Manipulation of Global Regulator
+  title: Manipulation of Global Regulator mcrA Activates the Fumigermin Pathway in
+    <i>Penicillium camemberti</i> IMV00769
   authors:
   - Jennifer Shyong
   - Quoc-Dung Tran Huynh
