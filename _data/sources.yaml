@@ -23,18 +23,22 @@
     - Phylogenomics
 - id: pmid:41670438
   title: Manipulation of Global Regulator mcrA Activates the Fumigermin Pathway in <i>Penicillium camemberti</i> IMV00769
+  image: images/publication_images/Pcamemberti.jpg
   tags:
     - Aspergillus
     - BGC
     - Secondary Metabolism
 - id: pmid:41459970
   title: Morphological and genetic characterization of novel <i>Sarocladium spinificis</i> strains in association with <i>Coccidioides posadasii</i>
+  image: images/publication_images/sarocladium_2025.jpg
   tags:
     - Coccidioides
     - Sarocladium
 - id: pmid:41279718
   tags:
     - Aspergillus fumigatus
+    - lncRNA
+    - azole resistance
 - id: pmid:41006832
   tags:
     - Microbiome

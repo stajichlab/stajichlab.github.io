@@ -87,6 +87,7 @@
   publisher: ACS chemical biology
   date: '2026-02-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41670438
+  image: images/publication_images/Pcamemberti.jpg
   tags:
   - Aspergillus
   - BGC
@@ -109,6 +110,7 @@
   publisher: Microbiology spectrum
   date: '2025-12-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41459970
+  image: images/publication_images/sarocladium_2025.jpg
   tags:
   - Coccidioides
   - Sarocladium
@@ -132,6 +134,8 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/41279718
   tags:
   - Aspergillus fumigatus
+  - lncRNA
+  - azole resistance
   plugin: sources.py
   file: sources.yaml
 - id: pmid:41006832
