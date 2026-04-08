@@ -94,7 +94,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: pmid:41459970
-  title: Morphological and genetic characterization of novel
+  title: Morphological and genetic characterization of novel <i>Sarocladium spinificis</i>
+    strains in association with <i>Coccidioides posadasii</i>
   authors:
   - Marcus de M Teixeira
   - Sarah A Ahmed
