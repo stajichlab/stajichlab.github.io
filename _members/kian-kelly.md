@@ -7,7 +7,7 @@ search:
   - Kian Kelly
   - K Kelly
 role: phd
-group: current
+group: alum
 image: images/members/Kian-Kelly-two.png
 links:
   email: kkell060@ucr.edu
