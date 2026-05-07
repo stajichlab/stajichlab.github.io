@@ -1,5 +1,82 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:42083270
+  title: Novel Glomeromycotina-moss associations identified in California dryland
+    biocrusts.
+  authors:
+  - Kian H Kelly
+  - Claudia Coleine
+  - Chris Coshland
+  - Jason E Stajich
+  publisher: The New phytologist
+  date: '2026-05-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42083270
+  tags:
+  - AMF
+  - Moss
+  - Glomeromycotina
+  - Desert
+  - Biocrust
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:41958070
+  title: Genomic and Ecological Flexibility Shape the Global Distribution of a Black
+    Fungus.
+  authors:
+  - Claudia Coleine
+  - Federico Biagioli
+  - "Tadeo S\xE1ez-Sandino"
+  - Cene Gostincar
+  - Silvia Turco
+  - Lucia Muggia
+  - Claudio Donati
+  - Alessandro Cestaro
+  - Tania Kurbessoian
+  - Eleonora Egidi
+  - Jason E Stajich
+  - Leho Tedersoo
+  - Manuel Delgado-Baquerizo
+  publisher: Environmental microbiology
+  date: '2026-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41958070
+  tags:
+  - Black yeast
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:41992364
+  title: Effects of environmental setting and diet on the gut microbial ecology of
+    eastern hellbenders (Cryptobranchus alleganiensis alleganiensis).
+  authors:
+  - Chloe Cummins
+  - William Sutton
+  - Taina McLeod
+  - Jason W Dallas
+  - Mitra Ghotbi
+  - "Lluvia Vargas-Gast\xE9lum"
+  - N Reed Alexander
+  - Alexander J Rurik
+  - Dale McGinnity
+  - Sherri Doro Reinsch
+  - Pia Sandonato
+  - Jessica Arbour
+  - Michael Freake
+  - Anthony Ashley
+  - William Ternes
+  - Elizabeth Culp
+  - Joseph Spatafora
+  - Kerry McPhail
+  - Jason E Stajich
+  - Rebecca Hardman
+  - Donald M Walker
+  publisher: Animal microbiome
+  date: '2026-04-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41992364
+  tags:
+  - Herptile
+  - Microbiome
+  - UHM
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:41932335
   title: Evolution of a chloroplast subcompartment housing plastid DNA inside a cup-like
     starch granule.

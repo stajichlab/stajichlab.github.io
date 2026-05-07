@@ -1,3 +1,18 @@
+- id: pmid:42083270 
+  tags: 
+    - AMF
+    - Moss
+    - Glomeromycotina
+    - Desert
+    - Biocrust
+- id: pmid:41958070
+  tags:
+    - Black yeast
+- id: pmid:41992364
+  tags:
+    - Herptile
+    - Microbiome
+    - UHM
 - id: pmid:41932335
   image: images/publication_images/Caulerpa_CCUP.jpg
   tags:
