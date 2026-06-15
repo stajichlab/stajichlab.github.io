@@ -1,4 +1,5 @@
 - id: pmid:42294675
+  title: An epigenetic mechanism of azole tolerance facilitates acquired antifungal resistance in <i>Aspergillus fumigatus</i>
   tags: 
     - Aspergillus fumigatus
     - azole tolerance
@@ -37,12 +38,8 @@
   tags:
    - Aspergillus fumigatus
    - Azole resistance
-- id: pmid:41889904
-  title: An epigenetic mechanism of azole tolerance facilitates acquired antifungal resistance in <i>Aspergillus fumigatus</i>
-  tags:
-   - Aspergillus fumigatus
-   - Azole resistance
 - id: pmid:41885611
+  image: images/publication_images/phyling_2025.jpg
   tags:
     - Methods
     - Phyling
@@ -97,14 +94,6 @@
     - Aspergillus
     - Genome Annotation
     - Genome Announcement
-- id: doi:10.1101/2025.07.30.666921
-  image: images/publication_images/phyling_2025.jpg
-  tags:
-    - phylogenomics
-    - tool
-    - Bioinformatics
-    - Software
-    - Phylogenetics
 - id: doi:10.1016/j.funbio.2025.101590
   image: images/publication_images/isfus-2024.jpg
   tags:
