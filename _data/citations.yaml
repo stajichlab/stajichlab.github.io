@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/genetics/iyag152
+  title: "A long non-coding RNA regulates in vitro and in vivo triazole antifungal\
+    \ susceptibility in\n                    <i>Aspergillus fumigatus</i>"
+  authors:
+  - Nava Raj Poudyal
+  - Ryan T Mehlem
+  - Priyanka Doneparthi
+  - Tabitha L Cady
+  - Garrett Kaufman
+  - Sven D Willger
+  - Maximiliano Ortiz
+  - Rooksana E Noorai
+  - Jason E Stajich
+  - Sourabh Dhingra
+  publisher: GENETICS
+  date: '2026-06-15'
+  link: https://doi.org/hb7r62
+  tags:
+  - Aspergillus fumigatus
+  - Azole resistance
+  - ncRNA
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:42083270
   title: Novel Glomeromycotina-moss associations identified in California dryland
     biocrusts.
