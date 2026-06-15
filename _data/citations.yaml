@@ -2,7 +2,7 @@
 
 - id: pmid:42294675
   title: An epigenetic mechanism of azole tolerance facilitates acquired antifungal
-    resistance in
+    resistance in <i>Aspergillus fumigatus</i>
   authors:
   - Sandeep Vellanki
   - Nathan DeMichaelis
@@ -158,23 +158,6 @@
   - Azole resistance
   plugin: sources.py
   file: sources.yaml
-- id: pmid:41889904
-  title: An epigenetic mechanism of azole tolerance facilitates acquired antifungal
-    resistance in <i>Aspergillus fumigatus</i>
-  authors:
-  - Sandeep Vellanki
-  - Nathan DeMichaelis
-  - Catherine Liao
-  - Jason E Stajich
-  - Robert A Cramer
-  publisher: 'bioRxiv : the preprint server for biology'
-  date: '2026-03-16'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/41889904
-  tags:
-  - Aspergillus fumigatus
-  - Azole resistance
-  plugin: sources.py
-  file: sources.yaml
 - id: pmid:41885611
   title: 'Phyling: phylogenetic inference from annotated genomes.'
   authors:
@@ -183,6 +166,7 @@
   publisher: G3 (Bethesda, Md.)
   date: '2026-03-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41885611
+  image: images/publication_images/phyling_2025.jpg
   tags:
   - Methods
   - Phyling
@@ -358,23 +342,6 @@
   - Aspergillus
   - Genome Annotation
   - Genome Announcement
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2025.07.30.666921
-  title: 'Phyling: phylogenetic inference from annotated genomes'
-  authors:
-  - Cheng-Hung Tsai
-  - Jason Eric Stajich
-  publisher: openRxiv
-  date: '2025-08-01'
-  link: https://doi.org/g9wzrc
-  image: images/publication_images/phyling_2025.jpg
-  tags:
-  - phylogenomics
-  - tool
-  - Bioinformatics
-  - Software
-  - Phylogenetics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.funbio.2025.101590
