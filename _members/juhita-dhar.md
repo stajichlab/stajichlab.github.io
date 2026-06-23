@@ -9,4 +9,4 @@ links:
   linkedin: juhita-dhar-9343931b1
 ---
 
-Juhita Dhar joined the lab in Spring 2025 with a focus on Extremophile Fungi projects.
+Juhita joined the lab in Spring 2025 as a PhD student in the [Microbiology Program](https://microbiology.ucr.edu/) after completing a MS in India. She is working on the biofilm formation in _Rhodotorula_.
