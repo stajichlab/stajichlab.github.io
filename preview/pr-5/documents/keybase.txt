@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jstajich
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lab.stajich.org
+  * I am jstajich (https://keybase.io/jstajich) on keybase.
+  * I have a public key ASCmzkqePN8d-DusVTPrYf30V7zS2EuXQunhvDFBVdYFDQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014a2179ce1f553a5be3f0f4fdb8a9debffdf2aca71024799067ad54c2eaa5aecd0a",
+      "host": "keybase.io",
+      "kid": "0120a6ce4a9e3cdf1df83bac5533eb61fdf457bcd2d84b9742e9e1bc314155d6050d0a",
+      "uid": "c1f8a178013ff7acaeac109d2b8a2619",
+      "username": "jstajich"
+    },
+    "merkle_root": {
+      "ctime": 1681147309,
+      "hash": "7c223160fd216517de4dfe62014bb304e59e61d732cb2bc8b1218534a5cd4cb91bcaaf961941bb9e20154402db3afc9fc25f7105476fc23c99671eeb0921e14e",
+      "hash_meta": "3c010687df1cf26caa0de3970aace04b2b2b9f97595bbe290436c9a265551f35",
+      "seqno": 24315951
+    },
+    "service": {
+      "entropy": "HlK3lDf+za8qXPuyt8gE+I7p",
+      "hostname": "lab.stajich.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1681147424,
+  "expire_in": 504576000,
+  "prev": "7a2ed2fcbb272942890eeab0f8f6708f424375302b9316e237bff957a99f3055",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgps5KnjzfHfg7rFUz62H99Fe80thLl0Lp4bwxQVXWBQ0Kp3BheWxvYWTESpcCKcQgei7S/LsnKUKJDuqw+PZwj0JDdTArkxbiN7/5V6mfMFXEIIa55fqQ3UdLBnHFNZTQi/gK2WvUyX9RwHczqzQcpuWsAgHCo3NpZ8RAbm6H3LSZ1wv0xT1S69M83N7Zf/eQxaQSYnjUbQsVpGqduQ+LF/BHCdfWlBImG3tpNHa6hCBmA+Fri+E1+44lDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIyYJv37GPu2ZgVGao4PujsmmyUNj+hD9fvBiFUAr4QXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jstajich
+
+==================================================================
