@@ -4,6 +4,7 @@ title: Prince Amoah
 description: Plant Pathology Graduate Student
 role: phd
 group: current
+image: images/members/prince-amoah.jpg
 links:
 ---
 
