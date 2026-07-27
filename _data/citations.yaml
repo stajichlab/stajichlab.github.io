@@ -1,5 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1128/aem.01043-26
+  title: Unraveling the diversity and functional potential of cyanosphere microbiomes
+    assembled from terrestrial cyanobacteria
+  authors:
+  - Brianne Palmer
+  - Estelle M. Couradeau
+  - Jeffrey R. Johansen
+  - Tania Kurbessoian
+  - Jose Ortega Carranza
+  - Jason E. Stajich
+  - Ryan Ward
+  - Nicole Pietrasiak
+  publisher: Applied and Environmental Microbiology
+  date: '2026-07-20'
+  link: https://doi.org/hccvpq
+  tags:
+  - Cyanosphere
+  - Cyanobacteria
+  - Microbiome
+  - Terrestrial
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21769/BioProtoc.5739
+  title: Simultaneous Transcriptomic Analysis of Both Host and Symbiont in Insect-Fungus
+    Interactions
+  authors:
+  - McKeon Laws
+  - Ellie Burns
+  - Matthew Kasson
+  - Teiya Kijimoto
+  - Jason Stajich
+  publisher: BIO-PROTOCOL
+  date: '2026-01-01'
+  link: https://doi.org/hccvpr
+  tags:
+  - Transcriptomics
+  - Insect-Fungus Interaction
+  - Symbiont
+  - Host
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:42294675
   title: An epigenetic mechanism of azole tolerance facilitates acquired antifungal
     resistance in <i>Aspergillus fumigatus</i>
@@ -148,10 +189,9 @@
   - Nava Raj Poudyal
   - Ryan T Mehlem
   - Ritu Devkota
-  - Jason E Stajich
   - Sourabh Dhingra
   publisher: 'bioRxiv : the preprint server for biology'
-  date: '2026-03-20'
+  date: '2026-05-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41890020
   tags:
   - Aspergillus fumigatus
@@ -164,7 +204,7 @@
   - Cheng-Hung Tsai
   - Jason E Stajich
   publisher: G3 (Bethesda, Md.)
-  date: '2026-03-26'
+  date: '2026-05-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41885611
   image: images/publication_images/phyling_2025.jpg
   tags:
@@ -328,8 +368,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/mra.00519-25
-  title: "Genome annotation of\n            <i>Aspergillus melleus</i>\n         \
-    \   strain CBS 546.65"
+  title: "Genome annotation of\n                    <i>Aspergillus melleus</i>\n \
+    \                   strain CBS 546.65"
   authors:
   - Jason E. Stajich
   - Sean M. Garvey
@@ -439,7 +479,7 @@
   - Gregory Biddle
   - Matt T. Kasson
   publisher: Microbiology Resource Announcements
-  date: '2025-07-23'
+  date: '2025-08-14'
   link: https://doi.org/g9t2pm
   image: images/publication_images/mra.01273-24.f001.jpg
   tags:
@@ -642,6 +682,7 @@
   publisher: openRxiv
   date: '2024-12-17'
   link: https://doi.org/g9fnmv
+  image: https://www.biorxiv.org/content/biorxiv/early/2026/03/12/2024.12.17.629027/F1.large.jpg
   tags:
   - Seagrass
   - Metagenome
@@ -1297,15 +1338,16 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.01.04.574182
-  title: Discovery of giant viruses as past and present infections of zoosporic fungi
+  title: "Discovery of\n                  <i>Mycodnaviridae</i>\n                \
+    \  , a clade of giant viruses that persistently infect zoosporic fungi"
   authors:
   - Jillian M. Myers
   - Frederik Schulz
   - Saleh Rahimlou
   - Vikas Yadav
+  - Sheng Sun
   - Kevin R. Amses
   - D. Rabern Simmons
-  - Sheng Sun
   - Michelle Orozco-Quime
   - Joseph Heitman
   - Jason E. Stajich
