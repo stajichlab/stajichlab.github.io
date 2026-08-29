@@ -1,3 +1,17 @@
+- id: doi:10.1128/aem.01043-26
+  title: Unraveling the diversity and functional potential of cyanosphere microbiomes assembled from terrestrial cyanobacteria
+  tags:
+    - Cyanosphere
+    - Cyanobacteria
+    - Microbiome
+    - Terrestrial
+- id: doi:10.21769/BioProtoc.5739
+  title: Simultaneous Transcriptomic Analysis of Both Host and Symbiont in Insect-Fungus Interactions
+  tags:
+    - Transcriptomics
+    - Insect-Fungus Interaction
+    - Symbiont
+    - Host
 - id: pmid:42294675
   title: An epigenetic mechanism of azole tolerance facilitates acquired antifungal resistance in <i>Aspergillus fumigatus</i>
   tags: 
@@ -179,6 +193,7 @@
     - Comparative genomics
 - id: doi:10.1101/2024.12.17.629027
   title: Genomic streamlining of seagrass-associated <i>Colletotrichum sp.</i> may be related to its adaptation to a marine monocot host
+  image: https://www.biorxiv.org/content/biorxiv/early/2026/03/12/2024.12.17.629027/F1.large.jpg
   tags:
     - Seagrass
     - Metagenome
