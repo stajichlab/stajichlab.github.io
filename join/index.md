@@ -16,7 +16,7 @@ The Stajich lab mentors Postdoctoral fellows, Graduate and Undergraduate student
 * [NSF PRFB](https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb)
 * [UC President's Postdoc Fellowship Program](https://ppfp.ucop.edu/info/)
 * [Ford Foundation](https://sites.nationalacademies.org/PGA/FordFellowships/index.htm)
-* [Marie Curie](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships)
+* [Marie Skłodowska-Curie Postdoc Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships)
 * [USDA National Needs Fellowship](https://nifa.usda.gov/funding-opportunity/food-and-agricultural-sciences-national-needs-graduate-and-postgraduate)
 * [LSRF](https://lsrf.org/)
 * [HHWF](http://hhwf.org/research-fellowship/)
