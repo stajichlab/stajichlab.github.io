@@ -6,7 +6,7 @@ wordpress_url: http://lab.stajich.org/home/?p=1912
 categories: []
 tags: []
 ---
-Last week we hosted several visitors from our ZyGoLife collaborative team in sunny California. I wrote a [few notes on Nicole Reynolds and Javier Tabima's visit](http://zygolife.org/home/2018/04/zygolife-visitors-to-uc-riverside/) for the zygolife site on their extended research stay.
+Last week we hosted several visitors from our ZyGoLife collaborative team in sunny California. I wrote a few notes on Nicole Reynolds and Javier Tabima's visit for the zygolife site on their extended research stay.
 
 We also got to host the Zygofornia Zygolife team meeting.  Here are some pictures I took from the desert and mountain visits.
 

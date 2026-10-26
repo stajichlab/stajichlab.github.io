@@ -12,12 +12,12 @@ Several publications were accepted and published in last few months and want to 
 
 [Jinfeng](/members/jinfeng-chen/) lead article published on the [localized burst of Rice Transposable Elements Ping and Pong](https://www.nature.com/articles/s41467-019-08451-3) in only a subset of the domesticated lineages and clues to what changed to drive their increased activity.
 
-![](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41467-019-08451-3/MediaObjects/41467_2019_8451_Fig2_HTML.png) Variation of _mPing, Ping_, and Pong_ element copy number in rice subgroups [https://www.nature.com/articles/s41467-019-08451-3/figures/2](https://www.nature.com/articles/s41467-019-08451-3/figures/2)
+![](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41467-019-08451-3/MediaObjects/41467_2019_8451_Fig2_HTML.png) Variation of _mPing, Ping_, and Pong_ element copy number in rice subgroups <https://www.nature.com/articles/s41467-019-08451-3/figures/2>
 
 A fun collaboration lead by [Adam Bewick](https://twitter.com/bewickaj) and [Bob Schmitz](http://schmitzlab.genetics.uga.edu/) we called #MycoMeth explored [diversity of Cytosine DNA Methylation in Fungi](https://www.nature.com/articles/s41559-019-0810-9) looking at the 5-methylcytosine (5mC) marks and evolution of the fungal 5mC methyltransferases.
 
 ![](images/wp_upload/2019/04/41559_2019_810_Fig2_HTML.png)
-Genomewide 5mC profiles [https://www.nature.com/articles/s41559-019-0810-9/figures/2](https://www.nature.com/articles/s41559-019-0810-9/figures/2)
+Genomewide 5mC profiles <https://www.nature.com/articles/s41559-019-0810-9/figures/2>
 
 Two Zygolife project papers. One on [genome evolution and phylogenic position of Endogone - a truffle forming Mucoromycotina fungus.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15613)This was quite challenging but interesting project to tackle, lead by [Ying Chang](https://joeyspataforalab.weebly.com/lab-members.html) in the [Spatafora Lab](https://joeyspataforalab.weebly.com/). Dr Chang took a metagenomics approach to capture these unculturable fungi followed by bioinformatic analyses to isolate the fungal and Mucoromycotina component of the dataset.
 
