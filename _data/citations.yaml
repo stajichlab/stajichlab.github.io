@@ -9,6 +9,7 @@
   publisher: openRxiv
   date: '2026-08-11'
   link: https://doi.org/hcpznh
+  image: images/publication_images/orthosynassign_example.svg
   tags:
   - Orthogroups
   - Synteny
@@ -28,6 +29,7 @@
   publisher: Microbiology Resource Announcements
   date: '2026-09-25'
   link: https://doi.org/hcpznj
+  image: images/publication_images/rmucilaginosa_DH4148_fig1.jpg
   tags:
   - Rhodotorula
   - Genome
@@ -61,6 +63,7 @@
   publisher: PLOS Neglected Tropical Diseases
   date: '2026-09-21'
   link: https://doi.org/hcpznk
+  image: images/publication_images/sporothrix_variation_fig1.png
   tags:
   - Sporothrix
   - Comparative genomics
@@ -85,6 +88,7 @@
   publisher: PLOS Biology
   date: '2026-08-25'
   link: https://doi.org/hcpznm
+  image: images/publication_images/mycodnaviridae_fig1.png
   tags:
   - Giant viruses
   - Chytrid
@@ -114,6 +118,7 @@
   publisher: The ISME Journal
   date: '2026-01-01'
   link: https://doi.org/hcc3d7
+  image: images/publication_images/shale_fungi_ismej_fig8.jpg
   tags:
   - Subsurface
   - Shale
@@ -136,6 +141,7 @@
   publisher: Applied and Environmental Microbiology
   date: '2026-08-19'
   link: https://doi.org/hccvpq
+  image: images/publication_images/crust_wetting.jpg
   tags:
   - Cyanosphere
   - Cyanobacteria
@@ -214,6 +220,7 @@
   publisher: The New phytologist
   date: '2026-05-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/42083270
+  image: images/publication_images/crust_wetting.jpg
   tags:
   - AMF
   - Moss
@@ -242,6 +249,7 @@
   publisher: Environmental microbiology
   date: '2026-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41958070
+  image: images/publication_images/kurbessoian_2024a.jpg
   tags:
   - Black yeast
   plugin: sources.py
@@ -2703,6 +2711,7 @@
   publisher: The Bryologist
   date: '2021-05-14'
   link: https://doi.org/gj2r65
+  image: images/publication_images/acarospora_fig1.jpg
   tags:
   - Lichen
   - Systematics
@@ -4480,6 +4489,7 @@
   publisher: Fungal ecology
   date: '2019-06-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31768192
+  image: images/publication_images/massospora_cicada.jpg
   tags:
   - Massospora
   - zygomycete
@@ -4675,6 +4685,7 @@
   publisher: Frontiers in microbiology
   date: '2019-05-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31156574
+  image: images/publication_images/Coleine2022.jpg
   tags:
   - proteomics
   - black yeast
@@ -5031,6 +5042,7 @@
   publisher: mSystems
   date: '2018-09-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30246146
+  image: images/publication_images/spacefungi.jpeg
   tags:
   - Aspergillus niger
   - population genomics
@@ -5052,6 +5064,7 @@
   publisher: G3 (Bethesda, Md.)
   date: '2018-10-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30111619
+  image: images/publication_images/Emusc_Fig1C.png
   tags:
   - Entomophthomycotina
   - protease
@@ -5095,6 +5108,7 @@
   publisher: Frontiers in microbiology
   date: '2018-06-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30008702
+  image: images/publication_images/endolithic_microbes.jpg
   tags:
   - Antarctica
   - ITS
@@ -5115,6 +5129,7 @@
   publisher: Life (Basel, Switzerland)
   date: '2018-06-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29865244
+  image: images/publication_images/endolithic_microbes.jpg
   tags:
   - Antarctica
   - fungi
@@ -5152,6 +5167,7 @@
   publisher: BMC genomics
   date: '2018-05-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29764372
+  image: images/publication_images/cb2023_extremenv.jpg
   tags:
   - population genomics
   - black yeast
@@ -5355,6 +5371,7 @@
   publisher: Microbiology spectrum
   date: '2017-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28917057
+  image: images/publication_images/james_annrev_ftl.jpg
   tags:
   - review
   - systematics
@@ -5431,6 +5448,7 @@
   publisher: Genome announcements
   date: '2017-07-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28684563
+  image: images/publication_images/endolithic_microbes.jpg
   tags:
   - Rachicladosporium
   - genome
@@ -5453,6 +5471,7 @@
   publisher: G3 (Bethesda, Md.)
   date: '2017-07-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28500048
+  image: images/publication_images/cb2023_extremenv.jpg
   tags:
   - Hortaea
   - black yeast
@@ -6432,6 +6451,7 @@
   publisher: PLoS pathogens
   date: '2011-11-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22072962
+  image: images/publication_images/botryochytrium_radiatum_dic_250.jpg
   tags:
   - chytrid
   - genome
