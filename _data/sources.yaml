@@ -512,7 +512,7 @@
     - Lichtheimia
     - Mucoromycotina
 - id: doi:10.3389/fevo.2019.00344
-  image: https://live.staticflickr.com/65535/52870534798_0051531628_q_d.jpg
+  image: images/publication_images/icons/phylopic_cyanobacteria.png
   tags:
     - aridlands
     - review
@@ -864,7 +864,7 @@
     - zygolife
     - aspergillus
 - id: doi:10.3390/jof7090723
-  image: https://www.mdpi.com/jof/jof-07-00723/article_deploy/html/images/jof-07-00723-g001.png
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Hortaea
     - experimental evolution
@@ -896,7 +896,7 @@
   image: images/publication_images/icons/bioicons_insect.png
 
 - id: pmid:34165331
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Joshua_Tree_01.jpg/174px-Joshua_Tree_01.jpg
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - amplicon
     - ITS
@@ -1045,7 +1045,7 @@
     - black yeast
     - review
 - id: pmid:33232202
-  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/umyc20/2021/umyc20.v113.i01/00275514.2020.1816761/20210526/images/medium/umyc_a_1816761_f0002_c.jpg
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - endoliths
     - review
@@ -1204,7 +1204,7 @@
     - fungi
     - amplicon
 - id: pmid:31900675
-  image: http://www2.clarku.edu/faculty/dhibbett/TFTOL/images/ascospore.jpg
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - Africa
     - spore
