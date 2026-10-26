@@ -16,4 +16,4 @@ links:
   twitter: FungalEvoDevo
 ---
 
-Jesús Peña joined the lab in 2016 and completed his PhD in Summer 2022 in the Microbiology program. He worked on evolution of sexual development in zygomycete Mucoromycota and Zoopagomycota fungi. He is currently a Visiting Assistant Professor at Harvey Mudd College where he teaches molecular biology laboratory courses. At UCR he taught developmental biology and introductory microbiology courses.
+Jesús Peña joined the lab in 2016 and completed his PhD in Summer 2022 in the Microbiology program. He worked on evolution of sexual development in zygomycete Mucoromycota and Zoopagomycota fungi. After UCR he was a Visiting Assistant Professor at Harvey Mudd College where he taught molecular biology laboratory courses. He is currently an [Assistant Professor at Colorado College](https://www.coloradocollege.edu/basics/contact/directory/people/pena_jesus_f.html).
