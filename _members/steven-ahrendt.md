@@ -15,4 +15,6 @@ links:
   linkedin: steven-ahrendt-pham
 ---
 
-Steven Ahrendt-Pham was a graduate student in the [GGB](http://ggb.ucr.edu) program and working chytrid fungi genomics and their interactions with biotic and abiotic factors.
+Steven Ahrendt-Pham was a graduate student in the [GGB](https://genetics.ucr.edu/) program and worked on chytrid fungi genomics and their interactions with biotic and abiotic factors.
+
+Steven is currently a Data Scientist at the [Joint Genome Institute](https://jgi.doe.gov/).

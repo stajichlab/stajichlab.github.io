@@ -13,5 +13,5 @@ links:
   github: xxu092
 ---
 
-Xueyan (Sharon) Xu is a CMDB Graduate student working on the impact of transposable elements on fungal genomes. 
+Xueyan (Sharon) Xu was a CMDB graduate student working on the impact of transposable elements on fungal genomes. 
 She earned her MS from Osaka University (Osaka, Japan) and BS in Biotechnology from Huazhong University of Science and Technology (Wuhan, China).

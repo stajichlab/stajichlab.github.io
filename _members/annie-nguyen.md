@@ -1,6 +1,6 @@
 ---
-name: Annie Nyguen
-title: Annie Nyguen
+name: Annie Nguyen
+title: Annie Nguyen
 role: undergraduate
 group: alum
 ---

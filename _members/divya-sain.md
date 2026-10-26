@@ -1,7 +1,7 @@
 ---
 title: Divya Sain
 name: Divya Sain
-description: Gradute Student
+description: Graduate Student
 search:
   - D. Sain
 role: phd
@@ -11,4 +11,5 @@ links:
   linkedin: divyasain
 ---
 
-Divya was the first graduate student in the laboratory. She worked on fungal cell wall genetics and evolution.
+Divya was the first graduate student in the laboratory. She worked on fungal cell wall genetics and evolution. 
+She is currently Director of Program Management at Pictor Labs.

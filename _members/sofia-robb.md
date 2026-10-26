@@ -12,4 +12,4 @@ links:
   twitter: Sofia_Robb
 ---
 
-Sofia was a postdoc in the group working on Transposable elements, helped develop the first [ReLocaTE](http://github.com/stajichlab/ReLocaTE) tool, co-runs the [Programming for Biology](https://meetings.cshl.edu/courses.aspx?course=C-INFO1&year=22) course at [Cold Spring Harbor](https://meetings.cshl.edu/courseshome.aspx), and is currently a Genomics Scientist at the [Stowers Institute](https://www.stowers.org).
+Sofia was a postdoc in the group working on Transposable elements, helped develop the first [ReLocaTE](https://github.com/stajichlab/ReLocaTE) tool, co-runs the [Programming for Biology](https://meetings.cshl.edu/courses.aspx?course=C-INFO1&year=22) course at [Cold Spring Harbor](https://meetings.cshl.edu/courseshome.aspx), and is currently a Genomics Scientist at the [Stowers Institute](https://www.stowers.org).

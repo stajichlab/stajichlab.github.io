@@ -12,4 +12,4 @@ links:
   linkedin: cliffordstevenmorrison
 ---
 
-Dr Morrison is currently an Assistant Project Scientist after completed Postdoctoral training with Ian Wheeldon's lab at UCR.
+Dr Morrison was a short term Assistant Project Scientist after completed Postdoctoral training with Ian Wheeldon's lab at UCR. He is currently a Synthetic Biologist at [Pacific Northwest National Labs](https://www.pnnl.gov/).

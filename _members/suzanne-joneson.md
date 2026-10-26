@@ -3,7 +3,6 @@ name: Suzanne Joneson
 title: Suzanne Joneson
 role: visitor
 group: alum
-image: https://loop.frontiersin.orgi/images/profile/310762/203
 links:
   website: https://uwm.edu/search/people/joneson/
   linkedin: suzanne-joneson-0a30b675

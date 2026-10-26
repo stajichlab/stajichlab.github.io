@@ -16,4 +16,4 @@ links:
   twitter: CaroPinaPaez
 ---
 
-I am currently a postdoctoral scholar in the Department of Microbiology & Plant Pathology at the UC Riverside advised by Dr. Jason Stajich. I recieved my Ph.D. in Botany and Plant Pathology at Oregon State under the guidance of Joey Spatafora. 
+Carolina was a postdoctoral scholar in the Department of Microbiology & Plant Pathology at UC Riverside advised by Dr. Jason Stajich. She received her Ph.D. in Botany and Plant Pathology at Oregon State under the guidance of Joey Spatafora.

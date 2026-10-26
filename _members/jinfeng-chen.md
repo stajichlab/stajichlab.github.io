@@ -11,4 +11,4 @@ links:
   linkedin: cjinfeng
 ---
 
-Jinfeng was a postdoc and research scientist in the group co-advised with Sue Wessler From 2013-19. He focused on software development and applications to study transposon bursts in Rice. He is currently an Assistant Professor at [Institute of Zoology, Chinese Academy of Sciences](http://english.ioz.cas.cn/).
+Jinfeng was a postdoc and research scientist in the group co-advised with Sue Wessler from 2013-19. He focused on software development and applications to study transposon bursts in Rice. He is currently an Assistant Professor at [Institute of Zoology, Chinese Academy of Sciences](http://english.ioz.cas.cn/).

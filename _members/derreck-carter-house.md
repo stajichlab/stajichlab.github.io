@@ -1,7 +1,7 @@
 ---
 title: Derreck Carter-House
 name: Derreck Carter-House
-description: Gradute Student
+description: Graduate Student
 search:
   - D. Carter-House
   - D Carter-House
@@ -9,7 +9,7 @@ role: phd
 group: alum
 image: images/members/Derreck.jpg
 links:
-  linkedin: https://www.linkedin.com/in/derreck-carter-house-56779790
+  linkedin: derreck-carter-house-56779790
   github: Derreckadam
   twitter: ZygoAntagonist
 ---
