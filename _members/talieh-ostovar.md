@@ -15,4 +15,4 @@ redirect_from:
   - /members/taleih-ostovar
 ---
 
-Talieh was a student in the UCR-SDSU joint Evolutionary Biology program and was co-advised by Prof [Elizabeth Waters](https://waterslab.org/). She completed her PhD in August 2024 on Comparative Genomics in plants.
+Talieh was a student in the UCR-SDSU joint Evolutionary Biology program. She defended her PhD on June 28, 2024 (degree completed August 2024) on plant comparative genomics in the genus _Boechera_ and a project on the Citrus genome. She was primarily advised by Prof [Elizabeth Waters](https://waterslab.org/) at SDSU and co-advised in the lab through the UCR-EEOB Joint Doctoral Program with SDSU. She is currently a postdoctoral scholar in Pediatrics at UC San Diego.

@@ -31,7 +31,7 @@ The Stajich lab mentors Postdoctoral fellows, Graduate and Undergraduate student
 
 ## Graduate opportunities
 
-Applicants should contact [Jason](/members/jason-stajich)  but consider applications graduate programs that fit research interests
+Applicants should contact [Jason](/members/jason-stajich)  but consider applying to graduate programs that fit research interests
 * [Microbiology Graduate Program](https://microbiology.ucr.edu)
 * [Genetics, Genomics, Bioinformatics](https://ggb.ucr.edu)
 * [Plant Pathology](https://microplantpath.ucr.edu/department-programs/plant-pathology-graduate-program)
@@ -54,4 +54,4 @@ We are avid mentors of undergraduate research. There are opportunities for resea
 
 ## Staff positions
 
-The lab does not currently have opening for programmers or lab staff positions at this time.
+The lab does not currently have openings for programmers or lab staff positions.

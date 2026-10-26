@@ -52,12 +52,6 @@ These are past lab members who have moved on in their careers.
 ### Undergraduate Alumni
 {% include list.html data="members" component="portrait" filter="role == 'undergraduate' and  group == 'alum'" style="small" %}
 
-# Lab Group Memories
-{% capture content %}
-
-{% endcapture %}
-{% include grid.html content=content %}
-
 # Funding
 
 Our work is made possible by funding from several organizations.
@@ -66,5 +60,5 @@ Our work is made possible by funding from several organizations.
 https://www.nifa.usda.gov/
 https://nsf.gov/
 https://nih.gov/
-https://cifa.ca/
+https://cifar.ca/
 https://moore.org

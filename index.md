@@ -42,7 +42,7 @@ Graduate students in our group are members of programs in [Microbiology](https:/
 
 {% capture text %}
 
-Our lab welcomes individuals from diverse backgrounds regardless of race, ethinicity, color, religion, gender, gender identity, gender expression, sexual orientation, political affiliation, family commitments, national origin, genetics, disability or eligible age. We invite participation in our research endeavors as a member of a team committed to scientific pursuits and building an inclusive community for research and teaching.<br>
+Our lab welcomes individuals from diverse backgrounds regardless of race, ethnicity, color, religion, gender, gender identity, gender expression, sexual orientation, political affiliation, family commitments, national origin, genetics, disability or eligible age. We invite participation in our research endeavors as a member of a team committed to scientific pursuits and building an inclusive community for research and teaching.<br>
 {:.center}
 {% endcapture %}
 {%

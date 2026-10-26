@@ -51,11 +51,11 @@
     - ZyGoLife
 
 - name: Zygolife
-  titile: ZyGoLife Project
+  title: ZyGoLife Project
   image: images/fungi/Gilbertella_persicaria_2.jpg
   group: Dataset
   link: http://zygolife.org
-  description: Zygomycetes Genealoogy of Life
+  description: Zygomycetes Genealogy of Life
   tags:
     - datasets
     - ZyGoLife
