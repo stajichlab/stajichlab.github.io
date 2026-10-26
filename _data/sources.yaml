@@ -1,3 +1,30 @@
+- id: doi:10.64898/2026.08.10.744007
+  tags:
+    - Orthogroups
+    - Synteny
+    - Phylogenomics
+    - Software
+- id: doi:10.1128/mra.00821-26
+  tags:
+    - Rhodotorula
+    - Genome
+    - Clinical
+- id: doi:10.1371/journal.pntd.0014203
+  tags:
+    - Sporothrix
+    - Comparative genomics
+    - Pathogen
+- id: doi:10.1371/journal.pbio.3003937
+  tags:
+    - Giant viruses
+    - Chytrid
+    - Mycodnaviridae
+- id: doi:10.1093/ismejo/wrag184
+  tags:
+    - Subsurface
+    - Shale
+    - Fungi
+    - Metagenome
 - id: doi:10.1128/aem.01043-26
   title: Unraveling the diversity and functional potential of cyanosphere microbiomes assembled from terrestrial cyanobacteria
   tags:
@@ -173,8 +200,7 @@
     - Coccidioides
     - Sarocladium
     - Biocontrol
-- id: doi:10.1101/2025.02.11.637735
-  title: Eukaryotic MAGs recovered from deep metagenomic sequencing of the seagrass, <i>Zostera marina</i>, include a novel chytrid in the order Lobulomycetales
+- id: doi:10.1099/mgen.0.001845
   image: images/publication_images/ettinger_lobulomycete.jpg
   tags:
     - Marine fungi

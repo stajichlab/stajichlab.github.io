@@ -1,5 +1,126 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.08.10.744007
+  title: 'orthoSynAssign: refine orthogroups using synteny information'
+  authors:
+  - Cheng-Hung Tsai
+  - "Carolina G. Pi\xF1a P\xE1ez"
+  - Jason E. Stajich
+  publisher: openRxiv
+  date: '2026-08-11'
+  link: https://doi.org/hcpznh
+  tags:
+  - Orthogroups
+  - Synteny
+  - Phylogenomics
+  - Software
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/mra.00821-26
+  title: "Draft genome sequence of basidiomycete yeast\n                    <i>Rhodotorula\
+    \ mucilaginosa</i>\n                    DH4148 from a patient with fungemia"
+  authors:
+  - Juhita Dhar
+  - Prince B. Amoah
+  - Nicole A. Loeven
+  - Deborah A. Hogan
+  - Jason E. Stajich
+  publisher: Microbiology Resource Announcements
+  date: '2026-09-25'
+  link: https://doi.org/hcpznj
+  tags:
+  - Rhodotorula
+  - Genome
+  - Clinical
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pntd.0014203
+  title: Genome variation of Sporothrix schenckii and Sporothrix brasiliensis
+  authors:
+  - Ujwal R. Bagal
+  - Amanda R. Santos
+  - Rodrigo Almeida Paes
+  - Lucas Gomes de Brito Alves
+  - Luz Rocio Chamorro
+  - Lindsay A. Parnell
+  - Jose Pereira Brunelli
+  - Nancy A. Chow
+  - Jan Pohl
+  - Vanessa Rabello Brito
+  - Vanice Rodrigues Poester
+  - Bram Spruijtenburg
+  - Larissa Fernandes
+  - Bridget M. Barker
+  - Jason E. Stajich
+  - Maria Sueli Felipe
+  - Johanna Rhodes
+  - Melissa Orzechowski Xavier
+  - Daniel R. Matute
+  - Rosely Zancope
+  - Marcus de Melo Teixeira
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2026-09-21'
+  link: https://doi.org/hcpznk
+  tags:
+  - Sporothrix
+  - Comparative genomics
+  - Pathogen
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pbio.3003937
+  title: Mycodnaviridae is a clade of giant viruses that persistently infect zoosporic
+    fungi
+  authors:
+  - Jillian M. Myers
+  - Frederik Schulz
+  - Saleh Rahimlou
+  - Vikas Yadav
+  - Kevin R. Amses
+  - David Rabern Simmons
+  - Sheng Sun
+  - Michelle Orozco-Quime
+  - Joseph Heitman
+  - Jason E. Stajich
+  - Timothy Y. James
+  publisher: PLOS Biology
+  date: '2026-08-25'
+  link: https://doi.org/hcpznm
+  tags:
+  - Giant viruses
+  - Chytrid
+  - Mycodnaviridae
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/ismejo/wrag184
+  title: Deep subsurface organic-rich shale supports abundant, diverse, and novel
+    fungi
+  authors:
+  - Quinn S Moon
+  - Elliott P Barnhart
+  - Matthew S Varonka
+  - Elizabeth J Tomaszewski
+  - Michelle Orozco-Quime
+  - Thomas Desrosiers
+  - Ivan Paciorka
+  - Michael Carley
+  - James Schramski
+  - Bradley S Stevenson
+  - Magdalena R Osburn
+  - Anurup Mohanty
+  - Anna M Martini
+  - Jason E Stajich
+  - Jennifer C McIntosh
+  - Timothy Y James
+  publisher: The ISME Journal
+  date: '2026-01-01'
+  link: https://doi.org/hcc3d7
+  tags:
+  - Subsurface
+  - Shale
+  - Fungi
+  - Metagenome
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1128/aem.01043-26
   title: Unraveling the diversity and functional potential of cyanosphere microbiomes
     assembled from terrestrial cyanobacteria
@@ -13,7 +134,7 @@
   - Ryan Ward
   - Nicole Pietrasiak
   publisher: Applied and Environmental Microbiology
-  date: '2026-07-20'
+  date: '2026-08-19'
   link: https://doi.org/hccvpq
   tags:
   - Cyanosphere
@@ -453,7 +574,7 @@
   - Jason E. Stajich
   - Claudio Donati
   publisher: Microbiology Resource Announcements
-  date: '2025-07-23'
+  date: '2025-08-14'
   link: https://doi.org/g9vcfc
   image: images/publication_images/endolithic_microbes.jpg
   tags:
@@ -633,16 +754,16 @@
   - Biocontrol
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.02.11.637735
-  title: Eukaryotic MAGs recovered from deep metagenomic sequencing of the seagrass,
-    <i>Zostera marina</i>, include a novel chytrid in the order Lobulomycetales
+- id: doi:10.1099/mgen.0.001845
+  title: Eukaryotic metagenome-assembled genomes recovered from deep metagenomic sequencing
+    of the seagrass, Zostera marina, include a novel chytrid in the order Lobulomycetales
   authors:
   - Cassandra L. Ettinger
   - Jonathan A. Eisen
   - Jason E. Stajich
-  publisher: openRxiv
-  date: '2025-02-11'
-  link: https://doi.org/g9fnmz
+  publisher: Microbial Genomics
+  date: '2026-09-28'
+  link: https://doi.org/hcpznn
   image: images/publication_images/ettinger_lobulomycete.jpg
   tags:
   - Marine fungi
