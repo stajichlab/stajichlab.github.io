@@ -1,31 +1,37 @@
 - id: doi:10.64898/2026.08.10.744007
+  image: images/publication_images/orthosynassign_example.svg
   tags:
     - Orthogroups
     - Synteny
     - Phylogenomics
     - Software
 - id: doi:10.1128/mra.00821-26
+  image: images/publication_images/rmucilaginosa_DH4148_fig1.jpg
   tags:
     - Rhodotorula
     - Genome
     - Clinical
 - id: doi:10.1371/journal.pntd.0014203
+  image: images/publication_images/sporothrix_variation_fig1.png
   tags:
     - Sporothrix
     - Comparative genomics
     - Pathogen
 - id: doi:10.1371/journal.pbio.3003937
+  image: images/publication_images/mycodnaviridae_fig1.png
   tags:
     - Giant viruses
     - Chytrid
     - Mycodnaviridae
 - id: doi:10.1093/ismejo/wrag184
+  image: images/publication_images/shale_fungi_ismej_fig8.jpg
   tags:
     - Subsurface
     - Shale
     - Fungi
     - Metagenome
 - id: doi:10.1128/aem.01043-26
+  image: images/publication_images/crust_wetting.jpg
   title: Unraveling the diversity and functional potential of cyanosphere microbiomes assembled from terrestrial cyanobacteria
   tags:
     - Cyanosphere
@@ -52,6 +58,7 @@
     - Azole resistance
     - ncRNA
 - id: pmid:42083270 
+  image: images/publication_images/crust_wetting.jpg
   tags: 
     - AMF
     - Moss
@@ -59,6 +66,7 @@
     - Desert
     - Biocrust
 - id: pmid:41958070
+  image: images/publication_images/kurbessoian_2024a.jpg
   tags:
     - Black yeast
 - id: pmid:41992364
@@ -736,6 +744,7 @@
     - insecticide resistance
   image: images/publication_images/GWSS_image1.jpg
 - id: doi:10.1639/0007-2745-124.2.271
+  image: images/publication_images/acarospora_fig1.jpg
   title: Three species of <i>Trimmatothelopsis</i> (Acarosporaceae) from Europe and North America
   tags:
     - Lichen
@@ -1200,6 +1209,7 @@
     - culture-based
     - zygomycete
 - id: pmid:31768192
+  image: images/publication_images/massospora_cicada.jpg
   tags:
     - Massospora
     - zygomycete
@@ -1256,6 +1266,7 @@
     - ITS
     - 16S
 - id: pmid:31156574
+  image: images/publication_images/Coleine2022.jpg
   tags:
     - proteomics
     - black yeast
@@ -1349,12 +1360,14 @@
     - RNA-seq
     - venom
 - id: pmid:30246146
+  image: images/publication_images/spacefungi.jpeg
   tags:
     - Aspergillus niger
     - population genomics
     - ISS
     - space fungi
 - id: pmid:30111619
+  image: images/publication_images/Emusc_Fig1C.png
   tags:
     - Entomophthomycotina
     - protease
@@ -1365,12 +1378,14 @@
     - Thraustochytrid
     - comparative genomics
 - id: pmid:30008702
+  image: images/publication_images/endolithic_microbes.jpg
   tags:
     - Antarctica
     - ITS
     - fungi
     - endoliths
 - id: pmid:29865244
+  image: images/publication_images/endolithic_microbes.jpg
   tags:
     - Antarctica
     - fungi
@@ -1381,6 +1396,7 @@
     - insect fungal interactions
     - symbiosis
 - id: pmid:29764372
+  image: images/publication_images/cb2023_extremenv.jpg
   tags:
     - population genomics
     - black yeast
@@ -1428,6 +1444,7 @@
     - DAP
     - molecular evolution
 - id: pmid:28917057
+  image: images/publication_images/james_annrev_ftl.jpg
   tags:
     - review
     - systematics
@@ -1449,12 +1466,14 @@
     - genomics
     - fungi
 - id: pmid:28684563
+  image: images/publication_images/endolithic_microbes.jpg
   title: Draft Genome Sequences of the Antarctic Endolithic Fungi <i>Rachicladosporium antarcticum</i> CCFEE 5527 and <i>Rachicladosporium</i> sp. CCFEE 5018
   tags:
     - Rachicladosporium
     - genome
     - Antarctica
 - id: pmid:28500048
+  image: images/publication_images/cb2023_extremenv.jpg
   tags:
     - Hortaea
     - black yeast
@@ -1674,6 +1693,7 @@
     - mating
     - transposable elements
 - id: pmid:22072962
+  image: images/publication_images/botryochytrium_radiatum_dic_250.jpg
   tags:
     - chytrid
     - genome
