@@ -39,6 +39,7 @@
     - Microbiome
     - Terrestrial
 - id: doi:10.21769/BioProtoc.5739
+  image: images/publication_images/icons/bioicons_insect.png
   title: Simultaneous Transcriptomic Analysis of Both Host and Symbiont in Insect-Fungus Interactions
   tags:
     - Transcriptomics
@@ -46,12 +47,14 @@
     - Symbiont
     - Host
 - id: pmid:42294675
+  image: images/publication_images/pmc13344070_mbio.jpg
   title: An epigenetic mechanism of azole tolerance facilitates acquired antifungal resistance in <i>Aspergillus fumigatus</i>
   tags: 
     - Aspergillus fumigatus
     - azole tolerance
     - epigenetic regulator
 - id: doi:10.1093/genetics/iyag152
+  image: images/publication_images/icons/phylopic_aspergillus.png
   title: A long non-coding RNA regulates in vitro and in vivo triazole antifungal susceptibility in <i>Aspergillus fumigatus</i>
   tags: 
     - Aspergillus fumigatus
@@ -70,6 +73,7 @@
   tags:
     - Black yeast
 - id: pmid:41992364
+  image: images/publication_images/icons/phylopic_hellbender.png
   tags:
     - Herptile
     - Microbiome
@@ -83,6 +87,7 @@
     - gene neofunctionalization
     - starch granule
 - id: pmid:41890020
+  image: images/publication_images/icons/phylopic_aspergillus.png
   title: Thermal adaptation crosstalk with azole response through lncRNA in <i>Aspergillus fumigatus</i>
   tags:
    - Aspergillus fumigatus
@@ -107,6 +112,7 @@
     - Coccidioides
     - Sarocladium
 - id: pmid:41006832
+  image: images/publication_images/icons/bioicons_database.png
   tags:
     - Microbiome
     - Data reuse
@@ -227,7 +233,7 @@
     - Comparative genomics
 - id: doi:10.1101/2024.12.17.629027
   title: Genomic streamlining of seagrass-associated <i>Colletotrichum sp.</i> may be related to its adaptation to a marine monocot host
-  image: https://www.biorxiv.org/content/biorxiv/early/2026/03/12/2024.12.17.629027/F1.large.jpg
+  image: images/publication_images/icons/phylopic_seagrass.png
   tags:
     - Seagrass
     - Metagenome
@@ -245,14 +251,14 @@
     - Biocrust
     - Taxonomy
 - id: doi:10.1101/2024.12.06.627215
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/12/06/2024.12.06.627215/F2.large.jpg
+  image: images/publication_images/icons/phylopic_seagrass.png
   tags:
     - Seagrass Microbes
     - MAG
     - Bacteria
     - Virus
 - id: doi:10.1101/2024.12.27.630416
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/12/28/2024.12.27.630416/F2.large.jpg
+  image: images/publication_images/icons/phylopic_glomeromycota.png
   tags:
     - AMF
     - Moss
@@ -260,7 +266,7 @@
     - Glomeromycotina
 - id: pmid:40689579
   title: Absolute abundance unveils <i>Basidiobolus</i> as a cross-domain bridge indirectly bolstering gut microbiome homeostasis
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/12/28/2024.12.27.630554/F5.large.jpg
+  image: images/publication_images/icons/phylopic_basidiobolus.png
   tags:
     - Herptile Microbiomes
     - Basidiobolus
@@ -274,7 +280,7 @@
     - Centriole
     - MTOC
 - id: doi:10.1016/j.cub.2024.11.005
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982224015124-gr1.jpg
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - book review
 - id: doi:10.1007/978-3-031-75666-5_3
@@ -282,7 +288,7 @@
   tags:
     - Extremophile
 - id: doi:10.1021/jacsau.4c00869
-  image: https://pubs.acs.org/cms/10.1021/jacsau.4c00869/asset/images/medium/au4c00869_0010.gif
+  image: images/publication_images/pmc11775710_au4c00869_0010.jpg
   tags:
     - Extremophile
     - Rhinocladiella
@@ -309,13 +315,13 @@
     - repetitive elements
     - Aspergillus fumigatus
 - id: pmid:38873189
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468233024000094-gr3.jpg 
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags: 
     - cell wall
     - fungi
     - comparative
 - id: pmid:38860878
-  image: https://www.microbiologyresearch.org/docserver/ahah/fulltext/mgen/10/6/mgen001261-f1_thmb.gif
+  image: images/publication_images/icons/phylopic_rhizopus.png
   tags:
     - bacteria fungi interactions
     - zygomycete
@@ -328,7 +334,7 @@
     - Fungi
     - Space Fungi
 - id: pmid:38609393
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11014852/bin/41467_2024_47388_Fig3_HTML.jpg
+  image: images/publication_images/pmc11014852_7388_Fig1_HTML.jpg
   tags:
     - Coccidioidomycosis
     - Coccidioides
@@ -355,7 +361,7 @@
     - Antarctica
     - Bacteria
 - id: pmid:38465644
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10930103/bin/TEMI_A_2315960_F0001_OC.gif
+  image: images/publication_images/icons/phylopic_onygenales.png
   tags:
     - Histoplasma
 - id: pmid:38275281
@@ -400,14 +406,14 @@
     - gene regulation
     - transposable elements
 - id: doi:10.1101/2024.01.04.574182
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/01/05/2024.01.04.574182/F2.medium.gif
+  image: images/publication_images/icons/phylopic_chytrid.png
   tags:
     - Mycovirus
     - NCLDV
     - Chytrid
     - Fungi
 - id: doi:10.1101/2023.10.16.562584
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/10/16/2023.10.16.562584/F1.medium.gif
+  image: images/publication_images/icons/phylopic_rhizopus.png
   tags:
     - zygomycete
     - Fungi
@@ -421,21 +427,21 @@
     - Genome Announcement
     - MRA
 - id: pmid:37988381
-  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3002400.g002
+  image: images/publication_images/icons/phylopic_nematode.png
   tags:
     - nematode trapping fungi
     - genomics
     - transcriptome
     - Arthrobotrys
 - id: pmid:37800904
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10597469/bin/msphere.00267-23.f001.jpg
+  image: images/publication_images/pmc10597469_msphere.jpg
   tags:
     - sharpshooter
     - microbiome
     - insect
     - host-microbe
 - id: doi:10.3390/jof9111094
-  image: https://www.mdpi.com/jof/jof-09-01094/article_deploy/html/images/jof-09-01094-g003-550.jpg
+  image: images/publication_images/pmc10672684_-09-01094-g001.jpg
   tags:
     - coccidioides
     - onygenales
@@ -457,7 +463,7 @@
     - Zoopagomycota
     - zygomycete
 - id: doi:10.1101/2022.12.30.522274
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/02/15/2022.12.30.522274/F2.medium.gif
+  image: images/publication_images/icons/phylopic_tomato.png
   tags:
     - smallRNA
     - tomato
@@ -473,7 +479,7 @@
     - ISS
     - Mars 2020
 - id: pmid:37513002
-  image: https://www.mdpi.com/microorganisms/microorganisms-11-01830/article_deploy/html/images/microorganisms-11-01830-g001-550.jpg
+  image: images/publication_images/pmc10386755_-11-01830-g001.jpg
   tags:
     - zygolife
     - genome
@@ -490,7 +496,7 @@
     - Exophiala
     - Population Genomics
 - id: pmid:37349567
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41559-023-02095-9/MediaObjects/41559_2023_2095_Fig1_HTML.png?as=webp
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - Fungi
     - Taxonomy
@@ -501,7 +507,7 @@
     - 1000 Fungal Genomes
 - id: pmid:37289095
   title: Genome Sequence of <i>Lichtheimia ornata</i>, an Emerging Opportunistic Mucorales Pathogen
-  image: https://upload.wikimedia.org/wikipedia/commons/f/f7/Absidia_corymbifera.jpg
+  image: images/publication_images/icons/phylopic_mucor.png
   tags:
     - Lichtheimia
     - Mucoromycotina
@@ -524,37 +530,38 @@
     - Biological Crusts
 - id: pmid:37214671
   title: Identification of the Neoaspergillic Acid Biosynthesis Gene Cluster by Establishing an <i>In Vitro</i> CRISPR-Ribonucleoprotein Genetic System in <i>Aspergillus melleus</i>
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10193573/bin/ao2c08104_0003.jpg
+  image: images/publication_images/icons/phylopic_aspergillus.png
   tags:
     - Asperigillus
     - Secondary Metabolism
     - CRISPR
 - id: doi:10.1128/mbio.01171-23
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10104081/bin/nihpp-2023.04.05.535776v1-f0001.jpg
+  image: images/publication_images/pmc10470810_mbio.jpg
   tags:
     - Candida
     - Clavispora
     - Cystic Fibrosis
 - id: pmid:37042758
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10190278/bin/mra.00101-23-f001.jpg
+  image: images/publication_images/icons/phylopic_citrus.png
   tags: 
     - fusarium
     - citrus
     - Genome Announcement
     - MRA
 - id: pmid:36930540
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10079182/bin/evad046f1.jpg
+  image: images/publication_images/icons/phylopic_mucor.png
   tags:
     - zygolife
     - zygomycete
     - genome
 - id: doi:10.3389/fmicb.2023.1100590
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9992537/bin/fmicb-14-1100590-g001.jpg
+  image: images/publication_images/icons/phylopic_citrus.png
   tags:
     - citrus
     - microbiome
     - mycobiome
 - id: pmid:36827202
+  image: images/publication_images/icons/phylopic_neocallimastix.png
   title: Phylogenomic analysis of the Neocallimastigomycota&#58; proposal of <i>Caecomycetaceae</i> fam. nov., <i>Piromycetaceae</i> fam. nov., and emended description of the families Neocallimastigaceae and Anaeromycetaceae
   tags: 
     - AGF
@@ -566,7 +573,7 @@
     - Labyrinthulomycetes
 - id: pmid:37494633
   title: Genomes and transcriptomes help unravel the complex life cycle of the blastoclad fungus, <i>Coelomomyces lativittatus</i>, an obligate parasite of mosquitoes and microcrustaceans.
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/01/17/2023.01.14.524055/F1.large.jpg
+  image: images/publication_images/icons/phylopic_mosquito.png
   tags:
     - chytrid
     - blastocladiomycota
@@ -582,7 +589,7 @@
     - zygolife
     - mycoparasite
 - id: doi:10.1101/2022.12.14.520320
-  image: https://journals.asm.org/cms/10.1128/MRA.00258-21/asset/a8c321ec-3a0c-4043-bb6f-c507f04481d2/assets/images/large/mra.00258-21-f001.jpg
+  image: images/publication_images/icons/phylopic_cyanobacteria.png
   tags:
     - cyanobacteria
     - metagenome
@@ -614,14 +621,14 @@
     - anaerobic gut fungi
     - AGF
 - id: doi:10.1016/j.isci.2022.105470
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9668684/bin/fx1.jpg
+  image: images/publication_images/pmc9668684_fx1.jpg
   tags:
     - kakapo
     - population genomics
     - outbreak
     - avian
 - id: doi:10.1371/journal.pbio.3001890
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9714929/bin/pbio.3001890.g004.jpg
+  image: images/publication_images/pmc9714929_pbio.jpg
   title: The pan-genome of <i>Aspergillus fumigatus</i> provides a high-resolution view of its population structure revealing high levels of lineage-specific diversity driven by recombination
   tags:
     - Aspergillus
@@ -644,13 +651,13 @@
     - Future Of Fungi
     - BWF
 - id: pmid:36179670
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9567272/bin/fx1.jpg
+  image: images/publication_images/pmc9567272_fx1.jpg
   tags:
     - mycobiome
     - cancer
     - metagenomics
 - id: pmid:36197945
-  image: https://pubs.acs.org/cms/10.1021/acschembio.2c00456/asset/images/medium/cb2c00456_0006.gif
+  image: images/publication_images/icons/phylopic_aspergillus.png
   title: Manipulation of the Global Regulator <i>mcrA</i> Upregulates Secondary Metabolite Production in <i>Aspergillus wentii</i> Using CRISPR-Cas9 with In Vitro Assembled Ribonucleoproteins
   tags:
     - Aspergillus
@@ -818,7 +825,7 @@
     - RNA-seq
 - id: pmid:35050006
   title: Genomic Characterization of <i>Parengyodontium torokii</i> sp. nov., a Biofilm-Forming Fungus Isolated from Mars 2020 Assembly Facility
-  image: https://www.mdpi.com/jof/jof-08-00066/article_deploy/html/images/jof-08-00066-g001-550.jpg
+  image: images/publication_images/pmc8778116_-08-00066-g001.jpg
   tags:
     - biofilm
     - taxonomy
@@ -838,7 +845,7 @@
     - Sarcogyne
     - Taxonomy
 - id: doi:10.1111/1755-0998.13540
-  image: https://www.authorea.com/users/407720/articles/517958/master/file/figures/Fig6_OTU_tree/Fig6_OTU_tree.png
+  image: images/publication_images/icons/phylopic_zoopagales.png
   extra-links:
   - type: preprint
   - type: authorea
@@ -850,7 +857,7 @@
     - systematics
     - Early diverging fungi
 - id: doi:10.1371/journal.pone.0257823
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8480888/bin/pone.0257823.g003.jpg
+  image: images/publication_images/pmc8480888_pone.jpg
   tags:
     - fungus olympics
     - growth
@@ -865,7 +872,7 @@
     - halotolerance
     - population genomics
 - id: doi:10.1128/mBio.02153-21
-  image: https://journals.asm.org/cms/10.1128/mBio.02153-21/asset/610ab608-7d19-49a5-9a2d-cc63d1e6674d/assets/images/medium/mbio.02153-21-f001.gif
+  image: images/publication_images/pmc8406193_mbio.jpg
   tags:
     - Aspergillus fumigatus
     - population genomics
@@ -886,7 +893,7 @@
     - ascomycota
     - genome
     - ploidy
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8325562/bin/evab158f5.jpg
+  image: images/publication_images/icons/bioicons_insect.png
 
 - id: pmid:34165331
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Joshua_Tree_01.jpg/174px-Joshua_Tree_01.jpg
@@ -899,7 +906,7 @@
     - aridlands
 
 - id: doi:10.1128/MRA.00258-21
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8354539/bin/mra.00258-21-f001.jpg
+  image: images/publication_images/pmc8354539_mra.jpg
   tags:
     - cyanobacteria
     - metagenomics
@@ -907,28 +914,28 @@
     - Genome Announcement
     - MRA
 - id: pmid:34067070
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8150946/bin/jof-07-00366-g001.jpg
+  image: images/publication_images/icons/phylopic_onygenales.png
   title: Transcriptional Analysis of <i>Coccidioides immitis</i> Mycelia and Spherules by RNA Sequencing
   tags:
     - coccidioides
     - onygenales
     - RNA-seq
 - id: pmid:34042486
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8201633/bin/mra.00295-21-f0001.jpg
+  image: images/publication_images/icons/phylopic_phytophthora.png
   tags:
     - genome
     - Phytophthora
     - MRA
     - Genome Announcement
 - id: pmid:33871031
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8496281/bin/jkab132f1.jpg
+  image: images/publication_images/icons/phylopic_onygenales.png
   tags:
     - coccidioides
     - onygenales
     - genomics
     - mitogenome
 - id: pmid:33815472
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8012687/bin/fgene-12-638708-g001.jpg
+  image: images/publication_images/icons/phylopic_eurotiomycetes.png
   tags:
     - black yeast
     - knufia
@@ -941,7 +948,7 @@
     - fungi
 - id: pmid:33785623
   title: Balancing Positive and Negative Selection - <i>In Vivo</i> Evolution of <i>Candida lusitaniae</i> MRR1
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8092287/bin/mBio.03328-20_f001.jpg
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Candida
     - Clavispora lusitaniae
@@ -953,7 +960,7 @@
     - plant genomics
     - genome
 - id: pmid:33741058
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7980648/bin/40168_2021_1021_Fig1_HTML.jpg
+  image: images/publication_images/icons/phylopic_bacterium.png
   tags:
     - metagenomics
     - Antarctica
@@ -966,13 +973,13 @@
     - Pneumocystis
     - comparative genomics
 - id: pmid:33656416
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8190603/bin/mgen-7-0541-g002.jpg
+  image: images/publication_images/icons/phylopic_plasmodium.png
   tags:
     - Apicomplexian
     - RNA binding
     - Evolution
 - id: pmid:33607033
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4f6a7310-bc2d-4083-823f-f131655ab9cf/fx1.jpg
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - fungi
     - phylogenomics
@@ -999,17 +1006,17 @@
     - genome
     - comparative genomics
 - id: pmid:33585864
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8022983/bin/jkaa008f1.jpg
+  image: images/publication_images/pmc8022983_jkaa008f1.jpg
   tags:
     - genome
     - Pleurotus
 - id: pmid:33585863
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8022975/bin/jkaa007f3.jpg
+  image: images/publication_images/pmc8022975_jkaa007f1.jpg
   tags:
     - genome
     - Pleurotus
 - id: pmid:33547391
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7865070/bin/41598_2021_82607_Fig1_HTML.jpg
+  image: images/publication_images/pmc7865070_2607_Fig1_HTML.jpg
   tags:
     - fungi
     - phylogenomics
@@ -1026,14 +1033,14 @@
     - Mortierellaceae
     - phylogenomics
 - id: pmid:33355923
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7969408/bin/nihms-1657233-f0001.jpg
+  image: images/publication_images/icons/phylopic_bolete.png
   tags:
     - Suillus
     - basidomycota
     - comparative genomics
     - phylogenomics
 - id: pmid:33352712
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7767062/bin/life-10-00362-g001.jpg
+  image: images/publication_images/pmc7767062_-10-00362-g001.jpg
   tags:
     - black yeast
     - review
@@ -1058,12 +1065,12 @@
     - genome
     - comparative genomics
 - id: pmid:33138786
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607824/bin/12864_2020_7131_Fig1_HTML.jpg
+  image: images/publication_images/icons/phylopic_neurospora.png
   tags:
     - Neurospora
     - phenotype
 - id: pmid:33020276
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7584900/bin/pnas.2015736117fig01.jpg
+  image: images/publication_images/icons/phylopic_rice.png
   tags:
     - Rice
     - transposable elements
@@ -1085,7 +1092,7 @@
     - amplicon
     - environmental microbiology
 - id: pmid:32900807
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7482067/bin/mBio.02027-20-f0004.jpg
+  image: images/publication_images/pmc7482067_mBio.jpg
   tags:
     - mycovirus
     - chytrid
@@ -1098,7 +1105,7 @@
     - review
     - MRA
 - id: pmid:32727924
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7466969/bin/3417f1.jpg
+  image: images/publication_images/icons/phylopic_basidiobolus.png
   tags:
     - phylogenomics
     - Basidiobolus
@@ -1130,7 +1137,7 @@
     - biological crust
     - biocrust
 - id: pmid:32555716
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7302443/bin/ppat.1008598.g001.jpg
+  image: images/publication_images/icons/phylopic_fly.png
   tags:
     - insect fungal interactions
     - review
@@ -1163,7 +1170,7 @@
     - Serratia
     - Rhizopus
 - id: pmid:32371596
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7403777/bin/mBio.00449-20-f0001.jpg
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - review
     - fungi
@@ -1177,7 +1184,7 @@
     - Rhodotorula
     - Antarctica
 - id: pmid:32161129
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7104180/bin/pnas.1919726117fig02.jpg
+  image: images/publication_images/icons/phylopic_nematode.png
   tags:
     - nematode trapping fungi
     - Arthrobotrys
@@ -1203,6 +1210,7 @@
     - spore
     - fungi
 - id: pmid:31871487
+  image: images/publication_images/icons/phylopic_millipede.png
   title: Diversity and function of fungi associated with the fungivorous millipede, <i>Brachycybe lecontii</i>
   tags:
     - millipede
@@ -1216,26 +1224,27 @@
     - genome
     - insect fungal interactions
 - id: pmid:31647694
+  image: images/publication_images/icons/phylopic_beetle.png
   tags:
     - Fusarium
     - plant pathology
     - tool
 - id: pmid:31632357
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6779839/bin/fmicb-10-02163-g001.jpg
+  image: images/publication_images/icons/phylopic_bacterium.png
   title: Microfluidics and Metabolomics Reveal Symbiotic Bacterial-Fungal Interactions Between <i>Mortierella elongata</i> and <i>Burkholderia</i> Include Metabolite Exchange
   tags:
     - zygomycete
     - tool
     - bacteria fungi interactions
 - id: pmid:31548684
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7396965/bin/nihms-1605563-f0002.jpg
+  image: images/publication_images/icons/phylopic_aspergillus.png
   tags:
     - Aspergillus fumigatus
     - biofilm
     - disease
     - hypoxia
 - id: pmid:31518652
-  image: https://ucanr.edu/blogs/Topics/blogfiles/26378.jpg
+  image: images/publication_images/icons/phylopic_beetle.png
   tags:
     - Fusarium
     - avocado
@@ -1247,6 +1256,7 @@
     - review
     - MRA
 - id: pmid:31455637
+  image: images/publication_images/icons/phylopic_neocallimastix.png
   tags:
     - HGT
     - systematics
@@ -1254,6 +1264,7 @@
     - Neocallimastigomycota
     - transcriptome
 - id: pmid:31416856
+  image: images/publication_images/icons/phylopic_onygenales.png
   title: Improved Reference Genome Sequence of <i>Coccidioides immitis</i> Strain WA_211, Isolated in Washington State
   tags:
     - genome
@@ -1272,6 +1283,7 @@
     - black yeast
     - Extremophile
 - id: pmid:31126947
+  image: images/publication_images/icons/phylopic_neocallimastix.png
   tags:
     - HGT
     - Neocallimastigomycota
@@ -1284,7 +1296,7 @@
     - Extremophile
     - Antarctica
 - id: pmid:30987585
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6466665/bin/12859_2019_2782_Fig3_HTML.jpg
+  image: images/publication_images/icons/bioicons_computer.png
   tags:
     - tool
     - genomics
@@ -1296,38 +1308,39 @@
     - chytrid
     - marine microbiology
 - id: pmid:30778188
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6533610/bin/nihms-1518609-f0001.jpg
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - epigenetics
     - fungi
     - 5mC
     - methylation
 - id: pmid:30733435
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6367367/bin/41467_2019_8451_Fig2_HTML.jpg
+  image: images/publication_images/icons/phylopic_rice.png
   tags:
     - transposable elements
     - Rice
     - mPing
 - id: pmid:30701257
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6346206/bin/MRA.01619-18-f0001.jpg
+  image: images/publication_images/icons/phylopic_verticillium.png
   tags:
     - Verticllium
     - genome
     - Genome Announcement
     - MRA
 - id: pmid:30697917
+  image: images/publication_images/icons/phylopic_wheat.png
   tags:
     - systematics
     - Pyricularia
     - wheat blast
 - id: pmid:30673440
-  image: https://ucanr.edu/blogs/Topics/blogfiles/26378.jpg
+  image: images/publication_images/icons/phylopic_graphium.png
   tags:
     - Fusarium kuroshium
     - avocado
     - AFC
 - id: pmid:30639767
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6886740/bin/nihms-1060063-f0005.jpg
+  image: images/publication_images/icons/phylopic_zoopagales.png
   tags:
     - Zoopagales
     - Zoopagomycota
@@ -1335,26 +1348,27 @@
     - phylogenomics
     - systematics
 - id: pmid:30539259
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098231/bin/nihms-1065202-f0001.jpg
+  image: images/publication_images/icons/phylopic_aspergillus.png
   tags:
     - Aspergillus nidulans
     - proteomics
     - space fungi
     - ISS
 - id: pmid:30485448
-  image: https://nph.onlinelibrary.wiley.com/cms/asset/b95731db-9f7b-456f-a5ae-f25bbbe96ec1/nph15613-fig-0001-m.png
+  image: images/publication_images/icons/phylopic_mucor.png
   tags:
     - phylogenomics
     - systematics
     - zygomycete
     - Endogone
 - id: pmid:30389707
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6255150/bin/pnas.1807698115fig01.jpg
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Candida
     - Clavispora lusitaniae
     - drug resistance
 - id: pmid:30293061
+  image: images/publication_images/pmc6317478_w0021958530008.jpg
   tags:
     - insect
     - RNA-seq
@@ -1373,6 +1387,7 @@
     - protease
     - Entomopthora muscae
 - id: pmid:30016947
+  image: images/publication_images/icons/phylopic_labyrinthulomycetes.png
   tags:
     - genome
     - Thraustochytrid
@@ -1391,6 +1406,7 @@
     - fungi
     - ITS
 - id: pmid:29764946
+  image: images/publication_images/icons/bioicons_insect.png
   tags:
     - comparative genomics
     - insect fungal interactions
@@ -1420,25 +1436,30 @@
     - systematics
     - phylogenomics
 - id: pmid:29371508
+  image: images/publication_images/icons/phylopic_onygenales.png
   tags:
     - Coccidioides
     - transposable elements
 - id: pmid:29321239
+  image: images/publication_images/pmc5795050_ob-8-170184-g1.jpg
   tags:
     - Thraustochytrid
     - comparative genomics
 - id: pmid:29211832
+  image: images/publication_images/icons/phylopic_glomeromycota.png
   tags:
     - AMF
     - transcriptome
     - phylogenomics
     - scRNA-seq
 - id: pmid:29158416
+  image: images/publication_images/icons/phylopic_rice.png
   tags:
     - transposable elements
     - Rice
     - mPing
 - id: pmid:29023459
+  image: images/publication_images/icons/phylopic_chlorophyte.png
   tags:
     - M18 aspartyl aminopeptidases
     - DAP
@@ -1450,17 +1471,20 @@
     - systematics
     - fungi
 - id: pmid:28916147
+  image: images/publication_images/icons/phylopic_molecricket.png
   tags:
     - symbiosis
     - insect bacteria interactions
     - insect fungal interactions
     - mole cricket
 - id: pmid:28876195
+  image: images/publication_images/icons/phylopic_mucor.png
   tags:
     - Bifiguratus
     - Mucoromycotina
     - comparative genomics
 - id: pmid:28820125
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - review
     - genomics
@@ -1481,34 +1505,38 @@
     - Extremophile
     - halotolerance
 - id: pmid:28481340
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - N6-methylation
     - 6mA
     - fungi
 - id: pmid:28462022
+  image: images/publication_images/pmc5410147_j-05-3206-g001.jpg
   tags:
     - Spizellomyces
     - opsin
     - molecular modeling
 - id: pmid:28176784
+  image: images/publication_images/pmc5309816_ncomms14444-f1.jpg
   tags:
     - multicellularity
     - ascomycota
     - Neolecta
     - comparative genomics
 - id: pmid:28149701
+  image: images/publication_images/icons/bioicons_computer.png
   repo: https://github.com/stajichlab/RelocaTE2
   tags:
     - tool
     - transposable elements
 - id: pmid:30682305
-  image: https://ucanr.edu/blogs/Topics/blogfiles/26378.jpg
+  image: images/publication_images/icons/phylopic_beetle.png
   tags:
     - Fusarium
     - Ambrosia Beetle
     - PCR
 - id: pmid:27738200
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078412/bin/nihms-873979-f0001.jpg
+  image: images/publication_images/icons/phylopic_mucor.png
   tags:
     - zygomycete
     - phylogenomics
@@ -1516,30 +1544,30 @@
     - phylogenetics
     - genome
 - id: pmid:27554660
-  image: https://www.cell.com/cms/attachment/2d5427d6-60e2-4c5d-ac81-11ac6e0216d4/gr1.jpg
+  image: images/publication_images/icons/phylopic_mucor.png
   tags:
     - review
     - Mucor
     - Phycomyces
 - id: pmid:27294409
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4905642/bin/pgen.1006108.g002.jpg
+  image: images/publication_images/icons/phylopic_agaricomycete.png
   tags:
     - transposable elements
     - Pleurotus
 - id: pmid:27048799
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4817252/bin/mbo0021627450002.jpg
+  image: images/publication_images/icons/phylopic_aspergillus.png
   tags:
     - Aspergillus
     - GAG
     - biofilm
 - id: pmid:27034999
-  image: http://www2.genetics-gsa.org/fungal/2015/Twitter.jpg
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - social media
     - meeting report
     - review
 - id: pmid:26976598
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822581/bin/pnas.1518501113fig01.jpg
+  image: images/publication_images/icons/phylopic_ant.png
   tags:
     - Escovopsis
     - genome
@@ -1556,138 +1584,153 @@
     - Neurospora
     - cytoplasmic streaming
 - id: pmid:26109355
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592977/bin/1949f2.jpg
+  image: images/publication_images/pmc4592977_1949f1.jpg
   tags:
     - small RNA
     - transposable elements
     - Neurospora
     - MSUD
 - id: pmid:25819009
+  image: images/publication_images/icons/phylopic_frog.png
   tags:
     - CBM18
     - Batrachochytrium
 - id: pmid:25805857
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408805/bin/997F01.jpg
+  image: images/publication_images/icons/phylopic_neurospora.png
   tags:
     - Neurospora
     - intron
     - splicing
 - id: pmid:25750214
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4421004/bin/zek9990944220001.jpg
+  image: images/publication_images/icons/phylopic_candida.png
   tags:
     - Candida albicans
     - phosphoproteome
 - id: pmid:25427217
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - meeting report
 - id: pmid:25351875
+  image: images/publication_images/pmc4226871_6638_Fig1_HTML.jpg
   tags:
     - Sporothrix
     - genome
 - id: pmid:25330340
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4199772/bin/ppat.1004464.g003.jpg
+  image: images/publication_images/icons/phylopic_tomato.png
   tags:
     - microRNA
     - Fusarium
     - tomato
 - id: pmid:25143134
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cell_wall_structure_of_Fungi.png/320px-Cell_wall_structure_of_Fungi.png
+  image: images/publication_images/icons/phylopic_mucor.png
   tags:
     - cell wall
     - Mucoromycotina
     - phylogenomics
 - id: pmid:24912000
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hyphae.JPG/320px-Hyphae.JPG
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - soil fungi
     - phylogeny
 - id: pmid:24813190
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4135733/bin/zek9990943010001.jpg
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Cryptococcus
     - annotation
     - curation
 - id: pmid:24743168
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3990503/bin/pgen.1004261.g003.jpg
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Cryptococcus
     - genome
     - RNA-seq
     - microevolution
 - id: pmid:24299411
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Oncom_tekstur.jpg/333px-Oncom_tekstur.jpg
+  image: images/publication_images/icons/phylopic_neurospora.png
   tags:
     - Neurospora
     - selfing
 - id: pmid:24285193
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rhizobium_tropici_strain_BR816_on_TY_agar.JPG/320px-Rhizobium_tropici_strain_BR816_on_TY_agar.JPG
+  image: images/publication_images/icons/phylopic_bacterium.png
   tags:
     - symbiosis
     - proteobacteria
     - mutalism
     - evolution
 - id: pmid:24152717
+  image: images/publication_images/icons/bioicons_database.png
   tags:
     - genomic standards
     - built environment
     - MIxS-BE
 - id: pmid:24068976
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pyronema_domesticum_151.jpg/360px-Pyronema_domesticum_151.jpg
+  image: images/publication_images/icons/phylopic_pezizales.png
   tags:
     - Pyronema
     - genome
 - id: pmid:23961317
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - meeting report
 - id: pmid:23951101
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3738597/bin/pone.0071168.g001.jpg
+  image: images/publication_images/icons/phylopic_fly.png
   tags:
     - Entomophthora muscae
     - insect fungal interactions
     - fly
 - id: pmid:23932404
+  image: images/publication_images/icons/phylopic_microsporidia.png
   tags:
     - Cryptomycota
     - genome
     - Rozella
     - phylogenomics
 - id: pmid:23928422
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - review
     - mycology
 - id: pmid:23650365
+  image: images/publication_images/icons/phylopic_frog.png
   tags:
     - Batrachochytrium
     - population genomics
 - id: pmid:23576519
+  image: images/publication_images/pmc3689806_949f1.jpg
   tags:
     - transposable elements
     - tool
 - id: pmid:23530226
+  image: images/publication_images/icons/phylopic_neurospora.png
   tags:
     - histone
     - Neurospora
     - H3K27me
 - id: pmid:23514374
+  image: images/publication_images/icons/phylopic_coprinopsis.png
   tags:
     - Coprinus
     - Coprinopsis
     - 5-SAGE
     - transcriptome
 - id: pmid:23341551
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Malassezia
     - genome
 - id: pmid:23186325
+  image: images/publication_images/icons/phylopic_neurospora.png
   tags:
     - Neurospora
     - sexual reproduction
     - EST
 - id: pmid:22718849
+  image: images/publication_images/icons/phylopic_frog.png
   tags:
     - CBM18
     - Batrachochytrium
 - id: pmid:22593224
+  image: images/publication_images/icons/phylopic_neurospora.png
   tags:
     - Neurospora
     - mating
@@ -1700,210 +1743,257 @@
     - Batrachochytrium
     - Homolaphlyctis
 - id: pmid:22064857
+  image: images/publication_images/icons/bioicons_database.png
   tags:
     - FungiDB
     - tool
     - database
 - id: pmid:21750257
+  image: images/publication_images/icons/phylopic_neurospora.png
   tags:
     - Neurospora
     - selfing
     - genome
     - sex chromosome
 - id: pmid:21304167
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Cryptococcus
     - genome
 - id: pmid:21268975
+  image: images/publication_images/icons/phylopic_frog.png
   tags:
     - Batrachochytrium
     - Review
 - id: pmid:20885784
+  image: images/publication_images/pmc2944786_pgen.jpg
   tags:
     - meiosis
     - transcriptome
     - Coprinus
     - Coprinopsis
 - id: pmid:20836076
+  image: images/publication_images/icons/bioicons_computer.png
   tags:
     - GBrowse
     - tool
 - id: pmid:20675579
+  image: images/publication_images/icons/phylopic_neurospora.png
   tags:
     - Neurospora
     - ChIP-seq
     - White collar complex
     - circadian clock
 - id: pmid:20626842
+  image: images/publication_images/pmc2926784_010-11-7-r73-1.jpg
   tags:
     - Pythium
     - genome
 - id: pmid:20622885
+  image: images/publication_images/icons/phylopic_agaricomycete.png
   tags:
     - Schizophyllum
     - genome
 - id: pmid:20601044
+  image: images/publication_images/icons/phylopic_neurospora.png
   tags:
     - Neurospora
     - heterothallic
     - homothallic
 - id: pmid:20547848
+  image: images/publication_images/icons/phylopic_coprinopsis.png
   tags:
     - Coprinopsis
     - Coprinus
     - genome
     - multicellularity
 - id: pmid:20516208
+  image: images/publication_images/icons/phylopic_onygenales.png
   tags:
     - Coccidioides
     - genome
     - population genomics
     - transposable elements
 - id: pmid:20386741
+  image: images/publication_images/pmc2851567_pgen.jpg
   tags:
     - Sordaria
     - genome
 - id: pmid:20126439
+  image: images/publication_images/pmc2813266_ppat.jpg
   tags:
     - Batrachochytrium
     - review
 - id: pmid:19788875
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - review
     - mycology
 - id: pmid:19717792
+  image: images/publication_images/icons/phylopic_onygenales.png
   tags:
     - Coccidioides
     - genome
 - id: pmid:19161465
+  image: images/publication_images/icons/phylopic_frog.png
   tags:
     - Batrachochytrium
     - proteomics
     - virulence
 - id: pmid:19085333
+  image: images/publication_images/icons/bioicons_insect.png
   tags:
     - arthropod
     - phylogeny
 - id: pmid:18852473
+  image: images/publication_images/icons/phylopic_frog.png
   tags:
     - Batrachochytrium
     - gene expression
 - id: pmid:18322534
+  image: images/publication_images/icons/phylopic_laccaria.png
   tags:
     - Laccaria
     - genome
 - id: pmid:18313909
+  image: images/publication_images/icons/phylopic_coprinopsis.png
   tags:
     - Coprinus
     - Coprinopsis
     - metallopeptidases
 - id: pmid:18294377
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Cryptococcus
 - id: pmid:18287711
+  image: images/publication_images/icons/bioicons_computer.png
   tags:
     - BioPerl
     - tool
 - id: pmid:17949488
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - intron
     - fungi
 - id: pmid:17337636
+  image: images/publication_images/icons/phylopic_onygenales.png
   tags:
     - mating type locus
     - Histoplasma
     - Coccidioides
 - id: pmid:17320905
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - prion
     - fungi
     - comparative genomics
 - id: pmid:17183716
+  image: images/publication_images/icons/phylopic_mouse.png
   tags:
     - gene family evolution
 - id: pmid:17148473
+  image: images/publication_images/icons/phylopic_brassica.png
   tags:
     - tool
     - database
 - id: pmid:17121679
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - fungi
     - phylogeny
     - phylogenomics
 - id: pmid:17080091
+  image: images/publication_images/icons/phylopic_ustilago.png
   tags:
     - Ustilago
     - genome
 - id: pmid:17051209
+  image: images/publication_images/icons/phylopic_mushroom.png
   tags:
     - phylogeny
     - mycology
     - fungi
 - id: pmid:16988423
+  image: images/publication_images/icons/phylopic_nematode.png
   tags:
     - comparative genomics
     - Caenorhabditis
 - id: pmid:16963629
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Cryptococcus
     - catalase
 - id: pmid:16962256
+  image: images/publication_images/icons/phylopic_aspergillus.png
   tags:
     - Aspergillus fumigatus
     - NRPS
 - id: pmid:16899494
+  image: images/publication_images/icons/bioicons_computer.png
   tags:
     - tool
     - review
 - id: pmid:16682456
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - intron
     - Cryptococcus
 - id: pmid:16606443
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Saccharomyces
     - WW domain
 - id: pmid:16222245
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Cryptococcus
 - id: pmid:16143628
   tags:
     - population genetics
 - id: pmid:16077014
+  image: images/publication_images/icons/bioicons_computer.png
   tags:
     - gene family evolution
     - tool
 - id: pmid:15854223
+  image: images/publication_images/icons/phylopic_nematode.png
   tags:
     - hookworm
     - comparative genomics
 - id: pmid:15470254
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Cryptococcus
     - gene expression
 - id: pmid:15356276
+  image: images/publication_images/icons/phylopic_human.png
   tags:
     - population genetics
     - tool
     - ABO
     - human genetics
 - id: pmid:14624247
+  image: images/publication_images/icons/phylopic_nematode.png
   tags:
     - Caenorhabditis
     - genome
 - id: pmid:12716998
+  image: images/publication_images/icons/bioicons_dna.png
   tags:
     - tool
     - comparative genomics
 - id: pmid:12368254
+  image: images/publication_images/icons/bioicons_computer.png
   tags:
     - BioPerl
     - tool
 - id: pmid:12368253
+  image: images/publication_images/icons/bioicons_computer.png
   tags:
     - tool
     - GBrowse
 - id: pmid:11743579
+  image: images/publication_images/icons/phylopic_human.png
   tags:
     - human genetics
     - CMT
