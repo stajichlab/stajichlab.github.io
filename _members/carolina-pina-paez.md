@@ -9,7 +9,7 @@ search:
   - Carolina Páez
   - C P Paez
 role: postdoc
-group: current
+group: alum
 image: images/members/Carolina-Pina-Paez.png
 links:
   github: carolinapinapaez
