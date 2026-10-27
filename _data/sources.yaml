@@ -1950,6 +1950,7 @@
   tags:
     - Cryptococcus
 - id: pmid:16143628
+  image: images/publication_images/icons/bioicons_dna.png
   tags:
     - population genetics
 - id: pmid:16077014
