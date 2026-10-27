@@ -896,7 +896,7 @@
   image: images/publication_images/icons/bioicons_insect.png
 
 - id: pmid:34165331
-  image: images/publication_images/icons/phylopic_mushroom.png
+  image: images/publication_images/icons/rock.png
   tags:
     - amplicon
     - ITS
@@ -1045,7 +1045,7 @@
     - black yeast
     - review
 - id: pmid:33232202
-  image: images/publication_images/icons/phylopic_mushroom.png
+  image: images/publication_images/icons/rock.png
   tags:
     - endoliths
     - review
@@ -1420,10 +1420,12 @@
     - halotolerance
     - Hortaea
 - id: pmid:29739910
+  image: images/publication_images/icons/phylopic_yeast.png
   tags:
     - Pneumocystis
     - comparative genomics
 - id: pmid:29675967
+  image: images/publication_images/icons/phylopic_shrub.png
   tags:
     - ITS
     - molecular ecology

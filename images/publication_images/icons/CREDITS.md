@@ -54,3 +54,5 @@ Placeholder thumbnails for publications without a figure. Silhouettes are from [
 | `phylopic_wheat.png` | Triticum aestivum aestivum | CC0 1.0 | Mason McNair | https://www.phylopic.org/images/97dba9dc-2e33-4a8c-a961-52e8e7f5e6f7 |
 | `phylopic_yeast.png` | Saccharomyces cerevisiae | CC0 1.0 | Wayne Decatur | https://www.phylopic.org/images/347bc4ab-c1e0-4313-9ea1-939c2ad71232 |
 | `phylopic_zoopagales.png` | Zoopagales | CC0 1.0 | no credit listed | https://www.phylopic.org/images/93318b1b-a277-48dd-b9c3-da2ef9d97eb9 |
+| `phylopic_shrub.png` | Artemisia tridentata subsp. wyomingensis (sagebrush) | CC0 1.0 | Richard Rich | https://www.phylopic.org/images/d40344c9 |
+| `rock.png` | Boulder | Original artwork for this site | none | n/a |
