@@ -2,7 +2,7 @@ name: on-pull-request
 run-name: on pull request activity
 
 on:
-  pull_request_target:
+  pull_request:
     types:
       - opened
       - reopened
@@ -20,3 +20,5 @@ jobs:
   build-preview:
     needs: update-citations
     uses: ./.github/workflows/build-preview.yaml
+    permissions:
+      pages: read
