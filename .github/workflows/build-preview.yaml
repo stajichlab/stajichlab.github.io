@@ -12,13 +12,14 @@ on:
 env:
   PREVIEWS_FOLDER: preview
 
-permissions:
-  contents: write
-  pull-requests: write
-
 jobs:
   build-preview:
+    if: github.event.action != 'closed'
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+      pull-requests: read
 
     steps:
       - name: Debug dump
@@ -27,24 +28,21 @@ jobs:
       - name: Checkout branch contents
         uses: actions/checkout@v4
         with:
-          repository: ${{ github.event.action == 'closed' && github.repository || github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.action == 'closed' && github.event.pull_request.base.ref || github.head_ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.head_ref }}
           persist-credentials: false
 
       - name: Install Ruby packages
-        if: github.event.action != 'closed'
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.1"
           bundler-cache: true
 
       - name: Get Pages url
-        if: github.event.action != 'closed'
         id: pages
         uses: actions/configure-pages@v4
 
       - uses: jwalton/gh-find-current-pr@master
-        if: github.event.action != 'closed'
         id: pr
         with:
           state: all
@@ -54,14 +52,42 @@ jobs:
         uses: mxschmitt/action-tmate@v3
 
       - name: Build preview version of site
-        if: github.event.action != 'closed'
         run: |
           JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}/${{ env.PREVIEWS_FOLDER }}/pr-${{ env.pr }}"
         env:
           pr: ${{ steps.pr.outputs.pr }}
+
+      - name: Upload preview site
+        uses: actions/upload-artifact@v4
+        with:
+          name: preview-site
+          path: _site
+          if-no-files-found: error
+          retention-days: 1
+
+  deploy-preview:
+    needs: build-preview
+    if: always() && (github.event.action == 'closed' || needs.build-preview.result == 'success')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/download-artifact@v4
+        if: github.event.action != 'closed'
+        with:
+          name: preview-site
+          path: _site
+
+      - uses: jwalton/gh-find-current-pr@master
+        id: pr
+        with:
+          state: all
 
       - name: Commit preview to Pages branch
         uses: rossjrw/pr-preview-action@v1.4.7
         with:
           source-dir: _site
           umbrella-dir: ${{ env.PREVIEWS_FOLDER }}
+          pr-number: ${{ steps.pr.outputs.pr }}
